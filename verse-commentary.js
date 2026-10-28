@@ -11373,5 +11373,468 @@ window.verseCommentary = {
       "Exodus 8:15",
       "Exodus 9:7"
     ]
+  },
+  "Exodus 9:1": {
+    "title": "Release God’s people",
+    "text": "The LORD again commands Pharaoh to let Israel go so they may serve Him. The repeated demand shows that the plagues answer Pharaoh’s continued refusal to acknowledge God’s claim upon Israel.",
+    "refs": [
+      "Exodus 5:1",
+      "Exodus 8:1"
+    ]
+  },
+  "Exodus 9:2": {
+    "title": "Refusal brings further judgment",
+    "text": "God warns that if Pharaoh continues to hold Israel, the next judgment will follow. Pharaoh is given the demand plainly, and his response remains a matter of responsibility.",
+    "refs": [
+      "Exodus 7:14"
+    ]
+  },
+  "Exodus 9:3": {
+    "title": "A plague upon the livestock",
+    "text": "The LORD’s hand will bring a severe pestilence upon Egypt’s horses, cattle, camels, oxen, and sheep. The judgment affects the nation’s economic strength and daily livelihood.",
+    "refs": [
+      "Exodus 9:6",
+      "Psalm 78:50"
+    ]
+  },
+  "Exodus 9:4": {
+    "title": "Israel’s livestock distinguished",
+    "text": "God promises to distinguish between Israel’s livestock and Egypt’s, so none belonging to Israel will die. The distinction demonstrates the LORD’s rule over the plague and His care for the people He has claimed.",
+    "refs": [
+      "Exodus 8:22–23"
+    ]
+  },
+  "Exodus 9:5": {
+    "title": "The appointed time",
+    "text": "The LORD appoints the next day for the plague. The specified timing makes the event a declared judgment rather than an unexplained misfortune.",
+    "refs": [
+      "Exodus 9:18"
+    ]
+  },
+  "Exodus 9:6": {
+    "title": "Egypt’s livestock die",
+    "text": "The next day the LORD carries out His word, and Egyptian livestock die while Israel’s livestock remain unharmed. The fulfillment confirms the warning given through Moses.",
+    "refs": [
+      "Exodus 9:3–5"
+    ]
+  },
+  "Exodus 9:7": {
+    "title": "Pharaoh investigates but refuses",
+    "text": "Pharaoh sends to learn whether Israel’s livestock have been spared and finds that they have, yet he does not let the people go. Evidence of God’s distinction does not soften his resistance.",
+    "refs": [
+      "Exodus 8:31–32"
+    ]
+  },
+  "Exodus 9:8": {
+    "title": "Ashes before Pharaoh",
+    "text": "The LORD tells Moses and Aaron to take handfuls of furnace ashes. Moses is to scatter them before Pharaoh, and the ashes will become a plague of boils.",
+    "refs": [
+      "Exodus 9:10"
+    ]
+  },
+  "Exodus 9:9": {
+    "title": "Boils throughout Egypt",
+    "text": "The ashes become fine dust that causes boils and blains on people and animals throughout Egypt. The plague reaches bodies directly and demonstrates that the LORD’s judgments are not limited to crops or water.",
+    "refs": [
+      "Deuteronomy 28:27"
+    ]
+  },
+  "Exodus 9:10": {
+    "title": "The boils appear",
+    "text": "Moses and Aaron take ashes and Moses scatters them toward heaven; boils break out on people and animals. The text emphasizes the fulfillment of God’s command through Moses’ action.",
+    "refs": [
+      "Exodus 9:8–9"
+    ]
+  },
+  "Exodus 9:11": {
+    "title": "The magicians cannot stand",
+    "text": "The magicians cannot stand before Moses because of the boils, which affect them along with other Egyptians. Their earlier attempts to imitate signs have given way to helplessness before the LORD’s power.",
+    "refs": [
+      "Exodus 7:11–12",
+      "Exodus 8:18–19"
+    ]
+  },
+  "Exodus 9:12": {
+    "title": "Pharaoh’s heart remains hard",
+    "text": "The LORD hardens Pharaoh’s heart, and Pharaoh does not listen, as the LORD had spoken to Moses. The narrative continues to portray Pharaoh’s resistance within the unfolding judgment against Egypt.",
+    "refs": [
+      "Exodus 7:3",
+      "Exodus 8:15"
+    ]
+  },
+  "Exodus 9:13": {
+    "title": "Rise early and confront Pharaoh",
+    "text": "Moses is told to rise early, stand before Pharaoh, and repeat the demand to let Israel go. The confrontation continues because Pharaoh’s refusal has not changed.",
+    "refs": [
+      "Exodus 8:20"
+    ]
+  },
+  "Exodus 9:14": {
+    "title": "Judgments to make God’s power known",
+    "text": "God says He will send His plagues upon Pharaoh and his servants so Pharaoh may know that none is like Him in all the earth. The judgments reveal God’s unmatched authority; they are not merely demonstrations for spectacle.",
+    "refs": [
+      "Exodus 8:10",
+      "Exodus 9:16"
+    ]
+  },
+  "Exodus 9:15": {
+    "title": "Egypt could have been struck already",
+    "text": "God says He could have stretched out His hand and struck Egypt so that Pharaoh and his people were cut off. This statement highlights God’s restraint and the progressive unfolding of judgment.",
+    "refs": [
+      "Exodus 9:16"
+    ]
+  },
+  "Exodus 9:16": {
+    "title": "Pharaoh remains for God’s purpose",
+    "text": "God says He has raised Pharaoh up to show His power and make His name known throughout the earth. The verse explains the public purpose of the confrontation; it should be read with the account’s repeated descriptions of Pharaoh’s own stubbornness and choices.",
+    "refs": [
+      "Romans 9:17",
+      "Exodus 7:3–5"
+    ]
+  },
+  "Exodus 9:17": {
+    "title": "Pharaoh exalts himself against Israel",
+    "text": "God charges Pharaoh with continuing to exalt himself against His people by refusing to let them go. The conflict is not simply political; Pharaoh is resisting the LORD’s authority.",
+    "refs": [
+      "Exodus 5:2"
+    ]
+  },
+  "Exodus 9:18": {
+    "title": "A great hail at an appointed time",
+    "text": "God announces a hailstorm unlike any previously seen in Egypt. The specified time gives Pharaoh and his servants an opportunity to heed the warning.",
+    "refs": [
+      "Exodus 9:20–21"
+    ]
+  },
+  "Exodus 9:19": {
+    "title": "Bring people and livestock inside",
+    "text": "The Egyptians are warned to shelter their livestock and servants from the coming hail. The warning offers a practical opportunity to respond to God’s word before the judgment arrives.",
+    "refs": [
+      "Exodus 9:20"
+    ]
+  },
+  "Exodus 9:20": {
+    "title": "Some Egyptians fear the word",
+    "text": "Pharaoh’s servants who fear the LORD’s word bring their servants and livestock into their houses. Their response shows that some Egyptians begin to take God’s warning seriously.",
+    "refs": [
+      "Exodus 9:21"
+    ]
+  },
+  "Exodus 9:21": {
+    "title": "Others disregard the warning",
+    "text": "Those who do not regard the LORD’s word leave their servants and livestock in the field. The contrast between the two responses shows the consequences of either heeding or dismissing the warning.",
+    "refs": [
+      "Exodus 9:19–20"
+    ]
+  },
+  "Exodus 9:22": {
+    "title": "Moses stretches his hand toward heaven",
+    "text": "The LORD commands Moses to stretch his hand toward heaven so hail will fall across Egypt. The action is performed by Moses at God’s command, while the power and authority belong to the LORD.",
+    "refs": [
+      "Exodus 9:23"
+    ]
+  },
+  "Exodus 9:23": {
+    "title": "Thunder, hail, and fire",
+    "text": "Moses stretches out his rod, and the LORD sends thunder, hail, and fire running along the ground. The text attributes the storm to God’s direct judgment.",
+    "refs": [
+      "Psalm 78:47–48"
+    ]
+  },
+  "Exodus 9:24": {
+    "title": "An unprecedented storm",
+    "text": "The hail and fire are described as exceptionally severe throughout Egypt. The unusual force of the storm underscores the seriousness of Pharaoh’s refusal.",
+    "refs": [
+      "Exodus 9:18"
+    ]
+  },
+  "Exodus 9:25": {
+    "title": "The hail strikes the land",
+    "text": "The storm destroys plants and trees in the field and strikes people and animals left exposed. The judgment has broad agricultural and human consequences.",
+    "refs": [
+      "Psalm 105:32–33"
+    ]
+  },
+  "Exodus 9:26": {
+    "title": "Goshen is spared",
+    "text": "Hail does not fall in the land of Goshen where Israel lives. The repeated distinction demonstrates that the LORD can judge Egypt while preserving Israel.",
+    "refs": [
+      "Exodus 8:22",
+      "Exodus 9:4"
+    ]
+  },
+  "Exodus 9:27": {
+    "title": "Pharaoh admits wrongdoing",
+    "text": "Pharaoh calls Moses and Aaron and says he has sinned, while acknowledging that the LORD is righteous and he and his people are wicked. The confession is made under pressure; the following verses show that it does not produce lasting repentance.",
+    "refs": [
+      "Exodus 9:28–35"
+    ]
+  },
+  "Exodus 9:28": {
+    "title": "Pray for the storm to stop",
+    "text": "Pharaoh asks Moses to entreat the LORD because the thunder and hail are enough, promising to let Israel go. The promise must be measured by Pharaoh’s actions after the crisis passes.",
+    "refs": [
+      "Exodus 8:8–15"
+    ]
+  },
+  "Exodus 9:29": {
+    "title": "The earth belongs to the LORD",
+    "text": "Moses says he will spread his hands to the LORD and the storm will cease, so Pharaoh may know that the earth belongs to the LORD. This is a declaration of God’s universal sovereignty, not merely authority within Israel.",
+    "refs": [
+      "Psalm 24:1",
+      "Psalm 83:18"
+    ]
+  },
+  "Exodus 9:30": {
+    "title": "Moses knows Pharaoh does not yet fear God",
+    "text": "Moses says he knows Pharaoh and his servants do not yet fear the LORD God. Their verbal admission has not become genuine submission; the next events confirm Moses’ assessment.",
+    "refs": [
+      "Exodus 9:27"
+    ]
+  },
+  "Exodus 9:31": {
+    "title": "Flax and barley are damaged",
+    "text": "The text notes that flax and barley are struck because they were at particular stages of growth. This detail records the storm’s agricultural impact and helps distinguish what was destroyed from what survived.",
+    "refs": [
+      "Exodus 9:32"
+    ]
+  },
+  "Exodus 9:32": {
+    "title": "Wheat and rye survive",
+    "text": "Wheat and rye are not struck because they were not yet grown. The detail shows the account’s concern for specific, observable consequences rather than describing the destruction vaguely.",
+    "refs": [
+      "Exodus 9:31"
+    ]
+  },
+  "Exodus 9:33": {
+    "title": "The storm stops at Moses’ prayer",
+    "text": "Moses leaves Pharaoh, spreads his hands to the LORD, and the thunder, hail, and rain cease. The stopping of the storm answers the word Moses had spoken and displays God’s control over it.",
+    "refs": [
+      "Exodus 9:29"
+    ]
+  },
+  "Exodus 9:34": {
+    "title": "Pharaoh sins again",
+    "text": "When Pharaoh sees the storm has ceased, he sins again and hardens his heart, along with his servants. His earlier confession and promise were temporary responses to danger, not lasting obedience.",
+    "refs": [
+      "Exodus 8:15",
+      "Exodus 9:27"
+    ]
+  },
+  "Exodus 9:35": {
+    "title": "The word is fulfilled",
+    "text": "Pharaoh’s heart remains hard, and he refuses to let Israel go, as the LORD had spoken through Moses. The chapter closes by confirming the pattern of warning, judgment, temporary response, and renewed refusal.",
+    "refs": [
+      "Exodus 7:3–5"
+    ]
+  },
+  "Exodus 10:1": {
+    "title": "Signs for future generations",
+    "text": "The LORD tells Moses to go to Pharaoh because He has hardened Pharaoh’s heart and the hearts of his servants, so that His signs may be shown among them. The signs will also be retold to later generations as testimony to the LORD’s acts.",
+    "refs": [
+      "Exodus 10:2",
+      "Psalm 78:5–7"
+    ]
+  },
+  "Exodus 10:2": {
+    "title": "Tell children what God did",
+    "text": "Israel is to tell its children and grandchildren how God dealt with Egypt and performed signs, so they may know that He is the LORD. The Exodus becomes a foundational testimony passed from one generation to the next.",
+    "refs": [
+      "Deuteronomy 6:20–25",
+      "Psalm 105:1–5"
+    ]
+  },
+  "Exodus 10:3": {
+    "title": "How long will Pharaoh refuse?",
+    "text": "Moses and Aaron ask Pharaoh how long he will refuse to humble himself before the LORD. The demand is not simply for political compromise; Pharaoh is called to submit to the one who rules over him.",
+    "refs": [
+      "Proverbs 29:1"
+    ]
+  },
+  "Exodus 10:4": {
+    "title": "Locusts are threatened",
+    "text": "God warns that if Pharaoh refuses to release Israel, locusts will come the next day. The next plague will attack the crops left after the hail.",
+    "refs": [
+      "Exodus 9:31–32"
+    ]
+  },
+  "Exodus 10:5": {
+    "title": "Locusts cover the land",
+    "text": "The locusts will cover the land so thoroughly that the ground cannot be seen and will eat what remains after the hail. The plague threatens Egypt’s food supply after earlier devastation.",
+    "refs": [
+      "Joel 1:4"
+    ]
+  },
+  "Exodus 10:6": {
+    "title": "Locusts fill the houses",
+    "text": "The locusts will fill Pharaoh’s houses and those of his servants and Egyptians, an unprecedented invasion in the memory of their ancestors. Moses then turns and leaves, having delivered the warning.",
+    "refs": [
+      "Exodus 8:3"
+    ]
+  },
+  "Exodus 10:7": {
+    "title": "Pharaoh’s servants urge release",
+    "text": "Pharaoh’s servants ask how long he will remain a snare to Egypt and urge him to let Israel go. They recognize that Egypt is being ruined by his refusal, even while Pharaoh resists.",
+    "refs": [
+      "Exodus 9:20"
+    ]
+  },
+  "Exodus 10:8": {
+    "title": "Moses and Aaron are brought back",
+    "text": "Pharaoh brings Moses and Aaron back and asks who will go. His question begins a negotiation, but God’s demand is for Israel to serve Him as He commands.",
+    "refs": [
+      "Exodus 5:1"
+    ]
+  },
+  "Exodus 10:9": {
+    "title": "All Israel will go to worship",
+    "text": "Moses answers that young and old, sons and daughters, flocks and herds must go because Israel has a feast to the LORD. Worship is a community responsibility involving the whole people, not only selected workers.",
+    "refs": [
+      "Exodus 3:18",
+      "Deuteronomy 31:12"
+    ]
+  },
+  "Exodus 10:10": {
+    "title": "Pharaoh offers a sarcastic warning",
+    "text": "Pharaoh responds sarcastically, implying that the LORD would need to be with them if he let their families go. He tries to undermine Moses’ request while maintaining control over who may leave.",
+    "refs": [
+      "Exodus 10:11"
+    ]
+  },
+  "Exodus 10:11": {
+    "title": "Only the men may go",
+    "text": "Pharaoh offers to let only the men go, but Moses and Aaron are driven from his presence. This restricted offer conflicts with God’s command for the people to worship together.",
+    "refs": [
+      "Exodus 10:9"
+    ]
+  },
+  "Exodus 10:12": {
+    "title": "Moses stretches out his hand",
+    "text": "The LORD tells Moses to stretch his hand over Egypt so the locusts will come and eat what the hail left. The judgment follows God’s announced word.",
+    "refs": [
+      "Exodus 10:4–6"
+    ]
+  },
+  "Exodus 10:13": {
+    "title": "An east wind brings locusts",
+    "text": "Moses stretches out his rod, and the LORD brings an east wind that carries locusts into Egypt. The narrative identifies God as the one directing the event, even through a natural means such as wind.",
+    "refs": [
+      "Psalm 78:46",
+      "Psalm 105:34"
+    ]
+  },
+  "Exodus 10:14": {
+    "title": "The locusts cover Egypt",
+    "text": "The locusts spread throughout Egypt in an unprecedented swarm. The scale of the plague confirms the warning Moses delivered.",
+    "refs": [
+      "Exodus 10:5–6"
+    ]
+  },
+  "Exodus 10:15": {
+    "title": "The land is darkened and crops eaten",
+    "text": "The locusts cover the ground and consume the remaining plants and fruit left after the hail. Egypt’s food supply is devastated by the continued refusal to obey God.",
+    "refs": [
+      "Exodus 9:31–32"
+    ]
+  },
+  "Exodus 10:16": {
+    "title": "Pharaoh quickly confesses",
+    "text": "Pharaoh hastily calls Moses and Aaron and says he has sinned against the LORD and against them. His urgency reflects the severity of the plague, but confession under pressure still needs to be tested by subsequent conduct.",
+    "refs": [
+      "Exodus 9:27"
+    ]
+  },
+  "Exodus 10:17": {
+    "title": "Pray for this death to be removed",
+    "text": "Pharaoh asks Moses to forgive his sin this once and entreat the LORD to remove the deadly plague. His plea focuses on relief; the narrative will again show whether he follows through on his promise.",
+    "refs": [
+      "Exodus 10:18–20"
+    ]
+  },
+  "Exodus 10:18": {
+    "title": "Moses entreats the LORD",
+    "text": "Moses leaves Pharaoh and prays to the LORD. As with earlier plagues, Moses serves as an intercessor, while God alone controls the plague’s removal.",
+    "refs": [
+      "Exodus 8:12–13"
+    ]
+  },
+  "Exodus 10:19": {
+    "title": "A west wind removes the locusts",
+    "text": "The LORD turns a mighty west wind that carries the locusts into the Red Sea, leaving none in Egypt. The precise description underscores that the plague’s end is as fully directed as its beginning.",
+    "refs": [
+      "Exodus 10:13–15"
+    ]
+  },
+  "Exodus 10:20": {
+    "title": "Pharaoh’s heart remains hardened",
+    "text": "The LORD hardens Pharaoh’s heart, and he does not let Israel go. The removal of the locusts again brings no lasting change in Pharaoh’s behavior.",
+    "refs": [
+      "Exodus 10:16–19"
+    ]
+  },
+  "Exodus 10:21": {
+    "title": "Darkness over Egypt",
+    "text": "The LORD commands Moses to stretch his hand toward heaven, bringing darkness over Egypt that can be felt. The plague is a direct challenge to Egypt’s confidence in its powers and its sources of light.",
+    "refs": [
+      "Psalm 105:28"
+    ]
+  },
+  "Exodus 10:22": {
+    "title": "Three days of darkness",
+    "text": "Moses stretches out his hand, and thick darkness covers Egypt for three days. The description stresses the severity and duration of the judgment.",
+    "refs": [
+      "Exodus 10:21"
+    ]
+  },
+  "Exodus 10:23": {
+    "title": "Light remains with Israel",
+    "text": "Egyptians cannot see one another or leave their places for three days, but Israel has light in its dwellings. The distinction again demonstrates the LORD’s power to judge Egypt while preserving His people.",
+    "refs": [
+      "Exodus 8:22",
+      "Exodus 9:26"
+    ]
+  },
+  "Exodus 10:24": {
+    "title": "Pharaoh offers another compromise",
+    "text": "Pharaoh says the people may go to serve the LORD but must leave their flocks and herds behind. The offer still withholds what is needed for the worship God commanded.",
+    "refs": [
+      "Exodus 10:9"
+    ]
+  },
+  "Exodus 10:25": {
+    "title": "Moses insists on sacrifices",
+    "text": "Moses says Pharaoh must also provide sacrifices and burnt offerings for Israel to sacrifice to the LORD. He is not asking Pharaoh to invent worship but explaining that the people must obey God’s instructions.",
+    "refs": [
+      "Exodus 3:18",
+      "Exodus 5:3"
+    ]
+  },
+  "Exodus 10:26": {
+    "title": "Not a hoof left behind",
+    "text": "Moses says Israel’s livestock must go because they do not know what they will need to serve the LORD until they arrive. The statement emphasizes complete departure and complete obedience to God’s direction.",
+    "refs": [
+      "Exodus 12:32"
+    ]
+  },
+  "Exodus 10:27": {
+    "title": "Pharaoh’s heart is hardened again",
+    "text": "The LORD hardens Pharaoh’s heart, and Pharaoh refuses to let Israel go. The final warning before the last plague will follow this refusal.",
+    "refs": [
+      "Exodus 11:1"
+    ]
+  },
+  "Exodus 10:28": {
+    "title": "Pharaoh threatens Moses",
+    "text": "Pharaoh orders Moses to leave and warns him never to see his face again, threatening death if he does. Pharaoh’s defiance escalates, but he cannot cancel the LORD’s announced purpose.",
+    "refs": [
+      "Exodus 11:4–8"
+    ]
+  },
+  "Exodus 10:29": {
+    "title": "Moses agrees not to return",
+    "text": "Moses says Pharaoh has spoken rightly and that he will see his face no more. The statement closes this confrontation; Moses has delivered the warnings God commanded, and the next chapter announces the final plague.",
+    "refs": [
+      "Exodus 11:1–8"
+    ]
   }
 };
