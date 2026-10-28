@@ -15709,5 +15709,605 @@ window.verseCommentary = {
       "Leviticus 8:35",
       "Hebrews 5:4"
     ]
+  },
+  "Exodus 29:1": {
+    "title": "Consecrating Aaron and his sons",
+    "text": "God gives instructions for consecrating Aaron and his sons to serve as priests. The ceremony sets them apart for a specific office in Israel’s worship; their ministry is established by God’s appointment, not personal claim.",
+    "refs": [
+      "Exodus 28:41",
+      "Leviticus 8:1–13"
+    ]
+  },
+  "Exodus 29:2": {
+    "title": "Unleavened bread for the ceremony",
+    "text": "Unleavened bread, cakes mixed with oil, and wafers anointed with oil are prepared from fine flour. The offerings follow the detailed instructions for the priestly consecration.",
+    "refs": [
+      "Exodus 12:15",
+      "Leviticus 8:26"
+    ]
+  },
+  "Exodus 29:3": {
+    "title": "Place the bread in a basket",
+    "text": "The bread is placed in a basket and brought with a bullock and two rams. These items are part of the prescribed offerings for the consecration ceremony.",
+    "refs": [
+      "Leviticus 8:2"
+    ]
+  },
+  "Exodus 29:4": {
+    "title": "Wash Aaron and his sons",
+    "text": "Aaron and his sons are brought to the door of the tent of meeting and washed with water. The washing signifies preparation for sacred service within Israel’s covenant worship.",
+    "refs": [
+      "Leviticus 8:6",
+      "Hebrews 10:22"
+    ]
+  },
+  "Exodus 29:5": {
+    "title": "Put on the priestly garments",
+    "text": "Moses is to put the garments on Aaron in the order God specifies: the coat, robe, ephod, breastplate, and skillfully woven band. The garments visibly mark Aaron’s office as high priest.",
+    "refs": [
+      "Exodus 28:4–8"
+    ]
+  },
+  "Exodus 29:6": {
+    "title": "The holy crown on the turban",
+    "text": "Moses places the turban on Aaron’s head and the holy crown upon it. The gold plate’s inscription, “HOLINESS TO THE LORD,” marks the priest’s service as belonging to God.",
+    "refs": [
+      "Exodus 28:36–38"
+    ]
+  },
+  "Exodus 29:7": {
+    "title": "Anointing oil poured on Aaron",
+    "text": "Moses takes the anointing oil and pours it on Aaron’s head. The act consecrates Aaron for the high-priestly office according to God’s command.",
+    "refs": [
+      "Leviticus 8:12",
+      "Psalm 133:2"
+    ]
+  },
+  "Exodus 29:8": {
+    "title": "Garments for Aaron’s sons",
+    "text": "Aaron’s sons are brought forward and clothed in their coats. Their garments distinguish their priestly role within the same consecration ceremony.",
+    "refs": [
+      "Exodus 28:40"
+    ]
+  },
+  "Exodus 29:9": {
+    "title": "Priestly office by a lasting ordinance",
+    "text": "The sons receive sashes and bonnets, and the priesthood is given to Aaron and his descendants by a perpetual statute. The phrase describes the continuing priestly arrangement under Israel’s covenant, later developed through the history of Israel’s worship.",
+    "refs": [
+      "Numbers 18:7",
+      "Hebrews 7:11–12"
+    ]
+  },
+  "Exodus 29:10": {
+    "title": "The bullock before the tent",
+    "text": "The bullock is brought before the tent of meeting, and Aaron and his sons lay their hands on its head. The action identifies the animal with the offering being presented in the consecration rite.",
+    "refs": [
+      "Leviticus 4:4"
+    ]
+  },
+  "Exodus 29:11": {
+    "title": "The bullock is killed before the LORD",
+    "text": "The bullock is killed at the door of the tent of meeting as the LORD commands. The ceremony includes sacrifice as part of the prescribed consecration of the priests.",
+    "refs": [
+      "Leviticus 8:15"
+    ]
+  },
+  "Exodus 29:12": {
+    "title": "Blood on the altar’s horns",
+    "text": "Some blood from the bullock is placed on the horns of the altar, and the rest is poured at its base. The blood ritual marks the altar as part of the sacrificial service and is connected with purification and atonement in Israel’s worship.",
+    "refs": [
+      "Leviticus 4:7",
+      "Hebrews 9:22"
+    ]
+  },
+  "Exodus 29:13": {
+    "title": "Fat and organs offered",
+    "text": "The fat covering the inward parts, the caul over the liver, and the kidneys with their fat are burned on the altar. These are the specified portions for the offering.",
+    "refs": [
+      "Leviticus 3:3–5"
+    ]
+  },
+  "Exodus 29:14": {
+    "title": "The remaining parts burned outside the camp",
+    "text": "The bullock’s flesh, skin, and dung are burned outside the camp as a sin offering. The disposal distinguishes these parts from the portions offered on the altar.",
+    "refs": [
+      "Leviticus 4:11–12",
+      "Hebrews 13:11–13"
+    ]
+  },
+  "Exodus 29:15": {
+    "title": "Hands laid on the first ram",
+    "text": "Aaron and his sons lay their hands on the head of the first ram. The gesture identifies the animal with the offering presented on their behalf.",
+    "refs": [
+      "Exodus 29:10"
+    ]
+  },
+  "Exodus 29:16": {
+    "title": "The ram is killed and its blood applied",
+    "text": "The ram is killed, and its blood is sprinkled around the altar. The offering follows the sacrificial procedure commanded for the consecration ceremony.",
+    "refs": [
+      "Leviticus 8:19"
+    ]
+  },
+  "Exodus 29:17": {
+    "title": "The ram is divided into parts",
+    "text": "The ram is cut into pieces, its inward parts and legs are washed, and the parts are arranged with the head. The washing and arrangement are specific steps in the offering ritual.",
+    "refs": [
+      "Leviticus 1:6–9"
+    ]
+  },
+  "Exodus 29:18": {
+    "title": "A burnt offering to the LORD",
+    "text": "The whole ram is burned on the altar as a burnt offering, described as a sweet savour to the LORD. The offering is wholly given to God according to the ritual’s instructions.",
+    "refs": [
+      "Leviticus 1:9",
+      "Ephesians 5:2"
+    ]
+  },
+  "Exodus 29:19": {
+    "title": "The second ram",
+    "text": "Aaron and his sons lay their hands on the head of the second ram. This ram is used in the special consecration rite described in the following verses.",
+    "refs": [
+      "Exodus 29:20–22"
+    ]
+  },
+  "Exodus 29:20": {
+    "title": "Blood on ear, thumb, and toe",
+    "text": "The ram is killed, and blood is placed on the right ear, thumb of the right hand, and great toe of the right foot of Aaron and his sons. The ritual marks their hearing, work, and walk as set apart for service; the text does not give a separate symbolic explanation for each body part.",
+    "refs": [
+      "Leviticus 8:23–24"
+    ]
+  },
+  "Exodus 29:21": {
+    "title": "Blood and anointing oil sprinkled",
+    "text": "Blood from the altar and anointing oil are sprinkled on Aaron, his garments, and his sons and their garments. The rite marks the priests and their clothing as consecrated for the service God has appointed.",
+    "refs": [
+      "Leviticus 8:30"
+    ]
+  },
+  "Exodus 29:22": {
+    "title": "The ram of consecration",
+    "text": "The fat, tail, organs, kidneys, and right shoulder of the ram are taken as the consecration offering. The specified portions are reserved for the ritual that follows.",
+    "refs": [
+      "Leviticus 8:25"
+    ]
+  },
+  "Exodus 29:23": {
+    "title": "One loaf and cakes from the basket",
+    "text": "One loaf of bread, one cake of oiled bread, and one wafer are taken from the basket of unleavened bread before the LORD. The bread accompanies the ram in the consecration ceremony.",
+    "refs": [
+      "Exodus 29:2–3"
+    ]
+  },
+  "Exodus 29:24": {
+    "title": "The portions are placed in the priests’ hands",
+    "text": "The bread and portions of the ram are placed in the hands of Aaron and his sons and waved before the LORD. The gesture presents them as an offering to God.",
+    "refs": [
+      "Leviticus 8:27"
+    ]
+  },
+  "Exodus 29:25": {
+    "title": "The offering is burned on the altar",
+    "text": "The portions are taken from the priests’ hands and burned on the altar with the burnt offering. The rite is described as a sweet savour to the LORD and is part of their consecration.",
+    "refs": [
+      "Exodus 29:18"
+    ]
+  },
+  "Exodus 29:26": {
+    "title": "Moses’ portion from the ram",
+    "text": "Moses takes the breast of the ram of consecration and waves it as a wave offering before the LORD; it becomes Moses’ portion. The verse assigns a specific part of the offering to the officiating leader.",
+    "refs": [
+      "Leviticus 8:29"
+    ]
+  },
+  "Exodus 29:27": {
+    "title": "The breast and shoulder are set apart",
+    "text": "The breast of the wave offering and shoulder of the heave offering are sanctified from the ram of consecration. The instructions establish these portions as holy parts of the priestly offerings.",
+    "refs": [
+      "Leviticus 7:31–34"
+    ]
+  },
+  "Exodus 29:28": {
+    "title": "A lasting portion for the priests",
+    "text": "The breast and shoulder become an ordinance for Aaron and his sons from Israel’s peace offerings. The provision supports the priests through the worship system established in the covenant.",
+    "refs": [
+      "Leviticus 7:34–36"
+    ]
+  },
+  "Exodus 29:29": {
+    "title": "The garments pass to Aaron’s successor",
+    "text": "Aaron’s holy garments are to be passed to his sons after him, for use when they are anointed and consecrated. The garments represent an office that continues beyond Aaron’s own lifetime.",
+    "refs": [
+      "Numbers 20:25–28"
+    ]
+  },
+  "Exodus 29:30": {
+    "title": "Seven days before serving",
+    "text": "The son who succeeds Aaron is to wear the garments for seven days when he enters the tent of meeting to minister in the holy place. The period marks the formal transition into priestly service.",
+    "refs": [
+      "Leviticus 8:33–35"
+    ]
+  },
+  "Exodus 29:31": {
+    "title": "Boil the ram in a holy place",
+    "text": "The ram of consecration is to be boiled in a holy place. The meat belongs to the consecration ceremony and is handled according to the sacred instructions.",
+    "refs": [
+      "Leviticus 8:31"
+    ]
+  },
+  "Exodus 29:32": {
+    "title": "Aaron and his sons eat at the entrance",
+    "text": "Aaron and his sons eat the ram’s flesh and the bread at the door of the tent of meeting. The meal is part of the consecration rite and is restricted to those being consecrated.",
+    "refs": [
+      "Leviticus 8:31"
+    ]
+  },
+  "Exodus 29:33": {
+    "title": "The food belongs to the consecration",
+    "text": "They eat the portions by which atonement was made to consecrate and sanctify them, but no unauthorized person may eat because the food is holy. The restriction distinguishes the consecration meal from ordinary food.",
+    "refs": [
+      "Leviticus 22:10–13"
+    ]
+  },
+  "Exodus 29:34": {
+    "title": "Burn leftovers by morning",
+    "text": "If any consecration meat or bread remains until morning, it must be burned and not eaten. The command ensures that the holy food is handled only as prescribed.",
+    "refs": [
+      "Exodus 12:10"
+    ]
+  },
+  "Exodus 29:35": {
+    "title": "Seven days of consecration",
+    "text": "Moses must do all that God commanded concerning Aaron and his sons, continuing the consecration for seven days. The repetition stresses that the ceremony is a complete period of preparation, not a single moment.",
+    "refs": [
+      "Leviticus 8:33"
+    ]
+  },
+  "Exodus 29:36": {
+    "title": "A bullock each day for sin offering",
+    "text": "A bullock is offered daily for a sin offering during the consecration, and the altar is purified and anointed. The altar itself is treated as needing the prescribed consecration before regular use.",
+    "refs": [
+      "Leviticus 8:15"
+    ]
+  },
+  "Exodus 29:37": {
+    "title": "The altar becomes most holy",
+    "text": "The altar is to be atoned for and sanctified for seven days; whatever touches it becomes holy under the stated rule. The verse emphasizes the sacred status of the altar within Israel’s sacrificial system.",
+    "refs": [
+      "Exodus 40:10"
+    ]
+  },
+  "Exodus 29:38": {
+    "title": "Two lambs every day",
+    "text": "Two lambs of the first year are offered daily on the altar, one in the morning and one at evening. The continual offerings establish a regular rhythm of worship before the LORD.",
+    "refs": [
+      "Numbers 28:3–4"
+    ]
+  },
+  "Exodus 29:39": {
+    "title": "Morning and evening offerings",
+    "text": "One lamb is offered in the morning and the other at evening. The regular schedule makes worship a daily practice rather than an occasional event.",
+    "refs": [
+      "Psalm 141:2"
+    ]
+  },
+  "Exodus 29:40": {
+    "title": "Flour, oil, and wine with the lamb",
+    "text": "A specified amount of fine flour mixed with beaten oil and a drink offering of wine accompanies the lamb. The verse describes the full prescribed offering rather than the lamb alone.",
+    "refs": [
+      "Numbers 28:5–7"
+    ]
+  },
+  "Exodus 29:41": {
+    "title": "The evening offering",
+    "text": "The second lamb is offered at evening with the same grain and drink offerings, as a sweet savour to the LORD. The morning and evening offerings form a continuing daily service.",
+    "refs": [
+      "Exodus 29:38–40"
+    ]
+  },
+  "Exodus 29:42": {
+    "title": "A continual offering at the tent entrance",
+    "text": "The burnt offering is to continue through Israel’s generations at the door of the tent of meeting, where God says He will meet with Israel. The offering is connected to the appointed place of covenant meeting.",
+    "refs": [
+      "Numbers 28:6"
+    ]
+  },
+  "Exodus 29:43": {
+    "title": "God’s glory sanctifies the place",
+    "text": "God says He will meet with Israel there, and the place will be sanctified by His glory. The sanctuary is holy because God appoints it and makes His presence known there, not because a structure contains the infinite God.",
+    "refs": [
+      "Exodus 40:34–35"
+    ]
+  },
+  "Exodus 29:44": {
+    "title": "The tent and altar are sanctified",
+    "text": "God promises to sanctify the tent of meeting and the altar, and Aaron and his sons to minister as priests. Consecration applies to the place of worship and the people appointed to serve there.",
+    "refs": [
+      "Leviticus 8:10–12"
+    ]
+  },
+  "Exodus 29:45": {
+    "title": "God dwells among Israel",
+    "text": "The LORD declares that He will dwell among the children of Israel and be their God. The promise expresses covenant presence and relationship; it does not mean God’s being is confined to the tabernacle.",
+    "refs": [
+      "Leviticus 26:11–12",
+      "2 Corinthians 6:16"
+    ]
+  },
+  "Exodus 29:46": {
+    "title": "Israel knows the God who brought them out",
+    "text": "Israel will know that the LORD is their God, who brought them out of Egypt so He may dwell among them. Deliverance leads to covenant relationship and worship, with the LORD identifying Himself as the one who rescued them.",
+    "refs": [
+      "Exodus 6:7",
+      "Exodus 20:2"
+    ]
+  },
+  "Exodus 30:1": {
+    "title": "The altar of incense",
+    "text": "God commands an altar of acacia wood for burning incense. This altar is distinct from the bronze altar in the courtyard and is placed within the sanctuary’s regular worship.",
+    "refs": [
+      "Exodus 30:6",
+      "Exodus 37:25"
+    ]
+  },
+  "Exodus 30:2": {
+    "title": "The incense altar’s dimensions",
+    "text": "The altar is square, two cubits high, with horns made as one piece with it. Its dimensions and design follow the pattern God has given for the sanctuary furnishings.",
+    "refs": [
+      "Exodus 37:25–26"
+    ]
+  },
+  "Exodus 30:3": {
+    "title": "Gold covers the incense altar",
+    "text": "The top, sides, and horns are overlaid with pure gold, and a gold crown surrounds it. The materials distinguish the incense altar from the bronze altar in the courtyard.",
+    "refs": [
+      "Exodus 37:26"
+    ]
+  },
+  "Exodus 30:4": {
+    "title": "Two gold rings for carrying",
+    "text": "Two gold rings are placed beneath the crown on opposite sides to hold the staves. The altar is designed to be carried as Israel travels.",
+    "refs": [
+      "Exodus 30:5"
+    ]
+  },
+  "Exodus 30:5": {
+    "title": "Gold-covered staves",
+    "text": "Staves of acacia wood are overlaid with gold for carrying the altar. The portable design allows the sanctuary furnishings to move with Israel.",
+    "refs": [
+      "Numbers 4:11"
+    ]
+  },
+  "Exodus 30:6": {
+    "title": "Place the altar before the veil",
+    "text": "The incense altar is placed before the veil near the ark’s mercy seat, where God says He will meet with Moses. This location ties the daily incense service to the sanctuary’s innermost place of covenant presence.",
+    "refs": [
+      "Exodus 25:22",
+      "Leviticus 16:12–13"
+    ]
+  },
+  "Exodus 30:7": {
+    "title": "Aaron burns incense each morning",
+    "text": "Aaron burns sweet incense when he dresses the lamps each morning. The incense service accompanies the regular tending of the sanctuary’s light.",
+    "refs": [
+      "Luke 1:9–10"
+    ]
+  },
+  "Exodus 30:8": {
+    "title": "Incense at evening as well",
+    "text": "Aaron burns incense at evening when he lights the lamps, continually before the LORD through Israel’s generations. The morning and evening service creates a daily rhythm of worship.",
+    "refs": [
+      "Psalm 141:2"
+    ]
+  },
+  "Exodus 30:9": {
+    "title": "Only the prescribed incense",
+    "text": "No strange incense, burnt offering, grain offering, or drink offering is to be placed on this altar. The command keeps its use distinct and prevents unauthorized substitutions in the sanctuary service.",
+    "refs": [
+      "Leviticus 10:1–3"
+    ]
+  },
+  "Exodus 30:10": {
+    "title": "Annual atonement for the altar",
+    "text": "Aaron makes atonement on the altar’s horns once a year with the blood of the sin offering. The incense altar is included in the annual atonement rite, and the command is described as most holy to the LORD.",
+    "refs": [
+      "Leviticus 16:18–19"
+    ]
+  },
+  "Exodus 30:11": {
+    "title": "A census and ransom offering",
+    "text": "The LORD tells Moses what to do when he counts the children of Israel. The census is to be accompanied by a ransom offering so the counting does not bring a plague upon the people.",
+    "refs": [
+      "Exodus 30:12"
+    ]
+  },
+  "Exodus 30:12": {
+    "title": "Each person gives a ransom",
+    "text": "When Israel is numbered, each person gives a ransom for his life to the LORD, so no plague comes during the census. The payment is a prescribed covenant offering, not a general price by which people can purchase forgiveness for every sin.",
+    "refs": [
+      "Numbers 1:2–3"
+    ]
+  },
+  "Exodus 30:13": {
+    "title": "Half a shekel as an offering",
+    "text": "Each counted person gives half a shekel according to the sanctuary standard. The same amount applies to each person, establishing equality in this specific offering.",
+    "refs": [
+      "Exodus 38:25–26"
+    ]
+  },
+  "Exodus 30:14": {
+    "title": "Those counted are twenty years and older",
+    "text": "Every person twenty years old and upward who is numbered gives the offering. The age identifies the group included in this census requirement.",
+    "refs": [
+      "Numbers 1:3"
+    ]
+  },
+  "Exodus 30:15": {
+    "title": "The rich and poor give equally",
+    "text": "The rich must not give more and the poor must not give less than the half shekel. The prescribed amount is the same for all, emphasizing equal standing in this specific act of ransom and support for sanctuary service.",
+    "refs": [
+      "Exodus 30:13"
+    ]
+  },
+  "Exodus 30:16": {
+    "title": "The money supports sanctuary service",
+    "text": "Moses is to take the ransom money and use it for the service of the tent of meeting, as a memorial for Israel before the LORD. The offering is connected to the sanctuary’s service and the people’s covenant responsibility.",
+    "refs": [
+      "Exodus 38:25–28"
+    ]
+  },
+  "Exodus 30:17": {
+    "title": "The laver of bronze",
+    "text": "The LORD commands a laver and its base to be made of bronze. It will be used by the priests for washing before they minister.",
+    "refs": [
+      "Exodus 38:8"
+    ]
+  },
+  "Exodus 30:18": {
+    "title": "Water for washing",
+    "text": "The laver is placed between the tent of meeting and the altar and filled with water. Aaron and his sons will wash their hands and feet there before service.",
+    "refs": [
+      "Exodus 40:30–32"
+    ]
+  },
+  "Exodus 30:19": {
+    "title": "Hands and feet are washed",
+    "text": "Aaron and his sons wash their hands and feet at the laver. The washing is a prescribed preparation for the holy service they perform.",
+    "refs": [
+      "Psalm 26:6"
+    ]
+  },
+  "Exodus 30:20": {
+    "title": "Wash before entering or serving",
+    "text": "The priests must wash with water before entering the tent or approaching the altar to minister, so they do not die. The command underscores the seriousness of the sanctuary’s holiness and the need to follow God’s instruction.",
+    "refs": [
+      "Exodus 19:22"
+    ]
+  },
+  "Exodus 30:21": {
+    "title": "A lasting ordinance for the priests",
+    "text": "The priests must wash their hands and feet as a perpetual statute for Aaron and his descendants. The rule is part of the covenant order for priestly service.",
+    "refs": [
+      "Exodus 40:31–32"
+    ]
+  },
+  "Exodus 30:22": {
+    "title": "A special anointing oil",
+    "text": "God gives Moses the ingredients for a holy anointing oil. The oil is specially prepared for consecrating the sanctuary and its furnishings.",
+    "refs": [
+      "Exodus 30:25"
+    ]
+  },
+  "Exodus 30:23": {
+    "title": "Spices for the oil",
+    "text": "Myrrh, cinnamon, sweet calamus, and cassia are specified in measured amounts for the oil. The recipe is precise and belongs to the sacred service God has established.",
+    "refs": [
+      "Exodus 37:29"
+    ]
+  },
+  "Exodus 30:24": {
+    "title": "Olive oil and the sanctuary measure",
+    "text": "A hin of olive oil is included, and the spices are measured according to the sanctuary standard. The exact amounts distinguish this sacred oil from ordinary mixtures.",
+    "refs": [
+      "Exodus 30:23"
+    ]
+  },
+  "Exodus 30:25": {
+    "title": "A holy anointing oil compound",
+    "text": "The ingredients are made into a holy anointing oil by the work of a perfumer. The oil is consecrated for the use God specifies, not for casual or ordinary use.",
+    "refs": [
+      "Exodus 30:31–33"
+    ]
+  },
+  "Exodus 30:26": {
+    "title": "Anoint the tent and ark",
+    "text": "The oil is used to anoint the tent of meeting and the ark of the testimony. The act sets the sanctuary and its central covenant object apart for sacred service.",
+    "refs": [
+      "Exodus 40:9"
+    ]
+  },
+  "Exodus 30:27": {
+    "title": "Anoint the table, lampstand, and altars",
+    "text": "The table, its vessels, lampstand, utensils, and both altars are to be anointed. The whole set of sanctuary furnishings is consecrated according to God’s command.",
+    "refs": [
+      "Exodus 40:9–11"
+    ]
+  },
+  "Exodus 30:28": {
+    "title": "Anoint the laver and altar utensils",
+    "text": "The laver and its base, as well as the altar utensils, are to be anointed. The instruction includes the practical equipment used in the sanctuary’s regular service.",
+    "refs": [
+      "Exodus 40:11"
+    ]
+  },
+  "Exodus 30:29": {
+    "title": "The furnishings become holy",
+    "text": "The anointed objects are set apart as holy, and whatever touches them is to be treated according to that sacred status. The language describes consecration within the tabernacle system.",
+    "refs": [
+      "Exodus 29:37"
+    ]
+  },
+  "Exodus 30:30": {
+    "title": "Anoint Aaron and his sons",
+    "text": "Aaron and his sons are to be anointed and consecrated to serve as priests. Their office is established by God’s command and the prescribed ceremony.",
+    "refs": [
+      "Exodus 29:7–9"
+    ]
+  },
+  "Exodus 30:31": {
+    "title": "The oil is holy through generations",
+    "text": "Israel is told that the anointing oil is holy throughout their generations. The designation is tied to its appointed sanctuary use.",
+    "refs": [
+      "Exodus 30:25"
+    ]
+  },
+  "Exodus 30:32": {
+    "title": "Do not use the formula casually",
+    "text": "The oil must not be poured on an ordinary person or duplicated according to the sacred formula. The command protects the distinction between holy use and common use.",
+    "refs": [
+      "Exodus 30:33"
+    ]
+  },
+  "Exodus 30:33": {
+    "title": "Unauthorized use is forbidden",
+    "text": "Anyone who makes a similar mixture for ordinary use or puts it on an unauthorized person is to be cut off from the people. The severe rule emphasizes that the holy oil is reserved for the purpose God appointed.",
+    "refs": [
+      "Exodus 30:32"
+    ]
+  },
+  "Exodus 30:34": {
+    "title": "Ingredients for the holy incense",
+    "text": "God gives Moses the ingredients for the incense: stacte, onycha, galbanum, and pure frankincense, in equal portions. The recipe is part of the sanctuary’s prescribed worship.",
+    "refs": [
+      "Exodus 37:29"
+    ]
+  },
+  "Exodus 30:35": {
+    "title": "Incense made by a perfumer",
+    "text": "The ingredients are made into incense, blended by a perfumer, pure and holy. The incense is prepared with care for its specific sacred use.",
+    "refs": [
+      "Exodus 30:34"
+    ]
+  },
+  "Exodus 30:36": {
+    "title": "Place some incense before the testimony",
+    "text": "Some incense is beaten fine and placed before the testimony in the tent of meeting, where God meets Moses. It is most holy under the instructions given for the sanctuary.",
+    "refs": [
+      "Exodus 25:22"
+    ]
+  },
+  "Exodus 30:37": {
+    "title": "Do not make it for ordinary use",
+    "text": "The incense may not be made in the same formula for personal use; it is to be regarded as holy to the LORD. The command preserves the distinction between worship and ordinary use of the sacred formula.",
+    "refs": [
+      "Exodus 30:35"
+    ]
+  },
+  "Exodus 30:38": {
+    "title": "Penalty for making incense for personal use",
+    "text": "Anyone who makes the same incense to enjoy its fragrance is to be cut off from the people. The chapter ends by emphasizing that sacred things must be used according to God’s appointed purpose.",
+    "refs": [
+      "Exodus 30:37"
+    ]
   }
 };
