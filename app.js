@@ -73,7 +73,10 @@ async function getStored(key){
 async function setStored(key,value){
  const db=await openDB();return new Promise((resolve,reject)=>{const tx=db.transaction(DB_STORE,"readwrite");tx.objectStore(DB_STORE).put(value,key);tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error)});
 }
-function setStatus(msg,error=false){els.dataStatus.textContent=msg;els.dataStatus.classList.toggle("error",error)}
+function setStatus(msg,error=false){
+ els.dataStatus.textContent=msg;els.dataStatus.classList.toggle("error",error);
+ const footer=document.getElementById("footerStatus");if(footer)footer.textContent=msg;
+}
 function normalizeBible(raw){
  if(raw && Array.isArray(raw.books)) return raw.books.map(b=>({
   name:b.book||b.name||b.title,
