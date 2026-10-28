@@ -1389,3 +1389,7 @@ Object.assign(window.verseCommentary, {
   "Matthew 26:74": { title: "Peter Curses and Denies", text: "Peter begins to curse and swear that he does not know Jesus, and immediately the cock crows. His denial reaches its most painful point, just as Jesus had foretold.", refs: ["Matthew 26:34","Luke 22:60"] },
   "Matthew 26:75": { title: "Peter Remembers and Weeps", text: "Peter remembers Jesus' words and goes out to weep bitterly. His grief shows the collapse of self-confidence and opens the way for repentance and restoration.", refs: ["Luke 22:61–62","John 21:15–19"] }
 });
+
+Object.assign(window.verseCommentary, {
+  "Matthew 25:2": { title: "Five Wise and Five Foolish", text: "Five virgins are wise and five are foolish. The distinction is not outward appearance but the preparation that will matter when the bridegroom is delayed.", refs: ["Proverbs 6:6–8","Matthew 7:24–27"] }
+});
