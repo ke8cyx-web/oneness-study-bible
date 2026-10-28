@@ -917,5 +917,235 @@ window.verseCommentary = {
       "Acts 2:21",
       "Romans 10:13"
     ]
+  },
+  "Genesis 6:1": {
+    "title": "Humanity multiplies",
+    "text": "The growth of humanity sets the scene for the corruption described in this chapter. The passage begins with the human family, not with a second divine person or a change in who God is. Read the following verses for the text’s own explanation of the crisis.",
+    "refs": "Genesis 1:28; Genesis 6:5"
+  },
+  "Genesis 6:2": {
+    "title": "Sons of God and daughters of men",
+    "text": "The identity of the “sons of God” has been interpreted in different ways, including heavenly beings, rulers, or the godly line of Seth. The verse itself does not define the phrase, so a careful study should distinguish the wording from a proposed interpretation. This verse does not by itself establish a doctrine about multiple divine persons.",
+    "refs": "Job 1:6; Luke 3:38"
+  },
+  "Genesis 6:3": {
+    "title": "God’s Spirit and human life",
+    "text": "God declares a limit in response to human wickedness. The verse speaks of God’s Spirit and the human condition; it does not describe the Spirit as a separate God. In Oneness understanding, God’s Spirit is God present and active, while the verse’s precise meaning of “strive” and “an hundred and twenty years” is debated.",
+    "refs": "Genesis 1:2; Psalm 104:30"
+  },
+  "Genesis 6:4": {
+    "title": "Mighty men of old",
+    "text": "The text briefly mentions the Nephilim and famous warriors. It gives little detail about their nature, so conclusions beyond the verse should be held cautiously. The main narrative focus remains humanity’s increasing corruption and God’s judgment.",
+    "refs": "Numbers 13:33"
+  },
+  "Genesis 6:5": {
+    "title": "The depth of human wickedness",
+    "text": "God sees that human wickedness has become widespread and that the thoughts of the heart are continually evil. The flood narrative presents judgment as a response to pervasive violence and corruption, not as an arbitrary act. This also explains why Scripture calls people to repentance and a changed heart.",
+    "refs": "Psalm 14:1–3; Matthew 15:19"
+  },
+  "Genesis 6:6": {
+    "title": "The LORD grieved",
+    "text": "The language of God being grieved communicates His real opposition to evil and the tragedy of human rebellion. It should not be used to suggest that God is one divine person grieving another divine person. Scripture uses human language to communicate God’s response in terms people can understand.",
+    "refs": "1 Samuel 15:11; Ephesians 4:30"
+  },
+  "Genesis 6:7": {
+    "title": "Judgment upon the earth",
+    "text": "God announces judgment on humanity and land animals within the story’s scope. The verse stresses the seriousness of sin and the consequences of a world filled with corruption. Later biblical passages also use the flood as a warning about judgment and accountability.",
+    "refs": "Matthew 24:37–39; 2 Peter 2:5"
+  },
+  "Genesis 6:8": {
+    "title": "Noah finds grace",
+    "text": "Noah finds favor with the LORD in the midst of a corrupt generation. The story joins divine grace with Noah’s faithful response; grace is not presented as approval of the surrounding evil. This verse gives an early picture of God preserving a way forward when judgment comes.",
+    "refs": "Genesis 6:9; Ephesians 2:8–10"
+  },
+  "Genesis 6:9": {
+    "title": "Noah walked with God",
+    "text": "Noah is described as righteous in his generation and as one who walked with God. The expression describes a life oriented toward God, not a claim that Noah was sinless in every possible sense. The chapter contrasts Noah’s way with the corruption around him.",
+    "refs": "Genesis 5:24; Micah 6:8"
+  },
+  "Genesis 6:10": {
+    "title": "Noah’s three sons",
+    "text": "The names Shem, Ham, and Japheth establish the family through which the next stage of the story unfolds. The genealogical details matter to the biblical narrative and should not be turned into unsupported claims about later peoples or races.",
+    "refs": "Genesis 9:18–19; Genesis 10:1"
+  },
+  "Genesis 6:11": {
+    "title": "The earth was corrupt",
+    "text": "The earth is described as corrupt before God and filled with violence. The crisis is social and moral, not merely private wrongdoing. The story’s judgment is connected directly to the violence that has overtaken human society.",
+    "refs": "Genesis 6:5; Psalm 11:5"
+  },
+  "Genesis 6:12": {
+    "title": "All flesh had corrupted its way",
+    "text": "God observes that all flesh has corrupted its way on the earth. The phrase summarizes the widespread breakdown of the created order. The verse does not mean every individual had exactly the same conduct; it emphasizes the pervasive character of the corruption.",
+    "refs": "Genesis 1:31; Romans 3:23"
+  },
+  "Genesis 6:13": {
+    "title": "The end of all flesh",
+    "text": "God tells Noah that the earth is filled with violence and announces its destruction. The explanation is given in the text itself: violence has filled the earth. God’s judgment is portrayed as a response to a world that has become ruinous.",
+    "refs": "Genesis 6:11; Ezekiel 7:23"
+  },
+  "Genesis 6:14": {
+    "title": "Make thee an ark",
+    "text": "God gives Noah a concrete command to build an ark. Faith in this account takes practical form through obedience to the instruction received. The named material and construction details belong to the narrative and should be preserved when teaching the passage.",
+    "refs": "Hebrews 11:7"
+  },
+  "Genesis 6:15": {
+    "title": "The ark’s dimensions",
+    "text": "The dimensions show that the ark is described as a specific vessel, not merely a vague symbol. Ancient measurements and proposed modern equivalents can vary, so conversions should be identified as estimates. The central point is Noah’s preparation according to God’s command.",
+    "refs": "Genesis 6:14; Genesis 7:5"
+  },
+  "Genesis 6:16": {
+    "title": "The door and compartments",
+    "text": "God provides further instructions for the ark’s construction, including its opening and levels. The details underline that Noah is to follow the revealed plan rather than improvise his own. Some translation details differ, but the construction purpose is clear.",
+    "refs": "Genesis 6:14–15"
+  },
+  "Genesis 6:17": {
+    "title": "The flood announced",
+    "text": "God announces the coming flood and the destruction of life that breathes on the earth. The story presents God as sovereign over creation and judgment. Later Scripture refers to this event as a warning, while readers may discuss the scope and chronology of the flood separately from the verse’s explicit claim.",
+    "refs": "Genesis 7:17–23; 2 Peter 3:5–7"
+  },
+  "Genesis 6:18": {
+    "title": "God’s covenant with Noah",
+    "text": "God promises to establish His covenant with Noah and brings Noah’s family into the ark. The covenant is God’s initiative and provides preservation through the coming judgment. The verse does not name a second divine person; it speaks of the LORD making His covenant.",
+    "refs": "Genesis 9:8–17; Hebrews 11:7"
+  },
+  "Genesis 6:19": {
+    "title": "Preserving animal life",
+    "text": "Noah is instructed to bring living creatures into the ark to preserve their life. The passage’s emphasis is preservation amid judgment. The verse gives a broad instruction; the following verses add details about the animals and provisions.",
+    "refs": "Genesis 7:2–3"
+  },
+  "Genesis 6:20": {
+    "title": "Animals come to Noah",
+    "text": "The text says the creatures will come to Noah to be kept alive. Noah’s role is to receive and preserve them as commanded. The verse presents preservation as part of God’s plan, not as Noah’s independent achievement.",
+    "refs": "Genesis 7:8–9"
+  },
+  "Genesis 6:21": {
+    "title": "Food for the ark",
+    "text": "Noah must gather food for his family and the animals. The command includes ordinary preparation alongside extraordinary events. Biblical faith in this narrative involves trusting God and doing the work that obedience requires.",
+    "refs": "Genesis 7:5; Genesis 8:20"
+  },
+  "Genesis 6:22": {
+    "title": "Noah obeys",
+    "text": "Noah does according to all that God commanded him. This summary highlights obedience as the response to God’s warning and instructions. Hebrews later uses Noah as an example of faith that acts upon what God has said.",
+    "refs": "Genesis 7:5; Hebrews 11:7"
+  },
+  "Genesis 7:1": {
+    "title": "Enter the ark",
+    "text": "God tells Noah to enter the ark because He has seen Noah as righteous in that generation. The statement belongs to the narrative’s contrast between Noah and the corrupt world. Righteousness here should be read with the whole account, including Noah’s trust and obedience.",
+    "refs": "Genesis 6:9; Hebrews 11:7"
+  },
+  "Genesis 7:2": {
+    "title": "Clean and unclean animals",
+    "text": "The distinction between clean and unclean animals appears before the later detailed law given through Moses. The verse does not explain every later dietary rule, but it shows that the categories are already present in the narrative.",
+    "refs": "Leviticus 11:1–8"
+  },
+  "Genesis 7:3": {
+    "title": "Birds preserved",
+    "text": "Noah is told to preserve birds as well, so their kinds may continue on the earth. The repeated concern is survival and continuity after the flood. The wording gives a narrative purpose rather than a complete modern biological classification.",
+    "refs": "Genesis 6:19–20"
+  },
+  "Genesis 7:4": {
+    "title": "Seven days before the rain",
+    "text": "God announces a seven-day interval before the rain and a forty-day period of rain. These time markers organize the narrative and show that the event is announced in advance. Later interpretations of the flood’s chronology should be distinguished from the wording of this verse.",
+    "refs": "Genesis 7:10–12"
+  },
+  "Genesis 7:5": {
+    "title": "Noah did as commanded",
+    "text": "Noah obeys everything the LORD commanded him. The repeated emphasis on obedience reinforces the description of Noah as one who trusts God’s warning. The story does not praise mere hearing but acting on God’s word.",
+    "refs": "Genesis 6:22; James 1:22"
+  },
+  "Genesis 7:6": {
+    "title": "Noah’s age",
+    "text": "The verse gives Noah’s age when the flood came. Biblical narrative uses such chronological markers to situate events within a family history. The age should be reported as the text states it, without forcing it into a chronology the passage does not provide.",
+    "refs": "Genesis 5:32; Genesis 7:11"
+  },
+  "Genesis 7:7": {
+    "title": "Noah’s family enters",
+    "text": "Noah, his sons, his wife, and his sons’ wives enter the ark to escape the flood. Preservation includes the family that will continue the human story after judgment. The verse emphasizes a household responding to the warning given through Noah.",
+    "refs": "Genesis 6:18; 1 Peter 3:20"
+  },
+  "Genesis 7:8": {
+    "title": "Clean and unclean creatures",
+    "text": "The narrative specifies that clean and unclean animals enter the ark. This repeats the distinction introduced earlier and prepares for the more exact account of animal numbers. The text’s focus remains preservation before the flood.",
+    "refs": "Genesis 7:2"
+  },
+  "Genesis 7:9": {
+    "title": "They came two and two",
+    "text": "The animals come to Noah in pairs, as God had commanded. The wording stresses the fulfillment of the instruction. It should be read together with the additional detail about clean animals in verses 2–3, not as if every animal category had identical numbers.",
+    "refs": "Genesis 6:19–20; Genesis 7:2–3"
+  },
+  "Genesis 7:10": {
+    "title": "The flood begins",
+    "text": "After the seven days, the waters of the flood come upon the earth. The sequence connects the announced warning with its fulfillment. In the narrative, God’s word proves reliable and the time of judgment arrives as declared.",
+    "refs": "Genesis 7:4; Genesis 7:17"
+  },
+  "Genesis 7:11": {
+    "title": "The fountains and windows",
+    "text": "The verse dates the flood and describes waters coming from the great deep and the windows of heaven. These are the text’s own images for the overwhelming waters. Interpretations of the physical mechanism vary, so a study should not claim scientific details that the verse does not specify.",
+    "refs": "Genesis 1:6–7; Genesis 8:2"
+  },
+  "Genesis 7:12": {
+    "title": "Rain for forty days and nights",
+    "text": "The rain continues forty days and forty nights. The duration is repeated to stress the scale and persistence of the flood. The verse itself does not settle every question about how long the waters remained on the earth; later verses continue the chronology.",
+    "refs": "Genesis 7:17; Genesis 8:3–4"
+  },
+  "Genesis 7:13": {
+    "title": "The family enters on that day",
+    "text": "The verse names Noah’s sons and wife and the wives of his sons as entering the ark on the day described. The list identifies the preserved family and connects the event to the genealogies that follow. No additional doctrine about divine identity is stated here.",
+    "refs": "Genesis 6:18; Genesis 7:7"
+  },
+  "Genesis 7:14": {
+    "title": "Living creatures of every kind",
+    "text": "The list of animals emphasizes the breadth of life preserved aboard the ark. The wording groups creatures by kinds known to the narrative, not by modern taxonomic terminology. The central theme is preservation through the judgment.",
+    "refs": "Genesis 6:19–20"
+  },
+  "Genesis 7:15": {
+    "title": "Breath of life",
+    "text": "Creatures with the breath of life come to Noah in pairs. This echoes Genesis’s language about living creatures and life from God. The passage distinguishes living creation from the waters that bring judgment.",
+    "refs": "Genesis 2:7; Genesis 6:17"
+  },
+  "Genesis 7:16": {
+    "title": "The LORD shut him in",
+    "text": "After those entering have come, the LORD shuts Noah in. The detail highlights that Noah’s safety ultimately depends on God, not merely on the structure he built. The verse portrays God’s protection without requiring an allegory beyond the narrative.",
+    "refs": "Genesis 6:18; Psalm 27:5"
+  },
+  "Genesis 7:17": {
+    "title": "The waters increase",
+    "text": "The flood lasts forty days, and the waters rise until the ark is lifted above the earth. The story moves from rainfall to the growing force of the waters. The ark is the means of preservation within the account.",
+    "refs": "Genesis 7:12; Genesis 7:18"
+  },
+  "Genesis 7:18": {
+    "title": "The ark floats",
+    "text": "The waters prevail and the ark moves upon the surface. The repetition emphasizes the scale of the flood and the ark’s role in keeping its occupants afloat. The narrative’s focus is the survival of those God instructed Noah to preserve.",
+    "refs": "Genesis 7:17; Genesis 7:24"
+  },
+  "Genesis 7:19": {
+    "title": "The mountains covered",
+    "text": "The text describes the waters prevailing over the high mountains under heaven. Readers differ on how to understand the flood’s geographical scope; the verse’s own description should be stated accurately, while broader conclusions should be identified as interpretations.",
+    "refs": "Genesis 7:20; Genesis 8:4"
+  },
+  "Genesis 7:20": {
+    "title": "The waters rise above the mountains",
+    "text": "The verse gives the depth of the waters above the mountains. It reinforces the account’s portrayal of an overwhelming flood. It should not be reduced to a casual local rainstorm, though debates about global geography and ancient language should be handled openly rather than hidden.",
+    "refs": "Genesis 7:19; Genesis 8:5"
+  },
+  "Genesis 7:21": {
+    "title": "Life perishes",
+    "text": "The narrative reports the death of creatures on the land, including humans and animals. This is the severe judgment announced earlier. The verse should be read soberly, not triumphantly; it depicts the tragic result of the corruption described in Genesis 6.",
+    "refs": "Genesis 6:5–7; 2 Peter 2:5"
+  },
+  "Genesis 7:22": {
+    "title": "Breath of life on dry land",
+    "text": "The verse summarizes the death of beings with the breath of life on dry land. The wording echoes earlier creation language, showing how the flood reverses the ordered life of the land. The passage emphasizes the seriousness of judgment.",
+    "refs": "Genesis 2:7; Genesis 7:21"
+  },
+  "Genesis 7:23": {
+    "title": "Only Noah and those with him remain",
+    "text": "The text summarizes the destruction of life outside the ark and the preservation of Noah and those with him. Preservation is linked to God’s warning and Noah’s obedience. Later Scripture uses Noah’s experience as a warning and example, not as permission for speculation beyond the text.",
+    "refs": "Genesis 6:18; Matthew 24:37–39; 2 Peter 2:5"
+  },
+  "Genesis 7:24": {
+    "title": "The waters prevail one hundred and fifty days",
+    "text": "The waters prevail for one hundred and fifty days. This duration is distinct from the forty days of rain mentioned earlier: the rain period and the period the waters prevailed are not identical descriptions. The chronology continues into Genesis 8.",
+    "refs": "Genesis 7:12; Genesis 8:3–4"
   }
 };
