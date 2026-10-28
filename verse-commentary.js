@@ -707,5 +707,215 @@ window.verseCommentary = {
       "Ezekiel 47:12",
       "Revelation 22:1–3"
     ]
+  },
+  "Genesis 4:1": {
+    "title": "Cain is born",
+    "text": "Eve bears Cain and recognizes that she has received a man from the LORD. The verse continues the human story outside Eden and shows life continuing despite judgment. The wording expresses dependence on God, though it does not mean every human act that follows is approved by Him.",
+    "refs": [
+      "Genesis 3:20",
+      "Psalm 127:3"
+    ]
+  },
+  "Genesis 4:2": {
+    "title": "Abel and Cain's work",
+    "text": "Cain works the ground and Abel keeps sheep. Their different occupations are both ordinary human work. The narrative soon focuses not on the occupations themselves but on their offerings, hearts, and response to God's correction.",
+    "refs": [
+      "Genesis 3:17–19",
+      "Proverbs 12:11"
+    ]
+  },
+  "Genesis 4:3": {
+    "title": "Cain brings an offering",
+    "text": "Cain brings fruit from the ground as an offering to the LORD. The text does not yet explain why the offering is rejected; the following verses and later Scripture help readers consider faith, obedience, and the heart. Avoid claiming that the mere fact of a plant offering is the stated reason for rejection.",
+    "refs": [
+      "Hebrews 11:4",
+      "1 John 3:12"
+    ]
+  },
+  "Genesis 4:4": {
+    "title": "Abel's offering accepted",
+    "text": "Abel brings the firstlings of his flock and their fat portions, and the LORD has respect to Abel and his offering. Hebrews later emphasizes Abel's faith. The contrast invites attention to the worshipper as well as the gift; outward religious acts are not a substitute for faith and obedience.",
+    "refs": [
+      "Hebrews 11:4",
+      "Matthew 23:35"
+    ]
+  },
+  "Genesis 4:5": {
+    "title": "Cain becomes angry",
+    "text": "Cain's offering is not regarded, and he becomes very angry and downcast. Instead of receiving correction humbly, he turns inward with resentment. The story shows that worship and character cannot be separated from the response one makes when corrected.",
+    "refs": [
+      "Proverbs 14:30",
+      "James 1:19–20"
+    ]
+  },
+  "Genesis 4:6": {
+    "title": "God questions Cain's anger",
+    "text": "The LORD asks Cain why he is angry and why his countenance has fallen. The question confronts Cain before the violence occurs and offers an opportunity to consider his response. God's warning shows moral responsibility rather than fatalism: Cain is accountable for what he chooses next.",
+    "refs": [
+      "Proverbs 16:32",
+      "James 1:19–20"
+    ]
+  },
+  "Genesis 4:7": {
+    "title": "Sin crouches at the door",
+    "text": "God warns that sin lies at the door and that Cain must rule over it. The verse personifies sin as a threat waiting to master him. The wording emphasizes the seriousness of temptation and Cain's responsibility to resist it. Compare the New Testament's calls to resist sin and not let it reign.",
+    "refs": [
+      "Romans 6:12–14",
+      "James 1:14–15",
+      "1 Peter 5:8–9"
+    ]
+  },
+  "Genesis 4:8": {
+    "title": "Cain kills Abel",
+    "text": "Cain speaks with Abel and then rises against him and kills him. The first murder in Scripture follows anger and refusal to heed God's warning. The narrative exposes how cherished resentment can become violence; it does not present Cain's action as justified by the earlier offering scene.",
+    "refs": [
+      "Matthew 5:21–22",
+      "1 John 3:11–12"
+    ]
+  },
+  "Genesis 4:9": {
+    "title": "Cain denies responsibility",
+    "text": "When God asks where Abel is, Cain answers that he does not know and asks whether he is his brother's keeper. His reply evades responsibility for his brother's life. The narrative's answer is implied by the judgment that follows: human beings are accountable for violence and cannot hide it from God.",
+    "refs": [
+      "Genesis 3:9",
+      "Leviticus 19:16",
+      "1 John 3:15–18"
+    ]
+  },
+  "Genesis 4:10": {
+    "title": "Abel's blood cries from the ground",
+    "text": "God says Abel's blood cries from the ground. This is poetic language for the crime's witness and the demand for justice; it does not mean God was unaware until the blood spoke. The verse affirms that hidden violence is known to God and matters to Him.",
+    "refs": [
+      "Hebrews 11:4",
+      "Hebrews 12:24",
+      "Revelation 6:9–10"
+    ]
+  },
+  "Genesis 4:11": {
+    "title": "Cain is cursed from the ground",
+    "text": "Cain is cursed in relation to the ground that received Abel's blood. The ground, which Cain worked, will no longer yield its strength to him in the same way. The judgment is connected to his violence and to the earlier theme of humanity's relationship with the land.",
+    "refs": [
+      "Genesis 3:17–19",
+      "Numbers 35:33"
+    ]
+  },
+  "Genesis 4:12": {
+    "title": "Cain becomes a wanderer",
+    "text": "The ground will not give Cain its strength, and he will be a fugitive and wanderer. His violence disrupts his relationship with the land and community. The verse shows judgment as a real consequence, though the following passage also records God's protection from immediate vengeance.",
+    "refs": [
+      "Genesis 4:14–16"
+    ]
+  },
+  "Genesis 4:13": {
+    "title": "Cain speaks of his punishment",
+    "text": "Cain says his punishment is greater than he can bear. The text records his response but does not explicitly show repentance for Abel's murder. He focuses on the severity of his own consequence. This is a warning that fear of punishment is not the same as confession of wrongdoing.",
+    "refs": [
+      "Psalm 51:3–4",
+      "Proverbs 28:13"
+    ]
+  },
+  "Genesis 4:14": {
+    "title": "Cain fears being killed",
+    "text": "Cain fears that others will kill him after he is driven from the land and from God's presence. The verse describes the social consequences and fear that follow his crime. The story distinguishes God's judgment from permission for uncontrolled private vengeance.",
+    "refs": [
+      "Genesis 9:5–6",
+      "Romans 12:19"
+    ]
+  },
+  "Genesis 4:15": {
+    "title": "God marks Cain for protection",
+    "text": "God declares that whoever kills Cain will face vengeance and sets a sign or mark to protect him. The text does not describe the mark's appearance, so its physical nature should not be invented. The passage restrains retaliation and shows that divine judgment does not authorize people to take vengeance into their own hands.",
+    "refs": [
+      "Genesis 4:24",
+      "Romans 12:19"
+    ]
+  },
+  "Genesis 4:16": {
+    "title": "Cain leaves the LORD's presence",
+    "text": "Cain goes out from the presence of the LORD and dwells in the land of Nod. The departure symbolizes alienation and begins the account of Cain's line. God's presence is not geographically limited; the phrase describes Cain's removal from the place of divine encounter and favor in the narrative.",
+    "refs": [
+      "Psalm 139:7–10",
+      "Jonah 1:3"
+    ]
+  },
+  "Genesis 4:17": {
+    "title": "Cain builds a city",
+    "text": "Cain has a son, names him Enoch, and builds a city. The account records the growth of human society even in Cain's line. Cultural development does not by itself prove moral faithfulness; later verses show both human creativity and continuing violence.",
+    "refs": [
+      "Genesis 4:18–24",
+      "Genesis 11:1–9"
+    ]
+  },
+  "Genesis 4:18": {
+    "title": "Cain's descendants",
+    "text": "The genealogy lists descendants of Cain. It preserves the family line as the story moves toward the contrast with Seth's line. Names and generations help establish the narrative's history; the passage does not ask readers to infer a separate divine lineage from these names.",
+    "refs": [
+      "Genesis 5:1–32"
+    ]
+  },
+  "Genesis 4:19": {
+    "title": "Lamech takes two wives",
+    "text": "Lamech's two wives are recorded, marking a departure from the one-man, one-woman marriage pattern described in Genesis 2:24. The text reports the practice rather than praising it. In reading narrative passages, distinguish what Scripture records from what it commands or commends.",
+    "refs": [
+      "Genesis 2:24",
+      "Matthew 19:4–8"
+    ]
+  },
+  "Genesis 4:20": {
+    "title": "Jabal and tent-dwelling",
+    "text": "Jabal is associated with those who dwell in tents and raise livestock. The verse records practical and cultural development among Cain's descendants. Such skills can be part of human creativity, but the genealogy's later violence warns that technical progress alone does not heal the human heart.",
+    "refs": [
+      "Genesis 4:17–22"
+    ]
+  },
+  "Genesis 4:21": {
+    "title": "Jubal and music",
+    "text": "Jubal is described as the ancestor of those who play the harp and organ or pipe. Music appears as an early human art. Scripture elsewhere uses music in worship and ordinary life; its moral character depends on its use and purpose, not simply on the existence of instruments.",
+    "refs": [
+      "Psalm 150:3–5",
+      "Ephesians 5:19"
+    ]
+  },
+  "Genesis 4:22": {
+    "title": "Tubal-cain and metalworking",
+    "text": "Tubal-cain works with brass and iron, and his sister is named. The passage records the development of crafts and tools. The Bible does not teach that all technology is evil; it shows that human skill can coexist with a sinful heart and must be directed responsibly.",
+    "refs": [
+      "Genesis 4:23–24",
+      "Isaiah 2:4"
+    ]
+  },
+  "Genesis 4:23": {
+    "title": "Lamech boasts of violence",
+    "text": "Lamech tells his wives that he has killed a man for wounding him and a young man for bruising him. His speech sounds like a boast and escalates Cain's pattern of violence. The narrative exposes revenge that exceeds injury rather than endorsing Lamech's actions.",
+    "refs": [
+      "Exodus 21:23–25",
+      "Matthew 5:38–44",
+      "Romans 12:17–21"
+    ]
+  },
+  "Genesis 4:24": {
+    "title": "Lamech's exaggerated vengeance",
+    "text": "Lamech claims that if Cain is avenged sevenfold, he will be avenged seventy and sevenfold. The statement magnifies personal retaliation. Jesus later uses a similar number in teaching repeated forgiveness, a striking reversal of revenge into mercy; the contexts should be compared carefully.",
+    "refs": [
+      "Genesis 4:15",
+      "Matthew 18:21–22"
+    ]
+  },
+  "Genesis 4:25": {
+    "title": "Seth is born",
+    "text": "Eve names Seth as another seed appointed in place of Abel. The family line continues after Abel's death, and the narrative turns toward the line that will be traced in Genesis 5. The verse expresses hope for continuity, though it does not imply that every descendant is automatically righteous.",
+    "refs": [
+      "Genesis 5:3–8"
+    ]
+  },
+  "Genesis 4:26": {
+    "title": "People begin to call on the LORD",
+    "text": "Seth's son is named Enos, and the text says people began to call upon the name of the LORD. This introduces public invocation or worship of the LORD in the narrative. It provides a foundation for later biblical emphasis on calling on the LORD's name; New Testament applications should be read in their own contexts and alongside the Old Testament wording.",
+    "refs": [
+      "Genesis 12:8",
+      "Joel 2:32",
+      "Acts 2:21",
+      "Romans 10:13"
+    ]
   }
 };
