@@ -1,6 +1,6 @@
 # One God One Faith Ministry — Digital Oneness Study Bible
 
-An installable Progressive Web App (PWA) starter project using a green-and-gold theme.
+An installable Progressive Web App (PWA) using a green-and-gold theme, built for One God One Faith Ministry.
 
 ## Included features
 
@@ -10,12 +10,14 @@ An installable Progressive Web App (PWA) starter project using a green-and-gold 
 - Bookmarks and personal verse notes stored on the device.
 - Export/import for bookmarks and notes.
 - Oneness study topics and Scripture cross-reference buttons.
+- Book-by-book study guides for all 66 books, with key passages, a study focus, and review questions.
+- A dataset validation check that confirms the downloaded KJV contains 66 books before saving it.
 - Service worker app-shell caching and installable web manifest.
 - Responsive layout for phones, tablets, and computers.
 
 ## Important status note
 
-This project is a working starter app, not a deployed website. It is not yet live, and the first Bible download requires internet access. The complete KJV dataset is fetched from the public-domain dataset source listed below and stored on the device after successful download. The detailed verse-by-verse Oneness notes are currently a starter set of topic notes, not commentary on every verse of all 66 books; that content must be developed separately.
+Live website: https://ke8cyx-web.github.io/oneness-study-bible/\n\nThe app includes KJV reading, search, bookmarks, personal verse notes, a 30-day reading plan, cross-references, topical Oneness notes, and a book-by-book guide for all 66 books. The first KJV download requires internet access; after it is successfully saved in this browser, Bible text is stored locally for offline reading. Bookmarks, notes, and reading-plan progress are stored locally in the current browser and do not automatically sync across devices.\n\nImportant scope note: the book-by-book guides and topical notes are study aids, not a completed verse-by-verse commentary on every verse. The Bible text and commentary are kept separate so readers can compare every teaching note with Scripture in context.
 
 ## KJV data source
 
@@ -66,7 +68,7 @@ GitHub Pages documentation: https://docs.github.com/en/pages/getting-started-wit
 
 ## Known limitations in this first version
 
-- The complete KJV is downloaded as one JSON file on first use; low-memory devices or slow networks may take longer. A future version should split the text by book for more reliable offline downloads.
-- Verse-by-verse Oneness commentary for the full Bible has not been written yet. This starter contains topical notes and cross-references.
+- The complete KJV is downloaded as one JSON file on first use; low-memory devices or slow networks may take longer. A future version could split the text by book for more reliable offline downloads.
+- Detailed verse-by-verse Oneness commentary for every verse has not been completed. The app currently has topical notes, cross-references, and book-by-book study guides.
 - Bookmarks and personal notes are local to each device/browser; they do not automatically sync between phones.
 - The PWA does not yet include audio, user accounts, cloud sync, or an app-store package.
