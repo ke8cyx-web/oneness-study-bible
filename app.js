@@ -184,7 +184,10 @@ function renderBookmarks(){
 }
 function parseRef(ref){
  const m=ref.trim().match(/^(.*)\s+(\d+):(\d+)(?:[-–]\d+)?$/);if(!m)return null;
- const bi=bible.findIndex(b=>b.name.toLowerCase()===m[1].toLowerCase());if(bi<0)return null;
+ const refBook=m[1].toLowerCase();
+ const aliases={"psalm":"psalms","song of songs":"song of solomon"};
+ const wanted=aliases[refBook]||refBook;
+ const bi=bible.findIndex(b=>b.name.toLowerCase()===wanted);if(bi<0)return null;
  return {bi,ch:Number(m[2]),v:Number(m[3])};
 }
 function openRef(ref){
