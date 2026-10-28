@@ -1562,5 +1562,265 @@ window.verseCommentary = {
     "title": "The nations spread after the flood",
     "text": "The chapter concludes that the nations spread from Noah’s sons after the flood. Genesis 10 organizes the nations by genealogy, while Genesis 11 will explain the Babel episode. The passage supports the unity of humanity’s descent, not racial ranking.",
     "refs": "Genesis 9:19; Acts 17:26"
+  },
+  "Genesis 11:1": {
+    "title": "One language and common speech",
+    "text": "The chapter begins with humanity sharing one language. The narrative sets the scene for a collective project that will be judged in the verses that follow. The unity of speech is not condemned by itself; the issue is what humanity chooses to do with its common purpose.",
+    "refs": "Genesis 10:5; Genesis 11:6"
+  },
+  "Genesis 11:2": {
+    "title": "The plain in Shinar",
+    "text": "The people settle in the plain of Shinar. The location connects this account with Babel and the kingdom associated with Nimrod in Genesis 10. The verse provides the setting before the people explain their plan.",
+    "refs": "Genesis 10:10; Genesis 11:4"
+  },
+  "Genesis 11:3": {
+    "title": "Brick and mortar",
+    "text": "The people make brick and use bitumen as mortar. These practical construction details show the means by which they intend to build. The narrative focuses not on technology itself but on the purpose revealed in the next verse.",
+    "refs": "Genesis 11:4"
+  },
+  "Genesis 11:4": {
+    "title": "A city and a tower",
+    "text": "The people want a city and a tower reaching to heaven, to make a name for themselves and avoid being scattered. Their stated purpose places self-exaltation and resistance to spreading across the earth at the center of the project. The verse should not be turned into a claim that all tall buildings are sinful.",
+    "refs": "Genesis 9:1; Genesis 11:8"
+  },
+  "Genesis 11:5": {
+    "title": "The LORD comes down to see",
+    "text": "The LORD comes down to see the city and tower built by humanity. This is vivid narrative language communicating God's attention to human action; it does not imply that God lacked knowledge until He physically arrived. Scripture often describes God's acts in language accessible to human readers.",
+    "refs": "Genesis 18:21; Psalm 113:5–6"
+  },
+  "Genesis 11:6": {
+    "title": "One people with one language",
+    "text": "God observes that the people are united and that their project is only beginning. The concern is not that human cooperation is always evil, but that unified power directed by pride can magnify rebellion. The verse does not say that human beings can literally become equal to God.",
+    "refs": "Genesis 11:4; Proverbs 16:18"
+  },
+  "Genesis 11:7": {
+    "title": "Let us go down",
+    "text": "God speaks in the plural, “Let us go down,” before confusing their language. Oneness readers should acknowledge the plural wording rather than pretend it is absent. The verse itself does not explain the referent of “us”; it should be read with the wider biblical context and not used alone as conclusive proof of multiple divine persons.",
+    "refs": "Genesis 1:26; Isaiah 44:24"
+  },
+  "Genesis 11:8": {
+    "title": "The people are scattered",
+    "text": "The LORD scatters the people over the earth and the building stops. This reverses their stated aim of staying together in one place. The narrative presents God's action as preventing the completion of a proud, disobedient project.",
+    "refs": "Genesis 9:1; Genesis 11:4"
+  },
+  "Genesis 11:9": {
+    "title": "Babel and confused language",
+    "text": "The place is called Babel because the LORD confounded the language and scattered the people. The name is explained within the biblical story through the confusion of speech. The verse emphasizes that human schemes do not override God's purpose for the earth.",
+    "refs": "Genesis 10:10; Acts 2:5–11"
+  },
+  "Genesis 11:10": {
+    "title": "The generations of Shem",
+    "text": "The genealogy of Shem begins a line leading toward Abram. The chapter moves from the spread of nations back to a particular family line through which the story of the patriarchs will continue. The ages are stated as the biblical text presents them.",
+    "refs": "Genesis 10:21–31; Luke 3:35–36"
+  },
+  "Genesis 11:11": {
+    "title": "Shem’s years after Arphaxad",
+    "text": "The verse records Shem’s lifespan and descendants after the birth of Arphaxad. These details preserve the genealogy’s chronology. The verse does not itself explain every chronological question readers may raise when comparing genealogies.",
+    "refs": "Genesis 11:10; Genesis 11:12"
+  },
+  "Genesis 11:12": {
+    "title": "Arphaxad and Salah",
+    "text": "Arphaxad fathers Salah at the age stated in the text. This is one link in the family line leading to Abram. Later genealogies repeat this line, making it important to the biblical account of ancestry.",
+    "refs": "Genesis 10:24; Luke 3:36"
+  },
+  "Genesis 11:13": {
+    "title": "Arphaxad’s later years",
+    "text": "The verse records Arphaxad’s years after Salah’s birth and the continuation of his family. It functions as a chronological link rather than a separate theological teaching. Read the numbers as given in the translation being studied.",
+    "refs": "Genesis 11:12"
+  },
+  "Genesis 11:14": {
+    "title": "Salah fathers Eber",
+    "text": "Salah fathers Eber at the age recorded. Eber’s name appears in the earlier genealogy and the line continues toward Abram. The repeated pattern emphasizes descent through successive generations.",
+    "refs": "Genesis 10:24; Genesis 11:16"
+  },
+  "Genesis 11:15": {
+    "title": "Salah’s later years",
+    "text": "The verse records Salah’s remaining years and descendants. It continues the structured genealogy that links Shem’s family to Terah and Abram. Its main function is to preserve the family line.",
+    "refs": "Genesis 11:14"
+  },
+  "Genesis 11:16": {
+    "title": "Eber fathers Peleg",
+    "text": "Eber fathers Peleg at the age stated. Peleg was mentioned in Genesis 10:25, where the division of the earth is noted. The genealogy connects that earlier statement with the line leading to Abram.",
+    "refs": "Genesis 10:25; Genesis 11:18"
+  },
+  "Genesis 11:17": {
+    "title": "Eber’s later years",
+    "text": "The verse records Eber’s remaining lifespan and descendants. The genealogical formula repeats to show the continuity of the family line. It does not require an additional doctrinal interpretation beyond the record it provides.",
+    "refs": "Genesis 11:16"
+  },
+  "Genesis 11:18": {
+    "title": "Peleg fathers Reu",
+    "text": "Peleg fathers Reu, continuing the genealogy. The list narrows the reader’s attention toward Abram’s immediate ancestors. The verse is a link in the narrative’s family record.",
+    "refs": "Genesis 11:16–20"
+  },
+  "Genesis 11:19": {
+    "title": "Peleg’s later years",
+    "text": "The verse records Peleg’s remaining years and descendants. These repeated dates help structure the genealogy. Where readers compare ancient chronological systems, the translation and textual tradition being used should be made clear.",
+    "refs": "Genesis 11:18"
+  },
+  "Genesis 11:20": {
+    "title": "Reu fathers Serug",
+    "text": "Reu fathers Serug at the age stated. The genealogy continues toward Nahor, Terah, and Abram. The verse does not yet describe the covenant promises that will later be given to Abram.",
+    "refs": "Genesis 11:22–26"
+  },
+  "Genesis 11:21": {
+    "title": "Reu’s later years",
+    "text": "The verse records Reu’s remaining years and descendants. The repetition gives continuity to the family record and leads to the next generation. Its role is genealogical.",
+    "refs": "Genesis 11:20"
+  },
+  "Genesis 11:22": {
+    "title": "Serug fathers Nahor",
+    "text": "Serug fathers Nahor at the age stated. Nahor will be part of the family background of Terah and Abram. The narrative is preparing for the transition from a list of generations to the story of a particular household.",
+    "refs": "Genesis 11:24–26"
+  },
+  "Genesis 11:23": {
+    "title": "Serug’s later years",
+    "text": "The verse records Serug’s remaining years and descendants. It continues the chronology toward Abram’s family. As with the other entries, the text provides a record rather than an independent doctrinal claim.",
+    "refs": "Genesis 11:22"
+  },
+  "Genesis 11:24": {
+    "title": "Nahor fathers Terah",
+    "text": "Nahor fathers Terah at the stated age. Terah becomes the father of Abram, Nahor, and Haran in the following verses. The genealogy is now approaching the family at the center of the next major biblical section.",
+    "refs": "Genesis 11:26"
+  },
+  "Genesis 11:25": {
+    "title": "Nahor’s later years",
+    "text": "The verse records Nahor’s remaining lifespan and descendants. The formula links one generation to another and preserves the narrative’s chronology. The next verse identifies Terah’s sons.",
+    "refs": "Genesis 11:24–26"
+  },
+  "Genesis 11:26": {
+    "title": "Terah’s sons",
+    "text": "Terah fathers Abram, Nahor, and Haran. The order of names does not necessarily establish the exact birth order of all three, so conclusions about age should be drawn cautiously. Abram now becomes the central figure in the narrative.",
+    "refs": "Genesis 11:27; Joshua 24:2"
+  },
+  "Genesis 11:27": {
+    "title": "The family of Terah",
+    "text": "The verse introduces Terah’s family and names Abram, Nahor, and Haran, including Lot as Haran’s son. This family record sets up the journey and promises in the next chapter. Lot’s relationship to Abram will matter in later events.",
+    "refs": "Genesis 12:4–5; Genesis 13:1"
+  },
+  "Genesis 11:28": {
+    "title": "Haran dies in Ur",
+    "text": "Haran dies in the land of his birth, Ur of the Chaldees, while his father Terah is alive. The detail explains part of the family situation before Abram’s journey. The verse gives a place name but does not settle every question about the precise archaeological location.",
+    "refs": "Genesis 11:31; Genesis 15:7"
+  },
+  "Genesis 11:29": {
+    "title": "Abram and Nahor marry",
+    "text": "The verse records the marriages of Abram and Nahor and identifies their wives. These family details lead into the later story of Sarah and Rebekah. The verse itself does not provide a doctrinal teaching about marriage beyond recording the relationships.",
+    "refs": "Genesis 17:15; Genesis 24:15"
+  },
+  "Genesis 11:30": {
+    "title": "Sarai is barren",
+    "text": "Sarai has no child. This detail establishes an obstacle that will make God’s later promise of offspring especially significant. The story repeatedly shows that the promised future depends on God's action rather than ordinary human expectation.",
+    "refs": "Genesis 15:2–5; Genesis 18:10–14"
+  },
+  "Genesis 11:31": {
+    "title": "Terah leaves Ur",
+    "text": "Terah takes Abram, Sarai, and Lot toward Canaan but settles in Haran. The journey begins before Abram’s later call is narrated in Genesis 12. The verse records the family’s movement and partial journey without yet giving all the details of God’s command.",
+    "refs": "Genesis 12:1–5; Acts 7:2–4"
+  },
+  "Genesis 11:32": {
+    "title": "Terah dies in Haran",
+    "text": "Terah’s lifespan and death in Haran close the genealogy section. The next chapter focuses on God’s call to Abram. The narrative moves from the broader history of nations to God’s dealings with one family.",
+    "refs": "Genesis 12:1; Joshua 24:2"
+  },
+  "Genesis 12:1": {
+    "title": "The LORD calls Abram",
+    "text": "The LORD tells Abram to leave his country, kindred, and father’s house for a land God will show him. The call begins a major covenant story. The verse presents the LORD as the one who speaks and directs Abram; it does not describe a separate divine person.",
+    "refs": "Acts 7:2–4; Hebrews 11:8"
+  },
+  "Genesis 12:2": {
+    "title": "A great nation and a blessing",
+    "text": "God promises to make Abram a great nation, bless him, and make his name great so that he will be a blessing. The promise is not merely personal success; it has a purpose beyond Abram himself. Later Scripture connects the blessing to the nations through Abram’s seed.",
+    "refs": "Genesis 18:18; Galatians 3:8"
+  },
+  "Genesis 12:3": {
+    "title": "Blessing for all families",
+    "text": "God promises blessing for those who bless Abram and speaks of all families of the earth being blessed through him. The New Testament connects this promise with the gospel going to the nations. In Oneness study, this shows the one God working through His promised plan of redemption, ultimately fulfilled in Christ.",
+    "refs": "Genesis 22:18; Acts 3:25–26; Galatians 3:16"
+  },
+  "Genesis 12:4": {
+    "title": "Abram obeys the call",
+    "text": "Abram departs as the LORD had spoken, and Lot goes with him. Hebrews later describes Abram’s departure as an act of faith. Faith here is shown through trusting God’s word enough to obey, even when the destination is not fully known.",
+    "refs": "Hebrews 11:8; Genesis 12:1"
+  },
+  "Genesis 12:5": {
+    "title": "Abram’s household travels",
+    "text": "Abram takes Sarai, Lot, their possessions, and the people they had gathered, and they travel toward Canaan. The verse shows that obedience affects a household and involves practical movement and preparation. God’s call unfolds within ordinary family life.",
+    "refs": "Genesis 11:31; Genesis 12:6"
+  },
+  "Genesis 12:6": {
+    "title": "Abram comes to Canaan",
+    "text": "Abram travels through the land to the place of Sichem and the plain of Moreh, where the Canaanite was then in the land. The verse situates Abram’s arrival in a land already inhabited. The promise of the land develops through later covenant passages.",
+    "refs": "Genesis 13:14–17; Genesis 15:18–21"
+  },
+  "Genesis 12:7": {
+    "title": "The LORD appears and promises the land",
+    "text": "The LORD appears to Abram and promises the land to his seed; Abram builds an altar. The text explicitly says the LORD appeared, but does not specify a visible form here. The altar marks Abram’s worshipful response to God’s promise.",
+    "refs": "Genesis 13:14–17; Acts 7:5"
+  },
+  "Genesis 12:8": {
+    "title": "Abram calls on the name of the LORD",
+    "text": "Abram builds an altar and calls on the name of the LORD. The phrase describes worship and public invocation of the LORD’s name. Later Scripture connects calling on the Lord’s name with salvation; interpretation of that connection should consider the context of each passage.",
+    "refs": "Genesis 4:26; Joel 2:32; Acts 2:21; Romans 10:13"
+  },
+  "Genesis 12:9": {
+    "title": "Abram journeys south",
+    "text": "Abram continues his journey toward the south. The verse is a brief geographical transition between episodes. It shows the movement of Abram’s household through the land God has promised.",
+    "refs": "Genesis 12:6–8"
+  },
+  "Genesis 12:10": {
+    "title": "A famine in the land",
+    "text": "A famine comes upon the land, and Abram goes down to Egypt to sojourn there. The promise of God does not mean the path will be free of hardship. The narrative records Abram’s response to a practical crisis, which leads to a morally complicated episode.",
+    "refs": "Genesis 26:1; Hebrews 11:8–10"
+  },
+  "Genesis 12:11": {
+    "title": "Abram fears for Sarai",
+    "text": "As Abram approaches Egypt, he tells Sarai that he knows she is beautiful. The next verses reveal that fear influences his decisions. Scripture reports the patriarch’s actions honestly; reporting them is not the same as approving them.",
+    "refs": "Genesis 12:12–13"
+  },
+  "Genesis 12:12": {
+    "title": "Abram anticipates danger",
+    "text": "Abram fears the Egyptians may kill him because of Sarai. The verse shows his concern for his own life and sets up his request that follows. The narrative invites readers to notice how fear can shape a believer’s choices.",
+    "refs": "Genesis 12:13; Proverbs 29:25"
+  },
+  "Genesis 12:13": {
+    "title": "Call Sarai his sister",
+    "text": "Abram asks Sarai to say she is his sister so that he may be treated well and remain alive. Although Sarai is his half-sister according to Genesis 20:12, the request conceals the marital relationship and places her at risk. Scripture’s account should not be mistaken for a moral endorsement of deception.",
+    "refs": "Genesis 20:12; Proverbs 12:22"
+  },
+  "Genesis 12:14": {
+    "title": "The Egyptians see Sarai",
+    "text": "When Abram and Sarai enter Egypt, the Egyptians notice Sarai’s beauty. This is the situation Abram feared. The narrative moves quickly to the consequences of his plan.",
+    "refs": "Genesis 12:11–13"
+  },
+  "Genesis 12:15": {
+    "title": "Sarai is taken to Pharaoh’s house",
+    "text": "Pharaoh’s officials praise Sarai and she is taken into Pharaoh’s house. The verse shows the danger created by Abram’s concealment. The text does not say that Sarai consented to this outcome, and her vulnerability should not be overlooked.",
+    "refs": "Genesis 12:13; Genesis 12:17"
+  },
+  "Genesis 12:16": {
+    "title": "Abram receives possessions",
+    "text": "Pharaoh treats Abram well because of Sarai and Abram acquires livestock and servants. The material benefit comes through a deceptive situation and should not be read as proof that God approves Abram’s conduct. The next verse shows God intervening.",
+    "refs": "Genesis 12:17; Genesis 13:1–2"
+  },
+  "Genesis 12:17": {
+    "title": "The LORD plagues Pharaoh’s house",
+    "text": "The LORD afflicts Pharaoh and his household because of Sarai. God acts to protect the promise and prevent the situation from continuing. The text attributes the intervention to the LORD, the one God who acts in the narrative.",
+    "refs": "Genesis 20:3–7; Genesis 12:3"
+  },
+  "Genesis 12:18": {
+    "title": "Pharaoh confronts Abram",
+    "text": "Pharaoh calls Abram and asks why he concealed that Sarai was his wife. The rebuke exposes Abram’s dishonesty, even from a foreign ruler. Scripture does not hide the failure of its central figures.",
+    "refs": "Genesis 12:13; Genesis 20:9–10"
+  },
+  "Genesis 12:19": {
+    "title": "Sarai returned",
+    "text": "Pharaoh asks why Abram said Sarai was his sister and returns her to him. The episode ends with the deception exposed. The text does not praise Abram’s strategy; it records the consequences and God’s protection of Sarai.",
+    "refs": "Genesis 12:17–20"
+  },
+  "Genesis 12:20": {
+    "title": "Abram leaves Egypt",
+    "text": "Pharaoh orders men to send Abram away with Sarai and all he has. The chapter ends with Abram leaving Egypt, carrying the possessions acquired during the episode. The story continues to show a real believer whose faith journey includes failures as well as obedience.",
+    "refs": "Genesis 13:1–4; Genesis 15:6"
   }
 };
