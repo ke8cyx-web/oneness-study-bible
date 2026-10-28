@@ -18632,5 +18632,41 @@ window.verseCommentary = {
       "Exodus 13:21–22",
       "Numbers 9:15–23"
     ]
+  },
+  "Exodus 20:22": {
+    "title": "God speaks from heaven",
+    "text": "The LORD tells Moses to speak to Israel that they have heard Him speak from heaven. The command anchors the covenant in God’s own revelation and warns Israel not to replace His words with human inventions.",
+    "refs": [
+      "Deuteronomy 4:36"
+    ]
+  },
+  "Exodus 20:23": {
+    "title": "No gods of silver or gold",
+    "text": "Israel must not make gods of silver or gold alongside the LORD. The command directly guards against idolatry and echoes the golden calf that will soon expose the people’s failure to obey.",
+    "refs": [
+      "Exodus 32:4",
+      "Exodus 20:3–5"
+    ]
+  },
+  "Exodus 20:24": {
+    "title": "An altar of earth",
+    "text": "God instructs Israel to make an altar of earth and offer burnt offerings and peace offerings there, promising to come and bless them where He causes His name to be remembered. The promise is tied to God’s appointed worship, not to a building containing His infinite being.",
+    "refs": [
+      "Deuteronomy 12:5–7"
+    ]
+  },
+  "Exodus 20:25": {
+    "title": "Do not build the altar with hewn stone",
+    "text": "If Israel makes an altar of stone, they must not build it with hewn stones shaped by tools, because using a tool would profane it under this instruction. The command restricts the altar’s form so worship follows God’s direction rather than human display.",
+    "refs": [
+      "Deuteronomy 27:5–6"
+    ]
+  },
+  "Exodus 20:26": {
+    "title": "Do not ascend the altar by steps",
+    "text": "Israel must not go up to the altar by steps, so that nakedness is not exposed. The final instruction emphasizes modesty and reverence in approaching the altar.",
+    "refs": [
+      "Exodus 28:42–43"
+    ]
   }
 };
