@@ -71,9 +71,15 @@ Official documentation: https://docs.github.com/en/pages/getting-started-with-gi
 - Load the app online once, then test reading offline.
 - Keep a copy of exported bookmarks/notes. Browser storage can be cleared by the device owner.
 
+## Commentary progress
+
+- New Testament-first plan: detailed KJV-based, Oneness-perspective notes are being added book by book and verse by verse.
+- Matthew 1–2 currently includes notes for all 48 verses, with cross-references.
+- Existing Old Testament commentary remains available; the remaining New Testament books and chapters still need to be completed.
+
 ## Known limitations
 
 - The complete KJV is downloaded as one JSON file on first use; low-memory devices or slow networks may take longer. A future version could split the text by book for more reliable offline downloads.
-- Detailed verse-by-verse Oneness commentary for every verse of all 66 books is still in progress.
+- Detailed verse-by-verse Oneness commentary for every verse of all 66 books is still in progress. The New Testament is now the priority; Matthew 1–2 has been added to the dedicated New Testament commentary file, alongside the existing Exodus 11–16 commentary.
 - Bookmarks and personal notes are local to each device/browser; they do not automatically sync between phones.
 - The PWA does not yet include audio recordings, user accounts, cloud sync, or an app-store package.
