@@ -15256,5 +15256,458 @@ window.verseCommentary = {
     "refs": [
       "Exodus 27:16"
     ]
+  },
+  "Exodus 27:1": {
+    "title": "The altar of burnt offering",
+    "text": "The altar is made of acacia wood with specified dimensions and horns at its corners. It is the place for burnt offerings in the courtyard, and its design follows God’s instruction for Israel’s worship.",
+    "refs": [
+      "Exodus 38:1–2"
+    ]
+  },
+  "Exodus 27:2": {
+    "title": "Horns and bronze covering",
+    "text": "The altar’s horns are made as one piece with it, and the whole altar is overlaid with bronze. The construction details distinguish this courtyard altar from the gold furnishings inside the sanctuary.",
+    "refs": [
+      "Leviticus 4:7"
+    ]
+  },
+  "Exodus 27:3": {
+    "title": "Utensils for the altar",
+    "text": "Pans, shovels, basins, forks, and firepans are made for the altar, all of bronze. The utensils support the regular handling of sacrifices and ashes.",
+    "refs": [
+      "Exodus 38:3"
+    ]
+  },
+  "Exodus 27:4": {
+    "title": "A bronze network",
+    "text": "A grating of bronze netting is made with four rings at its corners. The structure is part of the altar’s design and helps support the fire and offerings.",
+    "refs": [
+      "Exodus 38:4"
+    ]
+  },
+  "Exodus 27:5": {
+    "title": "The grating is set beneath the altar ledge",
+    "text": "The bronze grating is placed under the altar’s ledge, reaching halfway up the altar. The measurements ensure that the altar is assembled as instructed.",
+    "refs": [
+      "Exodus 27:4"
+    ]
+  },
+  "Exodus 27:6": {
+    "title": "Staves for carrying the altar",
+    "text": "Acacia wood staves are made and overlaid with bronze so the altar can be carried. The portable design suits Israel’s journey through the wilderness.",
+    "refs": [
+      "Numbers 4:13–14"
+    ]
+  },
+  "Exodus 27:7": {
+    "title": "The staves pass through the rings",
+    "text": "The staves are inserted through the rings on the sides of the altar for carrying. The altar is to be transported according to the prescribed arrangement.",
+    "refs": [
+      "Exodus 27:6"
+    ]
+  },
+  "Exodus 27:8": {
+    "title": "The altar is hollow and made by the pattern",
+    "text": "The altar is made hollow with boards, according to the pattern shown on the mountain. This repeated emphasis confirms that its construction follows divine instruction.",
+    "refs": [
+      "Exodus 25:9",
+      "Exodus 26:30"
+    ]
+  },
+  "Exodus 27:9": {
+    "title": "The south side of the courtyard",
+    "text": "The courtyard is enclosed with fine linen hangings on the south side, with specified length. The courtyard creates a defined area around the tabernacle for Israel’s worship.",
+    "refs": [
+      "Exodus 38:9"
+    ]
+  },
+  "Exodus 27:10": {
+    "title": "Pillars and sockets on the south",
+    "text": "The hangings are supported by twenty pillars and bronze sockets, with silver hooks and bands. The materials and measurements are given so the enclosure can be built securely.",
+    "refs": [
+      "Exodus 38:10"
+    ]
+  },
+  "Exodus 27:11": {
+    "title": "The north side of the courtyard",
+    "text": "The north side has hangings and pillars matching the south side. The symmetry forms a consistent rectangular enclosure.",
+    "refs": [
+      "Exodus 27:9–10"
+    ]
+  },
+  "Exodus 27:12": {
+    "title": "The west side of the courtyard",
+    "text": "The west end has hangings of the specified length and ten pillars with their sockets. The shorter end uses fewer pillars than the long sides.",
+    "refs": [
+      "Exodus 38:12"
+    ]
+  },
+  "Exodus 27:13": {
+    "title": "The east side of the courtyard",
+    "text": "The east side is the same width as the courtyard. This verse establishes the dimensions of the entrance end before describing the gate.",
+    "refs": [
+      "Exodus 27:14–16"
+    ]
+  },
+  "Exodus 27:14": {
+    "title": "Hangings on one side of the entrance",
+    "text": "The entrance side has hangings of fifteen cubits supported by three pillars and sockets. The gate is centered between two matching sections.",
+    "refs": [
+      "Exodus 27:15"
+    ]
+  },
+  "Exodus 27:15": {
+    "title": "Hangings on the other side",
+    "text": "The other side of the entrance has the same measurements and supports. The matching arrangement keeps the gate centered in the courtyard’s eastern side.",
+    "refs": [
+      "Exodus 27:14"
+    ]
+  },
+  "Exodus 27:16": {
+    "title": "The gate screen",
+    "text": "The courtyard gate has a twenty-cubit screen made of embroidered blue, purple, and scarlet fabric and fine linen, supported by four pillars. The entrance is clearly marked and matches the tabernacle’s sacred design.",
+    "refs": [
+      "Exodus 38:18"
+    ]
+  },
+  "Exodus 27:17": {
+    "title": "Silver fittings for the pillars",
+    "text": "The pillars around the courtyard have silver bands, hooks, and bronze sockets. The verse summarizes the fittings that secure the linen enclosure.",
+    "refs": [
+      "Exodus 27:10"
+    ]
+  },
+  "Exodus 27:18": {
+    "title": "The courtyard’s dimensions",
+    "text": "The courtyard’s length, width, and height of its linen hangings are specified. These measurements define the outer worship space around the tabernacle.",
+    "refs": [
+      "Exodus 38:9–20"
+    ]
+  },
+  "Exodus 27:19": {
+    "title": "Bronze utensils and tent pins",
+    "text": "The utensils used in the tabernacle service and the pins for the tent and courtyard are made of bronze. Even practical fittings are included in the instructions for the sanctuary.",
+    "refs": [
+      "Exodus 38:20"
+    ]
+  },
+  "Exodus 27:20": {
+    "title": "Pure olive oil for the lamps",
+    "text": "Israel is to bring pure beaten olive oil so the lamps may burn continually. The command makes the people responsible for providing what is needed for the sanctuary’s regular light.",
+    "refs": [
+      "Leviticus 24:1–4"
+    ]
+  },
+  "Exodus 27:21": {
+    "title": "Aaron and his sons maintain the lamps",
+    "text": "Aaron and his sons are to keep the lamps burning from evening to morning before the LORD, outside the veil of the testimony. The regular service is an enduring ordinance for Israel’s generations and is carried out in the place God appointed.",
+    "refs": [
+      "Exodus 25:37",
+      "Leviticus 24:2–4"
+    ]
+  },
+  "Exodus 28:1": {
+    "title": "Aaron and his sons appointed for priesthood",
+    "text": "God tells Moses to bring Aaron and his sons near to serve as priests. Their appointment is for a defined sacred office within Israel’s covenant worship, and it is given by God rather than claimed by personal ambition.",
+    "refs": [
+      "Leviticus 8:1–13",
+      "Hebrews 5:4"
+    ]
+  },
+  "Exodus 28:2": {
+    "title": "Holy garments for glory and beauty",
+    "text": "Moses is to make holy garments for Aaron for glory and beauty. The garments visibly distinguish the priestly office and express the seriousness of representing Israel in worship.",
+    "refs": [
+      "Exodus 28:40"
+    ]
+  },
+  "Exodus 28:3": {
+    "title": "Skilled workers make the garments",
+    "text": "God says He has filled skilled workers with a spirit of wisdom to make Aaron’s garments for his consecration. Skill and craftsmanship are presented as gifts that can be used in service to God.",
+    "refs": [
+      "Exodus 31:1–6"
+    ]
+  },
+  "Exodus 28:4": {
+    "title": "The garments named",
+    "text": "The breastplate, ephod, robe, embroidered coat, turban, and sash are listed. The following verses explain their construction and function in priestly service.",
+    "refs": [
+      "Exodus 28:6–39"
+    ]
+  },
+  "Exodus 28:5": {
+    "title": "Gold and colored materials",
+    "text": "The workers use gold, blue, purple, scarlet, and fine linen. These are the materials specified for the priestly garments, connecting them visually with the tabernacle’s design.",
+    "refs": [
+      "Exodus 25:4"
+    ]
+  },
+  "Exodus 28:6": {
+    "title": "The ephod’s materials and workmanship",
+    "text": "The ephod is made of gold and colored yarns with fine linen, using skillful work. It is a distinctive garment that will carry the stones representing Israel’s tribes.",
+    "refs": [
+      "Exodus 28:9–12"
+    ]
+  },
+  "Exodus 28:7": {
+    "title": "Shoulder pieces joined together",
+    "text": "The ephod has two shoulder pieces joined at its edges. These pieces support the stones described next and help the garment sit securely on the priest.",
+    "refs": [
+      "Exodus 28:9–12"
+    ]
+  },
+  "Exodus 28:8": {
+    "title": "The ephod’s woven band",
+    "text": "The skillfully woven band is made of the same materials as the ephod. The garment’s construction is coordinated so the band and body form one designed piece.",
+    "refs": [
+      "Exodus 39:5"
+    ]
+  },
+  "Exodus 28:9": {
+    "title": "Two onyx stones engraved with names",
+    "text": "Two onyx stones are engraved with the names of Israel’s sons. The priest carries the names of the tribes on his shoulders, symbolizing representation of the people before God.",
+    "refs": [
+      "Exodus 28:12"
+    ]
+  },
+  "Exodus 28:10": {
+    "title": "Names in birth order",
+    "text": "Six names are engraved on one stone and six on the other, according to birth order. The arrangement includes the whole family of Israel in the priestly memorial.",
+    "refs": [
+      "Genesis 29:31–30:24"
+    ]
+  },
+  "Exodus 28:11": {
+    "title": "Engraving like a seal",
+    "text": "The stones are engraved with the names as a skilled engraver cuts a seal, then set in gold settings. The precious stones are treated as memorial objects within the priestly garment.",
+    "refs": [
+      "Exodus 28:9–12"
+    ]
+  },
+  "Exodus 28:12": {
+    "title": "The names on Aaron’s shoulders",
+    "text": "The stones are placed on the ephod’s shoulder pieces as memorial stones for Israel’s sons, and Aaron bears their names before the LORD. The image emphasizes representative priestly service rather than a separate divine being.",
+    "refs": [
+      "Exodus 28:29"
+    ]
+  },
+  "Exodus 28:13": {
+    "title": "Gold settings",
+    "text": "Gold settings are made for the stones. They hold the engraved memorial stones securely in place on the ephod.",
+    "refs": [
+      "Exodus 28:11"
+    ]
+  },
+  "Exodus 28:14": {
+    "title": "Chains of pure gold",
+    "text": "Two chains of pure gold, twisted like cords, are made for the settings. The chains connect the stones and breastplate according to the design that follows.",
+    "refs": [
+      "Exodus 28:22–25"
+    ]
+  },
+  "Exodus 28:15": {
+    "title": "The breastplate of judgment",
+    "text": "The breastplate is made with skillful work from the same colored materials and gold. It is called the breastplate of judgment because it is associated with the priest’s representative service and the means of seeking God’s judgment.",
+    "refs": [
+      "Exodus 28:29–30"
+    ]
+  },
+  "Exodus 28:16": {
+    "title": "A square, doubled breastplate",
+    "text": "The breastplate is square and doubled, with specified dimensions. The doubled fabric forms a pocket-like structure for the items associated with the breastplate.",
+    "refs": [
+      "Exodus 28:30"
+    ]
+  },
+  "Exodus 28:17": {
+    "title": "Four rows of stones begin",
+    "text": "The breastplate is set with precious stones in the first row: sardius, topaz, and carbuncle. Each stone is associated with one of Israel’s tribes in the list that follows.",
+    "refs": [
+      "Exodus 28:21"
+    ]
+  },
+  "Exodus 28:18": {
+    "title": "The second row of stones",
+    "text": "The second row includes an emerald, sapphire, and diamond according to the KJV wording. The precise modern identification of some ancient gemstone names is debated, but the text’s intent is a carefully arranged set of precious stones.",
+    "refs": [
+      "Exodus 28:17–20"
+    ]
+  },
+  "Exodus 28:19": {
+    "title": "The third row of stones",
+    "text": "The third row includes ligure, agate, and amethyst in the KJV. The ancient gemstone identifications are not all certain, so the safest reading preserves the biblical names without forcing modern mineral equivalents.",
+    "refs": [
+      "Exodus 28:17–20"
+    ]
+  },
+  "Exodus 28:20": {
+    "title": "The fourth row and gold settings",
+    "text": "The fourth row lists beryl, onyx, and jasper, each set in gold. Together the rows form the breastplate’s complete set of twelve stones.",
+    "refs": [
+      "Exodus 28:21"
+    ]
+  },
+  "Exodus 28:21": {
+    "title": "Twelve stones for twelve tribes",
+    "text": "Each stone is engraved with one of the names of Israel’s sons, one name for each stone. The breastplate visibly represents all twelve tribes before God.",
+    "refs": [
+      "Exodus 28:29"
+    ]
+  },
+  "Exodus 28:22": {
+    "title": "Chains attached to the breastplate",
+    "text": "Chains of pure gold, twisted like cords, are made for the breastplate. They connect the breastplate to the ephod’s gold settings.",
+    "refs": [
+      "Exodus 28:14"
+    ]
+  },
+  "Exodus 28:23": {
+    "title": "Gold rings on the breastplate",
+    "text": "Two gold rings are made for the breastplate’s upper corners. The rings provide the attachment points for the chains.",
+    "refs": [
+      "Exodus 28:24"
+    ]
+  },
+  "Exodus 28:24": {
+    "title": "Chains through the rings",
+    "text": "The two gold chains are attached to the rings on the breastplate. The details specify how the breastplate is secured to the garment.",
+    "refs": [
+      "Exodus 28:22–23"
+    ]
+  },
+  "Exodus 28:25": {
+    "title": "Chains attached to the ephod",
+    "text": "The other ends of the chains are attached to the gold settings on the shoulder pieces. This connection joins the breastplate securely to the ephod.",
+    "refs": [
+      "Exodus 28:6–8"
+    ]
+  },
+  "Exodus 28:26": {
+    "title": "Two lower gold rings",
+    "text": "Two more gold rings are made for the lower corners of the breastplate on the inner side. They provide further points for securing the breastplate.",
+    "refs": [
+      "Exodus 28:27"
+    ]
+  },
+  "Exodus 28:27": {
+    "title": "Rings opposite the ephod’s band",
+    "text": "Two gold rings are made on the ephod’s shoulder pieces near the band, opposite the lower rings of the breastplate. Their position allows the pieces to be tied together securely.",
+    "refs": [
+      "Exodus 28:26–28"
+    ]
+  },
+  "Exodus 28:28": {
+    "title": "A blue cord secures the breastplate",
+    "text": "A blue lace connects the breastplate rings to the ephod rings so the breastplate stays above the band and does not come loose. The instruction ensures that the breastplate remains properly attached during priestly service.",
+    "refs": [
+      "Exodus 39:21"
+    ]
+  },
+  "Exodus 28:29": {
+    "title": "Aaron bears Israel’s names over his heart",
+    "text": "Aaron bears the names of Israel’s sons on the breastplate over his heart when he enters the holy place, as a continual memorial before the LORD. The imagery emphasizes that the priest represents the people with care and responsibility.",
+    "refs": [
+      "Exodus 28:12"
+    ]
+  },
+  "Exodus 28:30": {
+    "title": "Urim and Thummim",
+    "text": "The Urim and Thummim are placed in the breastplate, and Aaron bears the judgment of Israel over his heart before the LORD. Scripture does not fully describe their physical form or exact method of use, so explanations beyond the text should be identified as proposals rather than certainties.",
+    "refs": [
+      "Numbers 27:21",
+      "1 Samuel 28:6"
+    ]
+  },
+  "Exodus 28:31": {
+    "title": "The robe of the ephod",
+    "text": "The robe is made entirely of blue. Its construction is described separately from the ephod and breastplate, with the hem details following.",
+    "refs": [
+      "Exodus 28:33"
+    ]
+  },
+  "Exodus 28:32": {
+    "title": "A reinforced opening for the head",
+    "text": "The robe has an opening in the middle with a woven binding so it will not tear. The design is practical as well as ceremonial, protecting the garment from damage.",
+    "refs": [
+      "Exodus 39:23"
+    ]
+  },
+  "Exodus 28:33": {
+    "title": "Pomegranates and bells",
+    "text": "Blue, purple, and scarlet pomegranates are placed around the robe’s hem, alternating with gold bells. The decorations are part of the prescribed priestly garment and have a practical sound function in the next verse.",
+    "refs": [
+      "Exodus 28:34"
+    ]
+  },
+  "Exodus 28:34": {
+    "title": "Alternating bells and pomegranates",
+    "text": "The hem alternates gold bells and pomegranates. The pattern makes the robe’s lower edge consistent around the garment.",
+    "refs": [
+      "Exodus 28:33"
+    ]
+  },
+  "Exodus 28:35": {
+    "title": "The bells sound during priestly service",
+    "text": "Aaron must wear the robe when ministering, and its sound is heard as he enters and leaves the holy place so he does not die. The text gives the bells a role within the prescribed sacred service; the warning stresses that priestly approach must follow God’s instructions.",
+    "refs": [
+      "Leviticus 16:2–4"
+    ]
+  },
+  "Exodus 28:36": {
+    "title": "A plate of pure gold",
+    "text": "A plate of pure gold is made and engraved with “HOLINESS TO THE LORD.” The inscription makes the theme of holiness visible on the high priest’s headgear.",
+    "refs": [
+      "Exodus 39:30"
+    ]
+  },
+  "Exodus 28:37": {
+    "title": "The gold plate is attached with blue lace",
+    "text": "The plate is fastened to the front of the turban with a blue lace. Its placement keeps the inscription visible as part of the high priest’s official garments.",
+    "refs": [
+      "Exodus 28:36"
+    ]
+  },
+  "Exodus 28:38": {
+    "title": "Aaron bears the people’s holy gifts",
+    "text": "The plate remains on Aaron’s forehead, and he bears the iniquity associated with the holy things Israel consecrates. The verse shows that even offerings dedicated to God require priestly mediation according to the sanctuary’s instructions.",
+    "refs": [
+      "Leviticus 22:15–16"
+    ]
+  },
+  "Exodus 28:39": {
+    "title": "The coat, turban, and sash",
+    "text": "The coat is woven of fine linen, the turban is made of fine linen, and the sash is embroidered. These items complete part of the priestly clothing described in the chapter.",
+    "refs": [
+      "Exodus 39:27–29"
+    ]
+  },
+  "Exodus 28:40": {
+    "title": "Garments for Aaron’s sons",
+    "text": "Moses is to make coats, sashes, and bonnets for Aaron’s sons for glory and beauty. Their garments distinguish their priestly service while following the same principle of sacred preparation.",
+    "refs": [
+      "Exodus 28:2"
+    ]
+  },
+  "Exodus 28:41": {
+    "title": "Anoint, consecrate, and sanctify",
+    "text": "Moses is to put the garments on Aaron and his sons, anoint them, and consecrate them for priestly service. Their authority to minister comes through God’s appointment and the prescribed consecration, not self-appointment.",
+    "refs": [
+      "Leviticus 8:1–13"
+    ]
+  },
+  "Exodus 28:42": {
+    "title": "Linen breeches for modesty",
+    "text": "Linen breeches are to cover the priests from the waist to the thighs. The instruction protects modesty in service at the altar and in the sanctuary.",
+    "refs": [
+      "Exodus 20:26"
+    ]
+  },
+  "Exodus 28:43": {
+    "title": "A lasting ordinance for priestly service",
+    "text": "Aaron and his sons must wear these garments when entering the tent of meeting or approaching the altar, lest they bear iniquity and die. The chapter closes by emphasizing the seriousness of priestly service and the need to obey God’s instructions.",
+    "refs": [
+      "Leviticus 8:35",
+      "Hebrews 5:4"
+    ]
   }
 };
