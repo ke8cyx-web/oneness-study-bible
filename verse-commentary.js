@@ -2517,5 +2517,195 @@ window.verseCommentary = {
     "title": "The LORD departs",
     "text": "The LORD goes His way after finishing the conversation, and Abraham returns to his place. This closes the intercession scene. The narrative uses human movement language to describe the end of the encounter, without requiring a doctrine of multiple divine persons.",
     "refs": "Genesis 18:22–32"
+  },
+  "Genesis 19:1": {
+    "title": "Two angels arrive at Sodom",
+    "text": "Two angels arrive at Sodom in the evening, and Lot receives them at the gate. The narrative identifies them as angels and describes Lot’s hospitality. This verse should be read with the chapter’s account of violence and judgment, without assuming every visitor in Genesis has the same identity.",
+    "refs": "Genesis 18:1–2; Hebrews 13:2"
+  },
+  "Genesis 19:2": {
+    "title": "Lot offers hospitality",
+    "text": "Lot invites the visitors to stay in his house, wash their feet, and rise early to continue their journey. The offer echoes the hospitality Abraham showed in Genesis 18. The visitors initially say they will stay in the street, setting up the events that follow.",
+    "refs": "Genesis 18:4–5; Genesis 19:3"
+  },
+  "Genesis 19:3": {
+    "title": "The visitors enter Lot’s house",
+    "text": "Lot presses them strongly, and they enter his house. He prepares a meal and unleavened bread. The scene shows hospitality amid a city whose conduct will soon be exposed as violent and corrupt.",
+    "refs": "Genesis 18:6–8; Judges 19:15–21"
+  },
+  "Genesis 19:4": {
+    "title": "The men of Sodom surround the house",
+    "text": "Men from Sodom, both young and old, surround Lot’s house. The narrative depicts collective intimidation and a threat against the visitors. The following verses clarify the intended violence, so the scene should not be reduced to a harmless social dispute.",
+    "refs": "Genesis 13:13; Ezekiel 16:49–50"
+  },
+  "Genesis 19:5": {
+    "title": "Bring the visitors out",
+    "text": "The men demand that Lot bring the visitors out so they can know them. In this context, the demand is a threat of sexual violence. The text condemns the mob’s coercion and disregard for the visitors’ safety; it does not portray the demand as consensual conduct.",
+    "refs": "Genesis 19:4–9; Jude 7"
+  },
+  "Genesis 19:6": {
+    "title": "Lot goes out to the crowd",
+    "text": "Lot goes out and shuts the door behind him, placing himself between the crowd and his guests. His action attempts to protect those inside, though his subsequent offer in verse 8 is deeply troubling and must not be excused.",
+    "refs": "Genesis 19:7–8"
+  },
+  "Genesis 19:7": {
+    "title": "Do not act wickedly",
+    "text": "Lot pleads with the men not to do wickedly. The narrator’s framing and Lot’s words make clear that the crowd’s intended conduct is evil. The plea does not mean Lot handles the crisis perfectly in the next verse.",
+    "refs": "Genesis 19:5; Isaiah 1:17"
+  },
+  "Genesis 19:8": {
+    "title": "Lot offers his daughters",
+    "text": "Lot offers his daughters to the crowd, a deeply disturbing act recorded by Scripture. The narrative reports his proposal but does not command or approve it. Protecting guests cannot justify offering vulnerable people to sexual violence; this verse should be discussed honestly and in the context of the crowd’s wickedness.",
+    "refs": "Judges 19:24–26; Micah 6:8"
+  },
+  "Genesis 19:9": {
+    "title": "The crowd threatens Lot",
+    "text": "The men reject Lot’s appeal, threaten him, and press forward to break the door. Their behavior demonstrates that the city’s corruption includes violence and contempt for restraint. Lot’s status as a resident does not protect him from the mob.",
+    "refs": "Genesis 19:4–8"
+  },
+  "Genesis 19:10": {
+    "title": "The visitors pull Lot inside",
+    "text": "The men inside reach out, pull Lot into the house, and shut the door. The visitors protect Lot from the crowd. The following verse explains that the attackers are struck with blindness, ending the immediate assault.",
+    "refs": "Genesis 19:11"
+  },
+  "Genesis 19:11": {
+    "title": "The attackers are struck blind",
+    "text": "The visitors strike the men at the door with blindness, so they cannot find the entrance. The action protects the household and exposes the severity of the crowd’s conduct. The text attributes the event to the visitors; it does not require unsupported speculation about the medical nature of the blindness.",
+    "refs": "2 Kings 6:18; Genesis 19:10"
+  },
+  "Genesis 19:12": {
+    "title": "Lot’s family must leave",
+    "text": "The visitors ask Lot whether he has anyone else in the city and tell him to bring them out because judgment is coming. The warning gives Lot an opportunity to protect his family. The account shows mercy through warning before destruction.",
+    "refs": "Genesis 19:13–14; 2 Peter 2:7"
+  },
+  "Genesis 19:13": {
+    "title": "The cry is great before the LORD",
+    "text": "The visitors explain that they will destroy the place because the outcry against it is great before the LORD. The judgment is connected to the city’s wrongdoing. The narrative presents God’s judgment as a response to serious evil, not as an unexplained act.",
+    "refs": "Genesis 18:20–21; Ezekiel 16:49–50"
+  },
+  "Genesis 19:14": {
+    "title": "Lot warns his sons-in-law",
+    "text": "Lot tells his sons-in-law to leave because the LORD will destroy the city, but they think he is joking. The verse shows how a warning can be dismissed even when danger is imminent. The text does not say that Lot’s warning was unclear; it records their failure to take it seriously.",
+    "refs": "Luke 17:28–30; 2 Peter 3:3–7"
+  },
+  "Genesis 19:15": {
+    "title": "The angels urge Lot to leave",
+    "text": "At dawn, the angels urge Lot to take his wife and daughters and escape the city. The urgency reflects the coming judgment. Lot’s rescue is portrayed as an act of mercy, not as proof that his family has earned deliverance through perfect conduct.",
+    "refs": "Genesis 19:16; 2 Peter 2:7"
+  },
+  "Genesis 19:16": {
+    "title": "The LORD is merciful",
+    "text": "Lot lingers, and the men take his hand, his wife’s hand, and his daughters’ hands because the LORD is merciful to him. The text explicitly attributes their rescue to the LORD’s mercy. Divine mercy here is active help in a moment of danger.",
+    "refs": "Psalm 103:8; Titus 3:5"
+  },
+  "Genesis 19:17": {
+    "title": "Escape for your life",
+    "text": "The visitors tell Lot to escape, not look behind him, and not remain in the plain. The command is specific to the imminent judgment in this story. It should not be turned into a universal rule that every backward glance is sinful.",
+    "refs": "Genesis 19:26; Luke 17:31–32"
+  },
+  "Genesis 19:18": {
+    "title": "Lot asks to speak",
+    "text": "Lot responds to the instruction with a request. The passage continues to show his fear and hesitation as the danger approaches. The next verses record the specific request he makes.",
+    "refs": "Genesis 19:19–20"
+  },
+  "Genesis 19:19": {
+    "title": "Lot acknowledges mercy",
+    "text": "Lot acknowledges that he has found favor and that the visitors have shown great mercy in saving his life. He fears he will not reach the mountain in time. The verse reveals gratitude mixed with anxiety, not a rejection of the deliverance offered.",
+    "refs": "Genesis 19:16–17; Psalm 34:4"
+  },
+  "Genesis 19:20": {
+    "title": "A nearby little city",
+    "text": "Lot asks to flee to a nearby small city, believing he can reach it and survive. The request leads to the city being spared for his sake. The passage shows God’s willingness to respond to Lot’s fear while still carrying out judgment on Sodom.",
+    "refs": "Genesis 19:21–22"
+  },
+  "Genesis 19:21": {
+    "title": "The request is granted",
+    "text": "The visitor says Lot’s request is granted and the city will not be overthrown. The verse shows a measure of accommodation within the rescue. The text does not portray Lot as controlling God; he makes a request and receives an answer.",
+    "refs": "Genesis 19:20; Genesis 19:22"
+  },
+  "Genesis 19:22": {
+    "title": "Zoar is spared for Lot",
+    "text": "Lot is told to hurry because judgment cannot proceed until he reaches the city, which is called Zoar. The detail emphasizes the connection between Lot’s rescue and the timing of the destruction. The city’s name is explained within the story.",
+    "refs": "Genesis 19:20–21"
+  },
+  "Genesis 19:23": {
+    "title": "The sun rises",
+    "text": "The sun rises as Lot enters Zoar. The time marker leads into the account of the LORD’s judgment on Sodom and Gomorrah. The narrative contrasts the ordinary beginning of the day with the extraordinary destruction that follows.",
+    "refs": "Genesis 19:24"
+  },
+  "Genesis 19:24": {
+    "title": "The LORD rains judgment",
+    "text": "The LORD rains brimstone and fire upon Sodom and Gomorrah from the LORD out of heaven. The wording has been discussed in theological debates. A Oneness reading should acknowledge the phrase as written and interpret it in the broader biblical use of divine agency and heavenly language, rather than claiming the verse alone settles every question about divine persons.",
+    "refs": "Deuteronomy 29:23; Luke 17:29"
+  },
+  "Genesis 19:25": {
+    "title": "The cities and plain are overthrown",
+    "text": "The destruction includes the cities, the plain, the inhabitants, and the vegetation. The text depicts comprehensive judgment on the region described. The event later becomes a warning example of the seriousness of persistent wickedness.",
+    "refs": "Deuteronomy 29:23; 2 Peter 2:6"
+  },
+  "Genesis 19:26": {
+    "title": "Lot’s wife looks back",
+    "text": "Lot’s wife looks back and becomes a pillar of salt. The text records the consequence without giving every detail of her motive. Jesus later uses the event as a warning not to turn back when decisive action is required; applications should stay grounded in that warning.",
+    "refs": "Luke 17:31–33"
+  },
+  "Genesis 19:27": {
+    "title": "Abraham returns to the place of intercession",
+    "text": "Abraham rises early and returns to the place where he had stood before the LORD. The detail connects the destruction with Abraham’s earlier intercession. The narrative invites the reader to remember the conversation about justice and the righteous.",
+    "refs": "Genesis 18:22–33"
+  },
+  "Genesis 19:28": {
+    "title": "Abraham sees the smoke",
+    "text": "Abraham looks toward Sodom and Gomorrah and sees smoke rising like the smoke of a furnace. The image confirms the scale of the destruction. The verse does not say Abraham knew every detail of Lot’s condition at that moment.",
+    "refs": "Genesis 19:24–25"
+  },
+  "Genesis 19:29": {
+    "title": "God remembers Abraham and rescues Lot",
+    "text": "When God destroys the cities, He remembers Abraham and sends Lot out of the overthrow. “Remembered” describes God acting in keeping with His relationship and purpose, not recovering a forgotten fact. The verse explicitly connects Lot’s rescue with God’s mercy and Abraham’s intercession.",
+    "refs": "Genesis 18:23–33; Genesis 19:16"
+  },
+  "Genesis 19:30": {
+    "title": "Lot leaves Zoar",
+    "text": "Lot leaves Zoar and settles in a mountain cave with his two daughters because he is afraid to remain in Zoar. The narrative continues to describe the consequences of the catastrophe. His fear shapes his next decision.",
+    "refs": "Genesis 19:17–22"
+  },
+  "Genesis 19:31": {
+    "title": "The daughters’ concern",
+    "text": "Lot’s older daughter says their father is old and there is no man in the land to come in to them in the usual way. The statement explains their stated concern, but does not justify the scheme they devise. The next verses describe an act that Scripture records without approving.",
+    "refs": "Genesis 19:32–36"
+  },
+  "Genesis 19:32": {
+    "title": "A plan to preserve offspring",
+    "text": "The daughters propose making their father drink wine and lying with him to preserve offspring. Their plan involves deception and incest. The text’s report of the act is not divine approval; the broader biblical law later explicitly prohibits incestuous relations.",
+    "refs": "Leviticus 18:6–18; Genesis 19:33–36"
+  },
+  "Genesis 19:33": {
+    "title": "The older daughter lies with Lot",
+    "text": "Lot drinks wine, and his older daughter lies with him; the text says he did not know when she lay down or rose. The narrative presents intoxication and deception surrounding the act. This is not offered as a moral example to imitate.",
+    "refs": "Genesis 19:32; Ephesians 5:18"
+  },
+  "Genesis 19:34": {
+    "title": "The younger daughter follows the plan",
+    "text": "The older daughter tells the younger what happened and urges her to do the same the next night. The plan continues through deception. The verse reports the family’s actions without presenting them as righteous or commanded by God.",
+    "refs": "Genesis 19:32–33"
+  },
+  "Genesis 19:35": {
+    "title": "The younger daughter lies with Lot",
+    "text": "Lot is made drunk again, and the younger daughter lies with him. As with the prior night, the text describes a morally tragic episode. The account’s honesty about the actions of biblical figures is not an endorsement of them.",
+    "refs": "Genesis 19:33; Leviticus 18:6"
+  },
+  "Genesis 19:36": {
+    "title": "Both daughters conceive",
+    "text": "Both of Lot’s daughters become pregnant by their father. The verse summarizes the consequence of their scheme. The narrative does not praise the method; it records the origins of the two sons named in the next verses.",
+    "refs": "Genesis 19:37–38"
+  },
+  "Genesis 19:37": {
+    "title": "Moab is born",
+    "text": "The older daughter bears a son and names him Moab, identified as the father of the Moabites. The genealogy explains the origin of a people who appear repeatedly in later biblical history. The account of their ancestry does not make every later Moabite morally identical.",
+    "refs": "Ruth 1:4; Deuteronomy 23:3"
+  },
+  "Genesis 19:38": {
+    "title": "Ben-ammi and the Ammonites",
+    "text": "The younger daughter bears Ben-ammi, identified as the father of the Ammonites. The chapter closes with a genealogy arising from the family’s tragic decisions. The Bible records these origins candidly and later treats Moab and Ammon within their historical contexts.",
+    "refs": "Deuteronomy 2:19; Judges 10:6"
   }
 };
