@@ -20,7 +20,6 @@
     </div>
     <button id="installBtn" class="outline small hidden" type="button">Install app</button>
   </header>
-
   <nav class="tabs" aria-label="Main navigation">
     <button class="tab active" data-tab="read">Read Bible</button>
     <button class="tab" data-tab="study">Study Notes</button>
@@ -28,132 +27,39 @@
     <button class="tab" data-tab="saved">Bookmarks</button>
     <button class="tab" data-tab="plan">Reading Plan</button>
   </nav>
-
   <main>
     <section id="readPanel" class="panel">
       <div class="card">
-        <div class="section-heading">
-          <div>
-            <div class="eyebrow">SCRIPTURE READER</div>
-            <h2>Read the KJV</h2>
-          </div>
-          <span id="dataStatus" class="status">Preparing Bible…</span>
-        </div>
-        <div class="selectors">
-          <label>Book<select id="bookSelect" disabled></select></label>
-          <label>Chapter<select id="chapterSelect" disabled></select></label>
-          <button id="loadChapterBtn" class="primary" disabled>Open chapter</button>
-        </div>
+        <div class="section-heading"><div><div class="eyebrow">SCRIPTURE READER</div><h2>Read the KJV</h2></div><span id="dataStatus" class="status">Preparing Bible…</span></div>
+        <div class="selectors"><label>Book<select id="bookSelect" disabled></select></label><label>Chapter<select id="chapterSelect" disabled></select></label><button id="loadChapterBtn" class="primary" disabled>Open chapter</button></div>
         <div class="reader-tools"><button id="readChapterBtn" class="outline small" type="button">Read chapter aloud</button><button id="stopReadBtn" class="outline small" type="button">Stop reading</button><button id="printChapterBtn" class="outline small" type="button">Print chapter</button></div>
         <p class="muted reader-help">Use Mark to highlight a verse on this device, Copy to copy its reference and text, Save to bookmark it, or Note to write a personal study note.</p>
-        <div id="chapterTitle" class="chapter-title">Loading Bible content…</div>
-        <div id="verses" class="verses" aria-live="polite"></div>
-        <div class="chapter-nav">
-          <button id="prevChapter" class="outline" disabled>← Previous</button>
-          <button id="nextChapter" class="outline" disabled>Next →</button>
-        </div>
+        <div id="chapterTitle" class="chapter-title">Loading Bible content…</div><div id="verses" class="verses" aria-live="polite"></div>
+        <div class="chapter-nav"><button id="prevChapter" class="outline" disabled>← Previous</button><button id="nextChapter" class="outline" disabled>Next →</button></div>
       </div>
     </section>
-
     <section id="studyPanel" class="panel hidden">
       <div class="card">
-        <div class="eyebrow">SCRIPTURE-FIRST STUDY</div>
-        <h2>Oneness Study Notes</h2>
+        <div class="eyebrow">SCRIPTURE-FIRST STUDY</div><h2>Oneness Study Notes</h2>
         <p class="muted">These notes present a Oneness reading for study and comparison. Read the cited passages in context and distinguish the biblical text from commentary.</p>
-        <label>Choose a topic
-          <select id="topicSelect">
-            <option value="oneGod">The One God</option>
-            <option value="word">The Word Was God — John 1:1–14</option>
-            <option value="fatherSon">The Father Revealed in the Son — John 14:7–11</option>
-            <option value="fullness">The Fullness of the Godhead — Colossians 2:9</option>
-            <option value="nameJesus">The Name of Jesus and Acts 2:38</option>
-            <option value="spirit">God Is a Spirit — John 4:24</option>
-            <option value="genesis1">Genesis 1 — Creation</option>
-            <option value="genesis2">Genesis 2 — Humanity</option>
-            <option value="genesis3">Genesis 3 — The Fall and Promise</option>
-          </select>
-        </label>
+        <label>Choose a topic<select id="topicSelect"><option value="oneGod">The One God</option><option value="word">The Word Was God — John 1:1–14</option><option value="fatherSon">The Father Revealed in the Son — John 14:7–11</option><option value="fullness">The Fullness of the Godhead — Colossians 2:9</option><option value="nameJesus">The Name of Jesus and Acts 2:38</option><option value="spirit">God Is a Spirit — John 4:24</option><option value="genesis1">Genesis 1 — Creation</option><option value="genesis2">Genesis 2 — Humanity</option><option value="genesis3">Genesis 3 — The Fall and Promise</option></select></label>
         <article id="topicContent" class="study-content"></article>
-        <h3>Yahweh revealed in Jesus Christ — cross-reference trail</h3>
-        <p class="muted">These are study connections used in a Oneness reading. Open each reference in the Bible reader and read its surrounding context.</p>
-        <div id="onenessCrossrefs" class="crossref-list"></div>
-        <hr class="study-divider">
-        <div class="eyebrow">ALL 66 BOOKS</div>
-        <h2>Book-by-Book Study Guide</h2>
-        <p class="muted">A study overview for every book of the Bible, with key passages, a Oneness-focused reading guide, and questions for personal or family study. Read each passage in its full context.</p>
-        <label>Choose a Bible book
-          <select id="bookGuideSelect"></select>
-        </label>
-        <article id="bookGuideContent" class="study-content book-guide-content"></article>
+        <h3>Yahweh revealed in Jesus Christ — cross-reference trail</h3><p class="muted">These are study connections used in a Oneness reading. Open each reference in the Bible reader and read its surrounding context.</p><div id="onenessCrossrefs" class="crossref-list"></div>
+        <hr class="study-divider"><div class="eyebrow">ALL 66 BOOKS</div><h2>Book-by-Book Study Guide</h2><p class="muted">A study overview for every book of the Bible, with key passages, a Oneness-focused reading guide, and questions for personal or family study. Read each passage in its full context.</p>
+        <label>Choose a Bible book<select id="bookGuideSelect"></select></label><article id="bookGuideContent" class="study-content book-guide-content"></article>
       </div>
     </section>
-
-    <section id="searchPanel" class="panel hidden">
-      <div class="card">
-        <div class="eyebrow">FIND SCRIPTURE</div>
-        <h2>Search the Bible</h2>
-        <p class="muted">Search the complete KJV after the Bible dataset has loaded on this device.</p>
-        <form id="searchForm" class="search-row">
-          <input id="searchInput" type="search" placeholder="Search a word or phrase, e.g. one God" autocomplete="off">
-          <button class="primary" type="submit">Search</button>
-        </form>
-        <div id="searchStatus" class="muted"></div>
-        <div id="searchResults" class="results"></div>
-      </div>
-    </section>
-
-    <section id="planPanel" class="panel hidden">
-      <div class="card">
-        <div class="eyebrow">DAILY SCRIPTURE HABIT</div>
-        <h2>Bible Reading Plan</h2>
-        <p class="muted">A starter 30-day reading plan through key passages about the one God and the revelation of God in Jesus Christ. Your checked days are saved in this browser on this device.</p>
-        <div class="plan-progress"><div id="planProgressBar"></div></div>
-        <p id="planProgressText" class="muted">0 of 30 days completed</p>
-        <div id="readingPlanList" class="plan-list"></div>
-        <button id="resetPlanBtn" class="outline small" type="button">Reset reading plan</button>
-      </div>
-    </section>
-
-    <section id="savedPanel" class="panel hidden">
-      <div class="card">
-        <div class="eyebrow">YOUR PERSONAL LIBRARY</div>
-        <h2>Bookmarked Verses</h2>
-        <p class="muted">Bookmarks are stored on this device in this browser. Export them if you want a backup.</p>
-        <div class="saved-actions">
-          <button id="exportBookmarks" class="outline">Export bookmarks</button>
-          <label class="file-button">Import bookmarks<input id="importBookmarks" type="file" accept="application/json"></label>
-        </div>
-        <div id="bookmarksList" class="results"></div>
-      </div>
-    </section>
-
-    <section class="card note-card">
-      <h2>Study tools</h2>
-      <div class="tool-grid">
-        <div><strong>Cross-references</strong><p>Each study topic lists related passages to read together.</p></div>
-        <div><strong>Personal notes</strong><p>Select a verse and add a private note stored on this device.</p></div>
-        <div><strong>Offline reading</strong><p>After the first successful online load, the app saves the KJV data locally for offline use.</p></div>
-      </div>
-      <p class="fineprint">KJV data source: Midvash public-domain Bible data repository. The initial Bible download requires internet access. Keep this app hosted over HTTPS for installation and service-worker support.</p>
-    </section>
+    <section id="searchPanel" class="panel hidden"><div class="card"><div class="eyebrow">FIND SCRIPTURE</div><h2>Search the Bible</h2><p class="muted">Search the complete KJV after the Bible dataset has loaded on this device.</p><form id="searchForm" class="search-row"><input id="searchInput" type="search" placeholder="Search a word or phrase, e.g. one God" autocomplete="off"><button class="primary" type="submit">Search</button></form><div id="searchStatus" class="muted"></div><div id="searchResults" class="results"></div></div></section>
+    <section id="planPanel" class="panel hidden"><div class="card"><div class="eyebrow">DAILY SCRIPTURE HABIT</div><h2>Bible Reading Plan</h2><p class="muted">A starter 30-day reading plan through key passages about the one God and the revelation of God in Jesus Christ. Your checked days are saved in this browser on this device.</p><div class="plan-progress"><div id="planProgressBar"></div></div><p id="planProgressText" class="muted">0 of 30 days completed</p><div id="readingPlanList" class="plan-list"></div><button id="resetPlanBtn" class="outline small" type="button">Reset reading plan</button></div></section>
+    <section id="savedPanel" class="panel hidden"><div class="card"><div class="eyebrow">YOUR PERSONAL LIBRARY</div><h2>Bookmarked Verses</h2><p class="muted">Bookmarks are stored on this device in this browser. Export them if you want a backup.</p><div class="saved-actions"><button id="exportBookmarks" class="outline">Export bookmarks</button><label class="file-button">Import bookmarks<input id="importBookmarks" type="file" accept="application/json"></label></div><div id="bookmarksList" class="results"></div></div></section>
+    <section class="card note-card"><h2>Study tools</h2><div class="tool-grid"><div><strong>Cross-references</strong><p>Each study topic lists related passages to read together.</p></div><div><strong>Personal notes</strong><p>Select a verse and add a private note stored on this device.</p></div><div><strong>Offline reading</strong><p>After the first successful online load, the app saves the KJV data locally for offline use.</p></div></div><p class="fineprint">KJV data source: Midvash public-domain Bible data repository. The initial Bible download requires internet access. Keep this app hosted over HTTPS for installation and service-worker support.</p></section>
   </main>
   <footer>One God One Faith Ministry · Digital Oneness Study Bible<br><span id="footerStatus">Not yet deployed</span></footer>
-
-  <dialog id="commentaryDialog">
-    <div class="dialog-head"><h2 id="commentaryDialogTitle">Verse commentary</h2><button id="closeCommentaryBtn" class="icon-button" type="button" aria-label="Close">×</button></div>
-    <article id="commentaryDialogBody" class="study-content"></article>
-    <div class="dialog-actions"><button id="closeCommentaryBtnBottom" class="outline" type="button">Close</button></div>
-  </dialog>
-  <dialog id="noteDialog">
-    <form method="dialog" id="noteForm">
-      <div class="dialog-head"><h2 id="noteVerseRef">Verse note</h2><button class="icon-button" value="cancel" aria-label="Close">×</button></div>
-      <p id="noteVerseText" class="muted"></p>
-      <label>Your study note<textarea id="noteText" rows="5" placeholder="Write your observation or question…"></textarea></label>
-      <div class="dialog-actions"><button value="cancel" class="outline">Cancel</button><button id="saveNoteBtn" value="save" class="primary">Save note</button></div>
-    </form>
-  </dialog>
+  <dialog id="commentaryDialog"><div class="dialog-head"><h2 id="commentaryDialogTitle">Verse commentary</h2><button id="closeCommentaryBtn" class="icon-button" type="button" aria-label="Close">×</button></div><article id="commentaryDialogBody" class="study-content"></article><div class="dialog-actions"><button id="closeCommentaryBtnBottom" class="outline" type="button">Close</button></div></dialog>
+  <dialog id="noteDialog"><form method="dialog" id="noteForm"><div class="dialog-head"><h2 id="noteVerseRef">Verse note</h2><button class="icon-button" value="cancel" aria-label="Close">×</button></div><p id="noteVerseText" class="muted"></p><label>Your study note<textarea id="noteText" rows="5" placeholder="Write your observation or question…"></textarea></label><div class="dialog-actions"><button value="cancel" class="outline">Cancel</button><button id="saveNoteBtn" value="save" class="primary">Save note</button></div></form></dialog>
   <script src="book-guides.js" defer></script>
   <script src="verse-commentary.js" defer></script>
+  <script src="exodus-commentary.js" defer></script>
   <script src="app.js" defer></script>
 </body>
 </html>
