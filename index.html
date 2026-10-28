@@ -139,6 +139,11 @@
   </main>
   <footer>One God One Faith Ministry · Digital Oneness Study Bible<br><span id="footerStatus">Not yet deployed</span></footer>
 
+  <dialog id="commentaryDialog">
+    <div class="dialog-head"><h2 id="commentaryDialogTitle">Verse commentary</h2><button id="closeCommentaryBtn" class="icon-button" type="button" aria-label="Close">×</button></div>
+    <article id="commentaryDialogBody" class="study-content"></article>
+    <div class="dialog-actions"><button id="closeCommentaryBtnBottom" class="outline" type="button">Close</button></div>
+  </dialog>
   <dialog id="noteDialog">
     <form method="dialog" id="noteForm">
       <div class="dialog-head"><h2 id="noteVerseRef">Verse note</h2><button class="icon-button" value="cancel" aria-label="Close">×</button></div>
@@ -148,6 +153,7 @@
     </form>
   </dialog>
   <script src="book-guides.js" defer></script>
+  <script src="verse-commentary.js" defer></script>
   <script src="app.js" defer></script>
 </body>
 </html>
