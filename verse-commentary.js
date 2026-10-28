@@ -4903,5 +4903,391 @@ window.verseCommentary = {
     "refs": [
       "Genesis 31:7–12"
     ]
+  },
+  "Genesis 31:1": {
+    "title": "Laban’s sons grow resentful",
+    "text": "Jacob hears that Laban’s sons accuse him of taking their father’s wealth. The family relationship has deteriorated, and Jacob recognizes that his position is changing.",
+    "refs": [
+      "Genesis 30:43"
+    ]
+  },
+  "Genesis 31:2": {
+    "title": "Laban’s attitude changes",
+    "text": "Jacob notices that Laban no longer treats him as before. The change confirms that Jacob’s growing household has become a source of tension.",
+    "refs": [
+      "Genesis 30:27–30"
+    ]
+  },
+  "Genesis 31:3": {
+    "title": "The LORD commands Jacob to return",
+    "text": "The LORD tells Jacob to return to his fathers’ land and promises to be with him. God’s direction recalls the promise given at Bethel and frames the journey home.",
+    "refs": [
+      "Genesis 28:13–15"
+    ]
+  },
+  "Genesis 31:4": {
+    "title": "Jacob calls Rachel and Leah",
+    "text": "Jacob asks Rachel and Leah to meet him in the field where his flock is. He discusses the family’s future away from Laban’s household.",
+    "refs": [
+      "Genesis 31:14–16"
+    ]
+  },
+  "Genesis 31:5": {
+    "title": "God has been with Jacob",
+    "text": "Jacob says that the God of his father has been with him despite Laban’s changed attitude. The account presents God’s presence as a source of help amid unfair treatment.",
+    "refs": [
+      "Genesis 28:15"
+    ]
+  },
+  "Genesis 31:6": {
+    "title": "Jacob’s hard work",
+    "text": "Jacob says he served their father with all his strength. He appeals to the years of labor that supported Laban’s household.",
+    "refs": [
+      "Genesis 30:29–30"
+    ]
+  },
+  "Genesis 31:7": {
+    "title": "Laban changed the wages",
+    "text": "Jacob says Laban changed his wages repeatedly, but God did not allow Laban to harm him. The text emphasizes God’s protection in the face of exploitation.",
+    "refs": [
+      "Genesis 30:28–43"
+    ]
+  },
+  "Genesis 31:8": {
+    "title": "The flock’s markings",
+    "text": "Jacob explains that Laban’s changing wage terms did not prevent the flock from producing animals that became Jacob’s wages. The details recall their agreement, while verse 12 attributes the outcome to God’s oversight.",
+    "refs": [
+      "Genesis 30:32–43"
+    ]
+  },
+  "Genesis 31:9": {
+    "title": "God transferred the livestock",
+    "text": "Jacob says God took livestock from Laban and gave it to him. The statement interprets Jacob’s increase as God’s response to the unfair arrangement.",
+    "refs": [
+      "Genesis 30:43"
+    ]
+  },
+  "Genesis 31:10": {
+    "title": "Jacob’s dream about the animals",
+    "text": "Jacob recounts seeing the animals in a dream during breeding season. The dream becomes part of his explanation of how God directed the outcome.",
+    "refs": [
+      "Genesis 31:11–12"
+    ]
+  },
+  "Genesis 31:11": {
+    "title": "The angel of God speaks",
+    "text": "Jacob says the angel of God called him by name in the dream. The passage presents an angelic messenger delivering God’s message; the title alone should not be used to assert more than the text states.",
+    "refs": [
+      "Genesis 31:13"
+    ]
+  },
+  "Genesis 31:12": {
+    "title": "God sees Laban’s treatment",
+    "text": "The speaker tells Jacob that God has seen what Laban is doing and the marked animals. The emphasis is on divine awareness and protection, not on rods acting as magic.",
+    "refs": [
+      "Genesis 31:7–9"
+    ]
+  },
+  "Genesis 31:13": {
+    "title": "The God of Bethel",
+    "text": "The speaker identifies Himself with the God who appeared at Bethel, where Jacob anointed the pillar and made a vow. The message connects Jacob’s departure with the earlier revelation and promise.",
+    "refs": [
+      "Genesis 28:18–22"
+    ]
+  },
+  "Genesis 31:14": {
+    "title": "Rachel and Leah answer",
+    "text": "Rachel and Leah ask whether any inheritance remains for them in their father’s house. They recognize that Laban’s actions have treated them as outsiders rather than secure members of his household.",
+    "refs": [
+      "Genesis 31:15"
+    ]
+  },
+  "Genesis 31:15": {
+    "title": "Their father treated them as strangers",
+    "text": "The sisters say their father sold them and used up the money associated with them. Their words describe a family arrangement in which they believe they have been deprived of a fair share.",
+    "refs": [
+      "Genesis 29:18–30"
+    ]
+  },
+  "Genesis 31:16": {
+    "title": "They support Jacob’s departure",
+    "text": "Rachel and Leah acknowledge that the wealth God took from their father belongs to them and their children. They agree that Jacob should follow what God has told him.",
+    "refs": [
+      "Genesis 31:3"
+    ]
+  },
+  "Genesis 31:17": {
+    "title": "Jacob prepares to leave",
+    "text": "Jacob places his children and wives on camels and prepares for the journey. The departure involves his whole household, not merely his personal escape.",
+    "refs": [
+      "Genesis 32:1–2"
+    ]
+  },
+  "Genesis 31:18": {
+    "title": "Jacob carries his possessions away",
+    "text": "Jacob drives his livestock and takes the possessions he acquired in Padan-aram toward Isaac in Canaan. The return moves the family toward the land promised to Abraham’s descendants.",
+    "refs": [
+      "Genesis 28:13–15"
+    ]
+  },
+  "Genesis 31:19": {
+    "title": "Rachel takes the household images",
+    "text": "Rachel steals her father’s teraphim while Laban is away shearing sheep. The text reports the theft without endorsing it or fully explaining Rachel’s motive.",
+    "refs": [
+      "Genesis 31:30–35"
+    ]
+  },
+  "Genesis 31:20": {
+    "title": "Jacob leaves without telling Laban",
+    "text": "Jacob departs secretly and does not tell Laban he is fleeing. Fear and distrust shape the escape after years of conflict over wages and treatment.",
+    "refs": [
+      "Genesis 31:31"
+    ]
+  },
+  "Genesis 31:21": {
+    "title": "The Euphrates crossing",
+    "text": "Jacob crosses the river and heads toward the hill country of Gilead. His route takes him away from Laban’s territory and toward Canaan.",
+    "refs": [
+      "Genesis 31:23"
+    ]
+  },
+  "Genesis 31:22": {
+    "title": "Laban learns of the flight",
+    "text": "On the third day Laban is told that Jacob has left. The delay gives Jacob a head start, but Laban pursues him.",
+    "refs": [
+      "Genesis 31:23"
+    ]
+  },
+  "Genesis 31:23": {
+    "title": "Laban pursues Jacob",
+    "text": "Laban gathers relatives and follows Jacob for seven days before catching up in Gilead. The pursuit threatens to turn the family dispute into a confrontation.",
+    "refs": [
+      "Genesis 31:24"
+    ]
+  },
+  "Genesis 31:24": {
+    "title": "God warns Laban in a dream",
+    "text": "God comes to Laban in a dream and warns him not to speak to Jacob either good or bad in a threatening sense. The warning places limits on Laban’s power to harm Jacob.",
+    "refs": [
+      "Genesis 31:29"
+    ]
+  },
+  "Genesis 31:25": {
+    "title": "The households meet in Gilead",
+    "text": "Laban catches up and camps near Jacob. The two households are now face to face, setting the stage for their dispute.",
+    "refs": [
+      "Genesis 31:26–30"
+    ]
+  },
+  "Genesis 31:26": {
+    "title": "Laban accuses Jacob",
+    "text": "Laban asks why Jacob secretly carried away his daughters as if they were captives. His accusation overlooks the years of conflict that drove Jacob to leave without notice.",
+    "refs": [
+      "Genesis 31:20–21"
+    ]
+  },
+  "Genesis 31:27": {
+    "title": "Laban claims he would have celebrated",
+    "text": "Laban says Jacob should have told him so they could have held a farewell feast. The claim contrasts with the threat and pursuit that follow, and the narrative leaves readers to assess his reliability in light of his conduct.",
+    "refs": [
+      "Genesis 31:24, 29"
+    ]
+  },
+  "Genesis 31:28": {
+    "title": "Laban says he was denied a farewell",
+    "text": "Laban complains that he was not allowed to kiss his daughters and grandchildren goodbye. His words focus on his own hurt while the deeper dispute over fairness remains unresolved.",
+    "refs": [
+      "Genesis 31:14–16"
+    ]
+  },
+  "Genesis 31:29": {
+    "title": "Laban acknowledges God’s warning",
+    "text": "Laban says he has power to harm Jacob but that the God of Jacob’s father warned him. His statement confirms that divine intervention restrains him from acting on his threat.",
+    "refs": [
+      "Genesis 31:24"
+    ]
+  },
+  "Genesis 31:30": {
+    "title": "The household images become an issue",
+    "text": "Laban says Jacob left because he longed for his father’s house, then asks why his gods were stolen. The irony is that the household images he calls gods have been taken from him.",
+    "refs": [
+      "Genesis 31:19"
+    ]
+  },
+  "Genesis 31:31": {
+    "title": "Jacob explains his fear",
+    "text": "Jacob says he feared Laban might take his daughters by force, which is why he left secretly. His explanation identifies fear as the reason for his departure, though it does not excuse Rachel’s theft.",
+    "refs": [
+      "Genesis 31:20"
+    ]
+  },
+  "Genesis 31:32": {
+    "title": "Jacob’s challenge about the images",
+    "text": "Jacob says whoever stole Laban’s gods should not live and invites a search. Jacob does not know Rachel has taken them, so his severe statement creates danger within his own household.",
+    "refs": [
+      "Genesis 31:19, 34"
+    ]
+  },
+  "Genesis 31:33": {
+    "title": "Laban searches the tents",
+    "text": "Laban searches Jacob’s, Leah’s, and the servants’ tents but does not find the images. The search raises tension because Rachel has hidden them.",
+    "refs": [
+      "Genesis 31:34–35"
+    ]
+  },
+  "Genesis 31:34": {
+    "title": "Rachel hides the images",
+    "text": "Rachel places the household images in a camel’s furniture and sits on them. The narrative reports the concealment plainly, without presenting it as an example of faithful conduct.",
+    "refs": [
+      "Genesis 31:19"
+    ]
+  },
+  "Genesis 31:35": {
+    "title": "Rachel gives an excuse",
+    "text": "Rachel tells Laban she cannot rise because of her monthly condition, and he does not find the images. Her lie completes the concealment, but the text does not commend it.",
+    "refs": [
+      "Genesis 31:34"
+    ]
+  },
+  "Genesis 31:36": {
+    "title": "Jacob becomes angry",
+    "text": "Jacob confronts Laban and demands to know his wrongdoing. After the search fails, Jacob challenges the accusation and the long history of unfair treatment.",
+    "refs": [
+      "Genesis 31:7"
+    ]
+  },
+  "Genesis 31:37": {
+    "title": "The search produces no evidence",
+    "text": "Jacob asks Laban to display anything belonging to him and let their relatives judge. The challenge moves the argument from accusation toward a review of the evidence.",
+    "refs": [
+      "Genesis 31:32–35"
+    ]
+  },
+  "Genesis 31:38": {
+    "title": "Twenty years of care",
+    "text": "Jacob says the ewes and female goats did not miscarry under his care and that he did not eat the rams. He emphasizes the careful work he performed for Laban’s flocks.",
+    "refs": [
+      "Genesis 30:29"
+    ]
+  },
+  "Genesis 31:39": {
+    "title": "Jacob bore the losses",
+    "text": "Jacob says he did not bring torn animals to Laban but personally bore the losses, whether stolen by day or night. He describes an unusually demanding standard of responsibility for the flock.",
+    "refs": [
+      "Exodus 22:10–13"
+    ]
+  },
+  "Genesis 31:40": {
+    "title": "Hard conditions of service",
+    "text": "Jacob recalls heat by day, frost by night, and sleeplessness. His account makes clear that his prosperity came after difficult years of labor.",
+    "refs": [
+      "Genesis 31:6"
+    ]
+  },
+  "Genesis 31:41": {
+    "title": "Laban changed the agreement repeatedly",
+    "text": "Jacob summarizes twenty years of service, including fourteen years for Laban’s daughters and six for the flock. He says Laban changed his wages ten times, describing a pattern of exploitation.",
+    "refs": [
+      "Genesis 29:18–30",
+      "Genesis 30:28"
+    ]
+  },
+  "Genesis 31:42": {
+    "title": "God saw Jacob’s affliction",
+    "text": "Jacob says that without the God of Abraham and the Fear of Isaac, Laban would have sent him away empty-handed. God saw Jacob’s labor and rebuked Laban, according to Jacob’s testimony.",
+    "refs": [
+      "Genesis 31:24"
+    ]
+  },
+  "Genesis 31:43": {
+    "title": "Laban claims the family and flocks",
+    "text": "Laban responds that the daughters, children, and flocks are his. His claim underscores the central dispute over ownership and authority, despite Jacob’s years of labor.",
+    "refs": [
+      "Genesis 31:14–16"
+    ]
+  },
+  "Genesis 31:44": {
+    "title": "A covenant between them",
+    "text": "Laban proposes a covenant between himself and Jacob. The agreement aims to set a boundary on their conflict and establish a witness between them.",
+    "refs": [
+      "Genesis 31:48–53"
+    ]
+  },
+  "Genesis 31:45": {
+    "title": "Jacob sets up a pillar",
+    "text": "Jacob takes a stone and sets it up as a pillar. The pillar becomes a visible marker of the covenant made between the two men.",
+    "refs": [
+      "Genesis 28:18"
+    ]
+  },
+  "Genesis 31:46": {
+    "title": "Stones gathered as a heap",
+    "text": "Jacob tells his relatives to gather stones, and they make a heap and eat beside it. The meal accompanies the public marking of their agreement.",
+    "refs": [
+      "Genesis 31:47–48"
+    ]
+  },
+  "Genesis 31:47": {
+    "title": "Two names for the heap",
+    "text": "Laban names the heap in Aramaic, and Jacob gives it a Hebrew name, both associated with a heap of witness. The different names reflect their languages while marking the same boundary agreement.",
+    "refs": [
+      "Genesis 31:48"
+    ]
+  },
+  "Genesis 31:48": {
+    "title": "The heap as a witness",
+    "text": "Laban declares the heap a witness between them. The monument stands as a reminder of their agreement and the limits they have set.",
+    "refs": [
+      "Genesis 31:44"
+    ]
+  },
+  "Genesis 31:49": {
+    "title": "Mizpah and God’s oversight",
+    "text": "Laban invokes the LORD to watch between them when they are apart. In context, this is a solemn boundary statement between men who distrust each other, not merely a sentimental farewell.",
+    "refs": [
+      "Genesis 31:52–53"
+    ]
+  },
+  "Genesis 31:50": {
+    "title": "A warning concerning the daughters",
+    "text": "Laban warns Jacob not to mistreat his daughters or take other wives. The warning is striking in light of Laban’s own role in arranging Jacob’s marriages deceptively.",
+    "refs": [
+      "Genesis 29:23–30"
+    ]
+  },
+  "Genesis 31:51": {
+    "title": "The pillar and heap",
+    "text": "Laban points to the pillar and heap as the boundary markers between them. The visible stones give their covenant a lasting public sign.",
+    "refs": [
+      "Genesis 31:45–48"
+    ]
+  },
+  "Genesis 31:52": {
+    "title": "A boundary against harm",
+    "text": "Laban says neither party will pass the markers to harm the other. The covenant seeks to prevent future aggression rather than restore trust or affection.",
+    "refs": [
+      "Genesis 31:44"
+    ]
+  },
+  "Genesis 31:53": {
+    "title": "God as judge between them",
+    "text": "Laban invokes the God of Abraham and Nahor’s family, while Jacob swears by the Fear of his father Isaac. The verse records family religious language and Jacob’s particular reverence for God; it should not be read as a full doctrinal formula.",
+    "refs": [
+      "Genesis 31:42"
+    ]
+  },
+  "Genesis 31:54": {
+    "title": "Jacob offers a sacrifice",
+    "text": "Jacob offers a sacrifice on the mountain and invites his relatives to eat. The meal follows the covenant and marks a pause in the hostility between the households.",
+    "refs": [
+      "Genesis 26:30"
+    ]
+  },
+  "Genesis 31:55": {
+    "title": "Laban departs",
+    "text": "Laban rises early, kisses his daughters and grandchildren, blesses them, and returns home. Jacob continues his journey, having left Laban’s control and moved toward the land God promised him.",
+    "refs": [
+      "Genesis 32:1–2"
+    ]
   }
 };
