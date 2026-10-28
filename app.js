@@ -274,7 +274,7 @@ const crossrefTrail = [
 function renderReadingPlan(){
  const list=$("readingPlanList"); if(!list)return;
  const done=JSON.parse(localStorage.getItem("ogof-reading-plan")||"[]");
- list.innerHTML=readingPlan.map((item,i)=>`<label class="plan-day ${done.includes(i)?"done":""}"><input type="checkbox" data-plan-day="${i}" ${done.includes(i)?"checked":""}><span><strong>Day ${i+1}: ${esc(item[0])}</strong>${esc(item[1])}</span></label>`).join("");
+ list.innerHTML=readingPlan.map((item,i)=>`<div class="plan-day ${done.includes(i)?"done":""}"><input type="checkbox" aria-label="Mark day ${i+1} complete" data-plan-day="${i}" ${done.includes(i)?"checked":""}><span><strong>Day ${i+1}: <button type="button" class="plan-reference" data-plan-ref="${esc(item[0])}">${esc(item[0])}</button></strong>${esc(item[1])}</span></div>`).join("");
  const n=done.length;$("planProgressText").textContent=`${n} of ${readingPlan.length} days completed`;$("planProgressBar").style.width=`${n/readingPlan.length*100}%`;
 }
 function renderCrossrefTrail(){
@@ -330,6 +330,7 @@ window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();installProm
 $("installBtn").addEventListener("click",async()=>{if(!installPrompt)return;installPrompt.prompt();await installPrompt.userChoice;installPrompt=null;$("installBtn").classList.add("hidden")});
 if("serviceWorker" in navigator && location.protocol.startsWith("http"))navigator.serviceWorker.register("./sw.js").catch(err=>console.warn("Service worker registration failed",err));
 $("readingPlanList").addEventListener("change",e=>{const cb=e.target.closest("[data-plan-day]");if(!cb)return;const done=JSON.parse(localStorage.getItem("ogof-reading-plan")||"[]");const i=Number(cb.dataset.planDay);const next=cb.checked?[...new Set([...done,i])]:done.filter(x=>x!==i);localStorage.setItem("ogof-reading-plan",JSON.stringify(next));renderReadingPlan();});
+$("readingPlanList").addEventListener("click",e=>{const b=e.target.closest("[data-plan-ref]");if(!b)return;const ref=b.dataset.planRef;const match=ref.match(/^(.+?\s+\d+:\d+(?:[-–]\d+)?)/);if(match)openRef(match[1]);else{document.querySelector('[data-tab="read"]').click();setStatus("This review day contains multiple references. Open them one at a time using the Book and Chapter selectors.");}});
 $("resetPlanBtn").addEventListener("click",()=>{if(confirm("Reset all reading-plan checkmarks on this device?")){localStorage.removeItem("ogof-reading-plan");renderReadingPlan();}});
 renderTopic();renderBookmarks();renderReadingPlan();renderCrossrefTrail();renderBookGuide();
 $("bookGuideSelect").addEventListener("change",renderBookGuide);
