@@ -17121,5 +17121,522 @@ window.verseCommentary = {
     "refs": [
       "Exodus 34:29–34"
     ]
+  },
+  "Exodus 35:1": {
+    "title": "Moses gathers the congregation",
+    "text": "Moses gathers all Israel and repeats the LORD’s commandments. The instructions that follow turn the plans given on Sinai into the community’s actual work of building the sanctuary.",
+    "refs": [
+      "Exodus 25:1–9"
+    ]
+  },
+  "Exodus 35:2": {
+    "title": "Six days to work, seventh to rest",
+    "text": "Israel is reminded to work six days and keep the seventh day holy as a Sabbath of rest. Even the work of building the tabernacle must not override the Sabbath command.",
+    "refs": [
+      "Exodus 20:8–11",
+      "Exodus 31:12–17"
+    ]
+  },
+  "Exodus 35:3": {
+    "title": "No fire on the Sabbath",
+    "text": "The people are told not to kindle a fire in their dwellings on the Sabbath. The instruction applies the Sabbath command to ordinary household activity in Israel’s covenant setting.",
+    "refs": [
+      "Exodus 16:23"
+    ]
+  },
+  "Exodus 35:4": {
+    "title": "An offering for the LORD",
+    "text": "Moses tells Israel what the LORD commands concerning a contribution for the sanctuary. The materials are to be given according to the earlier instructions.",
+    "refs": [
+      "Exodus 25:1–7"
+    ]
+  },
+  "Exodus 35:5": {
+    "title": "A willing-hearted offering",
+    "text": "Those who are willing are to bring an offering of gold, silver, bronze, and other materials. The work is supported by voluntary generosity, not simply by compulsion.",
+    "refs": [
+      "Exodus 25:2",
+      "2 Corinthians 9:7"
+    ]
+  },
+  "Exodus 35:6": {
+    "title": "Colored yarn and fine linen",
+    "text": "Blue, purple, scarlet, and fine linen are among the requested materials. These supplies will be used for the curtains and priestly garments.",
+    "refs": [
+      "Exodus 26:1",
+      "Exodus 28:5"
+    ]
+  },
+  "Exodus 35:7": {
+    "title": "Skins and acacia wood",
+    "text": "Ram skins, durable coverings, and acacia wood are requested for the tabernacle. The materials provide both protection and structure for the portable sanctuary.",
+    "refs": [
+      "Exodus 25:5"
+    ]
+  },
+  "Exodus 35:8": {
+    "title": "Oil and incense spices",
+    "text": "Oil for the lamps and spices for anointing oil and incense are listed. Israel’s contribution supports not only the building but also its continuing worship.",
+    "refs": [
+      "Exodus 27:20",
+      "Exodus 30:22–38"
+    ]
+  },
+  "Exodus 35:9": {
+    "title": "Stones for priestly service",
+    "text": "Onyx stones and other precious stones are requested for the ephod and breastplate. The stones will carry the names of Israel’s tribes in the priestly service.",
+    "refs": [
+      "Exodus 28:9–21"
+    ]
+  },
+  "Exodus 35:10": {
+    "title": "Skilled workers are invited",
+    "text": "Everyone who is wise-hearted among the people is to come and make what the LORD commanded. The sanctuary requires the service of many skilled hands.",
+    "refs": [
+      "Exodus 31:1–6"
+    ]
+  },
+  "Exodus 35:11": {
+    "title": "The tabernacle and its coverings",
+    "text": "The tent, coverings, boards, bars, pillars, and sockets are listed as work to be made. The detailed list shows that the whole structure is to be assembled according to God’s pattern.",
+    "refs": [
+      "Exodus 26:1–30"
+    ]
+  },
+  "Exodus 35:12": {
+    "title": "The ark and its veil",
+    "text": "The ark, staves, mercy seat, and veil are included among the sanctuary work. These objects are central to the covenant testimony and the prescribed approach to God.",
+    "refs": [
+      "Exodus 25:10–22",
+      "Exodus 26:31–34"
+    ]
+  },
+  "Exodus 35:13": {
+    "title": "The table and its vessels",
+    "text": "The table, staves, utensils, and showbread are listed. Their regular service will express Israel’s ongoing dependence on the LORD.",
+    "refs": [
+      "Exodus 25:23–30"
+    ]
+  },
+  "Exodus 35:14": {
+    "title": "The lampstand and its utensils",
+    "text": "The lampstand, lamps, oil, and utensils are to be made. The lampstand provides light in the sanctuary as prescribed by God.",
+    "refs": [
+      "Exodus 25:31–40"
+    ]
+  },
+  "Exodus 35:15": {
+    "title": "The incense altar and anointing oil",
+    "text": "The incense altar, anointing oil, incense, and entrance screen are included. These items serve the sanctuary’s worship and mark its entrance and furnishings as holy.",
+    "refs": [
+      "Exodus 30:1–38"
+    ]
+  },
+  "Exodus 35:16": {
+    "title": "The courtyard altar and laver",
+    "text": "The burnt-offering altar, bronze grating, utensils, laver, and its base are listed. These objects support sacrifice and washing in the courtyard.",
+    "refs": [
+      "Exodus 27:1–8",
+      "Exodus 30:17–21"
+    ]
+  },
+  "Exodus 35:17": {
+    "title": "The courtyard hangings",
+    "text": "The hangings, pillars, sockets, and gate screen are to be made for the courtyard. The enclosure gives the sanctuary a defined outer space.",
+    "refs": [
+      "Exodus 27:9–19"
+    ]
+  },
+  "Exodus 35:18": {
+    "title": "Tent and courtyard pins",
+    "text": "The pins and cords needed for the tabernacle and courtyard are included. Even small structural fittings are part of the work God has commanded.",
+    "refs": [
+      "Exodus 27:19"
+    ]
+  },
+  "Exodus 35:19": {
+    "title": "The holy garments",
+    "text": "The service garments for Aaron and his sons are included in the list. The priests’ clothing is part of the sacred work and is to follow the pattern given to Moses.",
+    "refs": [
+      "Exodus 28:1–43"
+    ]
+  },
+  "Exodus 35:20": {
+    "title": "The people depart from Moses",
+    "text": "The congregation leaves Moses after hearing the instructions. The next verses show that many respond by bringing gifts and offering their skills.",
+    "refs": [
+      "Exodus 35:21–29"
+    ]
+  },
+  "Exodus 35:21": {
+    "title": "Hearts stirred to give",
+    "text": "Everyone whose heart is stirred and spirit is willing brings an offering for the tabernacle, its service, and the holy garments. The work advances through willing response to God’s purpose.",
+    "refs": [
+      "Exodus 25:2"
+    ]
+  },
+  "Exodus 35:22": {
+    "title": "Men and women bring jewelry",
+    "text": "Men and women bring gold jewelry and other items as a freewill offering to the LORD. The text shows participation across the community, with gifts offered willingly.",
+    "refs": [
+      "Exodus 35:29"
+    ]
+  },
+  "Exodus 35:23": {
+    "title": "Materials are brought as needed",
+    "text": "Those who have blue, purple, scarlet yarn, fine linen, skins, and other materials bring them. The varied contributions supply the different parts of the sanctuary project.",
+    "refs": [
+      "Exodus 25:4–7"
+    ]
+  },
+  "Exodus 35:24": {
+    "title": "Silver, bronze, and acacia wood",
+    "text": "Those with silver or bronze bring it as an offering, and those with acacia wood bring it for the work. The community contributes according to what it has available.",
+    "refs": [
+      "Exodus 25:3–5"
+    ]
+  },
+  "Exodus 35:25": {
+    "title": "Women spin with skill",
+    "text": "Wise-hearted women spin yarn with their hands and bring the results. The passage explicitly honors women’s skilled labor as part of the sanctuary’s construction.",
+    "refs": [
+      "Exodus 35:26"
+    ]
+  },
+  "Exodus 35:26": {
+    "title": "Women spin goats’ hair",
+    "text": "Women whose hearts stir them to skillfully spin goats’ hair do so. Their craft supplies the material for the tent covering.",
+    "refs": [
+      "Exodus 26:7"
+    ]
+  },
+  "Exodus 35:27": {
+    "title": "Rulers bring precious stones",
+    "text": "The rulers bring onyx and other stones for the ephod and breastplate. Their contribution provides the valuable materials needed for the high priest’s garments.",
+    "refs": [
+      "Exodus 28:9–21"
+    ]
+  },
+  "Exodus 35:28": {
+    "title": "Spices and oil are brought",
+    "text": "The people bring spices, oil for the light, and ingredients for anointing oil and incense. The materials support both the physical sanctuary and its ritual service.",
+    "refs": [
+      "Exodus 30:22–38"
+    ]
+  },
+  "Exodus 35:29": {
+    "title": "Israel gives a willing offering",
+    "text": "The people of Israel, men and women, bring willing offerings to the LORD for the work He commanded through Moses. The repeated emphasis on willingness shows that the sanctuary is built through shared generosity.",
+    "refs": [
+      "Exodus 35:21–22"
+    ]
+  },
+  "Exodus 35:30": {
+    "title": "Bezalel is named by God",
+    "text": "Moses tells Israel that the LORD has called Bezalel by name, from the tribe of Judah. The skilled work is not merely human planning; God appoints workers for the task.",
+    "refs": [
+      "Exodus 31:1–2"
+    ]
+  },
+  "Exodus 35:31": {
+    "title": "Filled with the Spirit and wisdom",
+    "text": "God fills Bezalel with His Spirit in wisdom, understanding, knowledge, and craftsmanship. This is a clear example of divine empowerment for practical work in service to God.",
+    "refs": [
+      "Exodus 31:3"
+    ]
+  },
+  "Exodus 35:32": {
+    "title": "Artistic work in precious materials",
+    "text": "Bezalel can devise artistic designs in gold, silver, and bronze. The passage presents craftsmanship as a God-given skill used for the sanctuary.",
+    "refs": [
+      "Exodus 31:4"
+    ]
+  },
+  "Exodus 35:33": {
+    "title": "Stone setting and wood carving",
+    "text": "Bezalel can cut stones, carve wood, and perform other skilled work. The range of abilities needed for the sanctuary is recognized as part of his calling.",
+    "refs": [
+      "Exodus 31:5"
+    ]
+  },
+  "Exodus 35:34": {
+    "title": "Oholiab is also appointed",
+    "text": "God gives Bezalel and Oholiab the ability to teach others. The work includes passing on skill, so the project is shared rather than dependent on one expert alone.",
+    "refs": [
+      "Exodus 31:6"
+    ]
+  },
+  "Exodus 35:35": {
+    "title": "Wisdom for many kinds of work",
+    "text": "God fills them with wisdom to do engraving, design, embroidery, and weaving in colored materials and fine linen. The chapter honors both design and execution as necessary parts of the sanctuary work.",
+    "refs": [
+      "Exodus 31:3–6"
+    ]
+  },
+  "Exodus 36:1": {
+    "title": "The skilled workers begin the work",
+    "text": "Bezalel, Oholiab, and the wise-hearted workers are to make everything the LORD commanded. Their skill is exercised in obedience to God’s pattern rather than independent invention.",
+    "refs": [
+      "Exodus 31:1–6"
+    ]
+  },
+  "Exodus 36:2": {
+    "title": "Moses calls the willing workers",
+    "text": "Moses calls Bezalel, Oholiab, and all whose hearts have stirred them to come to the work. The project gathers both appointed craftsmen and willing contributors.",
+    "refs": [
+      "Exodus 35:10"
+    ]
+  },
+  "Exodus 36:3": {
+    "title": "The offerings continue to arrive",
+    "text": "The workers receive from Moses the contributions the people have brought, and people continue bringing freewill offerings each morning. The abundance shows how generously Israel has responded.",
+    "refs": [
+      "Exodus 35:21–29"
+    ]
+  },
+  "Exodus 36:4": {
+    "title": "The workers report an abundance",
+    "text": "The skilled workers leave their tasks and come to Moses because the people have brought more than enough. The report leads Moses to stop further contributions.",
+    "refs": [
+      "Exodus 36:5"
+    ]
+  },
+  "Exodus 36:5": {
+    "title": "More than enough for the work",
+    "text": "The workers tell Moses that the people have brought far more than is needed for the commanded work. Their generosity has exceeded the requirements.",
+    "refs": [
+      "Exodus 35:21–29"
+    ]
+  },
+  "Exodus 36:6": {
+    "title": "Moses stops the offerings",
+    "text": "Moses commands that no more offering be brought for the sanctuary, and the people are restrained from giving more. This unusual moment shows that the contribution was sufficient and that the leaders did not exploit the people for endless giving.",
+    "refs": [
+      "Exodus 36:7"
+    ]
+  },
+  "Exodus 36:7": {
+    "title": "Enough material and more",
+    "text": "The materials are sufficient for all the work, with some left over. The sanctuary project is supplied through the people’s willing contributions under God’s instruction.",
+    "refs": [
+      "Exodus 36:3–6"
+    ]
+  },
+  "Exodus 36:8": {
+    "title": "The fine inner curtains",
+    "text": "The skilled workers make the tabernacle curtains from fine linen with blue, purple, and scarlet yarn, with cherubim woven into them. The actual construction now follows the design described earlier.",
+    "refs": [
+      "Exodus 26:1"
+    ]
+  },
+  "Exodus 36:9": {
+    "title": "Curtain measurements",
+    "text": "The curtains are made to the specified lengths and widths. Exact measurements allow the pieces to fit together as planned.",
+    "refs": [
+      "Exodus 26:2"
+    ]
+  },
+  "Exodus 36:10": {
+    "title": "Curtains joined in two sets",
+    "text": "The workers join five curtains together in each set. The joined sections form the full inner covering.",
+    "refs": [
+      "Exodus 26:3"
+    ]
+  },
+  "Exodus 36:11": {
+    "title": "Blue loops on the curtain edges",
+    "text": "Loops of blue are made along the edge of each curtain set. The loops prepare the sections to be joined by clasps.",
+    "refs": [
+      "Exodus 26:4"
+    ]
+  },
+  "Exodus 36:12": {
+    "title": "Fifty loops on each side",
+    "text": "The loops are made to match opposite one another, fifty on each curtain set. The matching arrangement allows the clasps to join the coverings evenly.",
+    "refs": [
+      "Exodus 26:5"
+    ]
+  },
+  "Exodus 36:13": {
+    "title": "Gold clasps make one tabernacle",
+    "text": "The workers make fifty gold clasps and join the curtains so the tabernacle becomes one whole. The construction fulfills the design given on the mountain.",
+    "refs": [
+      "Exodus 26:6"
+    ]
+  },
+  "Exodus 36:14": {
+    "title": "The goats’ hair covering",
+    "text": "The workers make eleven curtains of goats’ hair for the tent over the tabernacle. This outer covering protects the inner curtains.",
+    "refs": [
+      "Exodus 26:7"
+    ]
+  },
+  "Exodus 36:15": {
+    "title": "The outer curtains’ dimensions",
+    "text": "The goats’ hair curtains are made to the specified dimensions. Their size is designed to cover the tabernacle as instructed.",
+    "refs": [
+      "Exodus 26:8"
+    ]
+  },
+  "Exodus 36:16": {
+    "title": "The curtains are joined",
+    "text": "The workers join six curtains into one set and five into another. The joined pieces create the required shape of the outer tent covering.",
+    "refs": [
+      "Exodus 26:9"
+    ]
+  },
+  "Exodus 36:17": {
+    "title": "Loops for the outer covering",
+    "text": "Fifty loops are made on the edge of one set and fifty on the edge of the other. The loops prepare the outer covering to be fastened together.",
+    "refs": [
+      "Exodus 26:10"
+    ]
+  },
+  "Exodus 36:18": {
+    "title": "Bronze clasps join the tent",
+    "text": "Fifty bronze clasps are made to join the tent covering into one. The outer covering is connected according to the prescribed design.",
+    "refs": [
+      "Exodus 26:11"
+    ]
+  },
+  "Exodus 36:19": {
+    "title": "Additional protective coverings",
+    "text": "The workers make the ram-skin covering dyed red and the outer covering of durable skins. These layers protect the tent from the weather.",
+    "refs": [
+      "Exodus 26:14"
+    ]
+  },
+  "Exodus 36:20": {
+    "title": "Upright boards of acacia wood",
+    "text": "The workers make upright boards of acacia wood for the tabernacle. These form the supporting framework for the curtains and coverings.",
+    "refs": [
+      "Exodus 26:15"
+    ]
+  },
+  "Exodus 36:21": {
+    "title": "Board dimensions",
+    "text": "Each board is made to the specified length and width. Consistent dimensions help the structure fit together securely.",
+    "refs": [
+      "Exodus 26:16"
+    ]
+  },
+  "Exodus 36:22": {
+    "title": "Tenons on the boards",
+    "text": "Each board has two tenons set in order. These fit into the supporting sockets and hold the framework upright.",
+    "refs": [
+      "Exodus 26:17"
+    ]
+  },
+  "Exodus 36:23": {
+    "title": "Boards for the south side",
+    "text": "Twenty boards are made for the south side of the tabernacle. The construction follows the measurements given to Moses.",
+    "refs": [
+      "Exodus 26:18"
+    ]
+  },
+  "Exodus 36:24": {
+    "title": "Silver sockets for the boards",
+    "text": "Forty silver sockets are made for the south side, two under each board. The sockets anchor the boards securely.",
+    "refs": [
+      "Exodus 26:19"
+    ]
+  },
+  "Exodus 36:25": {
+    "title": "Boards for the north side",
+    "text": "Twenty boards are made for the north side, matching the south side’s arrangement. The symmetry contributes to a stable framework.",
+    "refs": [
+      "Exodus 26:20"
+    ]
+  },
+  "Exodus 36:26": {
+    "title": "Forty sockets on the north side",
+    "text": "The north side also receives forty silver sockets, two under each board. The repeated construction follows the plan precisely.",
+    "refs": [
+      "Exodus 26:21"
+    ]
+  },
+  "Exodus 36:27": {
+    "title": "Boards for the west side",
+    "text": "Six boards are made for the west or rear side of the tabernacle. The number differs from the long sides because of the structure’s dimensions.",
+    "refs": [
+      "Exodus 26:22"
+    ]
+  },
+  "Exodus 36:28": {
+    "title": "Corner boards",
+    "text": "Two boards are made for the corners at the rear. These pieces help stabilize the framework where the sides meet.",
+    "refs": [
+      "Exodus 26:23"
+    ]
+  },
+  "Exodus 36:29": {
+    "title": "The corner boards are joined",
+    "text": "The corner boards are joined at the top and bottom by a ring. The special connection reinforces the rear corners of the structure.",
+    "refs": [
+      "Exodus 26:24"
+    ]
+  },
+  "Exodus 36:30": {
+    "title": "Eight boards and sixteen sockets",
+    "text": "The west side has eight boards and sixteen sockets, two under each board. The count completes the main board framework.",
+    "refs": [
+      "Exodus 26:25"
+    ]
+  },
+  "Exodus 36:31": {
+    "title": "Bars for the boards",
+    "text": "Bars of acacia wood are made to hold the boards together. They strengthen the structure and keep the boards aligned.",
+    "refs": [
+      "Exodus 26:26"
+    ]
+  },
+  "Exodus 36:32": {
+    "title": "Bars for the opposite side",
+    "text": "Bars are made for the other side of the tabernacle as instructed. The bars bind the boards into one supporting framework.",
+    "refs": [
+      "Exodus 26:27"
+    ]
+  },
+  "Exodus 36:33": {
+    "title": "The middle bar extends end to end",
+    "text": "The middle bar runs through the boards from one end to the other. This central support helps unify the framework.",
+    "refs": [
+      "Exodus 26:28"
+    ]
+  },
+  "Exodus 36:34": {
+    "title": "Boards and bars overlaid with gold",
+    "text": "The boards and their rings are overlaid with gold, and the bars are also covered with gold. The construction follows the materials and pattern God prescribed.",
+    "refs": [
+      "Exodus 26:29"
+    ]
+  },
+  "Exodus 36:35": {
+    "title": "The veil is made",
+    "text": "The workers make the veil of fine linen with blue, purple, scarlet, and cherubim. The veil separates the holy place from the most holy place.",
+    "refs": [
+      "Exodus 26:31"
+    ]
+  },
+  "Exodus 36:36": {
+    "title": "Pillars for the veil",
+    "text": "Four acacia pillars are made for the veil and overlaid with gold, with silver sockets. The pillars support the boundary within the sanctuary.",
+    "refs": [
+      "Exodus 26:32"
+    ]
+  },
+  "Exodus 36:37": {
+    "title": "The entrance screen",
+    "text": "The workers make the screen for the tabernacle entrance from embroidered colored fabric and fine linen. The entrance screen matches the sacred design of the sanctuary.",
+    "refs": [
+      "Exodus 26:36"
+    ]
+  },
+  "Exodus 36:38": {
+    "title": "Five pillars for the screen",
+    "text": "Five pillars with hooks are made for the entrance screen, and their tops and bands are overlaid with gold while the sockets are bronze. The entrance structure completes the framework described in the plan.",
+    "refs": [
+      "Exodus 26:37"
+    ]
   }
 };
