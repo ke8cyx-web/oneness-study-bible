@@ -132,14 +132,15 @@ function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",
 function refOf(book,chapter,verse){return `${book} ${chapter}:${verse}`}
 function renderChapter(){
  if(!bible)return;
+ const highlights=getHighlights();
  currentBookIndex=Number(els.book.value);currentChapter=Number(els.chapter.value);
  const b=bible[currentBookIndex], verses=b.chapters[currentChapter-1]||[];
  els.title.textContent=`${b.name} ${currentChapter}`;
  els.verses.innerHTML="";
  verses.forEach((text,i)=>{
   const v=i+1, ref=refOf(b.name,currentChapter,v);
-  const row=document.createElement("div");row.className="verse";
-  row.innerHTML=`<span class="verse-number">${v}</span><div class="verse-text">${esc(text)}</div><div class="verse-actions"><button data-action="bookmark" data-ref="${esc(ref)}" data-text="${esc(text)}">Save</button><button data-action="note" data-ref="${esc(ref)}" data-text="${esc(text)}">Note</button></div>`;
+  const row=document.createElement("div");row.className="verse"+(highlights[ref]?" verse-highlighted":"");
+  row.innerHTML=`<span class="verse-number">${v}</span><div class="verse-text">${esc(text)}</div><div class="verse-actions"><button data-action="bookmark" data-ref="${esc(ref)}" data-text="${esc(text)}">Save</button><button data-action="note" data-ref="${esc(ref)}" data-text="${esc(text)}">Note</button><button data-action="highlight" data-ref="${esc(ref)}" title="Highlight this verse">Mark</button><button data-action="copy" data-ref="${esc(ref)}" data-text="${esc(text)}">Copy</button></div>`;
   els.verses.append(row);
  });
  els.prev.disabled=currentBookIndex===0&&currentChapter===1;
@@ -161,6 +162,9 @@ function addBookmark(ref,text){
 }
 function removeBookmark(ref){saveBookmarks(getBookmarks().filter(x=>x.ref!==ref))}
 function getNotes(){try{return JSON.parse(localStorage.getItem("ogof-notes")||"{}")}catch{return{}}}
+function getHighlights(){try{return JSON.parse(localStorage.getItem("ogof-highlights")||"{}")}catch{return{}}}
+function toggleHighlight(ref){const h=getHighlights();if(h[ref])delete h[ref];else h[ref]=true;localStorage.setItem("ogof-highlights",JSON.stringify(h));renderChapter();setStatus(h[ref]?"Verse marked":"Verse mark removed");}
+async function copyText(text){try{await navigator.clipboard.writeText(text);setStatus("Copied to clipboard");}catch{const area=document.createElement("textarea");area.value=text;document.body.append(area);area.select();const ok=document.execCommand("copy");area.remove();setStatus(ok?"Copied to clipboard":"Copy was blocked by this browser",!ok);}}
 function showNote(ref,text){
  noteTarget={ref,text};$("noteVerseRef").textContent=ref;$("noteVerseText").textContent=text;$("noteText").value=getNotes()[ref]||"";$("noteDialog").showModal();
 }
@@ -183,6 +187,7 @@ function renderBookmarks(){
  });
 }
 function parseRef(ref){
+ if(!bible)return null;
  const m=ref.trim().match(/^(.*)\s+(\d+):(\d+)(?:[-–]\d+)?$/);if(!m)return null;
  const refBook=m[1].toLowerCase();
  const aliases={"psalm":"psalms","song of songs":"song of solomon"};
@@ -298,7 +303,12 @@ els.verses.addEventListener("click",e=>{
  const b=e.target.closest("button[data-action]");if(!b)return;
  if(b.dataset.action==="bookmark")addBookmark(b.dataset.ref,b.dataset.text);
  if(b.dataset.action==="note")showNote(b.dataset.ref,b.dataset.text);
+ if(b.dataset.action==="highlight")toggleHighlight(b.dataset.ref);
+ if(b.dataset.action==="copy")copyText(`${b.dataset.ref} (KJV) — ${b.dataset.text}`);
 });
+$("readChapterBtn").addEventListener("click",()=>{if(!bible)return;if(!("speechSynthesis" in window)){setStatus("Read aloud is not supported by this browser.",true);return}window.speechSynthesis.cancel();const text=[...els.verses.querySelectorAll(".verse")].map(row=>`${els.title.textContent}, verse ${row.querySelector(".verse-number").textContent}. ${row.querySelector(".verse-text").textContent}`).join(" ");const utterance=new SpeechSynthesisUtterance(text);utterance.rate=0.9;utterance.onend=()=>setStatus("Read aloud finished");utterance.onerror=()=>setStatus("Read aloud stopped or unavailable",true);window.speechSynthesis.speak(utterance);setStatus("Reading chapter aloud…");});
+$("stopReadBtn").addEventListener("click",()=>{if("speechSynthesis" in window)window.speechSynthesis.cancel();setStatus("Read aloud stopped");});
+$("printChapterBtn").addEventListener("click",()=>window.print());
 $("noteForm").addEventListener("submit",e=>{if(e.submitter?.id==="saveNoteBtn"){e.preventDefault();saveNote()}});
 els.searchForm.addEventListener("submit",e=>{
  e.preventDefault();if(!bible){els.searchStatus.textContent="Load the Bible online once before searching.";return}
