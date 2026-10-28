@@ -6381,5 +6381,470 @@ window.verseCommentary = {
     "refs": [
       "Genesis 36:8"
     ]
+  },
+  "Genesis 37:1": {
+    "title": "Jacob dwells in Canaan",
+    "text": "Jacob lives in the land where his father had sojourned. The account now focuses on Joseph and the tensions within Jacob’s household.",
+    "refs": [
+      "Genesis 35:27"
+    ]
+  },
+  "Genesis 37:2": {
+    "title": "Joseph’s account of his brothers",
+    "text": "Joseph, seventeen years old, tends the flock with his brothers and brings a report about them to Jacob. The verse introduces the family dynamics that lead to Joseph’s suffering.",
+    "refs": [
+      "Genesis 37:3–4"
+    ]
+  },
+  "Genesis 37:3": {
+    "title": "Israel loves Joseph specially",
+    "text": "Jacob loves Joseph more than his other sons because Joseph was born in his old age, and he makes him a special coat. The favoritism echoes the divisions in the previous generation and fuels resentment.",
+    "refs": [
+      "Genesis 25:28",
+      "Genesis 29:30"
+    ]
+  },
+  "Genesis 37:4": {
+    "title": "His brothers hate him",
+    "text": "Joseph’s brothers see their father’s preference and hate Joseph so much they cannot speak peaceably to him. The verse shows how favoritism damages family relationships.",
+    "refs": [
+      "James 3:16"
+    ]
+  },
+  "Genesis 37:5": {
+    "title": "Joseph’s first dream",
+    "text": "Joseph dreams and tells his brothers, who hate him even more. The dream becomes a source of conflict, though the narrative later shows that God’s providence works through events beyond the brothers’ intentions.",
+    "refs": [
+      "Genesis 37:8"
+    ]
+  },
+  "Genesis 37:6": {
+    "title": "Joseph invites them to hear",
+    "text": "Joseph asks his brothers to hear the dream he has had. The account does not say he understands all the future implications of the dream.",
+    "refs": [
+      "Genesis 37:9–11"
+    ]
+  },
+  "Genesis 37:7": {
+    "title": "The sheaves bow down",
+    "text": "Joseph dreams that their sheaves rise and bow to his sheaf. The image points to his future prominence over his brothers, later realized during the famine in Egypt.",
+    "refs": [
+      "Genesis 42:6"
+    ]
+  },
+  "Genesis 37:8": {
+    "title": "The brothers reject the idea",
+    "text": "The brothers ask whether Joseph intends to rule over them and hate him further because of his dreams and words. Their reaction intensifies the family conflict.",
+    "refs": [
+      "Genesis 37:4–5"
+    ]
+  },
+  "Genesis 37:9": {
+    "title": "The sun, moon, and stars",
+    "text": "Joseph dreams that the sun, moon, and eleven stars bow to him. The symbols extend the dream to his family, and Jacob later questions its meaning while continuing to remember it.",
+    "refs": [
+      "Genesis 37:10–11"
+    ]
+  },
+  "Genesis 37:10": {
+    "title": "Jacob rebukes Joseph",
+    "text": "Jacob asks whether he, Joseph’s mother, and his brothers will bow before him. The verse records Jacob’s response to the dream; the imagery is later echoed in Joseph’s rise in Egypt.",
+    "refs": [
+      "Genesis 42:6"
+    ]
+  },
+  "Genesis 37:11": {
+    "title": "Jacob remembers the matter",
+    "text": "Joseph’s brothers envy him, while Jacob observes the saying. The contrast shows that Jacob does not dismiss the dream outright, though its meaning is not yet clear.",
+    "refs": [
+      "Luke 2:19"
+    ]
+  },
+  "Genesis 37:12": {
+    "title": "The brothers go to Shechem",
+    "text": "Joseph’s brothers take their father’s flock to feed near Shechem. The location connects this episode to the region where the family had previously experienced conflict.",
+    "refs": [
+      "Genesis 34:25–30"
+    ]
+  },
+  "Genesis 37:13": {
+    "title": "Jacob sends Joseph",
+    "text": "Jacob asks Joseph to go see whether his brothers and the flock are well. Joseph answers that he is ready to go, unaware of the danger ahead.",
+    "refs": [
+      "Genesis 37:18"
+    ]
+  },
+  "Genesis 37:14": {
+    "title": "Joseph sent from Hebron",
+    "text": "Jacob sends Joseph from the valley of Hebron to Shechem and asks him to return with news. The journey becomes the path to Joseph’s betrayal and eventual rise in Egypt.",
+    "refs": [
+      "Genesis 37:28"
+    ]
+  },
+  "Genesis 37:15": {
+    "title": "A man finds Joseph wandering",
+    "text": "A man finds Joseph wandering in the field and asks what he is seeking. The encounter redirects Joseph toward his brothers’ location.",
+    "refs": [
+      "Genesis 37:16–17"
+    ]
+  },
+  "Genesis 37:16": {
+    "title": "Joseph asks for his brothers",
+    "text": "Joseph says he is looking for his brothers and asks where they are feeding the flock. He continues his assigned task despite the uncertainty of their location.",
+    "refs": [
+      "Genesis 37:14"
+    ]
+  },
+  "Genesis 37:17": {
+    "title": "Joseph is directed to Dothan",
+    "text": "The man says the brothers have moved to Dothan. Joseph follows the information and finds them there, bringing him into the situation they will exploit.",
+    "refs": [
+      "Genesis 37:18"
+    ]
+  },
+  "Genesis 37:18": {
+    "title": "The brothers plot against Joseph",
+    "text": "The brothers see Joseph from afar and conspire to kill him before he reaches them. Their hatred has grown into a deliberate plan for violence.",
+    "refs": [
+      "Genesis 37:4–5"
+    ]
+  },
+  "Genesis 37:19": {
+    "title": "The dreamer approaches",
+    "text": "The brothers mock Joseph as the dreamer. Their words show contempt for his dreams and for the possibility that he might one day rule over them.",
+    "refs": [
+      "Genesis 37:8"
+    ]
+  },
+  "Genesis 37:20": {
+    "title": "They plan to kill and lie",
+    "text": "The brothers propose killing Joseph, throwing him into a pit, and claiming a wild animal devoured him. Their plan includes both violence and a deliberate lie to their father.",
+    "refs": [
+      "Genesis 37:31–33"
+    ]
+  },
+  "Genesis 37:21": {
+    "title": "Reuben intervenes",
+    "text": "Reuben hears the plan and tries to save Joseph from being killed. He proposes a less immediately violent course, intending to rescue Joseph later.",
+    "refs": [
+      "Genesis 37:22"
+    ]
+  },
+  "Genesis 37:22": {
+    "title": "Do not shed blood",
+    "text": "Reuben tells the brothers not to kill Joseph but to cast him into a pit. The narrator explains that Reuben intends to return and rescue him, although the plan still leaves Joseph in danger.",
+    "refs": [
+      "Genesis 37:29–30"
+    ]
+  },
+  "Genesis 37:23": {
+    "title": "Joseph’s coat is taken",
+    "text": "When Joseph arrives, his brothers strip off the special coat his father gave him. Their action attacks the visible sign of Jacob’s favoritism.",
+    "refs": [
+      "Genesis 37:3–4"
+    ]
+  },
+  "Genesis 37:24": {
+    "title": "Joseph is thrown into a pit",
+    "text": "The brothers cast Joseph into an empty pit with no water. The action exposes his vulnerability and the cruelty of his brothers’ treatment.",
+    "refs": [
+      "Genesis 42:21"
+    ]
+  },
+  "Genesis 37:25": {
+    "title": "The brothers eat as traders approach",
+    "text": "The brothers sit down to eat and see a caravan of Ishmaelites coming from Gilead toward Egypt. Their ordinary meal beside the pit contrasts with Joseph’s distress.",
+    "refs": [
+      "Genesis 37:28"
+    ]
+  },
+  "Genesis 37:26": {
+    "title": "Judah proposes selling Joseph",
+    "text": "Judah asks what profit there is in killing their brother and hiding his blood. He proposes selling Joseph to the traders, preventing murder but still treating Joseph as property.",
+    "refs": [
+      "Genesis 37:27–28"
+    ]
+  },
+  "Genesis 37:27": {
+    "title": "Joseph sold rather than killed",
+    "text": "Judah suggests selling Joseph to the Ishmaelites and not laying hands on him because he is their brother. The decision spares Joseph’s life but remains a grave betrayal.",
+    "refs": [
+      "Genesis 42:21"
+    ]
+  },
+  "Genesis 37:28": {
+    "title": "Joseph is sold into Egypt",
+    "text": "The traders draw Joseph from the pit and sell him for twenty pieces of silver, taking him to Egypt. God’s providence will later bring good from this wrong, but the sale itself is the brothers’ sin.",
+    "refs": [
+      "Genesis 50:20"
+    ]
+  },
+  "Genesis 37:29": {
+    "title": "Reuben finds Joseph gone",
+    "text": "Reuben returns to the pit and discovers Joseph is missing. He tears his clothes in grief, realizing that his intended rescue has failed.",
+    "refs": [
+      "Genesis 37:22"
+    ]
+  },
+  "Genesis 37:30": {
+    "title": "Reuben fears the consequences",
+    "text": "Reuben asks where he can go, distressed over what has happened to Joseph. The verse captures his alarm and his awareness that the family has committed a terrible wrong.",
+    "refs": [
+      "Genesis 42:22"
+    ]
+  },
+  "Genesis 37:31": {
+    "title": "The coat is stained",
+    "text": "The brothers kill a goat and dip Joseph’s coat in its blood. They prepare false evidence to make Jacob believe Joseph has been killed by an animal.",
+    "refs": [
+      "Genesis 37:32–33"
+    ]
+  },
+  "Genesis 37:32": {
+    "title": "A deceptive message to Jacob",
+    "text": "The brothers send the bloodied coat to Jacob and ask him to identify it. Their message avoids directly stating a lie, but it is designed to mislead their father.",
+    "refs": [
+      "Genesis 37:33"
+    ]
+  },
+  "Genesis 37:33": {
+    "title": "Jacob believes Joseph is dead",
+    "text": "Jacob recognizes the coat and concludes that a wild beast has devoured Joseph. He accepts the false account because he has been shown misleading evidence.",
+    "refs": [
+      "Genesis 37:31–32"
+    ]
+  },
+  "Genesis 37:34": {
+    "title": "Jacob mourns deeply",
+    "text": "Jacob tears his clothes, puts on sackcloth, and mourns Joseph for many days. The grief shows the human cost of the brothers’ deception.",
+    "refs": [
+      "Genesis 42:36"
+    ]
+  },
+  "Genesis 37:35": {
+    "title": "Jacob refuses comfort",
+    "text": "Jacob’s family tries to comfort him, but he continues mourning and says he will go down to the grave grieving for Joseph. The verse describes intense grief, not a denial of God’s faithfulness.",
+    "refs": [
+      "Genesis 42:38"
+    ]
+  },
+  "Genesis 37:36": {
+    "title": "Joseph sold to Potiphar",
+    "text": "The Midianites sell Joseph in Egypt to Potiphar, an officer of Pharaoh. Joseph’s circumstances have changed dramatically, but this is the beginning of the path through which he will later preserve his family.",
+    "refs": [
+      "Genesis 39:1",
+      "Genesis 50:20"
+    ]
+  },
+  "Genesis 38:1": {
+    "title": "Judah separates from his brothers",
+    "text": "Judah leaves his brothers and stays with an Adullamite named Hirah. The narrative temporarily follows Judah’s family line while Joseph is in Egypt.",
+    "refs": [
+      "Genesis 37:26–28"
+    ]
+  },
+  "Genesis 38:2": {
+    "title": "Judah marries a Canaanite woman",
+    "text": "Judah sees the daughter of a Canaanite and takes her as wife. The text records the marriage without giving a direct judgment in this verse.",
+    "refs": [
+      "Genesis 24:3–4"
+    ]
+  },
+  "Genesis 38:3": {
+    "title": "Er is born",
+    "text": "Judah’s wife conceives and bears a son named Er. The genealogy begins to trace the family through which the later events in this chapter unfold.",
+    "refs": [
+      "Genesis 38:6"
+    ]
+  },
+  "Genesis 38:4": {
+    "title": "Onan is born",
+    "text": "Judah’s wife bears another son and names him Onan. The account continues recording Judah’s descendants.",
+    "refs": [
+      "Genesis 38:8"
+    ]
+  },
+  "Genesis 38:5": {
+    "title": "Shelah is born",
+    "text": "She bears a third son, Shelah, at Chezib. The birth completes the three sons named before the story turns to Judah’s marriage arrangements for Er.",
+    "refs": [
+      "Genesis 38:11"
+    ]
+  },
+  "Genesis 38:6": {
+    "title": "Tamar becomes Er’s wife",
+    "text": "Judah takes a wife for Er, his firstborn, and her name is Tamar. Her role becomes central when Er dies and the family’s obligations toward her are neglected.",
+    "refs": [
+      "Genesis 38:7–11"
+    ]
+  },
+  "Genesis 38:7": {
+    "title": "Er’s wickedness",
+    "text": "Er is wicked in the sight of the LORD, and the LORD puts him to death. The verse gives no detailed description of his wrongdoing, so readers should not invent one.",
+    "refs": [
+      "Genesis 38:8"
+    ]
+  },
+  "Genesis 38:8": {
+    "title": "Onan’s duty toward Tamar",
+    "text": "Judah tells Onan to marry his brother’s widow and raise offspring for his brother. This reflects the family duty later formalized in Israel’s levirate marriage law.",
+    "refs": [
+      "Deuteronomy 25:5–6"
+    ]
+  },
+  "Genesis 38:9": {
+    "title": "Onan refuses to provide an heir",
+    "text": "Onan knows the offspring will not be counted as his and deliberately prevents conception while still taking Tamar as a wife. His sin in the passage is bound up with refusing the family duty while exploiting the relationship.",
+    "refs": [
+      "Genesis 38:8"
+    ]
+  },
+  "Genesis 38:10": {
+    "title": "The LORD judges Onan",
+    "text": "The LORD puts Onan to death because of what he did. The text identifies God’s judgment but does not give permission to generalize this event into a rule about every circumstance of contraception.",
+    "refs": [
+      "Genesis 38:9"
+    ]
+  },
+  "Genesis 38:11": {
+    "title": "Judah sends Tamar away",
+    "text": "Judah tells Tamar to live as a widow in her father’s house until Shelah grows up, while fearing Shelah may also die. Tamar returns to her father’s house, but Judah does not fulfill the expectation he has created.",
+    "refs": [
+      "Genesis 38:14"
+    ]
+  },
+  "Genesis 38:12": {
+    "title": "Judah’s wife dies",
+    "text": "After a time, Judah’s wife dies, and after his mourning he travels to Timnah with Hirah to oversee the shearing of his sheep. The change in circumstances leads to Tamar’s plan.",
+    "refs": [
+      "Genesis 38:13"
+    ]
+  },
+  "Genesis 38:13": {
+    "title": "Tamar hears Judah is traveling",
+    "text": "Tamar is told that Judah is going to Timnah to shear his sheep. She recognizes an opportunity to address the failure to give her Shelah as promised.",
+    "refs": [
+      "Genesis 38:14"
+    ]
+  },
+  "Genesis 38:14": {
+    "title": "Tamar removes her widow’s garments",
+    "text": "Tamar covers herself and sits by the road because she sees that Shelah has grown and she has not been given to him. The verse presents her action as a response to Judah’s failure, though the ensuing deception remains complex.",
+    "refs": [
+      "Genesis 38:11"
+    ]
+  },
+  "Genesis 38:15": {
+    "title": "Judah mistakes Tamar for a harlot",
+    "text": "Judah sees Tamar with her face covered and assumes she is a prostitute. His assumption reveals how he interprets what he sees without knowing her identity.",
+    "refs": [
+      "Genesis 38:16"
+    ]
+  },
+  "Genesis 38:16": {
+    "title": "Judah negotiates with Tamar",
+    "text": "Judah turns aside to her and offers payment for sex, not knowing she is his daughter-in-law. The narrative exposes Judah’s hypocrisy and his failure to recognize Tamar.",
+    "refs": [
+      "Genesis 38:26"
+    ]
+  },
+  "Genesis 38:17": {
+    "title": "Judah promises a young goat",
+    "text": "Judah says he will send a young goat from the flock, and Tamar asks for a pledge until it arrives. The exchange establishes evidence that will later identify the father of her children.",
+    "refs": [
+      "Genesis 38:18"
+    ]
+  },
+  "Genesis 38:18": {
+    "title": "The pledge is given",
+    "text": "Judah gives Tamar his seal, cord, and staff as pledges. These personal objects will later make his identity unmistakable.",
+    "refs": [
+      "Genesis 38:25"
+    ]
+  },
+  "Genesis 38:19": {
+    "title": "Tamar returns to widow’s clothing",
+    "text": "Tamar leaves, removes her covering, and puts her widow’s garments back on. She returns to her public status as a widow while keeping the pledges.",
+    "refs": [
+      "Genesis 38:14"
+    ]
+  },
+  "Genesis 38:20": {
+    "title": "Judah sends the promised goat",
+    "text": "Judah sends the young goat through Hirah to recover the pledge, but Tamar cannot be found. The failed search sets up the public revelation of the pledge.",
+    "refs": [
+      "Genesis 38:21–23"
+    ]
+  },
+  "Genesis 38:21": {
+    "title": "The local people know no prostitute",
+    "text": "Hirah asks the men of the place where the woman by the road is, but they say no such prostitute was there. The search cannot locate Tamar or recover Judah’s pledge.",
+    "refs": [
+      "Genesis 38:20"
+    ]
+  },
+  "Genesis 38:22": {
+    "title": "Hirah reports the failure",
+    "text": "Hirah returns to Judah and says he could not find the woman and that the local men denied she was there. The evidence remains with Tamar.",
+    "refs": [
+      "Genesis 38:18"
+    ]
+  },
+  "Genesis 38:23": {
+    "title": "Judah says to let her keep the pledge",
+    "text": "Judah says to let her keep the items so they will not be shamed, adding that he tried to send the goat. He is more concerned with avoiding public embarrassment than with uncovering what happened.",
+    "refs": [
+      "Genesis 38:25–26"
+    ]
+  },
+  "Genesis 38:24": {
+    "title": "Tamar is accused",
+    "text": "About three months later, Judah is told that Tamar has played the harlot and is pregnant. Judah orders her to be brought out and burned, a harsh judgment that he will soon have to reconsider.",
+    "refs": [
+      "Genesis 38:25"
+    ]
+  },
+  "Genesis 38:25": {
+    "title": "Tamar produces the pledge",
+    "text": "As Tamar is brought out, she sends Judah’s seal, cord, and staff and asks him to identify their owner. The evidence forces Judah to confront his own involvement.",
+    "refs": [
+      "Genesis 38:18"
+    ]
+  },
+  "Genesis 38:26": {
+    "title": "Judah admits he was wrong",
+    "text": "Judah recognizes the items and admits Tamar is more righteous than he is because he did not give her to Shelah. His confession marks a moral turning point in the story.",
+    "refs": [
+      "Genesis 38:11"
+    ]
+  },
+  "Genesis 38:27": {
+    "title": "Twins are found in Tamar’s womb",
+    "text": "When Tamar gives birth, it is discovered that she is carrying twins. The unusual birth scene leads to a struggle over which child will emerge first.",
+    "refs": [
+      "Genesis 25:24–26"
+    ]
+  },
+  "Genesis 38:28": {
+    "title": "The scarlet thread",
+    "text": "A hand comes out first, and the midwife ties a scarlet thread on it to identify the firstborn. The marker sets up the surprising reversal in the birth order.",
+    "refs": [
+      "Genesis 38:29"
+    ]
+  },
+  "Genesis 38:29": {
+    "title": "Perez breaks through",
+    "text": "The hand withdraws and the other child comes out first, so he is named Perez, meaning breach or breaking forth. The name preserves the unexpected order of the twins’ birth.",
+    "refs": [
+      "Ruth 4:18–22"
+    ]
+  },
+  "Genesis 38:30": {
+    "title": "Zerah is born after Perez",
+    "text": "The child with the scarlet thread comes out and is named Zerah. The chapter closes with the twins’ names, and the line of Perez later becomes significant in the genealogy of David and Jesus.",
+    "refs": [
+      "Ruth 4:18–22",
+      "Matthew 1:3"
+    ]
   }
 };
