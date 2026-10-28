@@ -13165,5 +13165,321 @@ window.verseCommentary = {
     "refs": [
       "Exodus 16:16"
     ]
+  },
+  "Exodus 17:1": {
+    "title": "Israel camps at Rephidim",
+    "text": "Israel travels by stages as the LORD commands and camps at Rephidim, where there is no water. The people face another test of trust after God has already provided food in the wilderness.",
+    "refs": [
+      "Exodus 16:4",
+      "Numbers 33:12–14"
+    ]
+  },
+  "Exodus 17:2": {
+    "title": "The people contend with Moses",
+    "text": "The people quarrel with Moses and demand water. Moses asks why they test the LORD, identifying the deeper issue: they are treating their need as evidence that God is not caring for them.",
+    "refs": [
+      "Exodus 15:24",
+      "Deuteronomy 6:16"
+    ]
+  },
+  "Exodus 17:3": {
+    "title": "The people complain of thirst",
+    "text": "The people thirst and murmur against Moses, asking why he brought them out of Egypt to die of thirst with their children and livestock. Their words repeat the fear-driven complaint heard earlier, even after God’s provision.",
+    "refs": [
+      "Exodus 14:11–12",
+      "Exodus 16:2–3"
+    ]
+  },
+  "Exodus 17:4": {
+    "title": "Moses cries to the LORD",
+    "text": "Moses cries to the LORD and asks what he should do, because the people are nearly ready to stone him. The leader brings the crisis to God instead of responding with violence or pretending he can supply water himself.",
+    "refs": [
+      "Exodus 15:25",
+      "Numbers 20:6"
+    ]
+  },
+  "Exodus 17:5": {
+    "title": "Moses takes the elders and rod",
+    "text": "God tells Moses to pass before the people with elders of Israel and take the rod used at the Nile. The elders witness what God is about to do, and the rod recalls earlier signs of God’s power in Egypt.",
+    "refs": [
+      "Exodus 7:20",
+      "Exodus 14:16"
+    ]
+  },
+  "Exodus 17:6": {
+    "title": "Water from the rock at Horeb",
+    "text": "God says He will stand before Moses on the rock at Horeb; Moses is to strike it, and water will come out for the people. The provision is attributed to God’s presence and command. Paul later uses the rock in a spiritual application, but the immediate event is God supplying water in the wilderness.",
+    "refs": [
+      "Numbers 20:8–11",
+      "1 Corinthians 10:4"
+    ]
+  },
+  "Exodus 17:7": {
+    "title": "Massah and Meribah",
+    "text": "Moses names the place Massah and Meribah because Israel tested the LORD and asked whether He was among them. The names preserve the memory of their quarrel and warning against demanding proof of God’s presence on their own terms.",
+    "refs": [
+      "Deuteronomy 6:16",
+      "Psalm 95:8–9"
+    ]
+  },
+  "Exodus 17:8": {
+    "title": "Amalek attacks Israel",
+    "text": "Amalek comes and fights Israel at Rephidim. The newly delivered people now face an armed enemy, and the account shows that God’s care includes help in conflict as well as provision for hunger and thirst.",
+    "refs": [
+      "Deuteronomy 25:17–18"
+    ]
+  },
+  "Exodus 17:9": {
+    "title": "Joshua is sent to fight",
+    "text": "Moses tells Joshua to choose men and fight Amalek while Moses stands on the hill with the rod of God in his hand. Joshua acts in the field while Moses intercedes above; both activities are part of the response to the attack.",
+    "refs": [
+      "Exodus 17:11–13"
+    ]
+  },
+  "Exodus 17:10": {
+    "title": "Moses, Aaron, and Hur go up the hill",
+    "text": "Joshua fights as Moses, Aaron, and Hur ascend the hill. The scene prepares for the visible relationship between Moses’ raised hands and the battle’s outcome.",
+    "refs": [
+      "Exodus 24:14"
+    ]
+  },
+  "Exodus 17:11": {
+    "title": "Raised hands and Israel’s victory",
+    "text": "When Moses holds up his hand, Israel prevails; when he lets it down, Amalek prevails. The narrative portrays dependence on God during the battle, not a magical power in Moses’ arm.",
+    "refs": [
+      "Psalm 28:2",
+      "1 Timothy 2:8"
+    ]
+  },
+  "Exodus 17:12": {
+    "title": "Aaron and Hur support Moses",
+    "text": "Moses’ hands grow heavy, so Aaron and Hur seat him on a stone and support his hands until sunset. The victory involves shared service; even the leader needs help to continue faithfully.",
+    "refs": [
+      "Ecclesiastes 4:9–10"
+    ]
+  },
+  "Exodus 17:13": {
+    "title": "Joshua defeats Amalek",
+    "text": "Joshua defeats Amalek and his people with the sword. The verse records the military outcome while the surrounding narrative attributes Israel’s success to God’s help.",
+    "refs": [
+      "Exodus 17:11–12"
+    ]
+  },
+  "Exodus 17:14": {
+    "title": "Write the event as a memorial",
+    "text": "The LORD tells Moses to write the event in a book and rehearse it to Joshua, promising to blot out Amalek’s remembrance from under heaven. The written record preserves God’s judgment and teaches future leadership to remember the battle.",
+    "refs": [
+      "Deuteronomy 25:17–19"
+    ]
+  },
+  "Exodus 17:15": {
+    "title": "The LORD is my banner",
+    "text": "Moses builds an altar and names it Jehovah-nissi, meaning the LORD is my banner. A banner gathers and identifies a people; the name declares that Israel’s victory and identity are under the LORD’s leadership.",
+    "refs": [
+      "Psalm 20:5",
+      "Isaiah 11:10"
+    ]
+  },
+  "Exodus 17:16": {
+    "title": "The LORD’s conflict with Amalek",
+    "text": "Moses declares that the LORD has sworn to have war with Amalek from generation to generation. The statement concerns the specific conflict in Israel’s covenant history and should not be used as a blanket justification for hostility toward people today.",
+    "refs": [
+      "Deuteronomy 25:17–19"
+    ]
+  },
+  "Exodus 18:1": {
+    "title": "Jethro hears what God has done",
+    "text": "Jethro, Moses’ father-in-law and priest of Midian, hears of all that God has done for Moses and Israel. The report of the exodus reaches beyond Egypt and Israel’s camp.",
+    "refs": [
+      "Exodus 2:16–22",
+      "Exodus 15:14"
+    ]
+  },
+  "Exodus 18:2": {
+    "title": "Zipporah returns to Moses",
+    "text": "Jethro brings Zipporah, Moses’ wife, after Moses had sent her away. The verse resumes the family story that was interrupted by Moses’ mission to Egypt.",
+    "refs": [
+      "Exodus 4:20"
+    ]
+  },
+  "Exodus 18:3": {
+    "title": "Gershom’s name recalls exile",
+    "text": "Moses’ son Gershom is named again, with the explanation that Moses had been a stranger in a foreign land. The name preserves the memory of Moses’ life away from Egypt before his calling.",
+    "refs": [
+      "Exodus 2:22"
+    ]
+  },
+  "Exodus 18:4": {
+    "title": "Eliezer remembers God’s help",
+    "text": "Moses’ other son is named Eliezer because the God of his father helped him and delivered him from Pharaoh’s sword. The name is a testimony that Moses’ survival and mission depend on God’s help.",
+    "refs": [
+      "Exodus 2:15",
+      "Exodus 4:19"
+    ]
+  },
+  "Exodus 18:5": {
+    "title": "Jethro comes to the wilderness",
+    "text": "Jethro comes to Moses at the mountain of God with Moses’ wife and sons. The family reunion takes place where God has led Israel and where the covenant will soon be given.",
+    "refs": [
+      "Exodus 3:1",
+      "Exodus 19:1–2"
+    ]
+  },
+  "Exodus 18:6": {
+    "title": "Jethro sends word to Moses",
+    "text": "Jethro tells Moses that he is coming with his wife and sons. The announcement allows Moses to meet his family and receive his father-in-law.",
+    "refs": [
+      "Exodus 18:2–5"
+    ]
+  },
+  "Exodus 18:7": {
+    "title": "Moses welcomes Jethro",
+    "text": "Moses goes out to meet Jethro, bows, kisses him, and asks after his welfare; they enter the tent. The scene shows respect and family affection in the midst of Israel’s journey.",
+    "refs": [
+      "Genesis 29:13"
+    ]
+  },
+  "Exodus 18:8": {
+    "title": "Moses recounts God’s deliverance",
+    "text": "Moses tells Jethro what the LORD did to Pharaoh and Egypt for Israel’s sake, as well as the hardships along the way and how God delivered them. The testimony includes both trials and rescue, not only the triumph at the sea.",
+    "refs": [
+      "Exodus 14:30–31",
+      "Psalm 107:2"
+    ]
+  },
+  "Exodus 18:9": {
+    "title": "Jethro rejoices in God’s goodness",
+    "text": "Jethro rejoices over all the good the LORD has done for Israel and delivered them from Egypt. Hearing the testimony leads him to recognize the goodness of God’s acts.",
+    "refs": [
+      "Psalm 126:2–3"
+    ]
+  },
+  "Exodus 18:10": {
+    "title": "Blessed be the LORD",
+    "text": "Jethro blesses the LORD who delivered Israel from Pharaoh and Egypt. The response acknowledges that the LORD, not a human ruler, is the true rescuer.",
+    "refs": [
+      "Exodus 15:1–2"
+    ]
+  },
+  "Exodus 18:11": {
+    "title": "The LORD is greater than all gods",
+    "text": "Jethro says he now knows that the LORD is greater than all gods, based on what happened when Egypt acted arrogantly against Israel. The statement affirms the LORD’s supremacy; it does not establish that other gods are real divine beings equal to Him.",
+    "refs": [
+      "Deuteronomy 10:17",
+      "Psalm 96:4–5"
+    ]
+  },
+  "Exodus 18:12": {
+    "title": "Jethro offers sacrifice and eats with Israel’s elders",
+    "text": "Jethro brings a burnt offering and sacrifices to God, and Aaron and Israel’s elders eat with him before God. The meal expresses fellowship and worship after Jethro has heard the testimony of deliverance.",
+    "refs": [
+      "Genesis 31:54"
+    ]
+  },
+  "Exodus 18:13": {
+    "title": "Moses judges the people all day",
+    "text": "The next day Moses sits to judge disputes, and the people stand around him from morning until evening. The scene reveals the heavy administrative burden of leading a large community.",
+    "refs": [
+      "Deuteronomy 1:9–12"
+    ]
+  },
+  "Exodus 18:14": {
+    "title": "Jethro asks why Moses works alone",
+    "text": "Jethro asks why Moses sits alone while the people wait all day. His question opens a practical discussion about leadership and the need to share responsibilities.",
+    "refs": [
+      "Numbers 11:14–17"
+    ]
+  },
+  "Exodus 18:15": {
+    "title": "The people come to inquire of God",
+    "text": "Moses explains that the people come to him to inquire of God. His judicial role includes helping the people seek God’s direction in matters they cannot resolve themselves.",
+    "refs": [
+      "Deuteronomy 17:8–11"
+    ]
+  },
+  "Exodus 18:16": {
+    "title": "Moses teaches God’s statutes",
+    "text": "When disputes arise, Moses judges between people and makes known God’s statutes and laws. The work is not only settling arguments; it also teaches the community how to live under God’s instruction.",
+    "refs": [
+      "Leviticus 24:22"
+    ]
+  },
+  "Exodus 18:17": {
+    "title": "Jethro says the arrangement is not good",
+    "text": "Jethro tells Moses that the way he is working is not good. Even a faithful leader can use an unsustainable method, and receiving wise counsel can improve the work without diminishing the calling.",
+    "refs": [
+      "Proverbs 11:14"
+    ]
+  },
+  "Exodus 18:18": {
+    "title": "The burden is too heavy",
+    "text": "Jethro warns that Moses and the people will wear themselves out because the task is too heavy for one person. The text recognizes human limits and the practical need for shared responsibility.",
+    "refs": [
+      "Numbers 11:14"
+    ]
+  },
+  "Exodus 18:19": {
+    "title": "Jethro advises Moses to represent the people before God",
+    "text": "Jethro advises Moses to continue representing the people before God and bringing their difficult matters to Him. His counsel does not remove Moses’ unique role in receiving God’s instruction; it makes the daily work more manageable.",
+    "refs": [
+      "Exodus 18:20–22"
+    ]
+  },
+  "Exodus 18:20": {
+    "title": "Teach the people the way to walk",
+    "text": "Moses is to teach the people God’s statutes and laws and show them the way they should walk and the work they should do. Leadership includes instruction that equips people to handle ordinary responsibilities rightly.",
+    "refs": [
+      "Deuteronomy 6:6–9"
+    ]
+  },
+  "Exodus 18:21": {
+    "title": "Choose capable and trustworthy leaders",
+    "text": "Jethro advises Moses to select able men who fear God, love truth, and hate covetousness, and appoint them over groups of people. The qualifications emphasize character and justice, not merely status or popularity.",
+    "refs": [
+      "Deuteronomy 1:13",
+      "Acts 6:3"
+    ]
+  },
+  "Exodus 18:22": {
+    "title": "Delegate ordinary cases",
+    "text": "The appointed leaders are to judge ordinary matters, while bringing the difficult cases to Moses. Delegation makes leadership more sustainable while preserving a way to resolve complex disputes.",
+    "refs": [
+      "Deuteronomy 1:16–17"
+    ]
+  },
+  "Exodus 18:23": {
+    "title": "Counsel that may endure",
+    "text": "Jethro says that if God commands Moses to follow this arrangement, Moses will endure and the people will go to their place in peace. The advice is offered with humility: the final authority belongs to God, and the arrangement’s success depends on His approval.",
+    "refs": [
+      "Proverbs 15:22"
+    ]
+  },
+  "Exodus 18:24": {
+    "title": "Moses listens to Jethro",
+    "text": "Moses listens to his father-in-law and does all that he has said. The narrative presents Moses as willing to receive sound counsel rather than insisting that he alone can decide every matter.",
+    "refs": [
+      "Proverbs 12:15"
+    ]
+  },
+  "Exodus 18:25": {
+    "title": "Moses appoints leaders",
+    "text": "Moses chooses capable men from Israel and makes them heads over groups of thousands, hundreds, fifties, and tens. The structure distributes responsibility throughout the community.",
+    "refs": [
+      "Deuteronomy 1:15"
+    ]
+  },
+  "Exodus 18:26": {
+    "title": "Leaders judge the people",
+    "text": "The appointed leaders judge the people at all times, bringing hard cases to Moses while handling smaller matters themselves. The arrangement provides access to justice without requiring every dispute to wait for Moses.",
+    "refs": [
+      "Exodus 18:22"
+    ]
+  },
+  "Exodus 18:27": {
+    "title": "Jethro returns to his land",
+    "text": "Moses lets Jethro depart, and Jethro returns to his own land. The visit has provided family reunion, shared worship, and practical counsel for Israel’s leadership.",
+    "refs": [
+      "Exodus 18:1–12"
+    ]
   }
 };
