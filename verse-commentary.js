@@ -13481,5 +13481,354 @@ window.verseCommentary = {
     "refs": [
       "Exodus 18:1–12"
     ]
+  },
+  "Exodus 19:1": {
+    "title": "Israel arrives at Sinai",
+    "text": "In the third month after leaving Egypt, Israel comes to the wilderness of Sinai. The journey from slavery has brought the people to the mountain where God will establish the covenant that shapes their life as His people.",
+    "refs": [
+      "Exodus 3:12",
+      "Exodus 12:37"
+    ]
+  },
+  "Exodus 19:2": {
+    "title": "Israel camps before the mountain",
+    "text": "Israel camps before Mount Sinai. The physical location sets the stage for the LORD’s words, the covenant, and the commandments that follow.",
+    "refs": [
+      "Exodus 3:1",
+      "Exodus 19:10–11"
+    ]
+  },
+  "Exodus 19:3": {
+    "title": "Moses goes up to God",
+    "text": "Moses ascends the mountain, and the LORD calls to him from it. God gives Moses words to deliver to the house of Jacob and the children of Israel, establishing Moses as the messenger of the covenant instruction.",
+    "refs": [
+      "Exodus 3:4–10",
+      "Deuteronomy 5:5"
+    ]
+  },
+  "Exodus 19:4": {
+    "title": "God carried Israel on eagles’ wings",
+    "text": "The LORD reminds Israel that they saw what He did to Egypt and how He brought them to Himself. The picture of eagles’ wings expresses powerful, protective deliverance; Israel’s covenant relationship begins with God’s saving action, not their achievement.",
+    "refs": [
+      "Deuteronomy 32:11–12",
+      "Isaiah 63:9"
+    ]
+  },
+  "Exodus 19:5": {
+    "title": "A treasured possession if Israel obeys",
+    "text": "God says that if Israel will obey His voice and keep His covenant, they will be His peculiar treasure among all peoples, because all the earth is His. Israel’s special calling does not mean God lacks authority over other nations; the whole earth belongs to Him.",
+    "refs": [
+      "Deuteronomy 7:6–8",
+      "1 Peter 2:9"
+    ]
+  },
+  "Exodus 19:6": {
+    "title": "A kingdom of priests and holy nation",
+    "text": "Israel is called to be a kingdom of priests and a holy nation. Their special status carries responsibility to belong to God and represent His holiness among the nations; the verse is addressed to Israel at Sinai in its immediate setting.",
+    "refs": [
+      "Isaiah 61:6",
+      "1 Peter 2:9"
+    ]
+  },
+  "Exodus 19:7": {
+    "title": "Moses tells the elders",
+    "text": "Moses calls the elders and lays before them the words the LORD commanded. The leaders are given the message so the whole community can respond to the covenant offer.",
+    "refs": [
+      "Exodus 19:3–6"
+    ]
+  },
+  "Exodus 19:8": {
+    "title": "The people agree to obey",
+    "text": "The people answer together that they will do all the LORD has spoken, and Moses reports their words to God. Their agreement expresses willingness to enter the covenant; later history will show the need for ongoing faithfulness.",
+    "refs": [
+      "Exodus 24:3",
+      "Joshua 24:24"
+    ]
+  },
+  "Exodus 19:9": {
+    "title": "God speaks in a thick cloud",
+    "text": "The LORD says He will come to Moses in a thick cloud so the people may hear Him speak and believe Moses. The cloud is a sign of God’s presence and revelation, not a limit on His being. The people are being prepared to hear the covenant words.",
+    "refs": [
+      "Exodus 13:21–22",
+      "Deuteronomy 4:11–12"
+    ]
+  },
+  "Exodus 19:10": {
+    "title": "Prepare the people",
+    "text": "The LORD tells Moses to sanctify the people and have them wash their clothes. The preparation expresses the seriousness of approaching God’s revealed presence and hearing His covenant word.",
+    "refs": [
+      "Leviticus 11:44–45"
+    ]
+  },
+  "Exodus 19:11": {
+    "title": "Ready for the third day",
+    "text": "The people are to be ready for the third day, when the LORD will descend upon Mount Sinai in the sight of all. The language describes a public manifestation of God’s presence for the covenant event.",
+    "refs": [
+      "Exodus 19:16–20"
+    ]
+  },
+  "Exodus 19:12": {
+    "title": "A boundary around the mountain",
+    "text": "Moses must set boundaries around the mountain and warn the people not to touch it. The restriction teaches that God’s holiness is not to be approached carelessly and that the people must obey His explicit command.",
+    "refs": [
+      "Hebrews 12:18–21"
+    ]
+  },
+  "Exodus 19:13": {
+    "title": "No one may cross the boundary",
+    "text": "The penalty for touching the mountain is severe, and the people must wait until the appointed signal before approaching. The rule belongs to this particular Sinai manifestation and should not be turned into a general instruction about all mountains.",
+    "refs": [
+      "Exodus 19:12",
+      "Exodus 19:16"
+    ]
+  },
+  "Exodus 19:14": {
+    "title": "Moses sanctifies the people",
+    "text": "Moses descends and sanctifies the people, and they wash their clothes. The community prepares itself as instructed for the solemn encounter.",
+    "refs": [
+      "Exodus 19:10"
+    ]
+  },
+  "Exodus 19:15": {
+    "title": "Prepare for the third day",
+    "text": "Moses tells the people to be ready for the third day and to abstain from marital relations during the preparation. The instruction marks the occasion as a period of special consecration.",
+    "refs": [
+      "Leviticus 15:16–18"
+    ]
+  },
+  "Exodus 19:16": {
+    "title": "Thunder, lightning, and the trumpet",
+    "text": "On the third day there are thunderings, lightning, a thick cloud, and a loud trumpet, and the people tremble. The signs communicate the awe and seriousness of God’s appearance at Sinai.",
+    "refs": [
+      "Hebrews 12:18–21"
+    ]
+  },
+  "Exodus 19:17": {
+    "title": "The people stand at the mountain",
+    "text": "Moses brings the people out of the camp to meet God, and they stand at the foot of the mountain. Their position reflects the boundary established for the encounter.",
+    "refs": [
+      "Exodus 19:12–13"
+    ]
+  },
+  "Exodus 19:18": {
+    "title": "Sinai is covered with smoke",
+    "text": "Mount Sinai is covered with smoke because the LORD descends upon it in fire; the mountain trembles. The description uses visible signs to communicate the overwhelming reality of the divine presence.",
+    "refs": [
+      "Deuteronomy 4:11–12"
+    ]
+  },
+  "Exodus 19:19": {
+    "title": "God answers Moses by a voice",
+    "text": "As the trumpet grows louder, Moses speaks and God answers him by a voice. The passage emphasizes that the encounter includes actual communication, not merely an inward feeling or symbolic ritual.",
+    "refs": [
+      "Deuteronomy 5:4–5"
+    ]
+  },
+  "Exodus 19:20": {
+    "title": "The LORD descends and calls Moses up",
+    "text": "The LORD descends upon the top of Sinai and calls Moses to the top, and Moses goes up. The narrative describes God’s manifest presence at the mountain while maintaining that He is the one who speaks and directs the encounter.",
+    "refs": [
+      "Exodus 24:12"
+    ]
+  },
+  "Exodus 19:21": {
+    "title": "Warn the people not to break through",
+    "text": "God tells Moses to go down and warn the people not to break through to gaze, lest many perish. Curiosity does not override the explicit boundary God has set for this holy occasion.",
+    "refs": [
+      "Exodus 19:12–13"
+    ]
+  },
+  "Exodus 19:22": {
+    "title": "The priests must sanctify themselves",
+    "text": "Even the priests who approach the LORD must sanctify themselves, lest the LORD break forth upon them. The instruction stresses that religious office does not exempt anyone from reverence and obedience.",
+    "refs": [
+      "Leviticus 10:1–3"
+    ]
+  },
+  "Exodus 19:23": {
+    "title": "Moses recalls the boundary",
+    "text": "Moses says the people cannot come up Mount Sinai because God has already commanded a boundary and declared the mountain holy. The exchange shows Moses seeking to follow the earlier instruction carefully.",
+    "refs": [
+      "Exodus 19:12"
+    ]
+  },
+  "Exodus 19:24": {
+    "title": "Moses and Aaron may come up",
+    "text": "The LORD tells Moses to go down and return with Aaron, but the priests and people must not break through. The access is granted according to God’s command, not by human initiative.",
+    "refs": [
+      "Exodus 19:22",
+      "Exodus 24:1–2"
+    ]
+  },
+  "Exodus 19:25": {
+    "title": "Moses warns the people",
+    "text": "Moses goes down to the people and tells them what God has said. The chapter closes with the boundary in place as Israel prepares to hear the commandments.",
+    "refs": [
+      "Exodus 20:1–2"
+    ]
+  },
+  "Exodus 20:1": {
+    "title": "God speaks all these words",
+    "text": "God speaks the commandments that follow. Their authority comes from the LORD Himself, who has already delivered Israel from Egypt and now gives them covenant instruction.",
+    "refs": [
+      "Deuteronomy 5:4–5"
+    ]
+  },
+  "Exodus 20:2": {
+    "title": "The LORD who brought Israel out",
+    "text": "God identifies Himself as the LORD their God who brought them out of Egypt, out of the house of bondage. The commandments begin with deliverance: Israel is called to obey the God who rescued them, not earn rescue through law-keeping.",
+    "refs": [
+      "Exodus 6:6–8",
+      "Deuteronomy 5:6"
+    ]
+  },
+  "Exodus 20:3": {
+    "title": "No other gods before the LORD",
+    "text": "Israel must have no other gods before the LORD. The command demands exclusive worship and allegiance to the one God who delivered them; it does not invite Israel to divide devotion among rival deities.",
+    "refs": [
+      "Deuteronomy 6:4–5",
+      "Isaiah 45:5–6"
+    ]
+  },
+  "Exodus 20:4": {
+    "title": "No graven image",
+    "text": "Israel is forbidden to make a carved image or likeness of anything in heaven, earth, or water as an object of worship. God cannot be reduced to an idol made by human hands, and worship must follow His revelation rather than human invention.",
+    "refs": [
+      "Deuteronomy 4:15–19",
+      "Isaiah 40:18"
+    ]
+  },
+  "Exodus 20:5": {
+    "title": "Do not bow to images",
+    "text": "Israel must not bow down to idols or serve them, because the LORD is a jealous God who calls for exclusive covenant loyalty. The language of visiting iniquity across generations concerns the consequences of entrenched family and community sin; the following verse also affirms mercy to those who love God and keep His commandments.",
+    "refs": [
+      "Exodus 34:6–7",
+      "Deuteronomy 7:9–10"
+    ]
+  },
+  "Exodus 20:6": {
+    "title": "Mercy to those who love God",
+    "text": "The LORD shows mercy to thousands of generations of those who love Him and keep His commandments. The verse balances the warning of judgment with a strong promise of covenant mercy.",
+    "refs": [
+      "Deuteronomy 7:9",
+      "Psalm 103:17–18"
+    ]
+  },
+  "Exodus 20:7": {
+    "title": "Do not take God’s name in vain",
+    "text": "Israel must not misuse the name of the LORD, and God will not hold guiltless the one who does so. The command includes treating God’s name and authority with reverence, not merely avoiding a particular phrase.",
+    "refs": [
+      "Leviticus 19:12",
+      "Matthew 5:33–37"
+    ]
+  },
+  "Exodus 20:8": {
+    "title": "Remember the Sabbath",
+    "text": "Israel is commanded to remember the Sabbath day and keep it holy. Sabbath observance is part of Israel’s covenant life and calls the people to set apart time for rest and worship.",
+    "refs": [
+      "Genesis 2:2–3",
+      "Deuteronomy 5:12–15"
+    ]
+  },
+  "Exodus 20:9": {
+    "title": "Six days for labor",
+    "text": "The people are to labor and do their work during six days. The command recognizes ordinary work as part of life while placing it within a rhythm that includes sacred rest.",
+    "refs": [
+      "Exodus 16:26"
+    ]
+  },
+  "Exodus 20:10": {
+    "title": "The seventh day is Sabbath",
+    "text": "The seventh day is a Sabbath to the LORD, and household members, servants, livestock, and the stranger within the gates are to rest. The command extends rest beyond the head of household to those under his care.",
+    "refs": [
+      "Deuteronomy 5:14"
+    ]
+  },
+  "Exodus 20:11": {
+    "title": "Creation grounds the Sabbath",
+    "text": "God made heaven, earth, sea, and all that is in them in six days and rested the seventh; therefore He blessed the Sabbath. The command connects Israel’s weekly rest with the Creator’s pattern, while Deuteronomy also emphasizes deliverance from slavery.",
+    "refs": [
+      "Genesis 2:2–3",
+      "Deuteronomy 5:15"
+    ]
+  },
+  "Exodus 20:12": {
+    "title": "Honor father and mother",
+    "text": "Israel is commanded to honor father and mother, with a promise of long life in the land the LORD gives. The command gives family relationships a central place in covenant faithfulness.",
+    "refs": [
+      "Deuteronomy 5:16",
+      "Ephesians 6:1–3"
+    ]
+  },
+  "Exodus 20:13": {
+    "title": "Do not murder",
+    "text": "The command forbids murder. It protects human life and is not identical to a blanket statement about every use of the Hebrew verb in all legal or military contexts; the command’s moral force is that human life must not be unlawfully taken.",
+    "refs": [
+      "Genesis 9:6",
+      "Matthew 5:21–22"
+    ]
+  },
+  "Exodus 20:14": {
+    "title": "Do not commit adultery",
+    "text": "The command forbids adultery and protects the faithfulness of marriage. Scripture treats sexual conduct as morally significant rather than merely private preference.",
+    "refs": [
+      "Leviticus 20:10",
+      "Matthew 5:27–28"
+    ]
+  },
+  "Exodus 20:15": {
+    "title": "Do not steal",
+    "text": "The command forbids taking what belongs to another. It supports honest dealings and respect for a neighbor’s property.",
+    "refs": [
+      "Leviticus 19:11",
+      "Ephesians 4:28"
+    ]
+  },
+  "Exodus 20:16": {
+    "title": "Do not bear false witness",
+    "text": "Israel must not give false testimony against a neighbor. The immediate legal wording protects justice in court, and the principle also condemns deceitful speech that harms another person.",
+    "refs": [
+      "Deuteronomy 19:16–19",
+      "Proverbs 12:17"
+    ]
+  },
+  "Exodus 20:17": {
+    "title": "Do not covet",
+    "text": "The command forbids coveting a neighbor’s house, spouse, servants, animals, or anything belonging to the neighbor. Unlike commands focused on outward actions, this one reaches desire and teaches that covenant obedience includes the heart.",
+    "refs": [
+      "Deuteronomy 5:21",
+      "Romans 7:7"
+    ]
+  },
+  "Exodus 20:18": {
+    "title": "The people fear the signs",
+    "text": "The people see thunder, lightning, trumpet, and smoke and stand at a distance trembling. Their reaction shows the overwhelming effect of the Sinai manifestation.",
+    "refs": [
+      "Exodus 19:16–18"
+    ]
+  },
+  "Exodus 20:19": {
+    "title": "Moses as mediator",
+    "text": "The people ask Moses to speak with them rather than have God speak directly, fearing they will die. Moses’ role as mediator becomes prominent, while the text still identifies the LORD as the source of the commandments.",
+    "refs": [
+      "Deuteronomy 5:5",
+      "Galatians 3:19"
+    ]
+  },
+  "Exodus 20:20": {
+    "title": "Fear God, do not sin",
+    "text": "Moses tells the people not to fear in the sense of panic, for God has come to test them so that His fear may remain before them and they do not sin. Reverent fear is meant to lead to obedience, not hopeless terror.",
+    "refs": [
+      "Proverbs 1:7",
+      "Deuteronomy 6:2"
+    ]
+  },
+  "Exodus 20:21": {
+    "title": "Moses draws near to the thick darkness",
+    "text": "The people stand far away while Moses approaches the thick darkness where God is. The contrast marks Moses’ assigned role as mediator in this covenant encounter.",
+    "refs": [
+      "Exodus 19:20",
+      "Hebrews 12:18–24"
+    ]
   }
 };
