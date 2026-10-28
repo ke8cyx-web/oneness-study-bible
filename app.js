@@ -252,7 +252,8 @@ $("onenessCrossrefs").addEventListener("click",e=>{const b=e.target.closest("[da
 
 document.querySelectorAll(".tab").forEach(btn=>btn.addEventListener("click",()=>{
  document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("active",b===btn));
- ["read","study","search","saved"].forEach(n=>$(n+"Panel").classList.toggle("hidden",n!==btn.dataset.tab));
+ ["read","study","search","saved","plan"].forEach(n=>$(n+"Panel").classList.toggle("hidden",n!==btn.dataset.tab));
+ if(btn.dataset.tab==="plan")renderReadingPlan();
  if(btn.dataset.tab==="saved")renderBookmarks();
 }));
 els.book.addEventListener("change",()=>{populateChapters()});
