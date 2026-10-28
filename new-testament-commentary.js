@@ -150,3 +150,7 @@ Object.assign(window.verseCommentary, {
   "Matthew 5:46": { title: "Love Your Enemies", text: "Disciples must not reserve kindness only for their own circle. God’s kingdom forms a people whose conduct shows a wider love.", refs: ["Galatians 6:10","James 2:1–4"] },
   "Matthew 5:47": { title: "Love Your Enemies", text: "In context, “perfect” carries the sense of completeness or maturity, especially in the all-embracing love just described. Jesus calls His disciples to reflect the Father’s generous character.", refs: ["Luke 6:36","Leviticus 19:2"] }
 });
+
+Object.assign(window.verseCommentary, {
+  "Matthew 5:48": { title: "Love That Reflects the Father", text: "In context, “perfect” carries the sense of completeness or maturity, especially in the all-embracing love Jesus has just commanded. The disciple is called to reflect the Father’s generous character, loving beyond the limits of reciprocity.", refs: ["Luke 6:36", "Leviticus 19:2"] }
+});
