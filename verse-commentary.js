@@ -7169,5 +7169,672 @@ window.verseCommentary = {
     "refs": [
       "Genesis 41:9–14"
     ]
+  },
+  "Genesis 41:1": {
+    "title": "Pharaoh dreams after two years",
+    "text": "Two full years pass before Pharaoh dreams of standing by the Nile. Joseph remains forgotten in prison, but the timing of Pharaoh’s dream brings the next change in his life.",
+    "refs": [
+      "Genesis 40:23"
+    ]
+  },
+  "Genesis 41:2": {
+    "title": "Seven healthy cows",
+    "text": "Pharaoh sees seven beautiful, fat cows come up from the river and feed in the meadow. The dream’s imagery is tied to Egypt’s agricultural life and the Nile.",
+    "refs": [
+      "Genesis 41:17–18"
+    ]
+  },
+  "Genesis 41:3": {
+    "title": "Seven thin cows appear",
+    "text": "Seven other cows, ugly and thin, come up after the first cows. Their contrast signals a troubling reversal within the dream.",
+    "refs": [
+      "Genesis 41:19"
+    ]
+  },
+  "Genesis 41:4": {
+    "title": "The thin cows consume the fat cows",
+    "text": "The thin cows eat the seven fat cows, but remain thin. The unusual image leaves Pharaoh troubled and needing an interpretation.",
+    "refs": [
+      "Genesis 41:21"
+    ]
+  },
+  "Genesis 41:5": {
+    "title": "A second dream of grain",
+    "text": "Pharaoh sleeps again and dreams of seven full ears of grain growing on one stalk. The second dream repeats the pattern of abundance.",
+    "refs": [
+      "Genesis 41:22"
+    ]
+  },
+  "Genesis 41:6": {
+    "title": "Seven thin ears scorched by wind",
+    "text": "Seven thin ears blasted by the east wind grow after the full ears. The image foreshadows hardship following a period of plenty.",
+    "refs": [
+      "Genesis 41:23"
+    ]
+  },
+  "Genesis 41:7": {
+    "title": "The thin ears swallow the full ears",
+    "text": "The thin ears consume the full ears, and Pharaoh awakens. The two dreams share a pattern that will be explained as one message.",
+    "refs": [
+      "Genesis 41:25–32"
+    ]
+  },
+  "Genesis 41:8": {
+    "title": "Egypt’s wise men cannot interpret",
+    "text": "In the morning Pharaoh is troubled and summons Egypt’s magicians and wise men, but none can interpret the dreams. Human expertise fails to supply the answer Pharaoh needs.",
+    "refs": [
+      "Daniel 2:1–11"
+    ]
+  },
+  "Genesis 41:9": {
+    "title": "The butler remembers Joseph",
+    "text": "The chief butler remembers his failures and tells Pharaoh about the young Hebrew imprisoned with him. The forgotten prisoner is brought back to mind at the moment his help is needed.",
+    "refs": [
+      "Genesis 40:14, 23"
+    ]
+  },
+  "Genesis 41:10": {
+    "title": "Pharaoh imprisoned his servants",
+    "text": "The butler recalls Pharaoh’s anger and the imprisonment of himself and the chief baker. He sets the context for the dreams Joseph interpreted accurately.",
+    "refs": [
+      "Genesis 40:1–5"
+    ]
+  },
+  "Genesis 41:11": {
+    "title": "Each man dreamed",
+    "text": "The butler recounts that he and the baker dreamed on the same night, each with a distinct meaning. Their experience gives Pharaoh a reason to hear Joseph’s ability.",
+    "refs": [
+      "Genesis 40:5"
+    ]
+  },
+  "Genesis 41:12": {
+    "title": "A Hebrew servant interprets",
+    "text": "The butler remembers a Hebrew young man, servant to the captain of the guard, who interpreted their dreams. Joseph’s background is stated plainly, while the narrative shows God’s gift at work beyond Egypt’s official experts.",
+    "refs": [
+      "Genesis 40:8"
+    ]
+  },
+  "Genesis 41:13": {
+    "title": "The dreams came true",
+    "text": "The butler says the events occurred as Joseph interpreted: he was restored and the baker was executed. The accuracy of the earlier interpretations supports bringing Joseph before Pharaoh.",
+    "refs": [
+      "Genesis 40:20–22"
+    ]
+  },
+  "Genesis 41:14": {
+    "title": "Joseph is brought from prison",
+    "text": "Pharaoh sends for Joseph, who is quickly brought out, shaved, and given clean clothes before entering the royal presence. His sudden change in circumstance follows years of suffering and waiting.",
+    "refs": [
+      "Psalm 105:17–20"
+    ]
+  },
+  "Genesis 41:15": {
+    "title": "Pharaoh asks Joseph to interpret",
+    "text": "Pharaoh says he has heard Joseph can understand a dream when he hears it. Joseph is given the opportunity to explain the dreams before the king.",
+    "refs": [
+      "Genesis 41:25"
+    ]
+  },
+  "Genesis 41:16": {
+    "title": "Joseph gives God the credit",
+    "text": "Joseph answers that the interpretation is not from himself but that God will give Pharaoh an answer of peace. He refuses to present himself as the source of supernatural insight.",
+    "refs": [
+      "Genesis 40:8",
+      "Daniel 2:27–28"
+    ]
+  },
+  "Genesis 41:17": {
+    "title": "Pharaoh recounts the dream",
+    "text": "Pharaoh describes standing by the river and seeing the cows emerge. The repetition of the dream establishes the details Joseph will interpret.",
+    "refs": [
+      "Genesis 41:1–4"
+    ]
+  },
+  "Genesis 41:18": {
+    "title": "The fat cows feed",
+    "text": "Pharaoh recalls the seven healthy cows feeding in the meadow. The detail represents the coming years of abundance in Joseph’s interpretation.",
+    "refs": [
+      "Genesis 41:29"
+    ]
+  },
+  "Genesis 41:19": {
+    "title": "The ugly cows",
+    "text": "Pharaoh describes seven thin, ugly cows unlike any he had seen in Egypt. Their extreme condition signals an exceptional period of famine.",
+    "refs": [
+      "Genesis 41:30"
+    ]
+  },
+  "Genesis 41:20": {
+    "title": "The thin cows eat the fat cows",
+    "text": "The thin cows consume the healthy cows. The image conveys how severe scarcity will overwhelm the memory of earlier abundance.",
+    "refs": [
+      "Genesis 41:30–31"
+    ]
+  },
+  "Genesis 41:21": {
+    "title": "The cows remain thin",
+    "text": "After consuming the fat cows, the thin cows look no better. The dream emphasizes the severity of the famine rather than a temporary shortage.",
+    "refs": [
+      "Genesis 41:31"
+    ]
+  },
+  "Genesis 41:22": {
+    "title": "The full ears of grain",
+    "text": "Pharaoh recounts the second dream with seven full ears growing on one stalk. The dream repeats the theme of abundant food before scarcity.",
+    "refs": [
+      "Genesis 41:26"
+    ]
+  },
+  "Genesis 41:23": {
+    "title": "The thin ears are blasted",
+    "text": "Pharaoh describes seven thin ears, withered and scorched by the east wind. The imagery reinforces the coming loss of agricultural production.",
+    "refs": [
+      "Genesis 41:27"
+    ]
+  },
+  "Genesis 41:24": {
+    "title": "The wise men fail again",
+    "text": "Pharaoh says the thin ears swallowed the good ears, but none of the wise men could explain it. Joseph’s interpretation will make clear that the two dreams communicate the same warning.",
+    "refs": [
+      "Genesis 41:8"
+    ]
+  },
+  "Genesis 41:25": {
+    "title": "One message from God",
+    "text": "Joseph says Pharaoh’s dreams have one meaning and that God has shown Pharaoh what He is about to do. Joseph explicitly identifies God as the source of the warning.",
+    "refs": [
+      "Amos 3:7"
+    ]
+  },
+  "Genesis 41:26": {
+    "title": "Seven years of abundance",
+    "text": "Joseph explains that the seven good cows and seven good ears represent seven years. The repeated number confirms the unified meaning of the two dreams.",
+    "refs": [
+      "Genesis 41:29"
+    ]
+  },
+  "Genesis 41:27": {
+    "title": "Seven years of famine",
+    "text": "The seven thin cows and seven empty ears represent seven years of famine. The east wind image belongs to the dream’s agricultural symbolism.",
+    "refs": [
+      "Genesis 41:30"
+    ]
+  },
+  "Genesis 41:28": {
+    "title": "God has revealed what He will do",
+    "text": "Joseph repeats that God has shown Pharaoh what is coming. The interpretation is presented as divine disclosure, not Joseph’s guesswork.",
+    "refs": [
+      "Genesis 41:25"
+    ]
+  },
+  "Genesis 41:29": {
+    "title": "Great plenty throughout Egypt",
+    "text": "Joseph predicts seven years of great abundance throughout Egypt. The coming years will provide an opportunity to prepare for the famine.",
+    "refs": [
+      "Genesis 41:47"
+    ]
+  },
+  "Genesis 41:30": {
+    "title": "Famine follows the plenty",
+    "text": "Joseph says seven years of famine will follow, and the abundance will be forgotten. The warning explains why preparation during good years is essential.",
+    "refs": [
+      "Proverbs 6:6–8"
+    ]
+  },
+  "Genesis 41:31": {
+    "title": "The famine will be severe",
+    "text": "The famine will be so severe that the earlier plenty will not be remembered. Joseph emphasizes the seriousness of the coming crisis.",
+    "refs": [
+      "Genesis 41:30"
+    ]
+  },
+  "Genesis 41:32": {
+    "title": "The doubled dream confirms certainty",
+    "text": "Joseph says the dream was doubled because the matter is established by God and will soon happen. The doubling confirms the certainty of the warning within the narrative.",
+    "refs": [
+      "Genesis 41:25"
+    ]
+  },
+  "Genesis 41:33": {
+    "title": "Pharaoh should appoint a wise man",
+    "text": "Joseph advises Pharaoh to choose a discerning and wise man to oversee Egypt. He moves from interpretation to practical planning rather than stopping at prediction.",
+    "refs": [
+      "Proverbs 24:3–4"
+    ]
+  },
+  "Genesis 41:34": {
+    "title": "Officials should be appointed",
+    "text": "Joseph advises appointing officers to collect a fifth of the produce during the seven plentiful years. The plan is an administrative proposal for storing food before the famine.",
+    "refs": [
+      "Genesis 41:48"
+    ]
+  },
+  "Genesis 41:35": {
+    "title": "Store food in the cities",
+    "text": "Joseph recommends gathering food during the good years and keeping it under Pharaoh’s authority. Preparation will protect the nation when the harvest fails.",
+    "refs": [
+      "Proverbs 21:20"
+    ]
+  },
+  "Genesis 41:36": {
+    "title": "A reserve for the famine",
+    "text": "The stored food will serve as a reserve for the seven famine years so Egypt will not perish. Joseph’s advice joins divine warning with responsible action.",
+    "refs": [
+      "Genesis 41:48–49"
+    ]
+  },
+  "Genesis 41:37": {
+    "title": "Pharaoh and his servants approve",
+    "text": "Pharaoh and his servants consider Joseph’s proposal good. The plan is accepted as wise and practical in response to the warning.",
+    "refs": [
+      "Genesis 41:33–36"
+    ]
+  },
+  "Genesis 41:38": {
+    "title": "A man with God’s Spirit",
+    "text": "Pharaoh asks whether they can find anyone like Joseph, in whom is the Spirit of God. The verse describes Pharaoh’s recognition of divine wisdom in Joseph; it is not a full technical explanation of the Spirit’s nature.",
+    "refs": [
+      "Numbers 27:18"
+    ]
+  },
+  "Genesis 41:39": {
+    "title": "Joseph is uniquely discerning",
+    "text": "Pharaoh acknowledges that God has shown Joseph all this and says none is as discerning and wise as he is. Joseph’s gift is publicly recognized, but its source is credited to God.",
+    "refs": [
+      "Genesis 41:16"
+    ]
+  },
+  "Genesis 41:40": {
+    "title": "Joseph placed over Pharaoh’s house",
+    "text": "Pharaoh appoints Joseph over his house and says the people will be ruled according to his word, with Pharaoh retaining the throne. Joseph moves from prison to a position of extraordinary authority.",
+    "refs": [
+      "Psalm 105:21–22"
+    ]
+  },
+  "Genesis 41:41": {
+    "title": "Ruler over all Egypt",
+    "text": "Pharaoh declares Joseph ruler over all the land of Egypt. The rise fulfills the direction of Joseph’s earlier dreams, though the path to it involved betrayal and suffering.",
+    "refs": [
+      "Genesis 37:7–9"
+    ]
+  },
+  "Genesis 41:42": {
+    "title": "Pharaoh gives Joseph royal honors",
+    "text": "Pharaoh gives Joseph his signet ring, fine linen, a gold chain, and a place in the royal administration. The visible honors mark Joseph’s new official status.",
+    "refs": [
+      "Esther 8:2"
+    ]
+  },
+  "Genesis 41:43": {
+    "title": "The people bow before Joseph",
+    "text": "Joseph rides in Pharaoh’s second chariot, and people are commanded to bow before him. The narrative brings the brothers’ earlier dreams of bowing closer to fulfillment.",
+    "refs": [
+      "Genesis 37:7–8"
+    ]
+  },
+  "Genesis 41:44": {
+    "title": "Joseph’s authority confirmed",
+    "text": "Pharaoh says no man will lift hand or foot in Egypt without Joseph’s authority. The statement emphasizes the breadth of Joseph’s delegated power under Pharaoh.",
+    "refs": [
+      "Genesis 41:40"
+    ]
+  },
+  "Genesis 41:45": {
+    "title": "Joseph receives an Egyptian name and wife",
+    "text": "Pharaoh calls Joseph Zaphnath-paaneah and gives him Asenath as wife. Joseph’s new position integrates him into Egypt’s administration, while the narrative continues to trace God’s work through his life.",
+    "refs": [
+      "Genesis 41:50"
+    ]
+  },
+  "Genesis 41:46": {
+    "title": "Joseph is thirty years old",
+    "text": "Joseph is thirty when he stands before Pharaoh and begins his service across Egypt. He has passed through slavery and imprisonment before receiving this responsibility.",
+    "refs": [
+      "Genesis 37:2",
+      "Luke 3:23"
+    ]
+  },
+  "Genesis 41:47": {
+    "title": "The land produces abundantly",
+    "text": "During the seven plentiful years, the earth produces in abundance. The harvest confirms the interpretation and makes the storage plan possible.",
+    "refs": [
+      "Genesis 41:29"
+    ]
+  },
+  "Genesis 41:48": {
+    "title": "Food stored in the cities",
+    "text": "Joseph gathers food and stores it in the cities, placing each city’s nearby produce in its own storehouse. The organized collection prepares Egypt for the coming famine.",
+    "refs": [
+      "Genesis 41:34–36"
+    ]
+  },
+  "Genesis 41:49": {
+    "title": "Grain beyond counting",
+    "text": "Joseph stores so much grain that it becomes like the sand of the sea, beyond measure. The abundance of the reserve matches the extraordinary harvest years.",
+    "refs": [
+      "Genesis 41:47"
+    ]
+  },
+  "Genesis 41:50": {
+    "title": "Manasseh and Ephraim are born",
+    "text": "Before the famine, Asenath bears Joseph two sons. Their births establish Joseph’s family in Egypt and introduce names that will matter in Israel’s tribal history.",
+    "refs": [
+      "Genesis 48:5"
+    ]
+  },
+  "Genesis 41:51": {
+    "title": "Manasseh and forgotten hardship",
+    "text": "Joseph names the firstborn Manasseh because God has made him forget his toil and his father’s house. This expresses relief and healing, not necessarily that Joseph has erased his family from his heart.",
+    "refs": [
+      "Genesis 45:4–5"
+    ]
+  },
+  "Genesis 41:52": {
+    "title": "Ephraim and fruitfulness",
+    "text": "Joseph names his second son Ephraim because God has made him fruitful in the land of his affliction. Joseph recognizes God’s provision even in a foreign land where he suffered.",
+    "refs": [
+      "Genesis 49:22"
+    ]
+  },
+  "Genesis 41:53": {
+    "title": "The seven plentiful years end",
+    "text": "The seven years of abundance in Egypt come to an end, just as Joseph had interpreted. The time of preparation is over and the predicted famine begins.",
+    "refs": [
+      "Genesis 41:29"
+    ]
+  },
+  "Genesis 41:54": {
+    "title": "Famine begins across the lands",
+    "text": "The famine begins as Joseph said, but Egypt has bread because of the stored grain. The contrast demonstrates the value of the preparation Joseph directed.",
+    "refs": [
+      "Genesis 41:35–36"
+    ]
+  },
+  "Genesis 41:55": {
+    "title": "The Egyptians appeal to Pharaoh",
+    "text": "When the people cry to Pharaoh for bread, he directs them to Joseph and tells them to do what Joseph says. Joseph’s delegated authority now becomes essential to survival.",
+    "refs": [
+      "Genesis 41:40"
+    ]
+  },
+  "Genesis 41:56": {
+    "title": "Joseph opens the storehouses",
+    "text": "As the famine spreads, Joseph opens the storehouses and sells grain to the Egyptians. The crisis reaches the whole land, but the prepared reserves provide food.",
+    "refs": [
+      "Genesis 41:48–49"
+    ]
+  },
+  "Genesis 41:57": {
+    "title": "Nations come to Egypt for grain",
+    "text": "People from other countries come to Egypt to buy grain because the famine is severe throughout the earth. The crisis will bring Joseph’s own brothers to Egypt and advance the preservation of Jacob’s family.",
+    "refs": [
+      "Genesis 42:1–6"
+    ]
+  },
+  "Genesis 42:1": {
+    "title": "Jacob hears Egypt has grain",
+    "text": "Jacob learns that there is grain in Egypt and asks his sons why they look at one another instead of acting. His words prompt the family to seek food during the famine.",
+    "refs": [
+      "Genesis 41:56–57"
+    ]
+  },
+  "Genesis 42:2": {
+    "title": "Jacob sends his sons to buy food",
+    "text": "Jacob tells his sons to go to Egypt and buy grain so the family can live rather than die. The famine forces the brothers to travel to the land where Joseph now holds authority.",
+    "refs": [
+      "Genesis 41:55"
+    ]
+  },
+  "Genesis 42:3": {
+    "title": "Ten brothers go to Egypt",
+    "text": "Ten of Joseph’s brothers travel to Egypt to buy grain. Benjamin stays behind with Jacob, setting up a key part of Joseph’s test of his brothers.",
+    "refs": [
+      "Genesis 42:4"
+    ]
+  },
+  "Genesis 42:4": {
+    "title": "Jacob protects Benjamin",
+    "text": "Jacob does not send Benjamin with the others because he fears harm may come to him. His special concern reflects the family’s unresolved grief over Joseph.",
+    "refs": [
+      "Genesis 37:33–35"
+    ]
+  },
+  "Genesis 42:5": {
+    "title": "Canaan’s families seek grain",
+    "text": "The sons of Israel come among others who travel to Egypt because famine has reached Canaan. The journey is part of the means by which the family will be reunited.",
+    "refs": [
+      "Genesis 41:57"
+    ]
+  },
+  "Genesis 42:6": {
+    "title": "Joseph’s brothers bow before him",
+    "text": "Joseph, governor of the land, sells grain to the people, and his brothers bow before him. The earlier dreams begin to be fulfilled, although the brothers do not recognize Joseph.",
+    "refs": [
+      "Genesis 37:7–8"
+    ]
+  },
+  "Genesis 42:7": {
+    "title": "Joseph recognizes them but hides himself",
+    "text": "Joseph recognizes his brothers and speaks roughly to them, accusing them of being spies. He does not reveal his identity, and the narrative will show him testing whether their character has changed.",
+    "refs": [
+      "Genesis 42:9"
+    ]
+  },
+  "Genesis 42:8": {
+    "title": "They do not recognize Joseph",
+    "text": "Joseph recognizes his brothers, but they do not recognize him. Years have passed, and Joseph’s Egyptian position and appearance make recognition unlikely.",
+    "refs": [
+      "Genesis 41:45–46"
+    ]
+  },
+  "Genesis 42:9": {
+    "title": "Joseph remembers his dreams",
+    "text": "Joseph remembers the dreams he had about his brothers and accuses them of spying. The remembered dreams help frame the moment, but his strategy also tests their honesty and concern for Benjamin.",
+    "refs": [
+      "Genesis 37:5–9"
+    ]
+  },
+  "Genesis 42:10": {
+    "title": "The brothers deny spying",
+    "text": "The brothers say they have come to buy food and are not spies. Their explanation is true about their immediate purpose, but Joseph continues to question them.",
+    "refs": [
+      "Genesis 42:11"
+    ]
+  },
+  "Genesis 42:11": {
+    "title": "They claim to be honest men",
+    "text": "The brothers say they are all one man’s sons and honest men. The reader knows they have hidden the truth about Joseph, so their claim is tested by their past conduct.",
+    "refs": [
+      "Genesis 37:18–28"
+    ]
+  },
+  "Genesis 42:12": {
+    "title": "Joseph repeats the accusation",
+    "text": "Joseph insists that they came to spy on the land. The interrogation pressures the brothers to explain their family circumstances more fully.",
+    "refs": [
+      "Genesis 42:13"
+    ]
+  },
+  "Genesis 42:13": {
+    "title": "They explain their family",
+    "text": "The brothers say they are twelve brothers, sons of one man in Canaan; the youngest is with their father and one is no more. Their words unknowingly refer to Joseph and Benjamin.",
+    "refs": [
+      "Genesis 35:24"
+    ]
+  },
+  "Genesis 42:14": {
+    "title": "Joseph holds to his test",
+    "text": "Joseph says his accusation stands and continues testing their account. The narrative does not present this as a general model for dealing with strangers, but as part of this family reckoning.",
+    "refs": [
+      "Genesis 42:15–20"
+    ]
+  },
+  "Genesis 42:15": {
+    "title": "An oath-like test concerning Benjamin",
+    "text": "Joseph says the brothers will not leave unless their youngest brother comes. He sets a condition that will expose whether they are willing to return for Benjamin.",
+    "refs": [
+      "Genesis 42:20"
+    ]
+  },
+  "Genesis 42:16": {
+    "title": "One brother sent to fetch Benjamin",
+    "text": "Joseph says one brother will go bring Benjamin while the others remain confined. The test places the brothers under pressure to demonstrate whether their story is true.",
+    "refs": [
+      "Genesis 42:19–20"
+    ]
+  },
+  "Genesis 42:17": {
+    "title": "Three days in custody",
+    "text": "Joseph puts them all together in prison for three days. The confinement gives the brothers time to face the crisis and consider their options.",
+    "refs": [
+      "Genesis 42:18"
+    ]
+  },
+  "Genesis 42:18": {
+    "title": "Joseph speaks of fearing God",
+    "text": "On the third day, Joseph says he fears God and offers a way for them to live. His statement introduces a measure of mercy within the test and invokes reverence for God as a moral standard.",
+    "refs": [
+      "Leviticus 19:14"
+    ]
+  },
+  "Genesis 42:19": {
+    "title": "One brother remains confined",
+    "text": "Joseph says one brother will remain in custody while the others take grain home to relieve their families’ hunger. The arrangement combines accountability with provision for their household.",
+    "refs": [
+      "Genesis 42:20"
+    ]
+  },
+  "Genesis 42:20": {
+    "title": "Bring the youngest brother",
+    "text": "Joseph requires the brothers to bring Benjamin so their words may be verified and they will not die. The brothers agree, though they do not yet know Joseph’s identity.",
+    "refs": [
+      "Genesis 43:3–5"
+    ]
+  },
+  "Genesis 42:21": {
+    "title": "The brothers recall Joseph’s distress",
+    "text": "The brothers recognize that they are suffering because of what they did to Joseph and remember his distress when he pleaded with them. Their conscience connects the present danger with their past cruelty.",
+    "refs": [
+      "Genesis 37:23–28"
+    ]
+  },
+  "Genesis 42:22": {
+    "title": "Reuben reminds them of his warning",
+    "text": "Reuben says he told them not to sin against the boy, but they did not listen; now his blood is required. His words recall his earlier attempt to save Joseph and the brothers’ responsibility for the sale.",
+    "refs": [
+      "Genesis 37:21–22"
+    ]
+  },
+  "Genesis 42:23": {
+    "title": "Joseph understands their words",
+    "text": "The brothers do not know Joseph understands them because an interpreter is used. Joseph hears their confession without revealing himself.",
+    "refs": [
+      "Genesis 42:24"
+    ]
+  },
+  "Genesis 42:24": {
+    "title": "Joseph weeps and binds Simeon",
+    "text": "Joseph turns away and weeps, then returns and takes Simeon to bind him before the others. His tears reveal that his stern treatment does not mean he is emotionally unmoved.",
+    "refs": [
+      "Genesis 43:30"
+    ]
+  },
+  "Genesis 42:25": {
+    "title": "Grain and money returned",
+    "text": "Joseph orders the brothers’ sacks filled with grain, their money returned, and provisions given for the journey. His actions provide food while setting up a new test when they discover the money.",
+    "refs": [
+      "Genesis 42:27–28"
+    ]
+  },
+  "Genesis 42:26": {
+    "title": "The brothers depart with grain",
+    "text": "The brothers load the grain on their donkeys and leave. They have food for the family, but Simeon remains behind and Benjamin must still be brought to Egypt.",
+    "refs": [
+      "Genesis 42:19–20"
+    ]
+  },
+  "Genesis 42:27": {
+    "title": "One brother finds his money",
+    "text": "At the lodging place, one brother opens his sack to feed his donkey and finds his money at the sack’s mouth. The discovery creates fear because they do not know why the money was returned.",
+    "refs": [
+      "Genesis 42:28"
+    ]
+  },
+  "Genesis 42:28": {
+    "title": "The brothers fear God’s hand",
+    "text": "The brother tells the others that his money has been restored, and their hearts fail as they wonder what God has done to them. Their fear shows how vulnerable they feel after the accusation and confinement.",
+    "refs": [
+      "Genesis 42:21–22"
+    ]
+  },
+  "Genesis 42:29": {
+    "title": "They report to Jacob",
+    "text": "The brothers return to Canaan and tell Jacob what happened in Egypt. Their report explains the ruler’s questions and the condition that Benjamin must come.",
+    "refs": [
+      "Genesis 42:13–20"
+    ]
+  },
+  "Genesis 42:30": {
+    "title": "The ruler speaks roughly",
+    "text": "They tell Jacob that the ruler spoke roughly and accused them of spying. The brothers recount the treatment they received without knowing the ruler is Joseph.",
+    "refs": [
+      "Genesis 42:7–12"
+    ]
+  },
+  "Genesis 42:31": {
+    "title": "They insist they are honest",
+    "text": "The brothers repeat that they told the ruler they were honest men. Their insistence contrasts with the unresolved deceit in their family history.",
+    "refs": [
+      "Genesis 42:11"
+    ]
+  },
+  "Genesis 42:32": {
+    "title": "They recount their family details",
+    "text": "They tell Jacob they are twelve brothers, one is no more, and the youngest is with their father. This summary repeats the facts that led Joseph to demand Benjamin’s presence.",
+    "refs": [
+      "Genesis 42:13"
+    ]
+  },
+  "Genesis 42:33": {
+    "title": "The ruler’s condition",
+    "text": "The brothers say the ruler required one brother to remain and sent the others home with grain. They must bring Benjamin to prove their account and secure the release of the confined brother.",
+    "refs": [
+      "Genesis 42:19–20"
+    ]
+  },
+  "Genesis 42:34": {
+    "title": "Benjamin is required to confirm their words",
+    "text": "The ruler said they must bring their youngest brother so he would know they were not spies and could release their brother. The condition forces Jacob to consider risking Benjamin’s safety.",
+    "refs": [
+      "Genesis 43:3–5"
+    ]
+  },
+  "Genesis 42:35": {
+    "title": "Money found in every sack",
+    "text": "As the brothers empty their sacks, each finds his money bundle. The discovery frightens the family and complicates their ability to explain the events in Egypt.",
+    "refs": [
+      "Genesis 42:27–28"
+    ]
+  },
+  "Genesis 42:36": {
+    "title": "Jacob grieves over his sons",
+    "text": "Jacob says Joseph is gone, Simeon is gone, and now they want to take Benjamin. He feels that everything is against him, expressing grief without knowing the larger story unfolding.",
+    "refs": [
+      "Genesis 37:33–35"
+    ]
+  },
+  "Genesis 42:37": {
+    "title": "Reuben offers his own sons as pledge",
+    "text": "Reuben offers Jacob the lives of his two sons if he fails to bring Benjamin back. His offer is extreme and cannot truly replace Benjamin, showing the desperation of the moment.",
+    "refs": [
+      "Genesis 43:8–9"
+    ]
+  },
+  "Genesis 42:38": {
+    "title": "Jacob refuses to send Benjamin",
+    "text": "Jacob says Benjamin will not go because Joseph is dead and he fears harm will bring him down to the grave in sorrow. His grief and fear prevent the family from returning immediately to Egypt.",
+    "refs": [
+      "Genesis 43:1–2"
+    ]
   }
 };
