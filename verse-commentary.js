@@ -8753,5 +8753,802 @@ window.verseCommentary = {
     "refs": [
       "Genesis 47:1–6"
     ]
+  },
+  "Genesis 47:1": {
+    "title": "Joseph reports his family’s arrival",
+    "text": "Joseph tells Pharaoh that his father and brothers have arrived from Canaan with their flocks and possessions and are in Goshen. He brings the family’s needs before the king.",
+    "refs": [
+      "Genesis 46:31–34"
+    ]
+  },
+  "Genesis 47:2": {
+    "title": "Five brothers appear before Pharaoh",
+    "text": "Joseph presents five of his brothers to Pharaoh. The meeting establishes the family’s presence in Egypt and leads to Pharaoh’s questions about their occupation.",
+    "refs": [
+      "Genesis 47:3"
+    ]
+  },
+  "Genesis 47:3": {
+    "title": "The brothers identify their occupation",
+    "text": "Pharaoh asks the brothers what their occupation is, and they answer that they are shepherds. Their answer follows Joseph’s preparation for this meeting.",
+    "refs": [
+      "Genesis 46:33–34"
+    ]
+  },
+  "Genesis 47:4": {
+    "title": "The family asks to dwell in Goshen",
+    "text": "The brothers explain that famine has made pasture scarce in Canaan and ask permission to live in Goshen. Their request is for a place to keep their flocks and survive the famine.",
+    "refs": [
+      "Genesis 45:10"
+    ]
+  },
+  "Genesis 47:5": {
+    "title": "Pharaoh speaks to Joseph",
+    "text": "Pharaoh tells Joseph that his father and brothers have come to him. The king’s response prepares the way for the family’s settlement.",
+    "refs": [
+      "Genesis 47:6"
+    ]
+  },
+  "Genesis 47:6": {
+    "title": "The best of the land is offered",
+    "text": "Pharaoh offers the family the land of Egypt and permits them to dwell in Goshen. He also invites Joseph to appoint capable men over the royal livestock, extending trust to Joseph’s relatives.",
+    "refs": [
+      "Genesis 45:18"
+    ]
+  },
+  "Genesis 47:7": {
+    "title": "Jacob blesses Pharaoh",
+    "text": "Joseph brings Jacob before Pharaoh, and Jacob blesses the king. The aged patriarch stands before the ruler of Egypt, and the blessing suggests that Jacob approaches him with the authority of faith rather than merely as a dependent.",
+    "refs": [
+      "Hebrews 7:7"
+    ]
+  },
+  "Genesis 47:8": {
+    "title": "Pharaoh asks Jacob’s age",
+    "text": "Pharaoh asks Jacob how old he is. The question introduces Jacob’s reflection on the years of his life.",
+    "refs": [
+      "Genesis 47:9"
+    ]
+  },
+  "Genesis 47:9": {
+    "title": "Jacob describes his difficult years",
+    "text": "Jacob says his years have been few and evil compared with those of his fathers. His life has included hardship, yet God has preserved him and brought him to see Joseph again.",
+    "refs": [
+      "Genesis 28:15",
+      "Genesis 46:30"
+    ]
+  },
+  "Genesis 47:10": {
+    "title": "Jacob blesses Pharaoh again",
+    "text": "Jacob blesses Pharaoh and departs from his presence. The repeated blessing frames the meeting with goodwill.",
+    "refs": [
+      "Genesis 47:7"
+    ]
+  },
+  "Genesis 47:11": {
+    "title": "The family settles in Rameses",
+    "text": "Joseph settles his father and brothers in the best part of the land, in the region of Rameses, as Pharaoh commanded. The family receives a place to live during the famine.",
+    "refs": [
+      "Genesis 45:18"
+    ]
+  },
+  "Genesis 47:12": {
+    "title": "Joseph provides food for the family",
+    "text": "Joseph supplies food for his father, brothers, and the whole household according to their dependents. His position becomes the means through which God preserves Jacob’s family.",
+    "refs": [
+      "Genesis 45:11"
+    ]
+  },
+  "Genesis 47:13": {
+    "title": "The famine grows severe",
+    "text": "There is no bread throughout the land because the famine is severe, and Egypt and Canaan languish. The crisis affects the whole region, making stored grain essential for survival.",
+    "refs": [
+      "Genesis 41:30"
+    ]
+  },
+  "Genesis 47:14": {
+    "title": "Joseph gathers the money",
+    "text": "Joseph collects the money in Egypt and Canaan in exchange for grain and brings it into Pharaoh’s house. The verse describes the economic centralization that occurs as people buy food during famine.",
+    "refs": [
+      "Genesis 41:48–49"
+    ]
+  },
+  "Genesis 47:15": {
+    "title": "The people run out of money",
+    "text": "When the money in Egypt and Canaan is spent, the people come to Joseph asking for bread. They fear death from hunger and have no payment left.",
+    "refs": [
+      "Genesis 47:13–14"
+    ]
+  },
+  "Genesis 47:16": {
+    "title": "Livestock exchanged for food",
+    "text": "Joseph tells the people to bring their livestock in exchange for food. This allows them to survive when money is exhausted, while their animals become part of Pharaoh’s holdings.",
+    "refs": [
+      "Genesis 47:17"
+    ]
+  },
+  "Genesis 47:17": {
+    "title": "The animals exchanged for provisions",
+    "text": "The people bring horses, flocks, herds, and donkeys, and Joseph provides food for them through that year. The passage records the increasingly desperate measures used during the famine.",
+    "refs": [
+      "Genesis 47:16"
+    ]
+  },
+  "Genesis 47:18": {
+    "title": "The next year brings further need",
+    "text": "At the end of the year, the people return and admit that their money and livestock are gone. They have only themselves and their land left to offer for food.",
+    "refs": [
+      "Genesis 47:19"
+    ]
+  },
+  "Genesis 47:19": {
+    "title": "The people offer land and labor",
+    "text": "The people ask Joseph not to let them die and offer their land in exchange for food and seed. Joseph’s policies preserve their lives but also transfer their land to Pharaoh.",
+    "refs": [
+      "Genesis 47:20"
+    ]
+  },
+  "Genesis 47:20": {
+    "title": "Joseph acquires Egypt’s land for Pharaoh",
+    "text": "Joseph buys the land of Egypt for Pharaoh as the famine grows severe, and the land becomes Pharaoh’s possession. The verse describes the political-economic result of the crisis without presenting every policy detail as a universal command.",
+    "refs": [
+      "Genesis 47:19"
+    ]
+  },
+  "Genesis 47:21": {
+    "title": "The population is relocated",
+    "text": "Joseph moves the people into cities in the land, according to the verse’s account of his administration. The relocation is part of the system used to manage the famine and food supply.",
+    "refs": [
+      "Genesis 47:23"
+    ]
+  },
+  "Genesis 47:22": {
+    "title": "The priests’ land is exempted",
+    "text": "The land belonging to the priests is not bought because they receive an allowance from Pharaoh. The verse describes a distinct arrangement for Egypt’s priestly class.",
+    "refs": [
+      "Genesis 47:26"
+    ]
+  },
+  "Genesis 47:23": {
+    "title": "Joseph provides seed",
+    "text": "Joseph gives the people seed to sow the land, now held for Pharaoh. The provision allows cultivation to resume and offers a path toward future harvests.",
+    "refs": [
+      "Genesis 47:24"
+    ]
+  },
+  "Genesis 47:24": {
+    "title": "A fifth to Pharaoh",
+    "text": "Joseph establishes that one fifth of the harvest will go to Pharaoh and four fifths will remain for seed and food. The verse records the tax arrangement in Egypt that followed the famine crisis.",
+    "refs": [
+      "Genesis 47:26"
+    ]
+  },
+  "Genesis 47:25": {
+    "title": "The people thank Joseph",
+    "text": "The people say Joseph has saved their lives and ask to find favor in Pharaoh’s sight. Their words acknowledge the immediate relief his policy provided during famine.",
+    "refs": [
+      "Genesis 47:19"
+    ]
+  },
+  "Genesis 47:26": {
+    "title": "The fifth becomes a law",
+    "text": "Joseph makes the one-fifth share a law concerning Egypt’s land, with the priests’ land excepted. The narrator records the arrangement as a lasting Egyptian policy, not a command for Israel’s later covenant law.",
+    "refs": [
+      "Genesis 47:22–24"
+    ]
+  },
+  "Genesis 47:27": {
+    "title": "Israel prospers in Goshen",
+    "text": "Israel dwells in Egypt in Goshen, acquires possessions, and becomes fruitful and numerous. Even while Egypt suffers famine, Jacob’s household grows under God’s preservation.",
+    "refs": [
+      "Genesis 1:28",
+      "Genesis 46:3"
+    ]
+  },
+  "Genesis 47:28": {
+    "title": "Jacob lives seventeen years in Egypt",
+    "text": "Jacob lives in Egypt seventeen years, and his full lifespan is one hundred and forty-seven years. The verse prepares for his final instructions and death.",
+    "refs": [
+      "Genesis 47:9"
+    ]
+  },
+  "Genesis 47:29": {
+    "title": "Jacob asks Joseph for a pledge",
+    "text": "As Jacob’s death approaches, he asks Joseph to place a hand under his thigh and promise not to bury him in Egypt. He wants to be buried with his fathers in Canaan, showing his continuing attachment to God’s promised land.",
+    "refs": [
+      "Genesis 49:29–30"
+    ]
+  },
+  "Genesis 47:30": {
+    "title": "Jacob requests burial with his fathers",
+    "text": "Jacob asks Joseph to carry him out of Egypt and bury him in the burial place of his fathers. Joseph agrees, and Jacob’s request expresses faith that Egypt is not the final home of the covenant family.",
+    "refs": [
+      "Genesis 50:13"
+    ]
+  },
+  "Genesis 47:31": {
+    "title": "Joseph swears to Jacob",
+    "text": "Jacob asks Joseph to swear, and Joseph does so. Israel bows at the head of his bed, a final gesture of gratitude or worshipful reverence as the promise is secured.",
+    "refs": [
+      "Hebrews 11:21"
+    ]
+  },
+  "Genesis 48:1": {
+    "title": "Joseph brings his sons to Jacob",
+    "text": "Joseph is told that his father is ill, so he takes Manasseh and Ephraim to visit him. The visit becomes an occasion for Jacob to bless the next generation.",
+    "refs": [
+      "Genesis 41:50–52"
+    ]
+  },
+  "Genesis 48:2": {
+    "title": "Jacob strengthens himself to sit up",
+    "text": "Jacob is told Joseph has arrived and Israel gathers his strength to sit on the bed. The scene emphasizes the importance of this final family meeting.",
+    "refs": [
+      "Genesis 48:1"
+    ]
+  },
+  "Genesis 48:3": {
+    "title": "God Almighty appeared at Luz",
+    "text": "Jacob recalls that God Almighty appeared to him at Luz in Canaan and blessed him. He roots his words to Joseph’s sons in God’s earlier revelation and promise.",
+    "refs": [
+      "Genesis 35:9–12"
+    ]
+  },
+  "Genesis 48:4": {
+    "title": "God’s promise of descendants and land",
+    "text": "Jacob recalls God’s promise to make him fruitful, multiply him, and give the land to his descendants. His blessing passes on the covenant hope that God had given to Abraham, Isaac, and Jacob.",
+    "refs": [
+      "Genesis 28:13–14"
+    ]
+  },
+  "Genesis 48:5": {
+    "title": "Ephraim and Manasseh counted as Jacob’s",
+    "text": "Jacob says Ephraim and Manasseh will be his, like Reuben and Simeon. By adopting Joseph’s sons into his own tribal family, Jacob gives them a place among Israel’s inheritance lines.",
+    "refs": [
+      "Joshua 14:4"
+    ]
+  },
+  "Genesis 48:6": {
+    "title": "Other children remain Joseph’s",
+    "text": "Any children Joseph has after Ephraim and Manasseh will be counted under their brothers’ names for inheritance. Jacob establishes the status of these two sons as the principal heirs within Joseph’s line.",
+    "refs": [
+      "Genesis 48:5"
+    ]
+  },
+  "Genesis 48:7": {
+    "title": "Jacob remembers Rachel’s death",
+    "text": "Jacob recalls Rachel’s death on the way from Padan and her burial near Ephrath, now called Bethlehem. This personal memory briefly interrupts the blessing and recalls the sorrow in his family history.",
+    "refs": [
+      "Genesis 35:16–20"
+    ]
+  },
+  "Genesis 48:8": {
+    "title": "Jacob asks who the boys are",
+    "text": "Jacob sees Joseph’s sons and asks who they are. The question leads Joseph to present them formally for their grandfather’s blessing.",
+    "refs": [
+      "Genesis 48:9"
+    ]
+  },
+  "Genesis 48:9": {
+    "title": "Joseph presents his sons",
+    "text": "Joseph explains that these are the sons God gave him in Egypt, and Jacob asks that they be brought near so he may bless them. Joseph acknowledges God as the giver of his children despite his years of suffering abroad.",
+    "refs": [
+      "Genesis 41:50–52"
+    ]
+  },
+  "Genesis 48:10": {
+    "title": "Jacob embraces his grandsons",
+    "text": "Jacob’s eyes are dim with age, and Joseph brings the boys near. Jacob kisses and embraces them, showing affection before pronouncing the blessing.",
+    "refs": [
+      "Genesis 27:1"
+    ]
+  },
+  "Genesis 48:11": {
+    "title": "Jacob never expected to see Joseph again",
+    "text": "Jacob says he did not expect to see Joseph’s face, yet God has also let him see Joseph’s children. His words acknowledge God’s surprising restoration after years of grief.",
+    "refs": [
+      "Genesis 37:33–35"
+    ]
+  },
+  "Genesis 48:12": {
+    "title": "Joseph bows before Jacob",
+    "text": "Joseph brings the boys away from Jacob’s knees and bows with his face to the earth. The gesture marks respect before the blessing is given.",
+    "refs": [
+      "Genesis 47:31"
+    ]
+  },
+  "Genesis 48:13": {
+    "title": "Joseph positions the boys",
+    "text": "Joseph places Ephraim at his right hand toward Jacob’s left, and Manasseh at his left hand toward Jacob’s right. Joseph arranges them according to the customary order for the firstborn blessing.",
+    "refs": [
+      "Genesis 48:14"
+    ]
+  },
+  "Genesis 48:14": {
+    "title": "Jacob crosses his hands",
+    "text": "Israel crosses his hands, placing his right hand on Ephraim, the younger, and his left on Manasseh, the firstborn. The action is deliberate and signals a reversal of customary birth order.",
+    "refs": [
+      "Genesis 48:19"
+    ]
+  },
+  "Genesis 48:15": {
+    "title": "Jacob blesses Joseph through God’s care",
+    "text": "Jacob blesses Joseph and invokes the God before whom Abraham and Isaac walked and the God who shepherded him all his life. He remembers God as faithful guide and provider across generations.",
+    "refs": [
+      "Psalm 23:1"
+    ]
+  },
+  "Genesis 48:16": {
+    "title": "The angel who redeemed Jacob",
+    "text": "Jacob asks the Angel who redeemed him from all evil to bless the boys, and he names them within the family of Abraham and Isaac. The language refers to God’s redeeming care expressed through His messenger; the verse alone should not be made to settle every question about divine identity.",
+    "refs": [
+      "Genesis 31:11–13",
+      "Genesis 32:24–30"
+    ]
+  },
+  "Genesis 48:17": {
+    "title": "Joseph objects to the crossed hands",
+    "text": "Joseph sees that Jacob has placed his right hand on Ephraim and tries to move it to Manasseh. He assumes the customary firstborn order should govern the blessing.",
+    "refs": [
+      "Genesis 48:14"
+    ]
+  },
+  "Genesis 48:18": {
+    "title": "Joseph points to the firstborn",
+    "text": "Joseph tells his father that Manasseh is the firstborn and asks that Jacob place his right hand on him. Joseph’s objection reflects the normal expectation of birth order.",
+    "refs": [
+      "Genesis 48:14"
+    ]
+  },
+  "Genesis 48:19": {
+    "title": "Jacob insists Ephraim will be greater",
+    "text": "Jacob refuses and says he knows what he is doing: Manasseh will become a people, but Ephraim will be greater. The blessing reverses the expected order, as had happened earlier in the patriarchal family.",
+    "refs": [
+      "Genesis 25:23"
+    ]
+  },
+  "Genesis 48:20": {
+    "title": "Israel blesses the boys by name",
+    "text": "Jacob blesses them and says Israel will use their names in a blessing, placing Ephraim before Manasseh. The verse explains the lasting significance of the blessing and the tribes’ names.",
+    "refs": [
+      "Numbers 2:18–21"
+    ]
+  },
+  "Genesis 48:21": {
+    "title": "Jacob expects God to bring them back",
+    "text": "Jacob tells Joseph he is dying but God will be with them and bring them again to the land of their fathers. The promise looks beyond Egypt toward the promised inheritance.",
+    "refs": [
+      "Genesis 46:3–4"
+    ]
+  },
+  "Genesis 48:22": {
+    "title": "Joseph receives an extra portion",
+    "text": "Jacob gives Joseph one portion above his brothers, which he took from the Amorite with his sword and bow. The verse is difficult in its historical details, but it clearly assigns Joseph a special inheritance within the family.",
+    "refs": [
+      "Joshua 24:32"
+    ]
+  },
+  "Genesis 49:1": {
+    "title": "Jacob gathers his sons",
+    "text": "Jacob calls his sons together to tell them what will happen in days to come. His final words include blessings, rebukes, and prophetic statements about the tribes descending from them.",
+    "refs": [
+      "Deuteronomy 33:1"
+    ]
+  },
+  "Genesis 49:2": {
+    "title": "Israel calls for his sons to listen",
+    "text": "Jacob asks his sons to gather and hear him, identifying himself as Israel. The words that follow address the future of the family as a whole.",
+    "refs": [
+      "Genesis 49:1"
+    ]
+  },
+  "Genesis 49:3": {
+    "title": "Reuben’s dignity as firstborn",
+    "text": "Jacob calls Reuben his firstborn, his might, and the beginning of his strength. The verse acknowledges Reuben’s natural place as firstborn before explaining why he will not retain preeminence.",
+    "refs": [
+      "Genesis 35:22"
+    ]
+  },
+  "Genesis 49:4": {
+    "title": "Reuben loses preeminence",
+    "text": "Jacob describes Reuben as unstable as water and recalls his violation of his father’s bed. Because of this act, Reuben will not excel; the statement connects moral conduct with consequences for leadership in the family.",
+    "refs": [
+      "Genesis 35:22",
+      "1 Chronicles 5:1"
+    ]
+  },
+  "Genesis 49:5": {
+    "title": "Simeon and Levi are linked in violence",
+    "text": "Jacob calls Simeon and Levi brethren whose instruments are instruments of cruelty. The rebuke recalls their violent revenge at Shechem and does not present it as a righteous model.",
+    "refs": [
+      "Genesis 34:25–30"
+    ]
+  },
+  "Genesis 49:6": {
+    "title": "Jacob rejects their counsel and anger",
+    "text": "Jacob says his soul will not enter their secret counsel and his honor will not be united with their assembly, because they killed men in anger and hamstrung oxen. He condemns the violence that marked their response at Shechem.",
+    "refs": [
+      "Genesis 34:25"
+    ]
+  },
+  "Genesis 49:7": {
+    "title": "Their anger brings dispersion",
+    "text": "Jacob curses their fierce anger and says Simeon and Levi will be divided in Jacob and scattered in Israel. The prophecy anticipates their different tribal settlements and the consequences of their violence.",
+    "refs": [
+      "Joshua 19:1",
+      "Joshua 21:1–8"
+    ]
+  },
+  "Genesis 49:8": {
+    "title": "Judah will receive praise",
+    "text": "Jacob says Judah’s brothers will praise him and his hand will be on the neck of his enemies. The blessing portrays Judah as a tribe with future strength and leadership.",
+    "refs": [
+      "1 Chronicles 5:2"
+    ]
+  },
+  "Genesis 49:9": {
+    "title": "Judah as a lion",
+    "text": "Judah is compared to a lion that crouches and lies down after prey. The image conveys strength, authority, and the expectation of lasting leadership.",
+    "refs": [
+      "Numbers 24:9"
+    ]
+  },
+  "Genesis 49:10": {
+    "title": "The ruler from Judah",
+    "text": "Jacob says the sceptre will not depart from Judah nor a lawgiver from between his feet until Shiloh comes, and the people will gather to him. This is a major messianic passage in Christian interpretation; the precise meaning of “Shiloh” is debated, while later Scripture associates royal and messianic hope with Judah’s line.",
+    "refs": [
+      "2 Samuel 7:12–16",
+      "Revelation 5:5"
+    ]
+  },
+  "Genesis 49:11": {
+    "title": "Abundance pictured through vine and wine",
+    "text": "Jacob describes Judah tying his foal to a vine and washing garments in wine. The imagery evokes extraordinary abundance and is part of the poetic blessing rather than a literal instruction.",
+    "refs": [
+      "Isaiah 63:1–3"
+    ]
+  },
+  "Genesis 49:12": {
+    "title": "Eyes and teeth as images of plenty",
+    "text": "The description of eyes dark with wine and teeth white with milk uses bodily imagery to portray abundance and prosperity. It continues the poetic picture of Judah’s future fruitfulness.",
+    "refs": [
+      "Deuteronomy 33:13–17"
+    ]
+  },
+  "Genesis 49:13": {
+    "title": "Zebulun near the sea",
+    "text": "Jacob says Zebulun will dwell by the haven of the sea and be a haven for ships. The statement anticipates a location and role associated with trade and coastal access, though tribal boundaries in later texts require careful comparison.",
+    "refs": [
+      "Joshua 19:10–16"
+    ]
+  },
+  "Genesis 49:14": {
+    "title": "Issachar as a strong donkey",
+    "text": "Issachar is compared to a strong donkey lying between burdens. The image suggests strength and labor, and the following verse describes his response to a pleasant resting place.",
+    "refs": [
+      "Deuteronomy 33:18"
+    ]
+  },
+  "Genesis 49:15": {
+    "title": "Issachar chooses rest and service",
+    "text": "Jacob says Issachar sees a good resting place and pleasant land, yet bends his shoulder to bear and becomes a servant under tribute. The poem portrays a tribe willing to accept labor and subjection for the sake of its land.",
+    "refs": [
+      "Joshua 19:17–23"
+    ]
+  },
+  "Genesis 49:16": {
+    "title": "Dan will judge his people",
+    "text": "Jacob says Dan will judge his people as one of the tribes of Israel. The name Dan is linked with judgment, and the saying anticipates the tribe’s role within Israel.",
+    "refs": [
+      "Judges 13:2"
+    ]
+  },
+  "Genesis 49:17": {
+    "title": "Dan as a serpent by the road",
+    "text": "Dan is compared to a serpent that bites a horse’s heels and causes its rider to fall. The image suggests a smaller force using unexpected tactics; it is poetic imagery, not a command for deceit.",
+    "refs": [
+      "Judges 18:27–29"
+    ]
+  },
+  "Genesis 49:18": {
+    "title": "Jacob declares hope in God’s salvation",
+    "text": "Jacob pauses to say, “I have waited for thy salvation, O LORD.” This brief prayer anchors the surrounding tribal sayings in dependence on the LORD’s deliverance.",
+    "refs": [
+      "Psalm 25:5"
+    ]
+  },
+  "Genesis 49:19": {
+    "title": "Gad will face attack and counterattack",
+    "text": "Jacob says troops will overcome Gad, but Gad will overcome at the last. The saying anticipates conflict and resilience in the tribe’s history.",
+    "refs": [
+      "Deuteronomy 33:20–21"
+    ]
+  },
+  "Genesis 49:20": {
+    "title": "Asher’s food will be rich",
+    "text": "Jacob says Asher’s bread will be fat and he will yield royal dainties. The blessing pictures fertile land and food fit for a king’s table.",
+    "refs": [
+      "Deuteronomy 33:24"
+    ]
+  },
+  "Genesis 49:21": {
+    "title": "Naphtali as a hind set free",
+    "text": "Naphtali is compared to a hind let loose and associated with goodly words. The poetic image suggests freedom and grace, though the exact reference of the phrase is uncertain.",
+    "refs": [
+      "Deuteronomy 33:23"
+    ]
+  },
+  "Genesis 49:22": {
+    "title": "Joseph as a fruitful bough",
+    "text": "Joseph is compared to a fruitful branch by a well, whose branches run over the wall. The image celebrates Joseph’s fruitfulness and the growth of his descendants despite hardship.",
+    "refs": [
+      "Genesis 41:52"
+    ]
+  },
+  "Genesis 49:23": {
+    "title": "Joseph faced fierce opposition",
+    "text": "Archers bitterly grieved and shot at Joseph and hated him. The imagery recalls the opposition he endured from his brothers and later suffering, while the blessing moves toward God’s sustaining help.",
+    "refs": [
+      "Genesis 37:18–28"
+    ]
+  },
+  "Genesis 49:24": {
+    "title": "Joseph’s strength comes from God",
+    "text": "Joseph’s bow remains strong, and his arms are strengthened by the hands of the mighty God of Jacob, described as the Shepherd and Stone of Israel. The verse explicitly credits God as the source of Joseph’s endurance and stability.",
+    "refs": [
+      "Psalm 23:1",
+      "Isaiah 28:16"
+    ]
+  },
+  "Genesis 49:25": {
+    "title": "Blessings from God Almighty",
+    "text": "Jacob speaks of blessings from the God of his father and God Almighty, including blessings from heaven, the deep, the breasts, and the womb. The poetic language describes comprehensive provision and fruitfulness from God.",
+    "refs": [
+      "Genesis 17:1–6"
+    ]
+  },
+  "Genesis 49:26": {
+    "title": "Joseph receives a distinguished blessing",
+    "text": "Jacob says Joseph’s blessings exceed those of his ancestors and will rest on his head as the one separated from his brothers. The verse gives Joseph an unusually rich blessing after his years of suffering and service.",
+    "refs": [
+      "Deuteronomy 33:13–17"
+    ]
+  },
+  "Genesis 49:27": {
+    "title": "Benjamin as a ravening wolf",
+    "text": "Benjamin is compared to a wolf that devours prey and divides spoil. The image depicts fierce strength in battle and is poetic description, not an endorsement of cruelty.",
+    "refs": [
+      "Judges 20:14–16"
+    ]
+  },
+  "Genesis 49:28": {
+    "title": "The twelve tribes are blessed",
+    "text": "Jacob’s sons are named as the twelve tribes of Israel, and each receives a blessing appropriate to him. The blessings differ in form and content, showing that the future of the tribes will not be identical.",
+    "refs": [
+      "Deuteronomy 33:1–29"
+    ]
+  },
+  "Genesis 49:29": {
+    "title": "Jacob gives burial instructions",
+    "text": "Jacob commands his sons to bury him with his fathers in the cave in the field of Ephron the Hittite. His instructions show his continuing faith in the family’s connection to the promised land.",
+    "refs": [
+      "Genesis 47:29–30"
+    ]
+  },
+  "Genesis 49:30": {
+    "title": "The cave at Machpelah",
+    "text": "Jacob identifies the cave purchased by Abraham from Ephron as the burial place for his family. The land purchase is a concrete family possession within the larger promise of Canaan.",
+    "refs": [
+      "Genesis 23:16–20"
+    ]
+  },
+  "Genesis 49:31": {
+    "title": "The patriarchs buried there",
+    "text": "Jacob recalls that Abraham, Sarah, Isaac, Rebekah, and Leah were buried in the cave. He situates his own burial within the family history of faith and promise.",
+    "refs": [
+      "Genesis 23:19",
+      "Genesis 35:29"
+    ]
+  },
+  "Genesis 49:32": {
+    "title": "The field and cave were purchased",
+    "text": "Jacob notes that the field and cave were purchased from the sons of Heth. The detail establishes the burial place as a legally acquired family possession.",
+    "refs": [
+      "Genesis 23:17–20"
+    ]
+  },
+  "Genesis 49:33": {
+    "title": "Jacob dies after his instructions",
+    "text": "After finishing his commands, Jacob gathers his feet into the bed, breathes his last, and is gathered to his people. His death closes the patriarchal life while the covenant promises continue through his descendants.",
+    "refs": [
+      "Genesis 25:8",
+      "Genesis 50:13"
+    ]
+  },
+  "Genesis 50:1": {
+    "title": "Joseph mourns his father",
+    "text": "Joseph falls on Jacob’s face, weeps over him, and kisses him. His grief shows the affection between father and son after their reunion in Egypt.",
+    "refs": [
+      "Genesis 46:29–30"
+    ]
+  },
+  "Genesis 50:2": {
+    "title": "Jacob is embalmed",
+    "text": "Joseph commands his servants, the physicians, to embalm Jacob. This reflects Egyptian burial customs and prepares the body for the journey to Canaan.",
+    "refs": [
+      "Genesis 50:3"
+    ]
+  },
+  "Genesis 50:3": {
+    "title": "The mourning period lasts seventy days",
+    "text": "The Egyptians mourn Jacob for seventy days. The public mourning reflects the respect shown to Joseph’s father and the significance of Joseph’s position in Egypt.",
+    "refs": [
+      "Genesis 50:7"
+    ]
+  },
+  "Genesis 50:4": {
+    "title": "Joseph asks Pharaoh’s household",
+    "text": "After the mourning period, Joseph speaks to Pharaoh’s household and asks them to convey his request to Pharaoh. He approaches the king through the proper channels before leaving Egypt.",
+    "refs": [
+      "Genesis 50:5"
+    ]
+  },
+  "Genesis 50:5": {
+    "title": "Joseph repeats Jacob’s burial oath",
+    "text": "Joseph says his father made him swear to bury him in the tomb he prepared in Canaan, and asks permission to go bury him and return. The request honors Jacob’s final command and the family’s connection to the promised land.",
+    "refs": [
+      "Genesis 47:29–30"
+    ]
+  },
+  "Genesis 50:6": {
+    "title": "Pharaoh grants permission",
+    "text": "Pharaoh tells Joseph to go and bury his father as he swore. The king honors Joseph’s request and allows the journey to proceed.",
+    "refs": [
+      "Genesis 50:5"
+    ]
+  },
+  "Genesis 50:7": {
+    "title": "Egyptian officials accompany Joseph",
+    "text": "Joseph goes to bury his father, accompanied by Pharaoh’s servants, elders, and the elders of Egypt. The large delegation reflects the respect accorded to Joseph and his father.",
+    "refs": [
+      "Genesis 50:3"
+    ]
+  },
+  "Genesis 50:8": {
+    "title": "The household remains in Egypt",
+    "text": "Joseph’s household, his brothers, and his father’s household travel, while their children and livestock remain in Goshen. The arrangements allow the funeral journey while preserving the family’s settlement in Egypt.",
+    "refs": [
+      "Genesis 46:5–7"
+    ]
+  },
+  "Genesis 50:9": {
+    "title": "A great company travels",
+    "text": "Chariots and horsemen accompany the procession, making it very great. The funeral journey is a major public event rather than a private family burial.",
+    "refs": [
+      "Genesis 50:7"
+    ]
+  },
+  "Genesis 50:10": {
+    "title": "Mourning at the threshing floor",
+    "text": "The procession reaches the threshing floor of Atad beyond the Jordan and mourns greatly for seven days. The location and ritual mark the solemnity of Jacob’s burial.",
+    "refs": [
+      "Genesis 50:11"
+    ]
+  },
+  "Genesis 50:11": {
+    "title": "Abel-mizraim is named",
+    "text": "The Canaanites observe the mourning and name the place Abel-mizraim because of the great lamentation by the Egyptians. The name preserves the memory of the funeral procession and its public impact.",
+    "refs": [
+      "Genesis 50:10"
+    ]
+  },
+  "Genesis 50:12": {
+    "title": "Jacob’s sons obey him",
+    "text": "Jacob’s sons do as he commanded them. Their actions fulfill his final request and honor his wishes concerning burial.",
+    "refs": [
+      "Genesis 49:29–32"
+    ]
+  },
+  "Genesis 50:13": {
+    "title": "Jacob is buried in Machpelah",
+    "text": "The sons carry Jacob to Canaan and bury him in the cave of Machpelah, the field Abraham purchased from Ephron. The burial returns Jacob’s body to the family’s burial place in the promised land.",
+    "refs": [
+      "Genesis 23:16–20"
+    ]
+  },
+  "Genesis 50:14": {
+    "title": "Joseph returns to Egypt",
+    "text": "After burying his father, Joseph returns to Egypt with his brothers and all who accompanied him. The family’s life in Egypt continues after Jacob’s death.",
+    "refs": [
+      "Genesis 46:5–7"
+    ]
+  },
+  "Genesis 50:15": {
+    "title": "Joseph’s brothers fear revenge",
+    "text": "After Jacob dies, Joseph’s brothers fear he may hate them and repay them for their evil. Their fear shows that the old guilt remains even after Joseph’s reconciliation with them.",
+    "refs": [
+      "Genesis 45:4–5"
+    ]
+  },
+  "Genesis 50:16": {
+    "title": "The brothers send a message",
+    "text": "The brothers send Joseph a message saying their father instructed him to forgive their transgression. The text does not independently confirm that Jacob gave this instruction; it records the message the brothers send in their fear.",
+    "refs": [
+      "Genesis 50:17"
+    ]
+  },
+  "Genesis 50:17": {
+    "title": "Joseph weeps at their plea",
+    "text": "The brothers ask Joseph to forgive the servants of their father’s God, and Joseph weeps when they speak to him. His tears show the emotional pain caused by their continued suspicion after he had already shown mercy.",
+    "refs": [
+      "Genesis 45:14–15"
+    ]
+  },
+  "Genesis 50:18": {
+    "title": "The brothers bow before Joseph",
+    "text": "Joseph’s brothers come and fall before him, offering themselves as his servants. Their posture echoes Joseph’s dreams and reveals their fear of his authority.",
+    "refs": [
+      "Genesis 37:7–9"
+    ]
+  },
+  "Genesis 50:19": {
+    "title": "Joseph refuses to take God’s place",
+    "text": "Joseph asks whether he is in the place of God. He refuses to claim ultimate judgment for himself and recognizes that vengeance belongs to God.",
+    "refs": [
+      "Deuteronomy 32:35",
+      "Romans 12:19"
+    ]
+  },
+  "Genesis 50:20": {
+    "title": "God brings good from human evil",
+    "text": "Joseph says his brothers intended evil against him, but God meant it for good to preserve many lives. The verse does not call their betrayal good; it declares that God’s providence overruled their evil for a saving purpose.",
+    "refs": [
+      "Genesis 45:5–8",
+      "Romans 8:28"
+    ]
+  },
+  "Genesis 50:21": {
+    "title": "Joseph comforts and provides for them",
+    "text": "Joseph tells his brothers not to fear and promises to nourish them and their children. He answers their fear with kindness and practical provision.",
+    "refs": [
+      "Genesis 47:12"
+    ]
+  },
+  "Genesis 50:22": {
+    "title": "Joseph lives to one hundred and ten",
+    "text": "Joseph dwells in Egypt with his father’s household and lives to the age of one hundred and ten. The verse records the length of his life and the continuing growth of the family in Egypt.",
+    "refs": [
+      "Joshua 24:32"
+    ]
+  },
+  "Genesis 50:23": {
+    "title": "Joseph sees the third generation",
+    "text": "Joseph sees Ephraim’s children to the third generation, and the children of Machir, Manasseh’s son, are brought up on Joseph’s knees. The verse portrays Joseph living to see the family branches grow.",
+    "refs": [
+      "Genesis 41:50–52"
+    ]
+  },
+  "Genesis 50:24": {
+    "title": "Joseph trusts God’s promise of visitation",
+    "text": "Joseph tells his brothers he is dying but says God will surely visit them and bring them out of Egypt to the land promised to Abraham, Isaac, and Jacob. His faith looks beyond his own lifetime to God’s covenant faithfulness.",
+    "refs": [
+      "Genesis 15:13–16",
+      "Exodus 3:16–17"
+    ]
+  },
+  "Genesis 50:25": {
+    "title": "Joseph makes Israel swear about his bones",
+    "text": "Joseph makes the children of Israel swear that they will carry his bones out of Egypt when God visits them. His request expresses faith that Egypt is not the final home of Israel.",
+    "refs": [
+      "Exodus 13:19"
+    ]
+  },
+  "Genesis 50:26": {
+    "title": "Joseph dies and is placed in a coffin",
+    "text": "Joseph dies at one hundred and ten, is embalmed, and is placed in a coffin in Egypt. Genesis ends with Joseph’s body still in Egypt, awaiting the future exodus and fulfillment of God’s promise.",
+    "refs": [
+      "Joshua 24:32",
+      "Hebrews 11:22"
+    ]
   }
 };
