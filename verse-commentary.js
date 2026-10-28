@@ -5289,5 +5289,372 @@ window.verseCommentary = {
     "refs": [
       "Genesis 32:1–2"
     ]
+  },
+  "Genesis 32:1": {
+    "title": "Angels meet Jacob",
+    "text": "As Jacob continues his journey, angels of God meet him. Their appearance reminds the reader that God’s protection accompanies Jacob as he returns to Canaan.",
+    "refs": [
+      "Genesis 28:12–15"
+    ]
+  },
+  "Genesis 32:2": {
+    "title": "Mahanaim",
+    "text": "Jacob names the place Mahanaim, meaning a camp or two camps, in response to the encounter. The name marks the meeting as significant before Jacob faces Esau.",
+    "refs": [
+      "Genesis 32:1"
+    ]
+  },
+  "Genesis 32:3": {
+    "title": "Jacob sends messengers",
+    "text": "Jacob sends messengers ahead to Esau in the land of Seir. He seeks to approach his brother carefully after the threat that forced him to flee years earlier.",
+    "refs": [
+      "Genesis 27:41–45"
+    ]
+  },
+  "Genesis 32:4": {
+    "title": "Jacob’s respectful message",
+    "text": "Jacob instructs the messengers to call Esau lord and himself a servant. His language is conciliatory and seeks to lower the tension between them.",
+    "refs": [
+      "Genesis 33:3"
+    ]
+  },
+  "Genesis 32:5": {
+    "title": "Jacob explains his possessions",
+    "text": "Jacob tells Esau that he has livestock and servants and hopes to find favor. He presents his message as a peaceful notice rather than a challenge.",
+    "refs": [
+      "Genesis 33:8–11"
+    ]
+  },
+  "Genesis 32:6": {
+    "title": "Esau approaches with four hundred men",
+    "text": "The messengers report that Esau is coming with four hundred men. Given Esau’s earlier threat, Jacob has reason to fear that the meeting could become violent.",
+    "refs": [
+      "Genesis 27:41"
+    ]
+  },
+  "Genesis 32:7": {
+    "title": "Jacob divides the company",
+    "text": "Jacob becomes greatly afraid and divides his people and livestock into two groups. He prepares for the possibility of attack while trying to preserve part of his household.",
+    "refs": [
+      "Genesis 32:8"
+    ]
+  },
+  "Genesis 32:8": {
+    "title": "A plan for survival",
+    "text": "Jacob reasons that if one group is attacked, the other may escape. The verse shows practical planning alongside his dependence on God.",
+    "refs": [
+      "Genesis 32:9–12"
+    ]
+  },
+  "Genesis 32:9": {
+    "title": "Jacob prays to the God of his fathers",
+    "text": "Jacob calls on the LORD, the God of Abraham and Isaac, and recalls God’s command to return home. His prayer is rooted in God’s promise rather than in a claim of personal merit.",
+    "refs": [
+      "Genesis 28:13–15"
+    ]
+  },
+  "Genesis 32:10": {
+    "title": "Jacob confesses his unworthiness",
+    "text": "Jacob says he is unworthy of the mercies and truth God has shown him. He remembers crossing the Jordan with only his staff and now having become two companies, giving thanks for God’s faithfulness.",
+    "refs": [
+      "Genesis 31:3"
+    ]
+  },
+  "Genesis 32:11": {
+    "title": "Deliver me from Esau",
+    "text": "Jacob asks God to deliver him because he fears Esau will attack mothers and children. His prayer names the danger directly and asks for protection for his whole family.",
+    "refs": [
+      "Genesis 27:41"
+    ]
+  },
+  "Genesis 32:12": {
+    "title": "Jacob recalls God’s promise",
+    "text": "Jacob reminds God of the promise that his descendants would become numerous. He appeals to the word God has spoken, showing faith that rests on divine faithfulness.",
+    "refs": [
+      "Genesis 28:14–15"
+    ]
+  },
+  "Genesis 32:13": {
+    "title": "Jacob prepares a gift",
+    "text": "Jacob selects a gift from his possessions for Esau. He uses a practical act of reconciliation while continuing to seek God’s help.",
+    "refs": [
+      "Proverbs 18:16"
+    ]
+  },
+  "Genesis 32:14": {
+    "title": "The animals counted",
+    "text": "The gift includes large numbers of goats, sheep, camels, cattle, and donkeys. The detailed list emphasizes the size of Jacob’s wealth and the generosity of the intended offering.",
+    "refs": [
+      "Genesis 30:43"
+    ]
+  },
+  "Genesis 32:15": {
+    "title": "The gift’s full scale",
+    "text": "The number and types of animals are specified, including nursing camels and their colts. Jacob’s gift is substantial and intended to communicate goodwill.",
+    "refs": [
+      "Genesis 32:20"
+    ]
+  },
+  "Genesis 32:16": {
+    "title": "Separate droves",
+    "text": "Jacob divides the animals into droves and places servants over them. The order allows each group to arrive separately and reinforces the impression of a carefully planned gift.",
+    "refs": [
+      "Genesis 32:17–20"
+    ]
+  },
+  "Genesis 32:17": {
+    "title": "Instructions to the first servant",
+    "text": "Jacob tells the first servant what to say when Esau asks who owns the animals and where they are going. He prepares each encounter to present the gift as an expression of respect.",
+    "refs": [
+      "Genesis 32:18"
+    ]
+  },
+  "Genesis 32:18": {
+    "title": "A gift from Jacob",
+    "text": "The servant is to say the animals belong to Jacob and are sent as a gift to Esau, who is coming behind. The message is designed to soften Esau’s anger before the brothers meet.",
+    "refs": [
+      "Genesis 32:20"
+    ]
+  },
+  "Genesis 32:19": {
+    "title": "The same message repeated",
+    "text": "Jacob gives the same instructions to the second and following servants. Repetition ensures that the meaning of the gift is clear at each stage.",
+    "refs": [
+      "Genesis 32:17–18"
+    ]
+  },
+  "Genesis 32:20": {
+    "title": "Seeking to appease Esau",
+    "text": "Jacob hopes the gift will appease Esau before they meet face to face. The text shows Jacob acting to seek peace, though the outcome remains in God’s hands.",
+    "refs": [
+      "Proverbs 21:14"
+    ]
+  },
+  "Genesis 32:21": {
+    "title": "Jacob remains behind",
+    "text": "The gift goes ahead while Jacob stays that night with the company. He has made preparations, but the fear and uncertainty of meeting Esau remain.",
+    "refs": [
+      "Genesis 32:6–12"
+    ]
+  },
+  "Genesis 32:22": {
+    "title": "The family crosses the ford",
+    "text": "Jacob takes his wives, servants, and eleven sons across the ford of Jabbok. The crossing marks a turning point immediately before Jacob’s solitary night encounter.",
+    "refs": [
+      "Genesis 35:23–26"
+    ]
+  },
+  "Genesis 32:23": {
+    "title": "Jacob sends his household across",
+    "text": "Jacob sends his family and possessions over the stream. He remains alone, creating the setting for the mysterious struggle that follows.",
+    "refs": [
+      "Genesis 32:24"
+    ]
+  },
+  "Genesis 32:24": {
+    "title": "A man wrestles with Jacob",
+    "text": "A man wrestles with Jacob until daybreak. The text presents a mysterious encounter; its identity is clarified within the passage but should be explained by following the text’s own wording.",
+    "refs": [
+      "Genesis 32:28–30"
+    ]
+  },
+  "Genesis 32:25": {
+    "title": "Jacob’s hip is touched",
+    "text": "The man sees that he does not prevail against Jacob and touches Jacob’s hip, putting it out of joint. The injury reveals the encounter’s extraordinary character and leaves Jacob changed.",
+    "refs": [
+      "Genesis 32:31"
+    ]
+  },
+  "Genesis 32:26": {
+    "title": "Jacob clings for a blessing",
+    "text": "The man tells Jacob to let him go because day is breaking, but Jacob refuses unless he is blessed. Jacob’s persistence shows his desperate desire for God’s favor before meeting Esau.",
+    "refs": [
+      "Hosea 12:3–5"
+    ]
+  },
+  "Genesis 32:27": {
+    "title": "Jacob is asked his name",
+    "text": "The man asks Jacob his name. This question prepares for the renaming that will mark a new stage in Jacob’s identity and history.",
+    "refs": [
+      "Genesis 27:18–19"
+    ]
+  },
+  "Genesis 32:28": {
+    "title": "Israel, the name given to Jacob",
+    "text": "Jacob is told that his name will be Israel because he has struggled with God and with men and has prevailed. The name marks a transformed identity, though it does not mean Jacob has become equal to God.",
+    "refs": [
+      "Genesis 35:10"
+    ]
+  },
+  "Genesis 32:29": {
+    "title": "Jacob asks the man’s name",
+    "text": "Jacob asks the man’s name, but receives no direct answer; instead, he is blessed. The passage preserves mystery around the encounter rather than offering a complete explanation of every detail.",
+    "refs": [
+      "Judges 13:17–18"
+    ]
+  },
+  "Genesis 32:30": {
+    "title": "Peniel: seeing God",
+    "text": "Jacob names the place Peniel because he says he has seen God face to face and his life has been preserved. The passage uses the language of a divine encounter; it does not mean that God’s infinite nature is limited to a visible body.",
+    "refs": [
+      "Exodus 33:20",
+      "John 1:18"
+    ]
+  },
+  "Genesis 32:31": {
+    "title": "Jacob limps into the sunrise",
+    "text": "The sun rises as Jacob passes Peniel, and he limps because of his hip. The physical mark remains as a reminder of the night’s encounter and Jacob’s dependence.",
+    "refs": [
+      "Genesis 32:25"
+    ]
+  },
+  "Genesis 32:32": {
+    "title": "The custom concerning the hip",
+    "text": "The narrator explains a custom among the children of Israel concerning the sinew of the hip. The verse connects Israel’s later communal practice with the remembered event in Jacob’s life.",
+    "refs": [
+      "Genesis 32:25"
+    ]
+  },
+  "Genesis 33:1": {
+    "title": "Esau approaches with his men",
+    "text": "Jacob sees Esau approaching with four hundred men and arranges his family in groups. The long-feared meeting is now immediate.",
+    "refs": [
+      "Genesis 32:6–8"
+    ]
+  },
+  "Genesis 33:2": {
+    "title": "Jacob arranges his family",
+    "text": "Jacob places the servants and their children first, Leah and her children next, and Rachel and Joseph last. The order reveals his continuing favoritism, even as he prepares to meet Esau.",
+    "refs": [
+      "Genesis 29:30"
+    ]
+  },
+  "Genesis 33:3": {
+    "title": "Jacob bows before Esau",
+    "text": "Jacob goes ahead of his family and bows seven times as he approaches Esau. His posture expresses humility and a desire for reconciliation.",
+    "refs": [
+      "Genesis 32:4–5"
+    ]
+  },
+  "Genesis 33:4": {
+    "title": "Esau embraces Jacob",
+    "text": "Esau runs to meet Jacob, embraces him, falls on his neck, kisses him, and they weep. The feared violence gives way to an unexpected scene of reconciliation.",
+    "refs": [
+      "Genesis 27:41",
+      "Proverbs 16:7"
+    ]
+  },
+  "Genesis 33:5": {
+    "title": "Esau asks about the family",
+    "text": "Esau sees the women and children and asks who they are. Jacob answers that they are the children God has graciously given him, acknowledging God as the source of his family.",
+    "refs": [
+      "Psalm 127:3"
+    ]
+  },
+  "Genesis 33:6": {
+    "title": "The servants bow",
+    "text": "The handmaids and their children approach and bow before Esau. The family’s greeting reflects the social hierarchy and Jacob’s careful effort to show respect.",
+    "refs": [
+      "Genesis 33:2–3"
+    ]
+  },
+  "Genesis 33:7": {
+    "title": "Leah’s family and Rachel’s family",
+    "text": "Leah and her children, then Rachel and Joseph, approach and bow. The narrative records the whole family’s meeting with Esau after years of separation.",
+    "refs": [
+      "Genesis 29:30"
+    ]
+  },
+  "Genesis 33:8": {
+    "title": "Esau asks about the droves",
+    "text": "Esau asks the purpose of the groups of animals that met him on the road. Jacob explains that they were sent to find favor with his brother.",
+    "refs": [
+      "Genesis 32:13–20"
+    ]
+  },
+  "Genesis 33:9": {
+    "title": "Esau says he has enough",
+    "text": "Esau says he has plenty and asks Jacob to keep what he has. His response initially declines the gift and indicates that he is not approaching Jacob as an enemy.",
+    "refs": [
+      "Genesis 33:4"
+    ]
+  },
+  "Genesis 33:10": {
+    "title": "Jacob sees favor in Esau’s face",
+    "text": "Jacob urges Esau to accept the gift and compares seeing Esau’s face to seeing God’s face, because Esau has received him favorably. This is a comparison expressing relief and favor, not a claim that Esau is God.",
+    "refs": [
+      "Genesis 32:30"
+    ]
+  },
+  "Genesis 33:11": {
+    "title": "The gift is accepted",
+    "text": "Jacob asks Esau to accept his blessing, saying God has dealt graciously with him and that he has enough. Esau finally accepts, completing a significant act of reconciliation.",
+    "refs": [
+      "Genesis 32:13–20"
+    ]
+  },
+  "Genesis 33:12": {
+    "title": "Esau offers to travel together",
+    "text": "Esau proposes that they travel together. Jacob’s response will show that he does not accept this arrangement, despite their peaceful meeting.",
+    "refs": [
+      "Genesis 33:13–14"
+    ]
+  },
+  "Genesis 33:13": {
+    "title": "Jacob considers the children and flocks",
+    "text": "Jacob explains that the children are tender and the livestock with young must be driven gently. His concern for the household’s limits provides his reason for traveling more slowly.",
+    "refs": [
+      "Genesis 31:17–18"
+    ]
+  },
+  "Genesis 33:14": {
+    "title": "Jacob asks to follow at his pace",
+    "text": "Jacob says he will travel slowly toward Seir, matching the pace of the children and animals. He does not promise to travel directly with Esau’s company.",
+    "refs": [
+      "Genesis 33:12–13"
+    ]
+  },
+  "Genesis 33:15": {
+    "title": "Esau offers an escort",
+    "text": "Esau offers to leave some of his men with Jacob. Jacob asks why he needs such favor and declines the offer, maintaining distance after the reconciliation.",
+    "refs": [
+      "Genesis 33:16"
+    ]
+  },
+  "Genesis 33:16": {
+    "title": "Esau returns to Seir",
+    "text": "Esau returns that day toward Seir. The brothers part peacefully, but the text does not say that Jacob joins Esau’s route.",
+    "refs": [
+      "Genesis 33:14–15"
+    ]
+  },
+  "Genesis 33:17": {
+    "title": "Jacob settles at Succoth",
+    "text": "Jacob travels to Succoth, builds a house, and makes shelters for his livestock. The place name is associated with the shelters he made.",
+    "refs": [
+      "Joshua 13:27"
+    ]
+  },
+  "Genesis 33:18": {
+    "title": "Jacob arrives near Shechem",
+    "text": "Jacob arrives safely at the city of Shechem in Canaan and camps before it. His return fulfills the broad direction God gave him to come back to his homeland.",
+    "refs": [
+      "Genesis 31:3"
+    ]
+  },
+  "Genesis 33:19": {
+    "title": "Land purchased from Hamor’s family",
+    "text": "Jacob buys the parcel where he pitches his tent from the sons of Hamor. The purchase establishes a specific foothold in the land, distinct from the larger covenant promise.",
+    "refs": [
+      "Genesis 23:16–20"
+    ]
+  },
+  "Genesis 33:20": {
+    "title": "An altar named El-elohe-Israel",
+    "text": "Jacob builds an altar and names it El-elohe-Israel, acknowledging God as the God of Israel. The name links Jacob’s new identity with worship of the one God who has preserved him.",
+    "refs": [
+      "Genesis 32:28",
+      "Deuteronomy 6:4"
+    ]
   }
 };
