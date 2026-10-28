@@ -2217,5 +2217,305 @@ window.verseCommentary = {
     "title": "Abram’s age at Ishmael’s birth",
     "text": "Abram is eighty-six when Hagar bears Ishmael. The age marker links this episode to the later covenant events. It shows the passage of time while the promised son through Sarai has not yet been born.",
     "refs": "Genesis 17:1; Genesis 21:5"
+  },
+  "Genesis 17:1": {
+    "title": "The Almighty God speaks to Abram",
+    "text": "When Abram is ninety-nine, the LORD appears and identifies Himself as the Almighty God, commanding Abram to walk before Him and be perfect. The verse presents one God speaking and calling Abram to covenant faithfulness. “Perfect” here conveys integrity and wholehearted devotion, not a claim that Abram could never make a mistake.",
+    "refs": "Genesis 15:6; Deuteronomy 18:13"
+  },
+  "Genesis 17:2": {
+    "title": "God’s covenant promise",
+    "text": "God promises to establish His covenant and multiply Abram exceedingly. The covenant originates in God’s purpose and promise. Abram is called to respond faithfully, but the promise rests on God’s initiative.",
+    "refs": "Genesis 12:2; Genesis 15:5"
+  },
+  "Genesis 17:3": {
+    "title": "Abram falls on his face",
+    "text": "Abram falls on his face as God speaks to him. The posture expresses reverence in the encounter. The verse does not itself describe God’s bodily form; it reports Abram’s response to God’s presence and speech.",
+    "refs": "Numbers 16:22; Joshua 5:14"
+  },
+  "Genesis 17:4": {
+    "title": "Father of many nations",
+    "text": "God declares that Abram will be a father of many nations. The promise expands beyond the birth of one son and anticipates a broad family history. Later Scripture draws on this promise when discussing faith among the nations.",
+    "refs": "Romans 4:16–18; Galatians 3:8"
+  },
+  "Genesis 17:5": {
+    "title": "Abram becomes Abraham",
+    "text": "God changes Abram’s name to Abraham and explains it in relation to many nations. The new name marks the covenant promise and a new identity in the story. The significance comes from God’s declaration, not from the name as a magical formula.",
+    "refs": "Genesis 17:4; Romans 4:17"
+  },
+  "Genesis 17:6": {
+    "title": "Nations and kings from Abraham",
+    "text": "God promises that nations and kings will come from Abraham. The promise looks beyond Abraham’s immediate household toward future peoples and rulers. The verse does not mean every later ruler in these lines will be righteous.",
+    "refs": "Genesis 35:11; Matthew 1:1"
+  },
+  "Genesis 17:7": {
+    "title": "An everlasting covenant",
+    "text": "God establishes His covenant with Abraham and his seed throughout their generations. The covenant language emphasizes continuity and God’s faithfulness. The meaning of “seed” should be considered in its immediate family context and in later biblical passages that develop the promise.",
+    "refs": "Genesis 12:7; Galatians 3:16"
+  },
+  "Genesis 17:8": {
+    "title": "The land for an everlasting possession",
+    "text": "God promises Canaan to Abraham and his seed and declares Himself their God. The verse connects land, descendants, and relationship with God in the covenant. It should be read in its original context and alongside later biblical developments rather than isolated from them.",
+    "refs": "Genesis 15:18; Exodus 6:7–8"
+  },
+  "Genesis 17:9": {
+    "title": "Keep the covenant",
+    "text": "God tells Abraham to keep His covenant, including his descendants after him. The passage pairs God’s promise with a covenant obligation. Scripture often holds divine grace and human responsibility together without suggesting that human performance makes God cease to be one.",
+    "refs": "Genesis 17:10; Deuteronomy 7:9"
+  },
+  "Genesis 17:10": {
+    "title": "Circumcision as the covenant sign",
+    "text": "God commands circumcision for the males of Abraham’s household as the sign of the covenant. This is a specific covenant instruction to Abraham’s family. Later New Testament teaching discusses circumcision in relation to the new covenant, so the command should be studied within the whole biblical storyline.",
+    "refs": "Leviticus 12:3; Romans 4:9–12"
+  },
+  "Genesis 17:11": {
+    "title": "The sign in the flesh",
+    "text": "Circumcision is called a token of the covenant between God and Abraham’s family. The visible sign marks participation in the covenant community. The verse describes the sign’s function; it does not say that the outward mark alone guarantees inward faithfulness.",
+    "refs": "Deuteronomy 10:16; Romans 2:28–29"
+  },
+  "Genesis 17:12": {
+    "title": "Circumcision on the eighth day",
+    "text": "Every male child is to be circumcised at eight days old, including those born in the household and those acquired. The verse specifies the covenant practice for Abraham’s household. Later Christian teaching should distinguish this covenant sign from the requirements given to the church in the New Testament.",
+    "refs": "Leviticus 12:3; Acts 15:1–11"
+  },
+  "Genesis 17:13": {
+    "title": "The covenant in the flesh",
+    "text": "God repeats that circumcision will mark the covenant as everlasting in the flesh. The repetition emphasizes the seriousness of the sign within this covenant. The verse should be read with later Scripture that explains how the covenant promise reaches its fulfillment.",
+    "refs": "Genesis 17:11; Galatians 5:2–6"
+  },
+  "Genesis 17:14": {
+    "title": "The uncircumcised male",
+    "text": "The verse warns that an uncircumcised male will be cut off from his people for breaking the covenant. This is the consequence stated for the covenant sign in Abraham’s household. It is not a standalone rule for determining a person’s salvation under every biblical covenant.",
+    "refs": "Genesis 17:10–13; Acts 15:5–11"
+  },
+  "Genesis 17:15": {
+    "title": "Sarai becomes Sarah",
+    "text": "God changes Sarai’s name to Sarah and announces a new stage in the promise. The name change accompanies God’s declaration about her future. The passage shows that the promised child is not merely a result of Abram’s household arrangement with Hagar.",
+    "refs": "Genesis 17:16; Genesis 18:10"
+  },
+  "Genesis 17:16": {
+    "title": "Sarah will bear a son",
+    "text": "God blesses Sarah and promises that she will bear Abraham a son, from whom nations and kings will come. The promise addresses the earlier barrenness directly. The birth is attributed to God’s promise and action, not simply to human planning.",
+    "refs": "Genesis 18:10–14; Genesis 21:1–3"
+  },
+  "Genesis 17:17": {
+    "title": "Abraham laughs",
+    "text": "Abraham falls on his face and laughs at the thought of a child being born to a hundred-year-old man and a ninety-year-old Sarah. The verse records his astonishment. Later passages show that faith can coexist with moments of bewilderment while God remains faithful to His word.",
+    "refs": "Romans 4:19–21; Genesis 18:12"
+  },
+  "Genesis 17:18": {
+    "title": "Abraham asks about Ishmael",
+    "text": "Abraham asks that Ishmael might live before God. He cares about the son he already has, even as God’s covenant promise specifies another son through Sarah. God’s response in the following verses distinguishes His blessing on Ishmael from the covenant line through Isaac.",
+    "refs": "Genesis 16:10–11; Genesis 17:19–21"
+  },
+  "Genesis 17:19": {
+    "title": "Isaac named in the covenant",
+    "text": "God says Sarah will bear Isaac and establishes the covenant with him and his seed. The text names the promised son and clarifies the covenant line. The name and promise are grounded in God’s own word.",
+    "refs": "Genesis 21:1–3; Romans 9:7–9"
+  },
+  "Genesis 17:20": {
+    "title": "Ishmael will be blessed",
+    "text": "God hears Abraham concerning Ishmael and promises to bless him, make him fruitful, and multiply his descendants. Ishmael is not ignored or cursed in this passage. The text distinguishes his promised blessing from the covenant established through Isaac.",
+    "refs": "Genesis 16:10; Genesis 25:12–18"
+  },
+  "Genesis 17:21": {
+    "title": "The covenant through Isaac",
+    "text": "God states that the covenant will be established with Isaac, whom Sarah will bear at the appointed time. The verse clearly distinguishes the covenant line while still allowing God to bless Ishmael. God’s purpose is stated by God, not inferred from human preference.",
+    "refs": "Genesis 17:19–20; Romans 9:7–9"
+  },
+  "Genesis 17:22": {
+    "title": "God finishes speaking",
+    "text": "God finishes speaking with Abraham and goes up from him. This is narrative language describing the close of the encounter. It should not be forced into a claim about God’s physical location or a plurality of divine persons beyond what the passage states.",
+    "refs": "Genesis 17:1–3"
+  },
+  "Genesis 17:23": {
+    "title": "Abraham obeys that day",
+    "text": "Abraham takes Ishmael and the males of his household and circumcises them on the same day as God commanded. The immediate obedience emphasizes the seriousness with which Abraham receives the covenant instruction. The verse records the action without saying the outward sign replaces trust in God.",
+    "refs": "Genesis 17:10–14; Genesis 15:6"
+  },
+  "Genesis 17:24": {
+    "title": "Abraham’s age",
+    "text": "Abraham is ninety-nine when he is circumcised. The age marker anchors the covenant sign in the chronology of Abraham’s life. It also contrasts with the promised birth of Isaac, which is still future.",
+    "refs": "Genesis 17:1; Genesis 21:5"
+  },
+  "Genesis 17:25": {
+    "title": "Ishmael’s age",
+    "text": "Ishmael is thirteen when he is circumcised. The verse records his age as part of the household’s obedience to the covenant command. It does not make Ishmael the son through whom the covenant promise in this chapter is established.",
+    "refs": "Genesis 17:20–21"
+  },
+  "Genesis 17:26": {
+    "title": "Abraham and Ishmael circumcised",
+    "text": "Abraham and Ishmael are circumcised on the same day. The summary underscores the household’s compliance with God’s command. The passage distinguishes participation in the sign from the specific covenant promise concerning Isaac.",
+    "refs": "Genesis 17:23–25"
+  },
+  "Genesis 17:27": {
+    "title": "The household included",
+    "text": "All the males of Abraham’s household, whether born in the house or bought with money, are circumcised with him. The verse concludes the chapter by emphasizing the breadth of the household’s participation in the covenant sign. The command was carried out as stated.",
+    "refs": "Genesis 17:10–14"
+  },
+  "Genesis 18:1": {
+    "title": "The LORD appears to Abraham",
+    "text": "The LORD appears to Abraham by the oaks of Mamre while Abraham sits at his tent door. The following verses describe three men appearing, and the narrative later distinguishes the LORD’s speech. Oneness interpretation should carefully follow the story’s wording rather than assume that every appearance is automatically a separate divine person.",
+    "refs": "Genesis 18:2; Genesis 18:13"
+  },
+  "Genesis 18:2": {
+    "title": "Three men appear",
+    "text": "Abraham sees three men and runs to meet them. The text first describes the visitors as men; the conversation then reveals the LORD’s involvement. The passage has been interpreted in different ways, but Genesis 18 alone does not explicitly say that the three men are three divine persons.",
+    "refs": "Genesis 18:1; Genesis 18:9–10"
+  },
+  "Genesis 18:3": {
+    "title": "Abraham addresses his visitor",
+    "text": "Abraham asks for favor in the visitor’s sight and offers hospitality. The wording of the address has been understood differently by translators and interpreters. The safest reading is to follow the unfolding narrative, where the LORD’s speech becomes clear in the following verses.",
+    "refs": "Genesis 18:1–2; Hebrews 13:2"
+  },
+  "Genesis 18:4": {
+    "title": "Water for the visitors",
+    "text": "Abraham offers water so the visitors may wash their feet and rest under the tree. Hospitality is a central action in the scene. The verse does not itself establish the visitors’ precise identity; that becomes clearer as the story continues.",
+    "refs": "Genesis 19:2; Hebrews 13:2"
+  },
+  "Genesis 18:5": {
+    "title": "Food and refreshment",
+    "text": "Abraham offers food to refresh the visitors before they continue their journey. The scene shows generous hospitality and a willingness to serve. The visitors accept the hospitality in the next verse.",
+    "refs": "Genesis 18:6–8"
+  },
+  "Genesis 18:6": {
+    "title": "Sarah prepares cakes",
+    "text": "Abraham hurries to Sarah and asks her to prepare cakes from fine meal. The repeated urgency communicates the care with which Abraham welcomes the visitors. The text presents ordinary household work as part of the hospitality offered in this encounter.",
+    "refs": "Genesis 18:5; Genesis 18:8"
+  },
+  "Genesis 18:7": {
+    "title": "A tender calf prepared",
+    "text": "Abraham runs to the herd, chooses a tender calf, and gives it to a servant to prepare. The detail continues the picture of generous hospitality. It should not be turned into an unsupported symbolic claim; the narrative emphasizes the meal and welcome.",
+    "refs": "Genesis 18:8"
+  },
+  "Genesis 18:8": {
+    "title": "The visitors eat",
+    "text": "Abraham serves curds, milk, and the prepared calf, and the visitors eat. The account describes them in human terms during the visit. This detail is important when interpreting the scene: readers should not ignore the narrative’s presentation in order to force a predetermined theory onto it.",
+    "refs": "Genesis 18:1–2; Genesis 18:9"
+  },
+  "Genesis 18:9": {
+    "title": "Where is Sarah?",
+    "text": "The visitors ask where Sarah is, and Abraham answers that she is in the tent. The question leads directly to the promise of a son. The narrative presents knowledge of Sarah and her future as part of the LORD’s message.",
+    "refs": "Genesis 18:10; Genesis 17:16"
+  },
+  "Genesis 18:10": {
+    "title": "A son at the appointed time",
+    "text": "The speaker promises to return at the time of life and says Sarah will have a son. Sarah listens at the tent door. The promise repeats what God had already told Abraham, reinforcing that Isaac’s birth depends on God’s word.",
+    "refs": "Genesis 17:19; Genesis 21:1–2"
+  },
+  "Genesis 18:11": {
+    "title": "Abraham and Sarah are old",
+    "text": "Abraham and Sarah are advanced in age, and Sarah is past the age of childbearing. The verse establishes the human impossibility that makes the promise remarkable. The narrative does not hide the physical reality confronting the couple.",
+    "refs": "Romans 4:19; Hebrews 11:11"
+  },
+  "Genesis 18:12": {
+    "title": "Sarah laughs inwardly",
+    "text": "Sarah laughs within herself because the promise seems impossible given her age and Abraham’s. Her reaction mirrors Abraham’s earlier laughter. The passage records their human response honestly while preparing for God’s answer.",
+    "refs": "Genesis 17:17; Genesis 18:13–14"
+  },
+  "Genesis 18:13": {
+    "title": "The LORD asks about Sarah’s laughter",
+    "text": "The LORD asks why Sarah laughed and questioned whether she could bear a child at her age. The narrator identifies the speaker as the LORD. This direct identification matters for Oneness study: the passage says the LORD is speaking through the encounter, not that a second God is introduced.",
+    "refs": "Genesis 18:1; Genesis 18:14"
+  },
+  "Genesis 18:14": {
+    "title": "Is anything too hard for the LORD?",
+    "text": "The LORD asks whether anything is too hard for Him and repeats the promise of Sarah’s son. The verse is a declaration of God’s power and faithfulness. It supports confidence in the one LORD who fulfills His word despite human limitations.",
+    "refs": "Jeremiah 32:17; Luke 1:37"
+  },
+  "Genesis 18:15": {
+    "title": "Sarah denies laughing",
+    "text": "Sarah is afraid and denies laughing, but the LORD says that she did laugh. The text exposes her response without ending the promise. God’s knowledge and faithfulness remain greater than the couple’s hesitation.",
+    "refs": "Genesis 18:12–14; Psalm 139:1–4"
+  },
+  "Genesis 18:16": {
+    "title": "The visitors look toward Sodom",
+    "text": "The men rise and look toward Sodom, and Abraham walks with them to send them on their way. The narrative transitions from the promise of Isaac to the coming judgment on Sodom. The two episodes are linked by the LORD’s conversation with Abraham.",
+    "refs": "Genesis 18:17–22"
+  },
+  "Genesis 18:17": {
+    "title": "Shall I hide from Abraham?",
+    "text": "The LORD considers whether to hide from Abraham what He is about to do. The passage depicts God revealing His purpose to the man chosen to become a great nation. The wording is narrative and relational; it does not mean God needs to discover information.",
+    "refs": "Amos 3:7; Genesis 18:18"
+  },
+  "Genesis 18:18": {
+    "title": "Abraham’s seed and the nations",
+    "text": "The LORD says Abraham will become a great and mighty nation and that all nations will be blessed in him. This echoes the covenant promise and connects Abraham’s calling with a purpose for all peoples. The New Testament relates this promise to the blessing of the gospel through Christ.",
+    "refs": "Genesis 12:3; Galatians 3:8"
+  },
+  "Genesis 18:19": {
+    "title": "Abraham to command his household",
+    "text": "God says He has known Abraham so that he will command his children and household to keep the way of the LORD by doing righteousness and justice. The verse links covenant calling with ethical responsibility. Knowing God’s promise is not detached from living according to God’s ways.",
+    "refs": "Deuteronomy 6:6–7; Micah 6:8"
+  },
+  "Genesis 18:20": {
+    "title": "The cry of Sodom and Gomorrah",
+    "text": "The LORD says the outcry against Sodom and Gomorrah is great and their sin is very grievous. The language presents the cities’ wrongdoing as serious and deserving of investigation and judgment. The next verse uses courtroom-like language to describe the LORD’s action.",
+    "refs": "Genesis 13:13; Genesis 19:4–9"
+  },
+  "Genesis 18:21": {
+    "title": "I will go down and see",
+    "text": "The LORD says He will go down and see whether the cities have acted according to the outcry. This is vivid narrative language presenting God’s judgment as deliberate rather than careless. It should not be used to imply that God is ignorant or must physically travel to gain knowledge.",
+    "refs": "Genesis 11:5; Psalm 139:1–4"
+  },
+  "Genesis 18:22": {
+    "title": "Abraham stands before the LORD",
+    "text": "The men turn toward Sodom while Abraham remains standing before the LORD. The narrative distinguishes the visitors’ movement from the LORD’s conversation with Abraham. It does not state that there are three divine persons; the text identifies the LORD as the one before whom Abraham speaks.",
+    "refs": "Genesis 18:1–2; Genesis 18:23"
+  },
+  "Genesis 18:23": {
+    "title": "Will the righteous perish with the wicked?",
+    "text": "Abraham approaches and asks whether God will destroy the righteous with the wicked. His question appeals to God’s justice. The passage models reverent intercession, asking God to act consistently with righteousness rather than treating judgment as indiscriminate.",
+    "refs": "Genesis 18:25; Ezekiel 18:23"
+  },
+  "Genesis 18:24": {
+    "title": "Fifty righteous people",
+    "text": "Abraham asks whether the city might be spared if fifty righteous people are found there. He is appealing for mercy on behalf of the city. The passage shows that prayer can include bold requests while acknowledging God’s authority to judge.",
+    "refs": "Exodus 32:11–14; Genesis 18:26"
+  },
+  "Genesis 18:25": {
+    "title": "The Judge of all the earth",
+    "text": "Abraham declares that the Judge of all the earth will do right. This is a clear confession of God’s universal authority and justice. Oneness theology affirms the one God as the righteous Judge; the verse does not divide that authority among multiple Gods.",
+    "refs": "Deuteronomy 32:4; Psalm 9:7–8"
+  },
+  "Genesis 18:26": {
+    "title": "The LORD agrees to spare the city",
+    "text": "The LORD says He will spare the whole place for fifty righteous people. The answer reveals a willingness to show mercy for the sake of the righteous. The negotiation continues as Abraham asks whether fewer righteous people might be found.",
+    "refs": "Genesis 18:24; Genesis 18:27–28"
+  },
+  "Genesis 18:27": {
+    "title": "Dust and ashes",
+    "text": "Abraham acknowledges that he is dust and ashes while continuing to speak. His humility does not prevent earnest intercession. The verse shows reverence and boldness together in prayer.",
+    "refs": "Genesis 3:19; Job 42:6"
+  },
+  "Genesis 18:28": {
+    "title": "Forty-five righteous people",
+    "text": "Abraham asks whether the city will be spared if five fewer than fifty righteous people are found. The LORD agrees to spare it for forty-five. The repeated exchange emphasizes Abraham’s concern and the LORD’s willingness to answer.",
+    "refs": "Genesis 18:26; Genesis 18:29"
+  },
+  "Genesis 18:29": {
+    "title": "Forty righteous people",
+    "text": "Abraham asks about forty righteous people, and the LORD agrees not to destroy the city for their sake. The exchange continues the appeal to divine justice and mercy. The text does not portray Abraham as controlling God; he is petitioning the Judge.",
+    "refs": "Genesis 18:25; Genesis 18:30"
+  },
+  "Genesis 18:30": {
+    "title": "Thirty righteous people",
+    "text": "Abraham asks about thirty righteous people and requests that the LORD not be angry with his speaking. The request shows humility as he continues interceding. The LORD agrees to spare the city if thirty are found.",
+    "refs": "Genesis 18:29; Genesis 18:31"
+  },
+  "Genesis 18:31": {
+    "title": "Twenty righteous people",
+    "text": "Abraham asks whether the city will be spared for twenty righteous people. The LORD agrees. The dialogue highlights the value of the righteous and the seriousness with which Abraham seeks mercy for others.",
+    "refs": "Genesis 18:30; Genesis 18:32"
+  },
+  "Genesis 18:32": {
+    "title": "Ten righteous people",
+    "text": "Abraham asks one final time about ten righteous people, and the LORD agrees not to destroy the city for their sake if ten are found. The dialogue ends with this assurance. The next chapter shows the outcome and should be read alongside this appeal for justice and mercy.",
+    "refs": "Genesis 19:1–29"
+  },
+  "Genesis 18:33": {
+    "title": "The LORD departs",
+    "text": "The LORD goes His way after finishing the conversation, and Abraham returns to his place. This closes the intercession scene. The narrative uses human movement language to describe the end of the encounter, without requiring a doctrine of multiple divine persons.",
+    "refs": "Genesis 18:22–32"
   }
 };
