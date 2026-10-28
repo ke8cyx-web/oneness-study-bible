@@ -12301,5 +12301,403 @@ window.verseCommentary = {
       "Exodus 6:6–8",
       "Deuteronomy 5:15"
     ]
+  },
+  "Exodus 13:1": {
+    "title": "Sanctify the firstborn",
+    "text": "The LORD commands that every firstborn male among Israel’s people and livestock be set apart to Him. This command remembers that Israel’s firstborn were spared during the final plague and recognizes that life belongs to God.",
+    "refs": [
+      "Exodus 12:12–13",
+      "Exodus 13:11–15"
+    ]
+  },
+  "Exodus 13:2": {
+    "title": "The firstborn belongs to the LORD",
+    "text": "God claims every firstborn as holy to Him, whether human or animal. The command is rooted in the deliverance from Egypt and will be explained further as a memorial of that rescue.",
+    "refs": [
+      "Numbers 3:13",
+      "Luke 2:22–23"
+    ]
+  },
+  "Exodus 13:3": {
+    "title": "Remember the day of departure",
+    "text": "Moses tells the people to remember the day they left Egypt, the house of bondage, because the LORD brought them out with a strong hand. They must eat no leavened bread, linking the feast to the hurried departure.",
+    "refs": [
+      "Exodus 12:34",
+      "Deuteronomy 16:3"
+    ]
+  },
+  "Exodus 13:4": {
+    "title": "The month Abib",
+    "text": "Israel leaves in the month Abib. The date anchors the event in Israel’s calendar and is associated with the beginning of the spring harvest season.",
+    "refs": [
+      "Exodus 12:2",
+      "Deuteronomy 16:1"
+    ]
+  },
+  "Exodus 13:5": {
+    "title": "Remember the promised land",
+    "text": "When God brings Israel into the land promised to the patriarchs, they are to keep this service in that land. The deliverance from Egypt and the gift of Canaan are linked parts of the covenant promise.",
+    "refs": [
+      "Genesis 15:18–21",
+      "Exodus 3:8"
+    ]
+  },
+  "Exodus 13:6": {
+    "title": "Seven days of unleavened bread",
+    "text": "For seven days Israel is to eat unleavened bread, and the seventh day is a feast to the LORD. The annual observance gives the community a repeated way to remember God’s deliverance.",
+    "refs": [
+      "Exodus 12:15–17"
+    ]
+  },
+  "Exodus 13:7": {
+    "title": "No leaven in the territory",
+    "text": "Unleavened bread is to be eaten for seven days, and no leaven or leavened bread is to be found among Israel. The thorough removal of leaven makes the memorial practice visible in every household.",
+    "refs": [
+      "Exodus 12:19–20"
+    ]
+  },
+  "Exodus 13:8": {
+    "title": "Explain the feast to your child",
+    "text": "Parents are to explain that the feast is kept because of what the LORD did for them when they came out of Egypt. The ritual is meant to teach the next generation the history and meaning of God’s saving work.",
+    "refs": [
+      "Exodus 12:26–27",
+      "Deuteronomy 6:20–25"
+    ]
+  },
+  "Exodus 13:9": {
+    "title": "A memorial on hand and forehead",
+    "text": "The observance is described as a sign on the hand and a memorial between the eyes, so the LORD’s law may be in the mouth. The language emphasizes constant remembrance and obedience; later Jewish practice also developed physical tefillin from related passages.",
+    "refs": [
+      "Deuteronomy 6:6–8",
+      "Deuteronomy 11:18"
+    ]
+  },
+  "Exodus 13:10": {
+    "title": "Keep the ordinance each year",
+    "text": "Israel is to keep this ordinance at its appointed time every year. Repeated observance keeps the exodus central in Israel’s worship and identity.",
+    "refs": [
+      "Exodus 12:14"
+    ]
+  },
+  "Exodus 13:11": {
+    "title": "The firstborn in Canaan",
+    "text": "When the LORD brings Israel into the land promised to the fathers, they are to observe the firstborn ordinance. The command looks ahead to settlement in the promised land.",
+    "refs": [
+      "Exodus 13:5"
+    ]
+  },
+  "Exodus 13:12": {
+    "title": "Set apart the firstborn males",
+    "text": "Every firstborn male that opens the womb is to be set apart to the LORD. The command includes livestock and establishes the principle that the firstborn belongs to God.",
+    "refs": [
+      "Exodus 13:2"
+    ]
+  },
+  "Exodus 13:13": {
+    "title": "Redeem the firstborn donkey and son",
+    "text": "A firstborn donkey may be redeemed with a lamb, or its neck is to be broken; every firstborn son is to be redeemed. The distinction shows that the firstborn claim is honored through the means God prescribes, not by sacrificing human children.",
+    "refs": [
+      "Numbers 18:15–16",
+      "Luke 2:22–24"
+    ]
+  },
+  "Exodus 13:14": {
+    "title": "Tell the next generation why",
+    "text": "When a child asks about the ordinance, the parent is to explain that the LORD brought Israel out of Egypt with a strong hand. The question-and-answer pattern turns family life into a place where God’s acts are remembered and taught.",
+    "refs": [
+      "Exodus 12:26–27",
+      "Deuteronomy 6:20–25"
+    ]
+  },
+  "Exodus 13:15": {
+    "title": "Pharaoh’s refusal and the firstborn",
+    "text": "Moses explains that Pharaoh hardened himself and would not let Israel go, so the LORD slew Egypt’s firstborn; therefore Israel sacrifices firstborn males of the flock and redeems its sons. The observance remembers both judgment and deliverance.",
+    "refs": [
+      "Exodus 12:29–32",
+      "Exodus 4:22–23"
+    ]
+  },
+  "Exodus 13:16": {
+    "title": "The sign of deliverance",
+    "text": "The ordinance is again described as a sign on the hand and between the eyes because the LORD brought Israel out of Egypt with a strong hand. The repeated language stresses that Israel’s actions and memory should be shaped by God’s saving work.",
+    "refs": [
+      "Exodus 13:9",
+      "Deuteronomy 6:8"
+    ]
+  },
+  "Exodus 13:17": {
+    "title": "God leads away from the Philistine route",
+    "text": "God does not lead Israel by the shorter road through Philistine territory, because the people might face war and return to Egypt. The detour is described as God’s wise care for a people not yet ready for that confrontation.",
+    "refs": [
+      "Exodus 14:11–12",
+      "Deuteronomy 8:2"
+    ]
+  },
+  "Exodus 13:18": {
+    "title": "Israel goes toward the wilderness",
+    "text": "God leads Israel around by the wilderness toward the Red Sea, and the people go up armed or prepared for travel. The route places them where God will soon demonstrate His power over Pharaoh’s pursuing army.",
+    "refs": [
+      "Exodus 14:1–4"
+    ]
+  },
+  "Exodus 13:19": {
+    "title": "Joseph’s bones are carried",
+    "text": "Moses takes Joseph’s bones with Israel, honoring Joseph’s oath that his remains would be carried out when God visited His people. The action connects the exodus with Joseph’s faith in the covenant promise.",
+    "refs": [
+      "Genesis 50:24–25",
+      "Joshua 24:32",
+      "Hebrews 11:22"
+    ]
+  },
+  "Exodus 13:20": {
+    "title": "They camp at Etham",
+    "text": "Israel journeys from Succoth and camps at Etham on the edge of the wilderness. The route is narrated as a sequence of real places in the people’s journey.",
+    "refs": [
+      "Exodus 12:37"
+    ]
+  },
+  "Exodus 13:21": {
+    "title": "The LORD leads by cloud and fire",
+    "text": "The LORD goes before Israel in a pillar of cloud by day and a pillar of fire by night, giving guidance and light. The text describes visible signs of God’s presence and leadership; it does not say that God’s Spirit is confined to the pillar.",
+    "refs": [
+      "Exodus 14:19–20",
+      "Numbers 9:15–23"
+    ]
+  },
+  "Exodus 13:22": {
+    "title": "The pillar does not depart",
+    "text": "The pillar of cloud by day and fire by night does not depart from before the people. The repeated presence of the sign reassures Israel that God continues to guide them on their journey.",
+    "refs": [
+      "Exodus 40:36–38"
+    ]
+  },
+  "Exodus 14:1": {
+    "title": "God directs the next camp",
+    "text": "The LORD speaks to Moses and gives instructions for where Israel is to camp. Their route is not random; God directs the location where the next major confrontation will take place.",
+    "refs": [
+      "Exodus 14:2–4"
+    ]
+  },
+  "Exodus 14:2": {
+    "title": "Camp by the sea",
+    "text": "Israel is told to camp by the sea near Pi-hahiroth, between Migdol and the sea, opposite Baal-zephon. These place names establish the setting for the crossing and the Egyptian pursuit.",
+    "refs": [
+      "Exodus 14:9"
+    ]
+  },
+  "Exodus 14:3": {
+    "title": "Pharaoh thinks Israel is trapped",
+    "text": "God says Pharaoh will think Israel is confused and trapped in the wilderness. Pharaoh’s interpretation of Israel’s position will lead him to pursue, but God already knows what He intends to do.",
+    "refs": [
+      "Exodus 14:4"
+    ]
+  },
+  "Exodus 14:4": {
+    "title": "God will be honored over Pharaoh",
+    "text": "God says He will harden Pharaoh’s heart so he pursues Israel, and He will gain honor over Pharaoh and his army. The outcome will make Egypt know that the LORD is God. The passage’s account of hardening should be read alongside Pharaoh’s repeated choices to resist God.",
+    "refs": [
+      "Exodus 7:3–5",
+      "Exodus 14:17–18"
+    ]
+  },
+  "Exodus 14:5": {
+    "title": "Egypt regrets Israel’s departure",
+    "text": "Pharaoh and his servants learn that Israel has fled and regret allowing the people to leave. Their change of mind shows that Pharaoh’s release was not a willing surrender to God’s authority.",
+    "refs": [
+      "Exodus 12:31–33"
+    ]
+  },
+  "Exodus 14:6": {
+    "title": "Pharaoh prepares his chariot",
+    "text": "Pharaoh makes ready his chariot and takes his people with him. The Egyptian state mobilizes its military power to reverse the release it had been forced to grant.",
+    "refs": [
+      "Exodus 14:7"
+    ]
+  },
+  "Exodus 14:7": {
+    "title": "Six hundred chosen chariots",
+    "text": "Pharaoh takes six hundred chosen chariots along with other chariots and captains. The detail highlights the strength of the force pursuing Israel and sets up the contrast with God’s deliverance.",
+    "refs": [
+      "Exodus 14:9"
+    ]
+  },
+  "Exodus 14:8": {
+    "title": "Israel leaves with confidence",
+    "text": "The LORD hardens Pharaoh’s heart, and the Egyptians pursue Israel while the Israelites go out with a high hand. The expression portrays Israel’s departure as confident and public, even though danger soon appears.",
+    "refs": [
+      "Numbers 33:3"
+    ]
+  },
+  "Exodus 14:9": {
+    "title": "The Egyptian army catches up",
+    "text": "The Egyptians pursue and overtake Israel while they camp by the sea. From a human perspective, Israel now appears trapped between the army and the water.",
+    "refs": [
+      "Exodus 14:2–3"
+    ]
+  },
+  "Exodus 14:10": {
+    "title": "Israel fears and cries to the LORD",
+    "text": "When Israel sees the Egyptians approaching, they are afraid and cry to the LORD. Their fear is understandable, but the crisis will expose whether they trust the God who has already delivered them from Egypt.",
+    "refs": [
+      "Psalm 106:7–8"
+    ]
+  },
+  "Exodus 14:11": {
+    "title": "Israel complains to Moses",
+    "text": "The people ask whether there were no graves in Egypt and accuse Moses of bringing them into the wilderness to die. Their words express panic and forgetfulness under pressure; the narrative does not present their complaint as faithful confidence.",
+    "refs": [
+      "Exodus 5:21",
+      "Psalm 106:7"
+    ]
+  },
+  "Exodus 14:12": {
+    "title": "They preferred bondage to danger",
+    "text": "Israel says it would have been better to serve Egypt than die in the wilderness. Their response reveals how fear can make slavery seem safer than following God into an uncertain future.",
+    "refs": [
+      "Exodus 6:9",
+      "Numbers 14:3–4"
+    ]
+  },
+  "Exodus 14:13": {
+    "title": "Stand still and see salvation",
+    "text": "Moses tells the people not to fear, to stand still, and to see the salvation the LORD will accomplish. He promises that the Egyptians they see will not be seen again in the same way. The confidence rests on God’s action, not Israel’s military strength.",
+    "refs": [
+      "2 Chronicles 20:17",
+      "Psalm 46:10"
+    ]
+  },
+  "Exodus 14:14": {
+    "title": "The LORD will fight for Israel",
+    "text": "Moses says the LORD will fight for Israel while they hold their peace. This promise is specific to the crisis God has revealed to Moses; it is not a general command never to act, since the next verse tells Israel to go forward.",
+    "refs": [
+      "Deuteronomy 1:30",
+      "Nehemiah 4:20"
+    ]
+  },
+  "Exodus 14:15": {
+    "title": "Tell Israel to go forward",
+    "text": "The LORD asks Moses why he cries to Him and tells him to command Israel to go forward. Faith in God’s deliverance includes obeying the next instruction God gives, not remaining passive when He commands action.",
+    "refs": [
+      "Exodus 14:13–16"
+    ]
+  },
+  "Exodus 14:16": {
+    "title": "Moses stretches out his rod",
+    "text": "Moses is told to lift his rod and stretch his hand over the sea to divide it, so Israel can cross on dry ground. The rod is an instrument used under God’s command; the power belongs to the LORD.",
+    "refs": [
+      "Exodus 4:17",
+      "Exodus 14:21"
+    ]
+  },
+  "Exodus 14:17": {
+    "title": "Egypt pursues into the sea",
+    "text": "God says the Egyptians will follow Israel into the sea and that He will be honored over Pharaoh and his army. The pursuit becomes the setting for the decisive judgment against Egypt’s military power.",
+    "refs": [
+      "Exodus 14:4"
+    ]
+  },
+  "Exodus 14:18": {
+    "title": "Egypt will know the LORD",
+    "text": "When God gains honor over Pharaoh and his chariots, the Egyptians will know that He is the LORD. The central outcome is the public revelation of God’s authority over the empire that defied Him.",
+    "refs": [
+      "Exodus 7:5",
+      "Exodus 14:4"
+    ]
+  },
+  "Exodus 14:19": {
+    "title": "The angel and the pillar move",
+    "text": "The angel of God and the pillar of cloud move from before Israel to behind them, coming between Israel and Egypt. God’s presence protects Israel and obstructs the pursuing army; the text does not require identifying the angel as a separate God.",
+    "refs": [
+      "Exodus 13:21–22",
+      "Psalm 34:7"
+    ]
+  },
+  "Exodus 14:20": {
+    "title": "Darkness for Egypt, light for Israel",
+    "text": "The cloud brings darkness to one side and light to the other, so the armies cannot approach each other all night. The same divine presence that guides Israel also stands as a barrier against Egypt.",
+    "refs": [
+      "Exodus 13:21–22"
+    ]
+  },
+  "Exodus 14:21": {
+    "title": "The sea divides by a strong wind",
+    "text": "Moses stretches out his hand, and the LORD drives the sea back with a strong east wind through the night, making the waters dry land. The account identifies the LORD as the one who brings about the crossing, using the wind as His means.",
+    "refs": [
+      "Psalm 77:16–20",
+      "Psalm 106:9"
+    ]
+  },
+  "Exodus 14:22": {
+    "title": "Israel crosses on dry ground",
+    "text": "The Israelites go into the sea on dry ground, with waters as a wall on their right and left. The narrative presents the crossing as a miraculous deliverance, not merely a safe passage around the water.",
+    "refs": [
+      "1 Corinthians 10:1–2",
+      "Hebrews 11:29"
+    ]
+  },
+  "Exodus 14:23": {
+    "title": "The Egyptians follow",
+    "text": "Pharaoh’s horses, chariots, and horsemen pursue Israel into the sea. The Egyptians enter the path that God has opened for Israel, setting the stage for their judgment.",
+    "refs": [
+      "Exodus 14:17"
+    ]
+  },
+  "Exodus 14:24": {
+    "title": "The LORD troubles the Egyptian army",
+    "text": "In the morning watch the LORD looks toward the Egyptian host through the pillar of fire and cloud and troubles them. The language depicts God actively intervening against the pursuing force.",
+    "refs": [
+      "Exodus 14:25"
+    ]
+  },
+  "Exodus 14:25": {
+    "title": "The chariot wheels fail",
+    "text": "God takes off the chariot wheels or makes their movement difficult, and the Egyptians recognize that the LORD fights for Israel. Their attempt to retreat comes after they recognize the power they had opposed.",
+    "refs": [
+      "Exodus 14:14"
+    ]
+  },
+  "Exodus 14:26": {
+    "title": "The sea returns over Egypt",
+    "text": "The LORD tells Moses to stretch out his hand so the waters return over the Egyptians and their chariots. The same God who opened the path now brings the waters back at His appointed time.",
+    "refs": [
+      "Exodus 14:21–22"
+    ]
+  },
+  "Exodus 14:27": {
+    "title": "The Egyptians are overwhelmed",
+    "text": "Moses stretches out his hand, and the sea returns to its strength as morning comes; the Egyptians flee into it. The narrative attributes the outcome to the LORD’s action through the sea.",
+    "refs": [
+      "Exodus 15:4–5"
+    ]
+  },
+  "Exodus 14:28": {
+    "title": "The army is covered by the sea",
+    "text": "The returning waters cover Pharaoh’s chariots, horsemen, and the army that followed Israel, and none remains. The verse describes the destruction of the pursuing force, not the destruction of Israel.",
+    "refs": [
+      "Exodus 14:23–27"
+    ]
+  },
+  "Exodus 14:29": {
+    "title": "Israel walks on dry ground",
+    "text": "Israel passes through the sea on dry ground, with waters on both sides. The repeated detail emphasizes the contrast between Israel’s protected crossing and Egypt’s destruction.",
+    "refs": [
+      "Exodus 14:22"
+    ]
+  },
+  "Exodus 14:30": {
+    "title": "The LORD saves Israel that day",
+    "text": "The LORD saves Israel from the Egyptians, and Israel sees the Egyptians dead on the shore. The chapter identifies God, not Moses or Israel’s strength, as the deliverer.",
+    "refs": [
+      "Exodus 15:1–2"
+    ]
+  },
+  "Exodus 14:31": {
+    "title": "Israel believes the LORD and Moses",
+    "text": "Israel sees the great work of the LORD, fears Him, and believes the LORD and His servant Moses. Their faith follows the deliverance they have witnessed; Moses is honored as God’s servant, not as the source of salvation.",
+    "refs": [
+      "Exodus 4:31",
+      "Psalm 106:12",
+      "Hebrews 11:29"
+    ]
   }
 };
