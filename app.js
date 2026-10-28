@@ -183,12 +183,14 @@ function renderBookmarks(){
  });
 }
 function parseRef(ref){
- const m=ref.match(/^(.*)\s+(\d+):(\d+)$/);if(!m)return null;
+ const m=ref.trim().match(/^(.*)\s+(\d+):(\d+)(?:[-–]\d+)?$/);if(!m)return null;
  const bi=bible.findIndex(b=>b.name.toLowerCase()===m[1].toLowerCase());if(bi<0)return null;
  return {bi,ch:Number(m[2]),v:Number(m[3])};
 }
 function openRef(ref){
- const p=parseRef(ref);if(!p)return;
+ const p=parseRef(ref);if(!p){setStatus("That reference contains more than one passage. Choose one reference at a time.");return}
+ if(!bible){setStatus("Wait for the KJV to finish loading before opening a reference.");return}
+ if(p.ch<1||p.ch>bible[p.bi].chapters.length||p.v<1||p.v>bible[p.bi].chapters[p.ch-1].length){setStatus("That chapter or verse could not be found in the loaded KJV.");return}
  els.book.value=p.bi;populateChapters();els.chapter.value=p.ch;renderChapter();
  setTimeout(()=>{const row=[...els.verses.children].find(x=>x.querySelector(".verse-number")?.textContent===String(p.v));if(row){row.scrollIntoView({behavior:"smooth",block:"center"});row.style.background="#fff5cf";setTimeout(()=>row.style.background="",1800)}},30);
  document.querySelector('[data-tab="read"]').click();
