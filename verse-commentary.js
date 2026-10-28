@@ -10142,5 +10142,417 @@ window.verseCommentary = {
       "Exodus 3:7–10",
       "Deuteronomy 4:7"
     ]
+  },
+  "Exodus 3:1": {
+    "title": "Moses shepherds in Midian",
+    "text": "Moses keeps the flock of Jethro, his father-in-law, and leads it to Horeb, called the mountain of God. The former prince is now a shepherd, and the wilderness becomes the setting for God’s call. Scripture does not say that the location itself makes Moses holy; the significance comes from God’s presence and word.",
+    "refs": [
+      "Exodus 2:15–21",
+      "Exodus 3:5"
+    ]
+  },
+  "Exodus 3:2": {
+    "title": "The angel of the LORD appears",
+    "text": "The angel of the LORD appears to Moses in a flame within a bush that burns without being consumed. In Scripture, an angel is a messenger; the passage soon says the LORD Himself calls from the bush. Oneness readers often understand this as God making His presence known through His messenger, but the wording should be read in the flow of the passage rather than assuming every mention of an angel has the same precise meaning.",
+    "refs": [
+      "Exodus 3:4",
+      "Genesis 16:7–13"
+    ]
+  },
+  "Exodus 3:3": {
+    "title": "Moses turns aside to look",
+    "text": "Moses decides to investigate why the bush is not consumed. The narrative shows him paying attention before he hears the call. The miracle draws him toward the place where God will speak.",
+    "refs": [
+      "Exodus 3:2–4"
+    ]
+  },
+  "Exodus 3:4": {
+    "title": "God calls Moses by name",
+    "text": "The LORD sees Moses turn aside and calls, “Moses, Moses.” Moses answers, “Here am I.” God’s call is personal and purposeful; He knows whom He addresses and summons Moses to hear His command.",
+    "refs": [
+      "Genesis 22:11",
+      "1 Samuel 3:10",
+      "Acts 7:30–34"
+    ]
+  },
+  "Exodus 3:5": {
+    "title": "Holy ground",
+    "text": "Moses must not come closer casually; he is told to remove his shoes because the place is holy. The ground is holy because of God’s presence, not because it has independent power. The instruction teaches reverence before the holy God.",
+    "refs": [
+      "Joshua 5:15",
+      "Psalm 99:5"
+    ]
+  },
+  "Exodus 3:6": {
+    "title": "The God of the fathers",
+    "text": "God identifies Himself as the God of Abraham, Isaac, and Jacob. Moses hides his face because he is afraid to look upon God. The declaration connects this encounter to the covenant promises in Genesis and identifies the speaker as the same God who dealt with the patriarchs.",
+    "refs": [
+      "Genesis 17:7",
+      "Genesis 28:13",
+      "Matthew 22:31–32"
+    ]
+  },
+  "Exodus 3:7": {
+    "title": "God sees Israel’s affliction",
+    "text": "The LORD says He has surely seen the affliction of His people and heard their cry. God’s awareness is not distant observation; the next verses reveal His intention to act. The text presents Israel as belonging to Him even while they are enslaved in Egypt.",
+    "refs": [
+      "Exodus 2:23–25",
+      "Psalm 34:17"
+    ]
+  },
+  "Exodus 3:8": {
+    "title": "God comes down to deliver",
+    "text": "God says He has come down to deliver Israel from Egypt and bring them into a good and spacious land. “Come down” describes God’s intervention in human history; it does not require the idea that the Spirit of God had been confined to one place. The promise of land continues the covenant made with Abraham.",
+    "refs": [
+      "Genesis 15:18–21",
+      "Exodus 6:6–8"
+    ]
+  },
+  "Exodus 3:9": {
+    "title": "Israel’s cry reaches God",
+    "text": "God repeats that Israel’s cry has come to Him and that He has seen the oppression. The repetition stresses that deliverance is not an impulsive human project: God knows the injustice and is now revealing His plan.",
+    "refs": [
+      "Exodus 2:23–25"
+    ]
+  },
+  "Exodus 3:10": {
+    "title": "Moses is sent to Pharaoh",
+    "text": "God sends Moses to Pharaoh to bring Israel out of Egypt. The One who promises deliverance chooses a human servant to carry His message and lead the people. Being sent by God does not make Moses equal to God; he is the commissioned servant.",
+    "refs": [
+      "Exodus 4:10–12",
+      "Acts 7:34"
+    ]
+  },
+  "Exodus 3:11": {
+    "title": "Moses asks, Who am I?",
+    "text": "Moses questions his own suitability for confronting Pharaoh. God’s answer does not praise Moses’ independent ability; it points to God’s presence with him. The mission rests on God’s faithfulness rather than Moses’ status.",
+    "refs": [
+      "Exodus 3:12",
+      "Judges 6:15–16"
+    ]
+  },
+  "Exodus 3:12": {
+    "title": "God promises to be with Moses",
+    "text": "God answers, “Certainly I will be with thee,” and gives a sign connected with Israel worshipping at this mountain after deliverance. The sign will be recognized in its fulfillment. God’s presence, not Moses’ confidence, is the foundation of the commission.",
+    "refs": [
+      "Exodus 19:1–6",
+      "Matthew 28:20"
+    ]
+  },
+  "Exodus 3:13": {
+    "title": "Moses asks God’s name",
+    "text": "Moses asks what he should say if Israel asks the name of the God who sent him. In the ancient biblical setting, a name can identify the one speaking and the character or authority associated with that name. Moses needs a clear answer to present God’s commission faithfully.",
+    "refs": [
+      "Exodus 6:2–3"
+    ]
+  },
+  "Exodus 3:14": {
+    "title": "I AM THAT I AM",
+    "text": "God answers, “I AM THAT I AM,” and tells Moses to say, “I AM hath sent me unto you.” The Hebrew expression is commonly understood as emphasizing God’s being or self-existence, and it is closely related to the divine name YHWH revealed in the next verse. In Oneness teaching, this passage identifies the one who sends Moses as the self-existent God of Israel; it does not describe a second God.",
+    "refs": [
+      "Exodus 3:15",
+      "Isaiah 43:10–11",
+      "John 8:58"
+    ]
+  },
+  "Exodus 3:15": {
+    "title": "The name of the LORD",
+    "text": "God tells Moses to say that the LORD, the God of Abraham, Isaac, and Jacob, has sent him, and calls this His name for ever. The KJV prints LORD where the Hebrew text has the divine name YHWH. God ties the name to His covenant faithfulness across generations.",
+    "refs": [
+      "Genesis 12:1–3",
+      "Psalm 135:13",
+      "Isaiah 42:8"
+    ]
+  },
+  "Exodus 3:16": {
+    "title": "Gather Israel’s elders",
+    "text": "Moses is instructed to gather Israel’s elders and tell them that the LORD has appeared to him and has seen what is done to them in Egypt. The elders are witnesses and representatives of the people; the message assures Israel that God has not ignored their suffering.",
+    "refs": [
+      "Exodus 4:29–31"
+    ]
+  },
+  "Exodus 3:17": {
+    "title": "The promise of a good land",
+    "text": "God promises to bring Israel out of Egypt into a land described as flowing with milk and honey. This is a picture of fruitfulness and provision, and it confirms the earlier covenant promise rather than replacing it.",
+    "refs": [
+      "Genesis 15:18–21",
+      "Deuteronomy 8:7–10"
+    ]
+  },
+  "Exodus 3:18": {
+    "title": "Israel and Pharaoh are addressed",
+    "text": "The elders are to approach Pharaoh and ask permission for a journey into the wilderness to sacrifice to the LORD. This is the initial request God directs them to make; the larger narrative shows Pharaoh’s repeated refusal and the conflict that follows.",
+    "refs": [
+      "Exodus 5:1–3"
+    ]
+  },
+  "Exodus 3:19": {
+    "title": "Pharaoh will not let Israel go easily",
+    "text": "God tells Moses beforehand that Egypt’s king will not release Israel except under compulsion. The warning prepares Moses for resistance and shows that Pharaoh’s refusal will not surprise God.",
+    "refs": [
+      "Exodus 5:2",
+      "Exodus 7:3–5"
+    ]
+  },
+  "Exodus 3:20": {
+    "title": "God will act with wonders",
+    "text": "God promises to stretch out His hand and strike Egypt with wonders, after which Pharaoh will let Israel go. The “hand” is a biblical expression for power and action; it is not a statement that God is limited to a human body.",
+    "refs": [
+      "Exodus 7:3–5",
+      "Deuteronomy 4:34"
+    ]
+  },
+  "Exodus 3:21": {
+    "title": "Israel will find favor",
+    "text": "God says He will give Israel favor in the Egyptians’ sight so that they will not leave empty-handed. The promised departure includes provision after years of exploitation; the text presents this as God’s action, not as Israel stealing by private initiative.",
+    "refs": [
+      "Exodus 11:2–3",
+      "Exodus 12:35–36"
+    ]
+  },
+  "Exodus 3:22": {
+    "title": "Jewelry and clothing from Egypt",
+    "text": "Israelite women are to ask Egyptian neighbors for silver, gold, and clothing for their sons and daughters. The following chapter reports that the Egyptians grant the request. This provision marks a reversal of Israel’s impoverished bondage and prepares for the journey out of Egypt.",
+    "refs": [
+      "Exodus 11:2–3",
+      "Exodus 12:35–36"
+    ]
+  },
+  "Exodus 4:1": {
+    "title": "Moses fears they will not believe",
+    "text": "Moses worries that Israel will not believe or listen to him. God has given him a message, but Moses still fears rejection. The signs that follow are given to authenticate the commission, not to make Moses the source of divine power.",
+    "refs": [
+      "Exodus 3:13–18"
+    ]
+  },
+  "Exodus 4:2": {
+    "title": "The rod in Moses’ hand",
+    "text": "God asks Moses what he has in his hand, and Moses answers that it is a rod. The ordinary object will become a sign through God’s command; its power does not come from the wood itself.",
+    "refs": [
+      "Exodus 4:17",
+      "Exodus 4:20"
+    ]
+  },
+  "Exodus 4:3": {
+    "title": "The rod becomes a serpent",
+    "text": "Moses casts down the rod and it becomes a serpent, causing him to flee. This sign demonstrates God’s power and confronts Moses with the reality of the commission he has received.",
+    "refs": [
+      "Exodus 7:8–12"
+    ]
+  },
+  "Exodus 4:4": {
+    "title": "Moses takes the serpent by the tail",
+    "text": "God tells Moses to take the serpent by the tail, and it becomes a rod again. Moses obeys despite the danger. The sign is under God’s direction and confirms that Moses is not acting by his own magical ability.",
+    "refs": [
+      "Exodus 4:2–5"
+    ]
+  },
+  "Exodus 4:5": {
+    "title": "The God of the fathers has appeared",
+    "text": "God states that the sign is given so Israel may believe that the LORD, the God of their fathers, has appeared to Moses. The sign supports the message that the covenant God is acting now, in their generation.",
+    "refs": [
+      "Exodus 3:6",
+      "Exodus 4:30–31"
+    ]
+  },
+  "Exodus 4:6": {
+    "title": "Moses’ hand becomes leprous",
+    "text": "God tells Moses to put his hand into his bosom; when he withdraws it, it is diseased and white as snow. The sign shows that God has authority over the human body and can bring about what He commands.",
+    "refs": [
+      "Numbers 12:10–13",
+      "2 Kings 5:14"
+    ]
+  },
+  "Exodus 4:7": {
+    "title": "The hand is restored",
+    "text": "Moses puts his hand back and it is restored. The paired sign demonstrates not only power to afflict but also power to heal and restore.",
+    "refs": [
+      "Exodus 4:6–8"
+    ]
+  },
+  "Exodus 4:8": {
+    "title": "A second sign if needed",
+    "text": "God says that if the people do not believe the first sign, they may believe the second. The signs are intended to support the testimony that God has sent Moses, not to replace the spoken message.",
+    "refs": [
+      "Exodus 4:30–31"
+    ]
+  },
+  "Exodus 4:9": {
+    "title": "Water from the river becomes blood",
+    "text": "If the people still do not believe, Moses is to pour river water on dry land, where it will become blood. The sign anticipates the first plague and demonstrates God’s authority over Egypt’s river and life systems.",
+    "refs": [
+      "Exodus 7:14–21"
+    ]
+  },
+  "Exodus 4:10": {
+    "title": "Moses says he is slow of speech",
+    "text": "Moses says he is not eloquent and describes himself as slow of speech and tongue. Scripture records his reluctance candidly. God’s calling does not depend on a servant possessing every natural strength.",
+    "refs": [
+      "Jeremiah 1:6–9",
+      "2 Corinthians 12:9"
+    ]
+  },
+  "Exodus 4:11": {
+    "title": "God made the mouth",
+    "text": "The LORD asks who made the human mouth and who makes a person able or unable to speak, hear, see, or be blind. The point is God’s sovereignty as Creator and His ability to equip His servant; the verse should not be used carelessly to blame people for disability.",
+    "refs": [
+      "Psalm 94:9",
+      "John 9:1–3"
+    ]
+  },
+  "Exodus 4:12": {
+    "title": "God promises to teach Moses",
+    "text": "God tells Moses to go and promises to be with his mouth and teach him what to say. The answer addresses Moses’ concern directly: God will guide the message and the speaking of His appointed servant.",
+    "refs": [
+      "Matthew 10:19–20",
+      "Luke 12:11–12"
+    ]
+  },
+  "Exodus 4:13": {
+    "title": "Moses asks God to send someone else",
+    "text": "Moses still asks God to send another person. His hesitation has become resistance to the commission. The narrative does not hide the weakness of a chosen servant, and the next verse shows God’s anger while still providing help.",
+    "refs": [
+      "Exodus 4:14–16"
+    ]
+  },
+  "Exodus 4:14": {
+    "title": "Aaron will meet Moses",
+    "text": "The LORD’s anger is kindled, yet He tells Moses that Aaron the Levite can speak well and is already coming to meet him. God accommodates Moses’ weakness without withdrawing the calling; Aaron will assist, but Moses remains responsible for carrying out God’s instructions.",
+    "refs": [
+      "Exodus 4:15–16",
+      "Exodus 7:1–2"
+    ]
+  },
+  "Exodus 4:15": {
+    "title": "God will teach both brothers",
+    "text": "Moses is to speak to Aaron and put the words in his mouth; God promises to be with both their mouths and teach them what to do. The arrangement is a shared human ministry under God’s direction, not two competing sources of revelation.",
+    "refs": [
+      "Exodus 4:12",
+      "Exodus 4:16"
+    ]
+  },
+  "Exodus 4:16": {
+    "title": "Moses as God to Aaron",
+    "text": "Aaron will speak to the people for Moses, and Moses will be to Aaron “instead of God.” This is a role of delegated authority: Moses receives God’s message and Aaron communicates it. The wording does not make Moses divine by nature; it compares their roles in delivering the message.",
+    "refs": [
+      "Exodus 7:1–2"
+    ]
+  },
+  "Exodus 4:17": {
+    "title": "The rod of signs",
+    "text": "God tells Moses to take the rod with which he will perform signs. The rod is an instrument in God’s hand; the source of the signs is the LORD who commissioned Moses.",
+    "refs": [
+      "Exodus 4:2–5",
+      "Exodus 7:9"
+    ]
+  },
+  "Exodus 4:18": {
+    "title": "Moses asks to return to Egypt",
+    "text": "Moses asks Jethro for permission to return to his brethren and see whether they are still alive. He does not yet tell Jethro every detail of the divine commission, but he begins the journey back toward Egypt.",
+    "refs": [
+      "Exodus 2:23",
+      "Exodus 3:10"
+    ]
+  },
+  "Exodus 4:19": {
+    "title": "The men seeking Moses are dead",
+    "text": "The LORD tells Moses in Midian that the men who sought his life are dead. This removes the specific danger that caused Moses to flee and confirms that the time has come to return.",
+    "refs": [
+      "Exodus 2:15",
+      "Matthew 2:19–20"
+    ]
+  },
+  "Exodus 4:20": {
+    "title": "Moses returns with his family",
+    "text": "Moses takes his wife and sons, sets them on a donkey, and returns to Egypt with the rod of God in his hand. The ordinary rod is now called the rod of God because it is associated with the commission and signs God has given.",
+    "refs": [
+      "Exodus 4:17",
+      "Exodus 18:2–4"
+    ]
+  },
+  "Exodus 4:21": {
+    "title": "Pharaoh’s heart will be hardened",
+    "text": "God tells Moses that He will do wonders, but Pharaoh’s heart will be hardened and he will not let the people go. Exodus describes both Pharaoh’s own stubbornness and God’s judicial hardening in the unfolding story; these statements should be read together rather than reducing the account to only one side.",
+    "refs": [
+      "Exodus 7:3–5",
+      "Exodus 8:15",
+      "Exodus 9:34–35"
+    ]
+  },
+  "Exodus 4:22": {
+    "title": "Israel is God’s firstborn son",
+    "text": "Moses is to tell Pharaoh that the LORD calls Israel His son, even His firstborn. This is covenant language for Israel’s special relationship and status among the nations; it is not a claim that Israel is God by nature.",
+    "refs": [
+      "Hosea 11:1",
+      "Jeremiah 31:9"
+    ]
+  },
+  "Exodus 4:23": {
+    "title": "Let My son go",
+    "text": "God commands Pharaoh to release Israel so they may serve Him, and warns that Pharaoh’s refusal will bring the death of his own firstborn. The conflict is about worship and God’s claim upon His people, and it foreshadows the final plague.",
+    "refs": [
+      "Exodus 12:29–32"
+    ]
+  },
+  "Exodus 4:24": {
+    "title": "A difficult encounter on the journey",
+    "text": "At a lodging place, the LORD meets Moses and seeks to kill him. The passage is terse and difficult; the next verses connect the danger to circumcision. The text should not be made more certain than it is about every detail of the encounter.",
+    "refs": [
+      "Exodus 4:25–26",
+      "Genesis 17:10–14"
+    ]
+  },
+  "Exodus 4:25": {
+    "title": "Zipporah circumcises her son",
+    "text": "Zipporah takes a sharp stone and circumcises her son, touching Moses’ feet with the foreskin and calling him a bloody husband. The action responds to the covenant issue raised in the preceding verses. The details and the phrase “bloody husband” have been interpreted in different ways, so a careful study should acknowledge the passage’s difficulty.",
+    "refs": [
+      "Genesis 17:10–14",
+      "Joshua 5:2–9"
+    ]
+  },
+  "Exodus 4:26": {
+    "title": "The danger passes",
+    "text": "The LORD lets Moses alone after the circumcision, and Zipporah refers to the circumcision. The passage stresses the seriousness of the covenant sign, even for the family of the man called to lead Israel.",
+    "refs": [
+      "Genesis 17:14"
+    ]
+  },
+  "Exodus 4:27": {
+    "title": "Aaron meets Moses at the mountain",
+    "text": "The LORD tells Aaron to go into the wilderness to meet Moses. Aaron obeys, meets him at the mountain of God, and kisses him. Their reunion brings the two brothers together for the work God has assigned.",
+    "refs": [
+      "Exodus 3:1",
+      "Exodus 4:14–16"
+    ]
+  },
+  "Exodus 4:28": {
+    "title": "Moses tells Aaron God’s words",
+    "text": "Moses reports to Aaron all the words the LORD sent him to speak and the signs he commanded him to perform. The mission is grounded in God’s message, not in a plan the brothers invented themselves.",
+    "refs": [
+      "Exodus 3:10–18",
+      "Exodus 4:1–9"
+    ]
+  },
+  "Exodus 4:29": {
+    "title": "The elders are gathered",
+    "text": "Moses and Aaron go to Egypt and gather the elders of Israel. The promised public presentation of God’s message now begins.",
+    "refs": [
+      "Exodus 3:16"
+    ]
+  },
+  "Exodus 4:30": {
+    "title": "Aaron speaks and signs are performed",
+    "text": "Aaron tells the elders the words the LORD spoke to Moses, and Moses performs the signs before the people. The message and signs work together to confirm that Moses has been commissioned by Israel’s God.",
+    "refs": [
+      "Exodus 4:1–9"
+    ]
+  },
+  "Exodus 4:31": {
+    "title": "Israel believes and worships",
+    "text": "The people believe when they hear that the LORD has visited them and seen their affliction, and they bow their heads and worship. Their response follows the news that God knows their suffering and is beginning to act; it is the first public reception of Moses’ mission.",
+    "refs": [
+      "Exodus 2:24–25",
+      "Exodus 3:7–10"
+    ]
   }
 };
