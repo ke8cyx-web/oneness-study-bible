@@ -5656,5 +5656,730 @@ window.verseCommentary = {
       "Genesis 32:28",
       "Deuteronomy 6:4"
     ]
+  },
+  "Genesis 34:1": {
+    "title": "Dinah visits the women of the land",
+    "text": "Dinah goes out to see the daughters of the land. The verse introduces the events that follow; it does not say she caused the violence committed against her.",
+    "refs": [
+      "Genesis 34:2"
+    ]
+  },
+  "Genesis 34:2": {
+    "title": "Shechem violates Dinah",
+    "text": "Shechem sees Dinah, takes her, lies with her, and humbles her. The narrative reports sexual violence and must not be read as making Dinah responsible for Shechem’s actions.",
+    "refs": [
+      "Deuteronomy 22:25–27"
+    ]
+  },
+  "Genesis 34:3": {
+    "title": "Shechem’s attachment",
+    "text": "Shechem becomes attached to Dinah and speaks tenderly to her. His feelings after the assault do not erase the wrong he has done.",
+    "refs": [
+      "Genesis 34:2"
+    ]
+  },
+  "Genesis 34:4": {
+    "title": "Shechem asks for marriage",
+    "text": "Shechem tells his father Hamor to obtain Dinah as his wife. The request comes after the violation and does not itself repair the harm.",
+    "refs": [
+      "Genesis 34:2"
+    ]
+  },
+  "Genesis 34:5": {
+    "title": "Jacob hears the news",
+    "text": "Jacob hears that Dinah has been defiled while his sons are away with the livestock. He waits until they return before responding.",
+    "refs": [
+      "Genesis 34:7"
+    ]
+  },
+  "Genesis 34:6": {
+    "title": "Hamor approaches Jacob",
+    "text": "Hamor, Shechem’s father, comes to speak with Jacob. The family conflict becomes a negotiation between the men involved.",
+    "refs": [
+      "Genesis 34:8–12"
+    ]
+  },
+  "Genesis 34:7": {
+    "title": "Jacob’s sons are grieved and angry",
+    "text": "Jacob’s sons hear what happened and are grieved and very angry because Shechem committed a disgraceful act in Israel. Their anger is directed at the violation, though their later revenge will also be condemned by the narrative’s events.",
+    "refs": [
+      "Genesis 34:25–31"
+    ]
+  },
+  "Genesis 34:8": {
+    "title": "Hamor proposes an arrangement",
+    "text": "Hamor asks that Dinah be given to Shechem and proposes a family alliance. His proposal treats marriage as a way to settle the conflict, but it does not adequately address the violence done to Dinah.",
+    "refs": [
+      "Genesis 34:11–12"
+    ]
+  },
+  "Genesis 34:9": {
+    "title": "Intermarriage proposed",
+    "text": "Hamor proposes intermarriage and social ties between the two peoples. The proposal has economic and political implications as well as family implications.",
+    "refs": [
+      "Genesis 34:10"
+    ]
+  },
+  "Genesis 34:10": {
+    "title": "Trade and property offered",
+    "text": "Hamor says the families may live, trade, and acquire property in the land. The offer frames the conflict as an opportunity for wider integration.",
+    "refs": [
+      "Genesis 34:21–23"
+    ]
+  },
+  "Genesis 34:11": {
+    "title": "Shechem offers compensation",
+    "text": "Shechem says he will give whatever is asked for Dinah. Money and gifts cannot undo the assault, and the text records his offer without declaring the harm resolved.",
+    "refs": [
+      "Exodus 22:16–17"
+    ]
+  },
+  "Genesis 34:12": {
+    "title": "A bride-price offered",
+    "text": "Shechem offers a large bride-price and gift if he may marry Dinah. The negotiation emphasizes the customs of the setting, but it does not replace justice for the violence.",
+    "refs": [
+      "Genesis 34:11"
+    ]
+  },
+  "Genesis 34:13": {
+    "title": "Jacob’s sons answer deceitfully",
+    "text": "Jacob’s sons respond with deceit because Shechem defiled their sister. The narrative identifies their answer as deceitful, preparing the reader to judge the revenge that follows rather than treating it as God’s command.",
+    "refs": [
+      "Genesis 34:25–31"
+    ]
+  },
+  "Genesis 34:14": {
+    "title": "The covenant condition",
+    "text": "The brothers say they cannot give their sister to an uncircumcised man because it would be a reproach to them. Their stated religious condition becomes a trap rather than an honest proposal.",
+    "refs": [
+      "Genesis 17:10–14"
+    ]
+  },
+  "Genesis 34:15": {
+    "title": "Circumcision demanded",
+    "text": "They say they will agree only if every male in Shechem’s community is circumcised. Circumcision was the sign of God’s covenant with Abraham, but using it deceptively for a violent plan profanes the sign’s meaning.",
+    "refs": [
+      "Genesis 17:11"
+    ]
+  },
+  "Genesis 34:16": {
+    "title": "A proposed united people",
+    "text": "The brothers promise to give their daughters and take the other people’s daughters, and to live as one people. Their words conceal their intention, so this proposed unity is not a truthful covenant.",
+    "refs": [
+      "Genesis 34:13"
+    ]
+  },
+  "Genesis 34:17": {
+    "title": "A threat if they refuse",
+    "text": "The brothers say they will take Dinah and leave if the men do not accept circumcision. The condition is presented as negotiation, while their hidden purpose is revenge.",
+    "refs": [
+      "Genesis 34:25"
+    ]
+  },
+  "Genesis 34:18": {
+    "title": "Hamor and Shechem agree",
+    "text": "The proposal pleases Hamor and Shechem. Their acceptance sets the stage for the community-wide circumcision demanded by Jacob’s sons.",
+    "refs": [
+      "Genesis 34:19"
+    ]
+  },
+  "Genesis 34:19": {
+    "title": "Shechem acts quickly",
+    "text": "Shechem does not delay because he desires Dinah and is influential in his father’s household. The verse describes his eagerness and status, not moral approval of his actions.",
+    "refs": [
+      "Genesis 34:2–4"
+    ]
+  },
+  "Genesis 34:20": {
+    "title": "Hamor speaks at the city gate",
+    "text": "Hamor and Shechem address the men of their city at the gate, a public place for community decisions. They present the proposed alliance to the wider population.",
+    "refs": [
+      "Genesis 34:24"
+    ]
+  },
+  "Genesis 34:21": {
+    "title": "The city hears the proposal",
+    "text": "Hamor says Jacob’s family is peaceful and can live and trade in the land. His account omits the brothers’ hidden plan and portrays the arrangement as beneficial.",
+    "refs": [
+      "Genesis 34:10"
+    ]
+  },
+  "Genesis 34:22": {
+    "title": "One condition for unity",
+    "text": "Hamor says the men will become one people if every male is circumcised. The community is being asked to accept a covenant sign without understanding the deceit behind the demand.",
+    "refs": [
+      "Genesis 17:10–14"
+    ]
+  },
+  "Genesis 34:23": {
+    "title": "Hamor appeals to profit",
+    "text": "Hamor asks whether their livestock and possessions will not become theirs. The appeal to material gain helps persuade the men to accept the arrangement.",
+    "refs": [
+      "Genesis 34:24"
+    ]
+  },
+  "Genesis 34:24": {
+    "title": "The men are circumcised",
+    "text": "The men of the city agree and every male is circumcised. The text records their compliance, which leaves them vulnerable to the attack planned by Jacob’s sons.",
+    "refs": [
+      "Genesis 34:25"
+    ]
+  },
+  "Genesis 34:25": {
+    "title": "Simeon and Levi attack",
+    "text": "On the third day, when the men are in pain, Simeon and Levi take their swords and kill the males of the city. Their act is violent revenge, not a command from God, and the later rebuke of Jacob’s sons makes the moral danger clear.",
+    "refs": [
+      "Genesis 49:5–7"
+    ]
+  },
+  "Genesis 34:26": {
+    "title": "Hamor and Shechem are killed",
+    "text": "Simeon and Levi kill Hamor and Shechem and take Dinah from Shechem’s house. The rescue of Dinah is joined to the killing of the city’s men, an escalation beyond a just response to Shechem’s crime.",
+    "refs": [
+      "Genesis 34:25"
+    ]
+  },
+  "Genesis 34:27": {
+    "title": "The sons plunder the city",
+    "text": "Jacob’s other sons come upon the slain and plunder the city because their sister had been defiled. The narrative records collective retaliation and its consequences, not a righteous model for resolving sexual violence.",
+    "refs": [
+      "Genesis 34:30"
+    ]
+  },
+  "Genesis 34:28": {
+    "title": "Livestock and property taken",
+    "text": "The brothers take the flocks, herds, donkeys, and everything in the city and field. Their retaliation expands into seizure of property.",
+    "refs": [
+      "Genesis 34:29"
+    ]
+  },
+  "Genesis 34:29": {
+    "title": "People and possessions carried off",
+    "text": "The sons take wealth, children, and wives as captives and plunder the houses. The violence has now harmed an entire community beyond the original offender.",
+    "refs": [
+      "Genesis 34:25–28"
+    ]
+  },
+  "Genesis 34:30": {
+    "title": "Jacob rebukes Simeon and Levi",
+    "text": "Jacob warns that their actions have made him odious to the inhabitants of the land and may bring destruction on his household. His immediate concern is the family’s survival, while the later blessing explicitly condemns their cruelty.",
+    "refs": [
+      "Genesis 49:5–7"
+    ]
+  },
+  "Genesis 34:31": {
+    "title": "The brothers defend their anger",
+    "text": "Simeon and Levi ask whether Shechem should have treated their sister as a harlot. Their question expresses outrage at Dinah’s violation, but their grievance does not justify the indiscriminate slaughter and plunder they carried out.",
+    "refs": [
+      "Genesis 49:5–7"
+    ]
+  },
+  "Genesis 35:1": {
+    "title": "God tells Jacob to go to Bethel",
+    "text": "God commands Jacob to arise, go to Bethel, and build an altar to the God who appeared when he fled from Esau. The command brings Jacob back to the place associated with God’s promise and protection.",
+    "refs": [
+      "Genesis 28:12–22"
+    ]
+  },
+  "Genesis 35:2": {
+    "title": "Jacob calls for household cleansing",
+    "text": "Jacob tells his household to put away foreign gods, purify themselves, and change their garments. The household must turn away from idols before going to worship the LORD.",
+    "refs": [
+      "Joshua 24:23"
+    ]
+  },
+  "Genesis 35:3": {
+    "title": "Jacob remembers God’s answer",
+    "text": "Jacob says they will go to Bethel, where he will build an altar to God who answered him in distress and was with him on his journey. His worship is grounded in God’s past help.",
+    "refs": [
+      "Genesis 28:15"
+    ]
+  },
+  "Genesis 35:4": {
+    "title": "Foreign gods and earrings surrendered",
+    "text": "The household gives Jacob foreign gods and earrings, which he hides under an oak near Shechem. The action marks a concrete renunciation of objects associated with other worship; the verse does not teach that every earring is an idol.",
+    "refs": [
+      "Genesis 31:19"
+    ]
+  },
+  "Genesis 35:5": {
+    "title": "God protects their journey",
+    "text": "As Jacob’s household travels, a terror from God falls on the surrounding cities, and they do not pursue Jacob’s sons. The narrative attributes their safety to God’s intervention.",
+    "refs": [
+      "Genesis 34:30"
+    ]
+  },
+  "Genesis 35:6": {
+    "title": "Jacob arrives at Luz, or Bethel",
+    "text": "Jacob and the people with him arrive at Luz in Canaan, identified as Bethel. The journey reaches the place where God first gave Jacob the covenant promise in a dream.",
+    "refs": [
+      "Genesis 28:19"
+    ]
+  },
+  "Genesis 35:7": {
+    "title": "An altar built at Bethel",
+    "text": "Jacob builds an altar and names the place El-beth-el because God had revealed Himself there when Jacob fled from his brother. The name memorializes God’s self-revelation and care.",
+    "refs": [
+      "Genesis 28:12–17"
+    ]
+  },
+  "Genesis 35:8": {
+    "title": "Deborah dies",
+    "text": "Rebekah’s nurse Deborah dies and is buried beneath an oak near Bethel. The verse records a family loss and preserves the name of the place associated with her burial.",
+    "refs": [
+      "Genesis 24:59"
+    ]
+  },
+  "Genesis 35:9": {
+    "title": "God appears again and blesses Jacob",
+    "text": "God appears to Jacob again after his return from Padan-aram and blesses him. The repeated appearance confirms that the God who met Jacob on the road remains faithful at Bethel.",
+    "refs": [
+      "Genesis 28:13–15"
+    ]
+  },
+  "Genesis 35:10": {
+    "title": "Jacob is named Israel",
+    "text": "God tells Jacob that his name is Jacob no longer but Israel. The renaming confirms the identity first announced during the struggle at Peniel.",
+    "refs": [
+      "Genesis 32:28"
+    ]
+  },
+  "Genesis 35:11": {
+    "title": "God Almighty speaks covenant blessing",
+    "text": "God identifies Himself as God Almighty and promises fruitfulness, nations, and kings from Jacob’s line. The promise continues the covenant with Abraham and Isaac and establishes Jacob’s descendants as a people through whom God’s purposes will unfold.",
+    "refs": [
+      "Genesis 17:1–6",
+      "Genesis 28:3–4"
+    ]
+  },
+  "Genesis 35:12": {
+    "title": "The promised land reaffirmed",
+    "text": "God promises Jacob the land given to Abraham and Isaac and to Jacob’s descendants after him. The covenant promise is reaffirmed by God Himself.",
+    "refs": [
+      "Genesis 28:13"
+    ]
+  },
+  "Genesis 35:13": {
+    "title": "God goes up from the place",
+    "text": "God goes up from the place where He spoke with Jacob. The language describes the conclusion of the divine encounter; it should not be used to limit God’s presence to one physical location.",
+    "refs": [
+      "1 Kings 8:27"
+    ]
+  },
+  "Genesis 35:14": {
+    "title": "Jacob sets up a memorial",
+    "text": "Jacob sets up a stone pillar, pours a drink offering and oil on it. The act marks the place of the revelation and expresses worship in the custom of that period.",
+    "refs": [
+      "Genesis 28:18"
+    ]
+  },
+  "Genesis 35:15": {
+    "title": "Jacob names the place Bethel",
+    "text": "Jacob again names the place Bethel, the house of God. The repeated name preserves the significance of God’s promise and Jacob’s response.",
+    "refs": [
+      "Genesis 28:19"
+    ]
+  },
+  "Genesis 35:16": {
+    "title": "Rachel’s labor begins",
+    "text": "Jacob’s household travels from Bethel, and Rachel goes into hard labor near Ephrath. The narrative shifts from the reaffirmed covenant to a painful family event.",
+    "refs": [
+      "Genesis 48:7"
+    ]
+  },
+  "Genesis 35:17": {
+    "title": "The midwife encourages Rachel",
+    "text": "As Rachel’s labor becomes difficult, the midwife tells her not to fear because she has another son. The words offer hope during a dangerous birth.",
+    "refs": [
+      "Genesis 30:24"
+    ]
+  },
+  "Genesis 35:18": {
+    "title": "Rachel names Benjamin",
+    "text": "As Rachel dies, she names her son Ben-oni, while Jacob calls him Benjamin. The two names preserve grief and the father’s chosen name, and the text treats Rachel’s death with solemnity.",
+    "refs": [
+      "Genesis 48:7"
+    ]
+  },
+  "Genesis 35:19": {
+    "title": "Rachel is buried near Ephrath",
+    "text": "Rachel dies and is buried on the way to Ephrath, identified as Bethlehem. Her burial place becomes a remembered landmark in Israel’s story.",
+    "refs": [
+      "1 Samuel 10:2"
+    ]
+  },
+  "Genesis 35:20": {
+    "title": "Rachel’s pillar",
+    "text": "Jacob sets up a pillar over Rachel’s grave, which the narrator says remained known. The memorial preserves her memory; the text does not command worship of the monument.",
+    "refs": [
+      "Genesis 48:7"
+    ]
+  },
+  "Genesis 35:21": {
+    "title": "Israel journeys beyond Migdal-eder",
+    "text": "Israel moves on and pitches his tent beyond Migdal-eder. The narrative continues tracking the family’s movements through the land.",
+    "refs": [
+      "Micah 4:8"
+    ]
+  },
+  "Genesis 35:22": {
+    "title": "Reuben’s sin and Israel’s sons",
+    "text": "The text reports that Reuben lies with Bilhah, his father’s concubine, and Israel hears of it. This serious violation later affects Reuben’s standing among his brothers; the verse records the sin without excusing it.",
+    "refs": [
+      "Genesis 49:3–4"
+    ]
+  },
+  "Genesis 35:23": {
+    "title": "The sons born to Leah",
+    "text": "The text lists Reuben, Simeon, Levi, Judah, Issachar, and Zebulun as Leah’s sons. The list begins the formal record of Jacob’s sons who become ancestors of Israel’s tribes.",
+    "refs": [
+      "Genesis 29:32–35",
+      "Genesis 30:18–20"
+    ]
+  },
+  "Genesis 35:24": {
+    "title": "The sons born to Rachel",
+    "text": "Joseph and Benjamin are named as Rachel’s sons. Their births and family positions are important in the later narratives of Jacob’s household.",
+    "refs": [
+      "Genesis 30:22–24",
+      "Genesis 35:18"
+    ]
+  },
+  "Genesis 35:25": {
+    "title": "The sons born to Bilhah",
+    "text": "Dan and Naphtali are listed as sons of Bilhah, Rachel’s servant. The record includes the children born through the household arrangement described earlier.",
+    "refs": [
+      "Genesis 30:5–8"
+    ]
+  },
+  "Genesis 35:26": {
+    "title": "The sons born to Zilpah",
+    "text": "Gad and Asher are listed as sons of Zilpah, Leah’s servant. Together with the other names, the list records the twelve sons who form the tribal ancestry of Israel.",
+    "refs": [
+      "Genesis 30:10–13"
+    ]
+  },
+  "Genesis 35:27": {
+    "title": "Jacob returns to Isaac",
+    "text": "Jacob comes to Isaac at Mamre, near Hebron, where Abraham and Isaac had sojourned. The family story circles back to Isaac’s household after Jacob’s long absence.",
+    "refs": [
+      "Genesis 13:18",
+      "Genesis 26:6"
+    ]
+  },
+  "Genesis 35:28": {
+    "title": "Isaac’s age",
+    "text": "Isaac’s lifespan is given as one hundred and eighty years. The verse closes a major life span in the patriarchal narrative.",
+    "refs": [
+      "Genesis 25:7"
+    ]
+  },
+  "Genesis 35:29": {
+    "title": "Isaac dies and is buried",
+    "text": "Isaac dies old and full of days, and Esau and Jacob bury him. The brothers act together in their father’s burial, a quiet sign of family duty after their earlier estrangement.",
+    "refs": [
+      "Genesis 33:4"
+    ]
+  },
+  "Genesis 36:1": {
+    "title": "The generations of Esau",
+    "text": "The chapter begins the account of Esau, also called Edom. This genealogy traces the line of Jacob’s brother and the people associated with him.",
+    "refs": [
+      "Genesis 25:30"
+    ]
+  },
+  "Genesis 36:2": {
+    "title": "Esau’s wives and family origins",
+    "text": "The text lists Esau’s wives and their family backgrounds. The names and genealogical details preserve the historical framework of Edom’s ancestry.",
+    "refs": [
+      "Genesis 26:34–35"
+    ]
+  },
+  "Genesis 36:3": {
+    "title": "Bashemath and Ishmael’s family",
+    "text": "Bashemath is identified as Ishmael’s daughter and sister of Nebajoth. The genealogy connects Esau’s household with the wider family of Abraham through Ishmael.",
+    "refs": [
+      "Genesis 25:13"
+    ]
+  },
+  "Genesis 36:4": {
+    "title": "Esau’s sons are born",
+    "text": "The text names Eliphaz and Reuel as sons born to Esau. These sons become important figures in the genealogy of Edom.",
+    "refs": [
+      "Genesis 36:10"
+    ]
+  },
+  "Genesis 36:5": {
+    "title": "More sons of Esau",
+    "text": "Jeush, Jaalam, and Korah are listed as sons of Esau. The list shows the growth of Esau’s household and the branches of his descendants.",
+    "refs": [
+      "Genesis 36:14"
+    ]
+  },
+  "Genesis 36:6": {
+    "title": "Esau moves away from Jacob",
+    "text": "Esau takes his wives, children, servants, livestock, and possessions and moves away from Jacob because their property is too great for them to dwell together. The separation resembles the earlier separation of Abraham and Lot due to their possessions.",
+    "refs": [
+      "Genesis 13:5–12"
+    ]
+  },
+  "Genesis 36:7": {
+    "title": "Their possessions are too great",
+    "text": "The land cannot sustain both brothers’ large households and herds in the same area. The verse explains the practical reason for their separation, not a spiritual ranking between them.",
+    "refs": [
+      "Genesis 13:6"
+    ]
+  },
+  "Genesis 36:8": {
+    "title": "Esau settles in Seir",
+    "text": "Esau, also called Edom, dwells in the hill country of Seir. This establishes the geographic association between Esau and Edom.",
+    "refs": [
+      "Genesis 32:3"
+    ]
+  },
+  "Genesis 36:9": {
+    "title": "Esau’s descendants in Seir",
+    "text": "The genealogy turns to Esau’s descendants in the hill country of Seir. The record connects family lines with the land where they settled.",
+    "refs": [
+      "Genesis 36:8"
+    ]
+  },
+  "Genesis 36:10": {
+    "title": "The sons of Eliphaz and Reuel",
+    "text": "The chapter begins listing the descendants of Esau’s sons. These names establish the family branches that later appear among Edomite clans.",
+    "refs": [
+      "Genesis 36:11–13"
+    ]
+  },
+  "Genesis 36:11": {
+    "title": "The sons of Eliphaz",
+    "text": "Teman, Omar, Zepho, Gatam, and Kenaz are listed as sons of Eliphaz. The names preserve the ancestral lines of the Edomite clans.",
+    "refs": [
+      "Genesis 36:15"
+    ]
+  },
+  "Genesis 36:12": {
+    "title": "Amalek’s ancestry",
+    "text": "Timna, a concubine of Eliphaz, bears Amalek. The verse records Amalek’s place in Esau’s line; later biblical passages describe conflict involving Amalek and Israel.",
+    "refs": [
+      "Exodus 17:8–16"
+    ]
+  },
+  "Genesis 36:13": {
+    "title": "The sons of Reuel",
+    "text": "Nahath, Zerah, Shammah, and Mizzah are listed as sons of Reuel. The genealogy documents the branches of Esau’s descendants.",
+    "refs": [
+      "Genesis 36:17"
+    ]
+  },
+  "Genesis 36:14": {
+    "title": "The sons through Oholibamah",
+    "text": "The verse lists the sons born to Esau through Oholibamah, daughter of Anah. The names continue the genealogy of Esau’s family.",
+    "refs": [
+      "Genesis 36:5"
+    ]
+  },
+  "Genesis 36:15": {
+    "title": "Chiefs among Esau’s descendants",
+    "text": "The text begins listing chiefs from the sons of Eliphaz. The genealogy records social and clan leadership among the Edomites.",
+    "refs": [
+      "Genesis 36:40"
+    ]
+  },
+  "Genesis 36:16": {
+    "title": "More chiefs of Eliphaz’s line",
+    "text": "Korah and other named descendants are included among the chiefs. The names document the clans that formed within Esau’s line.",
+    "refs": [
+      "Genesis 36:11–12"
+    ]
+  },
+  "Genesis 36:17": {
+    "title": "Chiefs of Reuel’s line",
+    "text": "The descendants of Reuel are listed as chiefs. The record shows that the family branches developed into organized clans.",
+    "refs": [
+      "Genesis 36:13"
+    ]
+  },
+  "Genesis 36:18": {
+    "title": "Chiefs from Oholibamah’s sons",
+    "text": "The chiefs descended from Oholibamah’s sons are named. The genealogy records the leadership groups associated with Esau’s household.",
+    "refs": [
+      "Genesis 36:14"
+    ]
+  },
+  "Genesis 36:19": {
+    "title": "Esau is Edom",
+    "text": "The passage summarizes these as the sons of Esau, who is Edom, and their chiefs. The name Edom links the genealogy with the people and territory known by that name.",
+    "refs": [
+      "Genesis 25:30"
+    ]
+  },
+  "Genesis 36:20": {
+    "title": "The sons of Seir the Horite",
+    "text": "The genealogy shifts to the inhabitants of Seir before Esau’s descendants settled there. This distinction helps trace the region’s earlier families and their relationship to Edom.",
+    "refs": [
+      "Genesis 36:8"
+    ]
+  },
+  "Genesis 36:21": {
+    "title": "Horite chiefs",
+    "text": "The verse lists the descendants and chiefs of Seir’s family. The genealogy preserves the earlier inhabitants’ lineages rather than presenting them as sons of Jacob.",
+    "refs": [
+      "Genesis 36:20"
+    ]
+  },
+  "Genesis 36:22": {
+    "title": "Lotan’s family",
+    "text": "The sons of Lotan and the name of his sister are recorded. Such details preserve clan relationships in the regional genealogy.",
+    "refs": [
+      "Genesis 36:29"
+    ]
+  },
+  "Genesis 36:23": {
+    "title": "Shobal’s sons",
+    "text": "The names of Shobal’s sons are listed as part of the Horite genealogy. The passage is primarily a record of ancestry, not a doctrinal argument.",
+    "refs": [
+      "Genesis 36:20"
+    ]
+  },
+  "Genesis 36:24": {
+    "title": "Anah and the hot springs",
+    "text": "The text notes that Anah found the mules or hot springs in the wilderness while feeding his father’s donkeys; the Hebrew term is debated in translation. The verse preserves a traditional detail about Anah’s life.",
+    "refs": [
+      "Genesis 36:20"
+    ]
+  },
+  "Genesis 36:25": {
+    "title": "Anah’s children",
+    "text": "The genealogy names Anah’s daughter and son. The family list continues to map the relationships among Seir’s descendants.",
+    "refs": [
+      "Genesis 36:20"
+    ]
+  },
+  "Genesis 36:26": {
+    "title": "Dishon’s sons",
+    "text": "The sons of Dishon are named. The details establish another branch within the Horite clans.",
+    "refs": [
+      "Genesis 36:21"
+    ]
+  },
+  "Genesis 36:27": {
+    "title": "Ezer’s sons",
+    "text": "The genealogy lists the sons of Ezer. The verse is part of the record of chiefs and families associated with Seir.",
+    "refs": [
+      "Genesis 36:21"
+    ]
+  },
+  "Genesis 36:28": {
+    "title": "Dishan’s sons",
+    "text": "The sons of Dishan are named, preserving the family structure of the Horites. The list contributes to the chapter’s account of the region’s inhabitants.",
+    "refs": [
+      "Genesis 36:20"
+    ]
+  },
+  "Genesis 36:29": {
+    "title": "The Horite chiefs listed",
+    "text": "The chapter names the chiefs of the Horites, organized by their family lines. This genealogy distinguishes the local clans from Esau’s later Edomite descendants.",
+    "refs": [
+      "Genesis 36:20–21"
+    ]
+  },
+  "Genesis 36:30": {
+    "title": "The chiefs by their districts",
+    "text": "The named chiefs are associated with their districts in Seir. The list portrays an organized regional population before the later Edomite kings are introduced.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:31": {
+    "title": "Kings in Edom before Israel’s kings",
+    "text": "The text says these were the kings who reigned in Edom before any king reigned over the children of Israel. This is a historical note contrasting Edom’s kingship with Israel’s later monarchy, not a prediction of a particular king.",
+    "refs": [
+      "Numbers 20:14"
+    ]
+  },
+  "Genesis 36:32": {
+    "title": "Bela reigns in Edom",
+    "text": "Bela son of Beor is named as the first king in the list, with Dinhabah as his city. The record shows Edom’s political organization through kings.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:33": {
+    "title": "Jobab succeeds Bela",
+    "text": "After Bela’s death, Jobab from Bozrah reigns in his place. The genealogy records a succession of rulers without explaining each reign’s events.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:34": {
+    "title": "Husham succeeds Jobab",
+    "text": "After Jobab’s death, Husham from the land of Temani becomes king. The verse continues the sequence of Edomite kings.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:35": {
+    "title": "Hadad’s victory and reign",
+    "text": "Hadad son of Bedad becomes king after defeating Midian in the field of Moab. The verse preserves a military event associated with his reign.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:36": {
+    "title": "Samlah succeeds Hadad",
+    "text": "After Hadad’s death, Samlah from Masrekah becomes king. The list continues without offering a detailed narrative of each ruler.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:37": {
+    "title": "Shaul succeeds Samlah",
+    "text": "Shaul from Rehoboth by the river becomes king after Samlah. The precise location of Rehoboth is not certain from this verse alone.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:38": {
+    "title": "Baal-hanan succeeds Shaul",
+    "text": "Baal-hanan son of Achbor becomes king after Shaul’s death. The verse preserves the succession record of Edom’s rulers.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:39": {
+    "title": "Hadad and his city",
+    "text": "The genealogy names Hadad and his wife Mehetabel, along with the city Pau. The details preserve family connections associated with the last king in this list.",
+    "refs": [
+      "Genesis 36:31"
+    ]
+  },
+  "Genesis 36:40": {
+    "title": "Chiefs named by their families",
+    "text": "The text begins a list of Edomite chiefs by their names and family groups. The list differs from the earlier sequence of kings and traces clan leadership.",
+    "refs": [
+      "Genesis 36:15–19"
+    ]
+  },
+  "Genesis 36:41": {
+    "title": "More chiefs of Edom",
+    "text": "The names of additional chiefs are listed. Their inclusion shows the breadth of the clan organization associated with Esau’s descendants.",
+    "refs": [
+      "Genesis 36:40"
+    ]
+  },
+  "Genesis 36:42": {
+    "title": "Further chiefs listed",
+    "text": "The genealogy continues naming chiefs of Edom. These lists preserve the people’s remembered structure and ancestry.",
+    "refs": [
+      "Genesis 36:40"
+    ]
+  },
+  "Genesis 36:43": {
+    "title": "The chiefs and their settlements",
+    "text": "The chapter concludes with chiefs identified by their settlements in the land they possessed. The genealogy ends by identifying Esau as the father of Edom’s people.",
+    "refs": [
+      "Genesis 36:8"
+    ]
   }
 };
