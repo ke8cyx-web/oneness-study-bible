@@ -20,3 +20,8 @@ dialog{border:1px solid var(--gold);border-radius:16px;width:min(560px,calc(100%
 #installBtn:not(.hidden):hover{background:#c6a24a!important;color:#123c2c!important}
 .plan-progress{height:12px;background:#e8e0cc;border-radius:99px;overflow:hidden;border:1px solid #d6c99f}.plan-progress div{height:100%;width:0;background:linear-gradient(90deg,#123c2c,#c6a24a);transition:width .2s}.plan-list{display:grid;gap:9px;margin:16px 0}.plan-day{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;background:#f8f3e5;border:1px solid #e1d5b7;border-left:4px solid #c6a24a;border-radius:10px;padding:12px}.plan-day input{width:20px;height:20px;margin:3px 0;accent-color:#123c2c}.plan-day strong{color:#123c2c;display:block}.plan-day span{color:#647067;font-size:.9rem}.plan-day.done{opacity:.72}.plan-day.done strong{text-decoration:line-through}
 @media(max-width:650px){.topbar{flex-wrap:wrap}.topbar #installBtn:not(.hidden){display:inline-flex!important;margin-left:58px}.tabs{gap:2px}.tab{padding:10px 12px;font-size:.88rem}}
+
+.study-divider{border:0;border-top:1px solid var(--line);margin:28px 0}
+.book-guide-content{margin-top:18px;padding:18px;background:#f8f3e5;border:1px solid #e1d5b7;border-left:4px solid var(--gold);border-radius:10px}
+.book-guide-content h3:first-child{margin-top:0}
+.book-guide-content strong{color:var(--green)}
