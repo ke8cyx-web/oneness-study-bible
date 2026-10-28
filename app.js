@@ -140,7 +140,7 @@ function renderChapter(){
  verses.forEach((text,i)=>{
   const v=i+1, ref=refOf(b.name,currentChapter,v);
   const row=document.createElement("div");row.className="verse"+(highlights[ref]?" verse-highlighted":"");
-  row.innerHTML=`<span class="verse-number">${v}</span><div class="verse-text">${esc(text)}</div><div class="verse-actions"><button data-action="bookmark" data-ref="${esc(ref)}" data-text="${esc(text)}">Save</button><button data-action="note" data-ref="${esc(ref)}" data-text="${esc(text)}">Note</button><button data-action="highlight" data-ref="${esc(ref)}" title="Highlight this verse">Mark</button><button data-action="copy" data-ref="${esc(ref)}" data-text="${esc(text)}">Copy</button></div>`;
+  row.innerHTML=`<span class="verse-number">${v}</span><div class="verse-text">${esc(text)}</div><div class="verse-actions"><button data-action="study" data-ref="${esc(ref)}">Study</button><button data-action="bookmark" data-ref="${esc(ref)}" data-text="${esc(text)}">Save</button><button data-action="note" data-ref="${esc(ref)}" data-text="${esc(text)}">Note</button><button data-action="highlight" data-ref="${esc(ref)}" title="Highlight this verse">Mark</button><button data-action="copy" data-ref="${esc(ref)}" data-text="${esc(text)}">Copy</button></div>`;
   els.verses.append(row);
  });
  els.prev.disabled=currentBookIndex===0&&currentChapter===1;
@@ -153,6 +153,14 @@ function moveChapter(delta){
  if(ch<1){bi--;if(bi<0)return;ch=bible[bi].chapters.length}
  else if(ch>bible[bi].chapters.length){bi++;if(bi>=bible.length)return;ch=1}
  els.book.value=bi;populateChapters();els.chapter.value=ch;renderChapter();window.scrollTo({top:0,behavior:"smooth"});
+}
+function showVerseCommentary(ref){
+ const item=window.verseCommentary?.[ref];
+ const existing=document.getElementById("commentaryDialog");
+ if(!item){if(existing){existing.showModal();document.getElementById("commentaryDialogTitle").textContent=ref+" — Commentary in progress";document.getElementById("commentaryDialogBody").innerHTML=`<p>This verse is part of the complete KJV reader, but its individual Oneness commentary has not yet been written and reviewed.</p><p>For now, read the verse in its chapter context and compare it with the related passages in the Study Notes section. This message is not a substitute for a completed verse-specific explanation.</p>`;}return;}
+ document.getElementById("commentaryDialogTitle").textContent=ref+" — "+item.title;
+ document.getElementById("commentaryDialogBody").innerHTML=`<p>${esc(item.text)}</p><h3>Related Scriptures</h3><div>${item.refs.map(r=>`<button class="ref-chip" data-commentary-ref="${esc(r)}">${esc(r)}</button>`).join("")}</div><p class="muted">This is original Oneness-oriented commentary, not the wording of the KJV. Read each cited passage in context.</p>`;
+ existing.showModal();
 }
 function getBookmarks(){try{return JSON.parse(localStorage.getItem("ogof-bookmarks")||"[]")}catch{return[]}}
 function saveBookmarks(items){localStorage.setItem("ogof-bookmarks",JSON.stringify(items));renderBookmarks()}
@@ -301,6 +309,7 @@ els.topic.addEventListener("change",renderTopic);
 els.topicContent.addEventListener("click",e=>{const b=e.target.closest("[data-topicref]");if(b)openRef(b.dataset.topicref)});
 els.verses.addEventListener("click",e=>{
  const b=e.target.closest("button[data-action]");if(!b)return;
+ if(b.dataset.action==="study")showVerseCommentary(b.dataset.ref);
  if(b.dataset.action==="bookmark")addBookmark(b.dataset.ref,b.dataset.text);
  if(b.dataset.action==="note")showNote(b.dataset.ref,b.dataset.text);
  if(b.dataset.action==="highlight")toggleHighlight(b.dataset.ref);
@@ -309,6 +318,9 @@ els.verses.addEventListener("click",e=>{
 $("readChapterBtn").addEventListener("click",()=>{if(!bible)return;if(!("speechSynthesis" in window)){setStatus("Read aloud is not supported by this browser.",true);return}window.speechSynthesis.cancel();const text=[...els.verses.querySelectorAll(".verse")].map(row=>`${els.title.textContent}, verse ${row.querySelector(".verse-number").textContent}. ${row.querySelector(".verse-text").textContent}`).join(" ");const utterance=new SpeechSynthesisUtterance(text);utterance.rate=0.9;utterance.onend=()=>setStatus("Read aloud finished");utterance.onerror=()=>setStatus("Read aloud stopped or unavailable",true);window.speechSynthesis.speak(utterance);setStatus("Reading chapter aloud…");});
 $("stopReadBtn").addEventListener("click",()=>{if("speechSynthesis" in window)window.speechSynthesis.cancel();setStatus("Read aloud stopped");});
 $("printChapterBtn").addEventListener("click",()=>window.print());
+$("commentaryDialogBody").addEventListener("click",e=>{const b=e.target.closest("[data-commentary-ref]");if(b){document.getElementById("commentaryDialog").close();openRef(b.dataset.commentaryRef);}});
+$("closeCommentaryBtn").addEventListener("click",()=>document.getElementById("commentaryDialog").close());
+$("closeCommentaryBtnBottom").addEventListener("click",()=>document.getElementById("commentaryDialog").close());
 $("noteForm").addEventListener("submit",e=>{if(e.submitter?.id==="saveNoteBtn"){e.preventDefault();saveNote()}});
 els.searchForm.addEventListener("submit",e=>{
  e.preventDefault();if(!bible){els.searchStatus.textContent="Load the Bible online once before searching.";return}
