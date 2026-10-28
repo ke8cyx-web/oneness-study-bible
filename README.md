@@ -21,7 +21,7 @@ An installable Progressive Web App (PWA) using a green-and-gold theme, built for
 
 ## Current commentary progress
 
-Original verse-by-verse commentary is being added incrementally. The New Testament commentary file now includes Matthew 1–28, Mark 1–16, and Luke 1–2, with individual verse notes for these chapters. This is ongoing work; the verse-by-verse commentary for all 66 books is not yet complete. The existing verse-commentary.js contains early Genesis entries. exodus-commentary.js now contains entries for Exodus 11 and Exodus 12:1–51, plus Exodus 13:1–22, Exodus 14:1–31, Exodus 15:1–27, and Exodus 16:1–36. The verse-by-verse commentary for all 66 books is **not yet complete**; do not represent the full commentary as finished until every verse has been written and checked.
+Original verse-by-verse commentary is being added incrementally. The New Testament commentary file now includes Matthew 1–28, Mark 1–16, and Luke 1–5, with individual verse notes for these chapters. This is ongoing work; the verse-by-verse commentary for all 66 books is not yet complete. The existing verse-commentary.js contains early Genesis entries. exodus-commentary.js now contains entries for Exodus 11 and Exodus 12:1–51, plus Exodus 13:1–22, Exodus 14:1–31, Exodus 15:1–27, and Exodus 16:1–36. The verse-by-verse commentary for all 66 books is **not yet complete**; do not represent the full commentary as finished until every verse has been written and checked.
 
 The Bible text and commentary are kept separate so readers can compare each teaching note with Scripture in context. Commentary is a study aid and should be checked against the cited passages.
 
