@@ -6846,5 +6846,328 @@ window.verseCommentary = {
       "Ruth 4:18–22",
       "Matthew 1:3"
     ]
+  },
+  "Genesis 39:1": {
+    "title": "Joseph is brought to Egypt",
+    "text": "Joseph is taken to Egypt and sold to Potiphar, an officer of Pharaoh. The account follows Joseph from betrayal into slavery, where God’s presence will sustain him.",
+    "refs": [
+      "Genesis 37:36"
+    ]
+  },
+  "Genesis 39:2": {
+    "title": "The LORD is with Joseph",
+    "text": "The LORD is with Joseph, and he prospers in Potiphar’s house. His circumstances are unjust, but the text emphasizes that God has not abandoned him.",
+    "refs": [
+      "Genesis 28:15"
+    ]
+  },
+  "Genesis 39:3": {
+    "title": "Potiphar sees God’s favor",
+    "text": "Potiphar observes that the LORD is with Joseph and makes his work prosper. Joseph’s conduct makes God’s help visible to someone outside his family.",
+    "refs": [
+      "Genesis 30:27"
+    ]
+  },
+  "Genesis 39:4": {
+    "title": "Joseph receives responsibility",
+    "text": "Joseph finds favor with Potiphar, who makes him overseer of the house and entrusts his possessions to him. Joseph serves faithfully even in an unjust situation.",
+    "refs": [
+      "Luke 16:10"
+    ]
+  },
+  "Genesis 39:5": {
+    "title": "God blesses Potiphar’s household",
+    "text": "The LORD blesses the Egyptian’s house because of Joseph, including his possessions in the house and field. This echoes the promise that blessing would reach others through Abraham’s family.",
+    "refs": [
+      "Genesis 12:3"
+    ]
+  },
+  "Genesis 39:6": {
+    "title": "Joseph’s trusted stewardship",
+    "text": "Potiphar leaves his affairs in Joseph’s care and concerns himself only with his food. Joseph is described as handsome, a detail that introduces the temptation and conflict that follow.",
+    "refs": [
+      "Genesis 39:7"
+    ]
+  },
+  "Genesis 39:7": {
+    "title": "Potiphar’s wife tempts Joseph",
+    "text": "Potiphar’s wife asks Joseph to lie with her. The text presents the request as temptation and begins a test of Joseph’s integrity.",
+    "refs": [
+      "Genesis 39:8–9"
+    ]
+  },
+  "Genesis 39:8": {
+    "title": "Joseph refuses",
+    "text": "Joseph refuses and explains that Potiphar has trusted him with everything in the house. He recognizes the responsibility he has been given and does not exploit his master’s trust.",
+    "refs": [
+      "Proverbs 6:32"
+    ]
+  },
+  "Genesis 39:9": {
+    "title": "Joseph names the sin against God",
+    "text": "Joseph says no one in the house has greater authority than he does except Potiphar, and he asks how he could do this great wickedness and sin against God. His refusal is grounded in faithfulness to God, not merely fear of punishment.",
+    "refs": [
+      "Psalm 51:4"
+    ]
+  },
+  "Genesis 39:10": {
+    "title": "Joseph resists repeated temptation",
+    "text": "Potiphar’s wife speaks to Joseph day after day, but he does not listen or lie with her. The verse shows that resisting temptation can require a continued, deliberate refusal.",
+    "refs": [
+      "Proverbs 1:10"
+    ]
+  },
+  "Genesis 39:11": {
+    "title": "Joseph enters the house to work",
+    "text": "One day Joseph enters the house to do his work when no other men are inside. The circumstances create a moment of vulnerability that he did not seek.",
+    "refs": [
+      "Genesis 39:12"
+    ]
+  },
+  "Genesis 39:12": {
+    "title": "Joseph flees the temptation",
+    "text": "Potiphar’s wife grabs Joseph’s garment and again urges him to lie with her, but he flees and leaves the garment behind. Joseph chooses escape rather than remaining in a dangerous situation.",
+    "refs": [
+      "2 Timothy 2:22"
+    ]
+  },
+  "Genesis 39:13": {
+    "title": "The garment becomes evidence",
+    "text": "When the woman sees Joseph has fled and left his garment, she begins to shape a false accusation. The garment, previously a sign of Joseph’s identity in his brothers’ deception, again becomes part of a misleading story.",
+    "refs": [
+      "Genesis 37:31–33"
+    ]
+  },
+  "Genesis 39:14": {
+    "title": "Potiphar’s wife accuses Joseph",
+    "text": "She calls the household servants and claims Joseph was brought in to mock them. Her accusation twists the truth and presents Joseph as the aggressor.",
+    "refs": [
+      "Genesis 39:17–18"
+    ]
+  },
+  "Genesis 39:15": {
+    "title": "She repeats the false account",
+    "text": "The woman says Joseph left his garment and fled when she cried out. She uses the physical evidence to support a story that reverses what actually happened.",
+    "refs": [
+      "Genesis 39:12"
+    ]
+  },
+  "Genesis 39:16": {
+    "title": "The garment is kept",
+    "text": "She lays Joseph’s garment beside her until Potiphar comes home. The retained garment becomes a prop in the accusation.",
+    "refs": [
+      "Genesis 39:13"
+    ]
+  },
+  "Genesis 39:17": {
+    "title": "The accusation is made to Potiphar",
+    "text": "Potiphar’s wife repeats her claim that Joseph came to mock the household. Her version omits her own repeated advances and Joseph’s refusal.",
+    "refs": [
+      "Genesis 39:7–12"
+    ]
+  },
+  "Genesis 39:18": {
+    "title": "A false charge repeated",
+    "text": "She says she cried out and Joseph left his garment. The repeated account does not make it true; the reader has already been told what really happened.",
+    "refs": [
+      "Genesis 39:12"
+    ]
+  },
+  "Genesis 39:19": {
+    "title": "Potiphar becomes angry",
+    "text": "Potiphar hears his wife’s account and becomes angry. The text does not specify the full extent of his belief or his private reasoning, so it is best not to claim more than it says.",
+    "refs": [
+      "Genesis 39:20"
+    ]
+  },
+  "Genesis 39:20": {
+    "title": "Joseph is imprisoned",
+    "text": "Potiphar puts Joseph in the prison where the king’s prisoners are kept. Joseph suffers for doing what was right, but God’s presence continues through the next stage of his life.",
+    "refs": [
+      "Psalm 105:17–19"
+    ]
+  },
+  "Genesis 39:21": {
+    "title": "The LORD shows mercy in prison",
+    "text": "The LORD is with Joseph, shows him mercy, and gives him favor with the keeper of the prison. Joseph’s circumstances change, but God’s faithful presence remains.",
+    "refs": [
+      "Genesis 39:2–3"
+    ]
+  },
+  "Genesis 39:22": {
+    "title": "Joseph is entrusted with prisoners",
+    "text": "The prison keeper places the prisoners under Joseph’s care and allows him to manage their affairs. Joseph continues to serve responsibly even while wrongfully confined.",
+    "refs": [
+      "Genesis 39:4"
+    ]
+  },
+  "Genesis 39:23": {
+    "title": "God makes Joseph’s work prosper",
+    "text": "The keeper does not supervise everything Joseph handles because the LORD is with him and makes his work prosper. The repeated statement highlights God’s presence through slavery and imprisonment.",
+    "refs": [
+      "Genesis 39:2"
+    ]
+  },
+  "Genesis 40:1": {
+    "title": "Two royal servants offend Pharaoh",
+    "text": "The chief butler and chief baker offend Pharaoh, king of Egypt. Their story brings Joseph into contact with people who will later connect him to Pharaoh.",
+    "refs": [
+      "Genesis 41:9–14"
+    ]
+  },
+  "Genesis 40:2": {
+    "title": "Pharaoh becomes angry",
+    "text": "Pharaoh is angry with his two officers. The verse introduces the royal response that leads to their imprisonment.",
+    "refs": [
+      "Genesis 40:1"
+    ]
+  },
+  "Genesis 40:3": {
+    "title": "The officers are confined",
+    "text": "Pharaoh places the officers in the prison where Joseph is held, under the captain of the guard. Their arrival creates the setting for Joseph to interpret their dreams.",
+    "refs": [
+      "Genesis 39:20"
+    ]
+  },
+  "Genesis 40:4": {
+    "title": "Joseph serves the officers",
+    "text": "The captain of the guard assigns Joseph to attend the two officers, and they remain in custody for a time. Joseph’s faithful service continues even in prison.",
+    "refs": [
+      "Genesis 39:22–23"
+    ]
+  },
+  "Genesis 40:5": {
+    "title": "Both men dream",
+    "text": "The butler and baker each dream on the same night, each with a distinct meaning. The dreams are central to the narrative, but their meanings will be revealed by God through Joseph.",
+    "refs": [
+      "Genesis 40:8"
+    ]
+  },
+  "Genesis 40:6": {
+    "title": "Joseph sees their distress",
+    "text": "Joseph comes to the officers in the morning and sees that they are troubled. He pays attention to their emotional state rather than ignoring their distress.",
+    "refs": [
+      "Genesis 40:7"
+    ]
+  },
+  "Genesis 40:7": {
+    "title": "Joseph asks what is wrong",
+    "text": "Joseph asks Pharaoh’s officers why they look so sad. Even while imprisoned, he shows concern for others and initiates a conversation.",
+    "refs": [
+      "Philippians 2:4"
+    ]
+  },
+  "Genesis 40:8": {
+    "title": "Interpretations belong to God",
+    "text": "The men say they have had dreams with no interpreter. Joseph answers that interpretations belong to God and asks them to tell him the dreams. This is an explicit confession that the insight he offers is dependent on God, not personal magic.",
+    "refs": [
+      "Daniel 2:27–28"
+    ]
+  },
+  "Genesis 40:9": {
+    "title": "The butler tells his dream",
+    "text": "The chief butler describes a vine before him with three branches. The dream’s imagery begins a sequence that Joseph interprets in the following verses.",
+    "refs": [
+      "Genesis 40:10–13"
+    ]
+  },
+  "Genesis 40:10": {
+    "title": "The vine and grapes",
+    "text": "The butler sees the vine bud, blossom, and produce ripe grapes. The sequence of rapid growth forms the basis of Joseph’s interpretation of a quick restoration.",
+    "refs": [
+      "Genesis 40:12–13"
+    ]
+  },
+  "Genesis 40:11": {
+    "title": "The cup in Pharaoh’s hand",
+    "text": "The butler says he took the grapes, pressed them into Pharaoh’s cup, and placed the cup in Pharaoh’s hand. The dream imagery reflects the butler’s royal service.",
+    "refs": [
+      "Genesis 40:13"
+    ]
+  },
+  "Genesis 40:12": {
+    "title": "Three branches mean three days",
+    "text": "Joseph interprets the three branches as three days. He presents the meaning confidently, as a message he understands through God’s gift.",
+    "refs": [
+      "Genesis 40:8"
+    ]
+  },
+  "Genesis 40:13": {
+    "title": "The butler will be restored",
+    "text": "Joseph says that within three days Pharaoh will restore the butler to his office, and he will again put the cup into Pharaoh’s hand. The interpretation predicts a return to the role depicted in the dream.",
+    "refs": [
+      "Genesis 40:20–21"
+    ]
+  },
+  "Genesis 40:14": {
+    "title": "Joseph asks to be remembered",
+    "text": "Joseph asks the butler to remember him, show kindness, and mention him to Pharaoh so he can be released. Joseph’s request shows that faith in God does not prevent him from seeking practical help.",
+    "refs": [
+      "Genesis 40:23"
+    ]
+  },
+  "Genesis 40:15": {
+    "title": "Joseph explains his innocence",
+    "text": "Joseph says he was stolen from the land of the Hebrews and has done nothing deserving prison in Egypt. His words describe his suffering and his claim that his imprisonment is unjust.",
+    "refs": [
+      "Genesis 37:28",
+      "Genesis 39:20"
+    ]
+  },
+  "Genesis 40:16": {
+    "title": "The baker hears the interpretation",
+    "text": "The chief baker sees that Joseph’s interpretation of the butler’s dream is favorable and tells his own dream. He hopes for a similar outcome, but the dreams will have different meanings.",
+    "refs": [
+      "Genesis 40:18–19"
+    ]
+  },
+  "Genesis 40:17": {
+    "title": "Baskets of baked food",
+    "text": "The baker describes three baskets of white bread on his head, with food for Pharaoh in the top basket, which birds eat. The image sets up a contrasting interpretation to the butler’s dream.",
+    "refs": [
+      "Genesis 40:18–19"
+    ]
+  },
+  "Genesis 40:18": {
+    "title": "Three baskets mean three days",
+    "text": "Joseph says the three baskets also represent three days. Similar imagery does not mean the outcomes are identical; Joseph proceeds to give a different interpretation.",
+    "refs": [
+      "Genesis 40:19"
+    ]
+  },
+  "Genesis 40:19": {
+    "title": "The baker will be executed",
+    "text": "Joseph says that within three days Pharaoh will lift the baker’s head from him and hang him on a tree, and birds will eat his flesh. The message is severe, but Joseph reports the interpretation rather than changing it to please the listener.",
+    "refs": [
+      "Genesis 40:20–22"
+    ]
+  },
+  "Genesis 40:20": {
+    "title": "Pharaoh’s birthday",
+    "text": "On Pharaoh’s birthday, he makes a feast and brings the butler and baker out of prison. The event unfolds exactly on the time frame Joseph described.",
+    "refs": [
+      "Genesis 40:13, 19"
+    ]
+  },
+  "Genesis 40:21": {
+    "title": "The butler is restored",
+    "text": "Pharaoh restores the chief butler to his former position, and he again gives Pharaoh the cup. The first interpretation is fulfilled.",
+    "refs": [
+      "Genesis 40:13"
+    ]
+  },
+  "Genesis 40:22": {
+    "title": "The baker is executed",
+    "text": "Pharaoh hangs the chief baker, as Joseph had interpreted. The contrasting outcomes confirm the distinct meanings of the two dreams within the narrative.",
+    "refs": [
+      "Genesis 40:19"
+    ]
+  },
+  "Genesis 40:23": {
+    "title": "The butler forgets Joseph",
+    "text": "The chief butler does not remember Joseph but forgets him. Joseph remains in prison longer, yet the delay sets the stage for his eventual appearance before Pharaoh.",
+    "refs": [
+      "Genesis 41:9–14"
+    ]
   }
 };
