@@ -328,13 +328,13 @@ els.bookmarks.addEventListener("click",e=>{
  const edit=e.target.closest("[data-editnote]");if(edit){showNote(edit.dataset.editnote,"");return}
 });
 $("exportBookmarks").addEventListener("click",()=>{
- const data={bookmarks:getBookmarks(),notes:getNotes(),exported:new Date().toISOString()};
+ const data={bookmarks:getBookmarks(),notes:getNotes(),highlights:getHighlights(),exported:new Date().toISOString()};
  const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),url=URL.createObjectURL(blob);
  const a=document.createElement("a");a.href=url;a.download="oneness-bible-bookmarks.json";a.click();URL.revokeObjectURL(url);
 });
 $("importBookmarks").addEventListener("change",async e=>{
  const f=e.target.files[0];if(!f)return;
- try{const data=JSON.parse(await f.text());if(Array.isArray(data.bookmarks))saveBookmarks(data.bookmarks);if(data.notes&&typeof data.notes==="object")localStorage.setItem("ogof-notes",JSON.stringify(data.notes));renderBookmarks();alert("Bookmarks and notes imported.")}catch{alert("That file could not be imported.")}e.target.value="";
+ try{const data=JSON.parse(await f.text());if(Array.isArray(data.bookmarks))saveBookmarks(data.bookmarks);if(data.notes&&typeof data.notes==="object")localStorage.setItem("ogof-notes",JSON.stringify(data.notes));if(data.highlights&&typeof data.highlights==="object")localStorage.setItem("ogof-highlights",JSON.stringify(data.highlights));renderBookmarks();renderChapter();alert("Bookmarks, notes, and verse marks imported.")}catch{alert("That file could not be imported.")}e.target.value="";
 });
 window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();installPrompt=e;$("installBtn").classList.remove("hidden")});
 $("installBtn").addEventListener("click",async()=>{if(!installPrompt)return;installPrompt.prompt();await installPrompt.userChoice;installPrompt=null;$("installBtn").classList.add("hidden")});
