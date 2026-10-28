@@ -12699,5 +12699,471 @@ window.verseCommentary = {
       "Psalm 106:12",
       "Hebrews 11:29"
     ]
+  },
+  "Exodus 15:1": {
+    "title": "Moses and Israel sing to the LORD",
+    "text": "Moses and Israel sing after the LORD has delivered them from Pharaoh’s army. The song gives the credit for victory to God, not to Israel’s strength, and begins a public testimony of His saving power.",
+    "refs": [
+      "Exodus 14:30–31",
+      "Psalm 106:12"
+    ]
+  },
+  "Exodus 15:2": {
+    "title": "The LORD is strength and salvation",
+    "text": "Israel declares that the LORD is their strength, song, and salvation, and that they will prepare Him a habitation. God is praised as the one who personally delivered them; the verse’s language later appears in other songs of salvation.",
+    "refs": [
+      "Psalm 118:14",
+      "Isaiah 12:2"
+    ]
+  },
+  "Exodus 15:3": {
+    "title": "The LORD is a man of war",
+    "text": "The song describes the LORD as a warrior who defeats the army that pursued His people. The image is poetic language for God’s victory in this specific judgment, not a command for believers to imitate violence in God’s name.",
+    "refs": [
+      "Deuteronomy 1:30",
+      "Psalm 24:8"
+    ]
+  },
+  "Exodus 15:4": {
+    "title": "Pharaoh’s chariots cast into the sea",
+    "text": "The song recalls Pharaoh’s chariots and army being thrown into the sea, with his captains drowned. It interprets the crossing as God’s decisive defeat of the power that enslaved Israel.",
+    "refs": [
+      "Exodus 14:26–28"
+    ]
+  },
+  "Exodus 15:5": {
+    "title": "The depths cover the army",
+    "text": "The Egyptians sink like a stone into the depths. The imagery celebrates the finality of the deliverance and the collapse of Pharaoh’s pursuit.",
+    "refs": [
+      "Exodus 14:28"
+    ]
+  },
+  "Exodus 15:6": {
+    "title": "God’s right hand is glorious",
+    "text": "The song praises the LORD’s right hand as glorious in power and able to shatter the enemy. “Right hand” is a biblical expression of strength and action; it does not require imagining God as a physical being limited to a human form.",
+    "refs": [
+      "Psalm 118:15–16",
+      "Isaiah 41:10"
+    ]
+  },
+  "Exodus 15:7": {
+    "title": "God overthrows His adversaries",
+    "text": "The LORD’s greatness overthrows those who rise against Him, and His anger consumes them like stubble. The poetry celebrates God’s judgment of the army that pursued Israel after repeated warnings.",
+    "refs": [
+      "Exodus 14:4",
+      "Psalm 2:1–5"
+    ]
+  },
+  "Exodus 15:8": {
+    "title": "The waters stand like a heap",
+    "text": "The song describes the waters gathering and standing as the depths congeal in the heart of the sea. This poetic retelling magnifies the miracle described in the narrative of the crossing.",
+    "refs": [
+      "Exodus 14:21–22",
+      "Psalm 78:13"
+    ]
+  },
+  "Exodus 15:9": {
+    "title": "The enemy’s boast fails",
+    "text": "The enemy had planned to pursue, overtake, divide the spoil, and destroy, but those intentions were defeated. The verse contrasts human arrogance with God’s power to rescue His people.",
+    "refs": [
+      "Exodus 14:5–9"
+    ]
+  },
+  "Exodus 15:10": {
+    "title": "The sea overwhelms the enemy",
+    "text": "The LORD blows with His wind and the sea covers the Egyptians, who sink like lead in mighty waters. The song attributes the outcome to God’s command and power.",
+    "refs": [
+      "Exodus 14:27–28"
+    ]
+  },
+  "Exodus 15:11": {
+    "title": "None is like the LORD",
+    "text": "The song asks who is like the LORD among the gods, majestic in holiness and doing wonders. The question is rhetorical: no rival power compares with Israel’s God. This supports the Bible’s testimony to the uniqueness of the one true God.",
+    "refs": [
+      "Deuteronomy 3:24",
+      "Psalm 86:8–10",
+      "Isaiah 46:9"
+    ]
+  },
+  "Exodus 15:12": {
+    "title": "The earth swallows the enemy",
+    "text": "The LORD stretches out His right hand and the earth swallows the Egyptians. The song poetically describes the total defeat of the pursuing army and continues to credit God as the deliverer.",
+    "refs": [
+      "Exodus 14:26–28"
+    ]
+  },
+  "Exodus 15:13": {
+    "title": "God leads the redeemed",
+    "text": "The LORD in mercy leads the people He has redeemed and guides them toward His holy habitation. Redemption here means rescue from bondage, and the journey continues toward worship in God’s presence.",
+    "refs": [
+      "Exodus 6:6–8",
+      "Psalm 77:15"
+    ]
+  },
+  "Exodus 15:14": {
+    "title": "The nations hear and tremble",
+    "text": "The peoples hear of the exodus and tremble; the account presents God’s deliverance as a witness beyond Israel. The nations will learn that the LORD is not merely a local deity but the God whose acts affect kingdoms.",
+    "refs": [
+      "Joshua 2:9–11",
+      "Joshua 5:1"
+    ]
+  },
+  "Exodus 15:15": {
+    "title": "Canaan’s leaders are afraid",
+    "text": "The chiefs of Edom and the mighty men of Moab tremble, and Canaan’s inhabitants melt away. The song anticipates the fear that God’s acts will bring upon the peoples along Israel’s route.",
+    "refs": [
+      "Numbers 22:3",
+      "Deuteronomy 2:25"
+    ]
+  },
+  "Exodus 15:16": {
+    "title": "Fear until Israel passes through",
+    "text": "Terror and dread fall on Israel’s enemies until God’s people pass over. The song asks the LORD to lead the people He has purchased, portraying their safety as dependent on His power.",
+    "refs": [
+      "Deuteronomy 2:25",
+      "Joshua 2:9–11"
+    ]
+  },
+  "Exodus 15:17": {
+    "title": "God plants His people on His mountain",
+    "text": "The song looks ahead to God bringing Israel into the place He has prepared, the sanctuary established by His hands. The verse anticipates the land and worship that lie ahead; it is a poetic hope rather than a claim that Israel has already reached the destination.",
+    "refs": [
+      "Deuteronomy 12:5",
+      "Psalm 78:54"
+    ]
+  },
+  "Exodus 15:18": {
+    "title": "The LORD reigns forever",
+    "text": "The song declares that the LORD shall reign for ever and ever. Pharaoh’s empire has fallen, but God’s reign is not temporary or dependent on earthly political power.",
+    "refs": [
+      "Psalm 10:16",
+      "Revelation 11:15"
+    ]
+  },
+  "Exodus 15:19": {
+    "title": "The song retells the crossing",
+    "text": "The verse summarizes how Pharaoh’s horses entered the sea and the LORD brought the waters back while Israel walked on dry ground. The summary anchors the song in the deliverance just witnessed.",
+    "refs": [
+      "Exodus 14:22–29"
+    ]
+  },
+  "Exodus 15:20": {
+    "title": "Miriam leads the women",
+    "text": "Miriam, identified as a prophetess and Aaron’s sister, takes a timbrel, and the women follow her with timbrels and dances. The passage shows women participating publicly in celebrating God’s deliverance.",
+    "refs": [
+      "Numbers 12:1–2",
+      "Micah 6:4"
+    ]
+  },
+  "Exodus 15:21": {
+    "title": "Miriam repeats the victory song",
+    "text": "Miriam answers the women with a refrain praising the LORD for triumphing gloriously over horse and rider. The refrain echoes the central theme of Moses’ song: God alone won the victory.",
+    "refs": [
+      "Exodus 15:1"
+    ]
+  },
+  "Exodus 15:22": {
+    "title": "Three days without water",
+    "text": "Moses leads Israel from the Red Sea into the wilderness of Shur, where they travel three days without finding water. Deliverance from Egypt is followed by wilderness testing, where the people must learn to trust God for daily needs.",
+    "refs": [
+      "Deuteronomy 8:2–3"
+    ]
+  },
+  "Exodus 15:23": {
+    "title": "The waters of Marah are bitter",
+    "text": "At Marah the people cannot drink the water because it is bitter, and the place receives its name from that condition. The crisis tests whether Israel will bring its need to God or turn to complaint.",
+    "refs": [
+      "Numbers 33:8"
+    ]
+  },
+  "Exodus 15:24": {
+    "title": "The people murmur against Moses",
+    "text": "The people complain to Moses, asking what they will drink. Moses is the immediate leader they address, but the larger story will show that their need must be brought before the LORD.",
+    "refs": [
+      "Exodus 16:2–3"
+    ]
+  },
+  "Exodus 15:25": {
+    "title": "God makes the water sweet",
+    "text": "Moses cries to the LORD, who shows him a tree or piece of wood; when Moses casts it into the waters, they become sweet. The text presents the change as God’s answer, not as a magical property of the wood. God also gives Israel an ordinance and a test.",
+    "refs": [
+      "Exodus 17:1–7"
+    ]
+  },
+  "Exodus 15:26": {
+    "title": "Listen and obey the LORD",
+    "text": "God calls Israel to diligently heed His voice, do what is right, and keep His commandments, promising protection from the diseases brought upon Egypt. The promise is given within Israel’s covenant setting and should be read as part of that relationship, not as a guarantee that every faithful person in every age will never become ill.",
+    "refs": [
+      "Deuteronomy 7:12–15",
+      "Psalm 103:2–3"
+    ]
+  },
+  "Exodus 15:27": {
+    "title": "Elim’s springs and palm trees",
+    "text": "Israel comes to Elim, where there are twelve wells of water and seventy palm trees, and camps by the waters. After the bitter waters, this place provides rest and abundance, showing that the journey includes provision as well as testing.",
+    "refs": [
+      "Numbers 33:9"
+    ]
+  },
+  "Exodus 16:1": {
+    "title": "Israel enters the wilderness of Sin",
+    "text": "Israel travels from Elim to the wilderness of Sin between Elim and Sinai. The date is recorded, and the next test will concern food as the people continue toward the mountain where God will establish His covenant with them.",
+    "refs": [
+      "Exodus 19:1–2"
+    ]
+  },
+  "Exodus 16:2": {
+    "title": "The congregation murmurs",
+    "text": "The whole congregation murmurs against Moses and Aaron in the wilderness. Their complaint is directed at the leaders, but it reflects a struggle to trust God’s provision after leaving Egypt.",
+    "refs": [
+      "Exodus 15:24"
+    ]
+  },
+  "Exodus 16:3": {
+    "title": "Israel longs for Egypt’s food",
+    "text": "The people say they would rather have died in Egypt where they ate meat and bread than face hunger in the wilderness. Their memory of Egypt is selective: they recall food but overlook the bondage from which God delivered them.",
+    "refs": [
+      "Exodus 1:13–14",
+      "Numbers 11:4–6"
+    ]
+  },
+  "Exodus 16:4": {
+    "title": "Bread from heaven as a test",
+    "text": "The LORD promises to rain bread from heaven and instructs the people to gather a daily portion. The provision will test whether Israel walks according to God’s instruction and learns daily dependence on Him.",
+    "refs": [
+      "Deuteronomy 8:3",
+      "John 6:31–35"
+    ]
+  },
+  "Exodus 16:5": {
+    "title": "A double portion on the sixth day",
+    "text": "On the sixth day the people are to prepare twice as much as they gather on ordinary days. The provision anticipates the Sabbath rest that God will teach them to observe.",
+    "refs": [
+      "Exodus 16:22–30"
+    ]
+  },
+  "Exodus 16:6": {
+    "title": "The LORD brought Israel out",
+    "text": "Moses and Aaron tell Israel that by evening they will know the LORD brought them out of Egypt. The provision is meant to deepen their recognition of God as deliverer, not simply satisfy hunger.",
+    "refs": [
+      "Exodus 6:6–8"
+    ]
+  },
+  "Exodus 16:7": {
+    "title": "God hears the murmuring",
+    "text": "Moses says Israel will see the glory of the LORD because He has heard their murmuring. He reminds them that their complaint against the leaders is ultimately directed toward the LORD who brought them out.",
+    "refs": [
+      "Exodus 16:8–10"
+    ]
+  },
+  "Exodus 16:8": {
+    "title": "Meat in the evening and bread in the morning",
+    "text": "Moses explains that the LORD will give meat in the evening and bread in the morning, because He has heard the people’s complaints. Moses and Aaron are not the source of the provision; the LORD is the one who feeds Israel.",
+    "refs": [
+      "Psalm 78:24–29"
+    ]
+  },
+  "Exodus 16:9": {
+    "title": "Come near before the LORD",
+    "text": "Aaron is told to call the congregation to come near before the LORD, who has heard their murmuring. The people are brought before God rather than left to treat their hunger as an argument against His faithfulness.",
+    "refs": [
+      "Exodus 16:7"
+    ]
+  },
+  "Exodus 16:10": {
+    "title": "The glory of the LORD appears",
+    "text": "As Aaron speaks, the people look toward the wilderness and the glory of the LORD appears in the cloud. The visible manifestation confirms that God is present and has heard them; it does not mean His being is confined to the cloud.",
+    "refs": [
+      "Exodus 13:21–22",
+      "Exodus 40:34–38"
+    ]
+  },
+  "Exodus 16:11": {
+    "title": "The LORD speaks to Moses",
+    "text": "The LORD tells Moses that He has heard the murmuring of Israel. The repeated statement assures the people that their need is known, while also exposing their failure to trust.",
+    "refs": [
+      "Exodus 16:7–8"
+    ]
+  },
+  "Exodus 16:12": {
+    "title": "God promises meat and bread",
+    "text": "God says Israel will eat meat at evening and be filled with bread in the morning, and will know that He is the LORD their God. Provision is connected with revelation: through daily care, Israel is to learn who their deliverer is.",
+    "refs": [
+      "Exodus 6:7",
+      "Psalm 105:40"
+    ]
+  },
+  "Exodus 16:13": {
+    "title": "Quail in the evening",
+    "text": "Quail come up in the evening and cover the camp, while dew lies around it. The narrative describes the arrival of the food God promised.",
+    "refs": [
+      "Numbers 11:31–32"
+    ]
+  },
+  "Exodus 16:14": {
+    "title": "A small round thing appears",
+    "text": "When the dew lifts, a small round substance lies upon the ground. Israel has not seen it before, and the next verses explain how it is to be gathered and used.",
+    "refs": [
+      "Exodus 16:15"
+    ]
+  },
+  "Exodus 16:15": {
+    "title": "What is it?",
+    "text": "The people ask one another what the substance is, and Moses explains that it is the bread the LORD has given them. The name manna is connected with their question, and the provision is identified as God’s gift.",
+    "refs": [
+      "Deuteronomy 8:3",
+      "John 6:31–35"
+    ]
+  },
+  "Exodus 16:16": {
+    "title": "Gather according to need",
+    "text": "Each person is to gather according to the number in the household, an omer for each person. The instruction makes the daily provision equitable and practical.",
+    "refs": [
+      "Exodus 16:18"
+    ]
+  },
+  "Exodus 16:17": {
+    "title": "Some gather more and some less",
+    "text": "The Israelites gather manna in different amounts. The next verse shows that the outcome is measured according to God’s instruction and each household’s need.",
+    "refs": [
+      "Exodus 16:18"
+    ]
+  },
+  "Exodus 16:18": {
+    "title": "Enough for every household",
+    "text": "When they measure the manna, those who gathered much have nothing over and those who gathered little have no lack. Paul later uses this passage to teach a principle of sharing so that abundance can meet another’s need.",
+    "refs": [
+      "2 Corinthians 8:13–15"
+    ]
+  },
+  "Exodus 16:19": {
+    "title": "Do not keep it until morning",
+    "text": "Moses commands the people not to leave any manna until morning. The command tests whether they will trust God for the next day’s provision rather than hoard what He has supplied for the present day.",
+    "refs": [
+      "Matthew 6:11"
+    ]
+  },
+  "Exodus 16:20": {
+    "title": "Manna kept overnight spoils",
+    "text": "Some disobey and keep manna until morning; it breeds worms and stinks, and Moses is angry. The result demonstrates that the daily instructions were to be obeyed rather than replaced with each person’s preferred plan.",
+    "refs": [
+      "Exodus 16:19"
+    ]
+  },
+  "Exodus 16:21": {
+    "title": "Gather each morning",
+    "text": "The people gather manna every morning according to what they can eat, and it melts when the sun grows hot. The provision follows a daily rhythm that teaches dependence and timely obedience.",
+    "refs": [
+      "Exodus 16:4"
+    ]
+  },
+  "Exodus 16:22": {
+    "title": "A double portion on the sixth day",
+    "text": "On the sixth day the people gather twice as much, two omers per person, and the rulers report it to Moses. This special amount prepares them for the Sabbath and is not a contradiction of the ordinary daily limit.",
+    "refs": [
+      "Exodus 16:5"
+    ]
+  },
+  "Exodus 16:23": {
+    "title": "Tomorrow is the Sabbath rest",
+    "text": "Moses says tomorrow is a holy Sabbath to the LORD, and the people are to bake or boil what they need and keep the remainder for morning. The Sabbath is introduced as a day of rest under God’s instruction.",
+    "refs": [
+      "Genesis 2:2–3",
+      "Exodus 20:8–11"
+    ]
+  },
+  "Exodus 16:24": {
+    "title": "The manna does not spoil",
+    "text": "The people keep the manna until morning as Moses commanded, and it neither stinks nor contains worms. The exception confirms that God has given a special provision for the Sabbath.",
+    "refs": [
+      "Exodus 16:20"
+    ]
+  },
+  "Exodus 16:25": {
+    "title": "Eat what was gathered yesterday",
+    "text": "Moses tells the people to eat the manna that day because it is the Sabbath and no new manna will be found in the field. They are to honor the day by resting from gathering.",
+    "refs": [
+      "Exodus 16:26"
+    ]
+  },
+  "Exodus 16:26": {
+    "title": "No manna on the seventh day",
+    "text": "Manna is to be gathered for six days, but none appears on the seventh, the Sabbath. The rhythm establishes a weekly pattern of work and rest before the formal commandments at Sinai.",
+    "refs": [
+      "Exodus 20:8–11"
+    ]
+  },
+  "Exodus 16:27": {
+    "title": "Some search on the Sabbath",
+    "text": "Some people go out to gather manna on the seventh day but find none. Their action ignores the instruction and reveals how difficult obedience can be even after clear provision.",
+    "refs": [
+      "Exodus 16:23–26"
+    ]
+  },
+  "Exodus 16:28": {
+    "title": "How long will you refuse My commandments?",
+    "text": "The LORD rebukes the people for refusing to keep His commandments and laws. The Sabbath instruction is not a casual suggestion; it is part of learning to live under God’s covenant direction.",
+    "refs": [
+      "Exodus 16:4–5"
+    ]
+  },
+  "Exodus 16:29": {
+    "title": "The LORD gives the Sabbath",
+    "text": "God reminds Israel that He has given them the Sabbath and therefore supplies a double portion on the sixth day. Each person is to remain in place on the seventh day. The rest is a gift and a command.",
+    "refs": [
+      "Mark 2:27"
+    ]
+  },
+  "Exodus 16:30": {
+    "title": "The people rest on the seventh day",
+    "text": "The people rest on the seventh day as commanded. The narrative records the Sabbath practice before Israel receives the covenant law at Sinai.",
+    "refs": [
+      "Exodus 20:8–11"
+    ]
+  },
+  "Exodus 16:31": {
+    "title": "The manna’s appearance and taste",
+    "text": "The house of Israel names the food manna; it is like coriander seed, white, and tastes like wafers with honey. The details identify the food that sustained Israel in the wilderness.",
+    "refs": [
+      "Numbers 11:7–9"
+    ]
+  },
+  "Exodus 16:32": {
+    "title": "Keep an omer for future generations",
+    "text": "Moses commands that an omer of manna be kept so future generations can see the bread God gave Israel in the wilderness. The preserved sample will serve as a material witness to God’s provision.",
+    "refs": [
+      "Exodus 16:33–34",
+      "Hebrews 9:4"
+    ]
+  },
+  "Exodus 16:33": {
+    "title": "Place manna before the LORD",
+    "text": "Aaron is told to put the manna in a vessel and lay it before the LORD for preservation through Israel’s generations. The action turns the food into a memorial of divine provision.",
+    "refs": [
+      "Exodus 16:32",
+      "Exodus 16:34"
+    ]
+  },
+  "Exodus 16:34": {
+    "title": "Manna is kept as commanded",
+    "text": "Aaron places the manna before the testimony as the LORD commanded Moses. The verse records obedience to the instruction to preserve the memorial.",
+    "refs": [
+      "Exodus 16:32–33"
+    ]
+  },
+  "Exodus 16:35": {
+    "title": "Israel eats manna for forty years",
+    "text": "Israel eats manna until they come to an inhabited land, continuing through their wilderness journey until reaching Canaan’s borders. God’s provision lasts for the whole period of need.",
+    "refs": [
+      "Deuteronomy 8:2–4",
+      "Joshua 5:12"
+    ]
+  },
+  "Exodus 16:36": {
+    "title": "The omer measurement",
+    "text": "The verse explains the omer as a tenth part of an ephah. This practical measure clarifies the amount of manna gathered and preserved.",
+    "refs": [
+      "Exodus 16:16"
+    ]
   }
 };
