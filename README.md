@@ -8,7 +8,10 @@ An installable Progressive Web App (PWA) using a green-and-gold theme, built for
 - Book and chapter navigation.
 - Full-text search across the locally saved KJV.
 - Bookmarks and personal verse notes stored on the device.
-- Export/import for bookmarks and notes.
+- Persistent verse highlighting/marking stored locally.
+- Browser text-to-speech to read a chapter aloud, with a stop button.
+- Copy a verse with its reference, and print the current chapter.
+- Export/import for bookmarks, notes, and verse marks.
 - Oneness study topics and Scripture cross-reference buttons.
 - Book-by-book study guides for all 66 books, with key passages, a study focus, and review questions.
 - A dataset validation check that confirms the downloaded KJV contains 66 books before saving it.
@@ -65,6 +68,6 @@ Official documentation: https://docs.github.com/en/pages/getting-started-with-gi
 ## Known limitations in this first version
 
 - The complete KJV is downloaded as one JSON file on first use; low-memory devices or slow networks may take longer. A future version could split the text by book for more reliable offline downloads.
-- Detailed verse-by-verse Oneness commentary for every verse has not been completed. The app currently has topical notes, cross-references, and book-by-book study guides.
+- Detailed verse-by-verse Oneness commentary for every verse has not been completed. The app currently has topical notes, cross-references, and book-by-book study guides. A full commentary requires careful passage-by-passage writing and verification; it should not be represented as finished until that work is completed.
 - Bookmarks and personal notes are local to each device/browser; they do not automatically sync between phones.
 - The PWA does not yet include audio, user accounts, cloud sync, or an app-store package.
