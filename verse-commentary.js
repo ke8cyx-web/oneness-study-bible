@@ -8314,5 +8314,444 @@ window.verseCommentary = {
     "refs": [
       "Genesis 44:18–33"
     ]
+  },
+  "Genesis 45:1": {
+    "title": "Joseph reveals himself",
+    "text": "Joseph can no longer restrain himself and orders everyone except his brothers out. He reveals his identity in private, and the moment begins the family’s restoration.",
+    "refs": [
+      "Genesis 45:3"
+    ]
+  },
+  "Genesis 45:2": {
+    "title": "Joseph weeps aloud",
+    "text": "Joseph weeps so loudly that the Egyptians and Pharaoh’s household hear. His grief and affection break through the role he has maintained during the tests.",
+    "refs": [
+      "Genesis 43:30"
+    ]
+  },
+  "Genesis 45:3": {
+    "title": "Joseph asks about his father",
+    "text": "Joseph tells his brothers he is Joseph and asks whether his father is still alive. The brothers are so troubled they cannot answer him, overwhelmed by the revelation.",
+    "refs": [
+      "Genesis 42:13"
+    ]
+  },
+  "Genesis 45:4": {
+    "title": "Joseph calls them near",
+    "text": "Joseph asks his brothers to come close and identifies himself as the brother they sold into Egypt. He does not conceal their wrongdoing, but he moves toward reconciliation rather than revenge.",
+    "refs": [
+      "Genesis 37:28"
+    ]
+  },
+  "Genesis 45:5": {
+    "title": "God sent Joseph ahead to preserve life",
+    "text": "Joseph tells them not to be grieved or angry with themselves for selling him, because God sent him ahead to preserve life. He interprets God’s providence as bringing rescue through their evil act, not as making their betrayal good.",
+    "refs": [
+      "Genesis 50:20"
+    ]
+  },
+  "Genesis 45:6": {
+    "title": "Two years of famine have passed",
+    "text": "Joseph says the famine has lasted two years and five more years remain without plowing or harvest. The family must act quickly to survive the continuing crisis.",
+    "refs": [
+      "Genesis 41:30"
+    ]
+  },
+  "Genesis 45:7": {
+    "title": "God preserves a remnant",
+    "text": "Joseph says God sent him ahead to preserve a remnant and keep the family alive. The verse connects the family’s survival with God’s larger covenant purpose.",
+    "refs": [
+      "Genesis 12:2–3"
+    ]
+  },
+  "Genesis 45:8": {
+    "title": "God made Joseph a ruler in Egypt",
+    "text": "Joseph says it was God who sent him, making him a father to Pharaoh, lord of Pharaoh’s house, and ruler over Egypt. His explanation emphasizes providence while not excusing the brothers’ earlier sin.",
+    "refs": [
+      "Genesis 41:40–44"
+    ]
+  },
+  "Genesis 45:9": {
+    "title": "Jacob is told to come quickly",
+    "text": "Joseph tells his brothers to hurry to his father and report that Joseph is alive and ruler in Egypt. He wants Jacob to come before the famine causes further suffering.",
+    "refs": [
+      "Genesis 45:13"
+    ]
+  },
+  "Genesis 45:10": {
+    "title": "A place in Goshen",
+    "text": "Joseph offers Jacob and the family a place in Goshen, where they can live near him with their children and livestock. The offer provides a practical refuge during the famine.",
+    "refs": [
+      "Genesis 46:28–34"
+    ]
+  },
+  "Genesis 45:11": {
+    "title": "Joseph promises to provide",
+    "text": "Joseph promises to nourish his family through the remaining famine years so that they and their households will not come to poverty. His authority becomes a means of preserving the family.",
+    "refs": [
+      "Genesis 47:12"
+    ]
+  },
+  "Genesis 45:12": {
+    "title": "The brothers see Joseph is speaking",
+    "text": "Joseph says the brothers and Benjamin can see that he himself is speaking to them. The personal revelation confirms that this is not merely a message from an Egyptian official.",
+    "refs": [
+      "Genesis 45:3"
+    ]
+  },
+  "Genesis 45:13": {
+    "title": "Tell Jacob of Joseph’s honor",
+    "text": "Joseph instructs his brothers to tell Jacob about his glory in Egypt and everything they have seen, then bring him quickly. The invitation is both practical and an emotional assurance that Joseph is alive.",
+    "refs": [
+      "Genesis 45:9"
+    ]
+  },
+  "Genesis 45:14": {
+    "title": "Joseph embraces Benjamin",
+    "text": "Joseph falls on Benjamin’s neck and weeps, and Benjamin weeps on his neck. The brothers share a reunion after years of separation and uncertainty.",
+    "refs": [
+      "Genesis 43:29–30"
+    ]
+  },
+  "Genesis 45:15": {
+    "title": "Joseph kisses his brothers",
+    "text": "Joseph kisses all his brothers and weeps over them, after which they speak with him. The affection marks a change from fear and silence to renewed relationship.",
+    "refs": [
+      "Genesis 50:17"
+    ]
+  },
+  "Genesis 45:16": {
+    "title": "Pharaoh’s household hears the news",
+    "text": "The report that Joseph’s brothers have come pleases Pharaoh and his servants. Joseph’s family reunion is welcomed at the highest level of Egypt’s government.",
+    "refs": [
+      "Genesis 45:17–20"
+    ]
+  },
+  "Genesis 45:17": {
+    "title": "Pharaoh tells them to return",
+    "text": "Pharaoh tells Joseph to load their animals and return to Canaan. The royal order confirms that the family is welcome to settle in Egypt during the famine.",
+    "refs": [
+      "Genesis 45:18"
+    ]
+  },
+  "Genesis 45:18": {
+    "title": "The best of Egypt offered",
+    "text": "Pharaoh tells the family to bring their father and households to Egypt, where they will eat the fat of the land. The offer gives the family safety and provision during the famine.",
+    "refs": [
+      "Genesis 47:6"
+    ]
+  },
+  "Genesis 45:19": {
+    "title": "Wagons for the children and women",
+    "text": "Pharaoh instructs them to take wagons from Egypt for their children and wives and bring their father. The practical help makes the long journey possible for the whole household.",
+    "refs": [
+      "Genesis 46:5"
+    ]
+  },
+  "Genesis 45:20": {
+    "title": "Do not worry about possessions",
+    "text": "Pharaoh tells the brothers not to regard their belongings as essential because the best of Egypt is available to them. The invitation promises provision rather than requiring them to preserve everything from Canaan.",
+    "refs": [
+      "Genesis 45:18"
+    ]
+  },
+  "Genesis 45:21": {
+    "title": "The brothers receive wagons and supplies",
+    "text": "The sons of Israel do as instructed, and Joseph provides wagons and provisions for the journey. The family is now being moved toward safety through the provisions of Egypt’s ruler.",
+    "refs": [
+      "Genesis 45:19"
+    ]
+  },
+  "Genesis 45:22": {
+    "title": "Clothing and silver for the brothers",
+    "text": "Joseph gives each brother changes of clothing, while Benjamin receives three hundred pieces of silver and five changes of clothing. The gifts are generous, and the text does not say that Joseph’s favor toward Benjamin creates the old rivalry again.",
+    "refs": [
+      "Genesis 43:34"
+    ]
+  },
+  "Genesis 45:23": {
+    "title": "Gifts for Jacob",
+    "text": "Joseph sends donkeys loaded with Egyptian goods and food for Jacob’s journey. He provides for his father’s needs before the family arrives.",
+    "refs": [
+      "Genesis 45:11"
+    ]
+  },
+  "Genesis 45:24": {
+    "title": "Joseph warns them not to quarrel",
+    "text": "Joseph sends his brothers away and tells them not to fall out by the way. He knows the revelation of their past could provoke blame and conflict as they travel home.",
+    "refs": [
+      "Genesis 42:21–22"
+    ]
+  },
+  "Genesis 45:25": {
+    "title": "The brothers return to Canaan",
+    "text": "The brothers leave Egypt and come to Jacob in Canaan. They carry news that will overturn the grief Jacob has carried for years.",
+    "refs": [
+      "Genesis 37:33–35"
+    ]
+  },
+  "Genesis 45:26": {
+    "title": "Jacob struggles to believe",
+    "text": "The brothers tell Jacob that Joseph is alive and ruler over Egypt, but Jacob’s heart faints because he cannot believe them. The news is too astonishing after years of mourning.",
+    "refs": [
+      "Genesis 37:34–35"
+    ]
+  },
+  "Genesis 45:27": {
+    "title": "Jacob sees the wagons and revives",
+    "text": "When the brothers repeat Joseph’s words and Jacob sees the wagons Joseph sent, his spirit revives. The evidence helps him accept that Joseph truly lives and wants him to come.",
+    "refs": [
+      "Genesis 45:19"
+    ]
+  },
+  "Genesis 45:28": {
+    "title": "Jacob longs to see Joseph",
+    "text": "Israel declares that Joseph his son is still alive and says he will go see him before he dies. The family’s long separation is about to end.",
+    "refs": [
+      "Genesis 46:29"
+    ]
+  },
+  "Genesis 46:1": {
+    "title": "Israel offers sacrifices at Beersheba",
+    "text": "Israel travels with all he has and offers sacrifices to the God of his father Isaac at Beersheba. Before entering Egypt, he worships the God who has guided his family.",
+    "refs": [
+      "Genesis 21:33",
+      "Genesis 26:23–25"
+    ]
+  },
+  "Genesis 46:2": {
+    "title": "God speaks to Israel in a vision",
+    "text": "God calls Jacob by name in a night vision, and Jacob answers, “Here am I.” The encounter echoes earlier divine calls and prepares Jacob for the move to Egypt.",
+    "refs": [
+      "Genesis 31:11"
+    ]
+  },
+  "Genesis 46:3": {
+    "title": "God promises to make Israel a great nation",
+    "text": "God identifies Himself as the God of Jacob’s father and tells him not to fear going down to Egypt, promising to make him a great nation there. The promise reassures Jacob that the move will not end the covenant family.",
+    "refs": [
+      "Genesis 12:2",
+      "Genesis 28:13–15"
+    ]
+  },
+  "Genesis 46:4": {
+    "title": "God promises to go down and bring them up",
+    "text": "God says He will go with Jacob into Egypt and will surely bring him up again, and Joseph will close Jacob’s eyes at his death. The promise includes God’s presence in Egypt and the eventual return of Jacob’s descendants to the promised land.",
+    "refs": [
+      "Genesis 15:13–16"
+    ]
+  },
+  "Genesis 46:5": {
+    "title": "Jacob travels with his family",
+    "text": "Jacob’s sons carry their father, children, and wives in the wagons Pharaoh sent. The family begins the move into Egypt with practical assistance from Joseph.",
+    "refs": [
+      "Genesis 45:19"
+    ]
+  },
+  "Genesis 46:6": {
+    "title": "The family brings its possessions",
+    "text": "Jacob and his descendants take their livestock and possessions acquired in Canaan and come to Egypt. The migration is a whole-household movement during famine.",
+    "refs": [
+      "Genesis 45:10–11"
+    ]
+  },
+  "Genesis 46:7": {
+    "title": "Jacob’s descendants go with him",
+    "text": "The verse summarizes that Jacob brings his sons, daughters, grandsons, and granddaughters into Egypt. The list emphasizes that the covenant family enters Egypt as an extended household.",
+    "refs": [
+      "Genesis 46:26–27"
+    ]
+  },
+  "Genesis 46:8": {
+    "title": "Israel’s family names begin",
+    "text": "The text begins listing the names of the children of Israel who came into Egypt. The genealogy records the family’s identity at the moment it relocates.",
+    "refs": [
+      "Exodus 1:1–5"
+    ]
+  },
+  "Genesis 46:9": {
+    "title": "Reuben’s descendants",
+    "text": "The sons and grandson of Reuben are listed. The genealogy preserves the branches of Israel’s firstborn son.",
+    "refs": [
+      "Genesis 35:23"
+    ]
+  },
+  "Genesis 46:10": {
+    "title": "Simeon’s descendants",
+    "text": "The sons of Simeon are named, including the family lines associated with Canaanite women. The list is a record of Israel’s household rather than a moral evaluation of each name.",
+    "refs": [
+      "Genesis 29:33"
+    ]
+  },
+  "Genesis 46:11": {
+    "title": "Levi’s descendants",
+    "text": "The sons of Levi are named: Gershon, Kohath, and Merari. These lines later become significant in the organization of Israel’s priestly and Levitical service.",
+    "refs": [
+      "Exodus 6:16"
+    ]
+  },
+  "Genesis 46:12": {
+    "title": "Judah’s family line",
+    "text": "Judah’s sons and grandsons are listed, including Perez and Zerah. The genealogy preserves the line that will later lead to David and, according to the New Testament, Jesus.",
+    "refs": [
+      "Ruth 4:18–22",
+      "Matthew 1:3"
+    ]
+  },
+  "Genesis 46:13": {
+    "title": "Issachar’s sons",
+    "text": "The sons of Issachar are named. The list records another branch of Jacob’s family entering Egypt.",
+    "refs": [
+      "Genesis 30:18"
+    ]
+  },
+  "Genesis 46:14": {
+    "title": "Zebulun’s sons",
+    "text": "The sons of Zebulun are named. The genealogy continues to record the family lines of Leah’s sons.",
+    "refs": [
+      "Genesis 30:20"
+    ]
+  },
+  "Genesis 46:15": {
+    "title": "Leah’s descendants summarized",
+    "text": "The verse summarizes Leah’s descendants born to Jacob in Padan-aram, including Dinah, and gives a total for her line. The count follows the family list in the passage.",
+    "refs": [
+      "Genesis 29:31–35",
+      "Genesis 30:18–21"
+    ]
+  },
+  "Genesis 46:16": {
+    "title": "Gad’s descendants",
+    "text": "The sons of Gad are named. Their listing contributes to the total record of Israel’s descendants in Egypt.",
+    "refs": [
+      "Genesis 30:11"
+    ]
+  },
+  "Genesis 46:17": {
+    "title": "Asher’s descendants",
+    "text": "The sons and daughter of Asher are listed. The verse records the family branch associated with Leah’s servant Zilpah.",
+    "refs": [
+      "Genesis 30:13"
+    ]
+  },
+  "Genesis 46:18": {
+    "title": "Zilpah’s descendants summarized",
+    "text": "The text summarizes the descendants born to Jacob through Zilpah and records their number. This is part of the passage’s accounting of the family that entered Egypt.",
+    "refs": [
+      "Genesis 30:9–13"
+    ]
+  },
+  "Genesis 46:19": {
+    "title": "Rachel’s sons",
+    "text": "Joseph and Benjamin are named as Rachel’s sons. Their family line is central to the events that brought Jacob’s household to Egypt.",
+    "refs": [
+      "Genesis 35:24"
+    ]
+  },
+  "Genesis 46:20": {
+    "title": "Joseph’s sons in Egypt",
+    "text": "Manasseh and Ephraim are born to Joseph in Egypt through Asenath. They are included in Israel’s family before the wider household settles there.",
+    "refs": [
+      "Genesis 41:50–52"
+    ]
+  },
+  "Genesis 46:21": {
+    "title": "Benjamin’s descendants",
+    "text": "The sons of Benjamin are listed. The genealogy records the growth of Rachel’s youngest son’s family line.",
+    "refs": [
+      "Genesis 35:18"
+    ]
+  },
+  "Genesis 46:22": {
+    "title": "Rachel’s descendants summarized",
+    "text": "The verse summarizes the descendants born to Jacob through Rachel. The list documents the household branches that traveled into Egypt.",
+    "refs": [
+      "Genesis 46:19–21"
+    ]
+  },
+  "Genesis 46:23": {
+    "title": "Dan’s son",
+    "text": "Hushim is listed as the son of Dan. The verse is a brief genealogical entry preserving Dan’s family line.",
+    "refs": [
+      "Genesis 30:6"
+    ]
+  },
+  "Genesis 46:24": {
+    "title": "Naphtali’s descendants",
+    "text": "The sons of Naphtali are named. The list continues the record of Jacob’s descendants through Bilhah.",
+    "refs": [
+      "Genesis 30:8"
+    ]
+  },
+  "Genesis 46:25": {
+    "title": "Bilhah’s descendants summarized",
+    "text": "The verse summarizes the descendants born to Jacob through Bilhah and gives their number. The passage organizes the family count by mothers and their lines.",
+    "refs": [
+      "Genesis 30:3–8"
+    ]
+  },
+  "Genesis 46:26": {
+    "title": "Those who came with Jacob",
+    "text": "The text counts the persons belonging to Jacob who came into Egypt, excluding the wives of his sons. The total reflects the genealogical accounting used in this passage.",
+    "refs": [
+      "Genesis 46:27"
+    ]
+  },
+  "Genesis 46:27": {
+    "title": "Seventy persons in Jacob’s household",
+    "text": "The verse gives the total of Jacob’s household in Egypt as seventy persons, including Joseph and his sons already in Egypt. The number marks the small beginning of the family that will later grow into a people in Egypt.",
+    "refs": [
+      "Exodus 1:5",
+      "Deuteronomy 10:22"
+    ]
+  },
+  "Genesis 46:28": {
+    "title": "Judah sent ahead to Joseph",
+    "text": "Jacob sends Judah ahead to direct the way to Goshen, and the family comes to that region. Judah’s role in the journey foreshadows his growing responsibility within the family.",
+    "refs": [
+      "Genesis 43:8–9"
+    ]
+  },
+  "Genesis 46:29": {
+    "title": "Joseph reunites with Jacob",
+    "text": "Joseph prepares his chariot and goes to Goshen to meet his father. When they meet, Joseph falls on Jacob’s neck and weeps for a long time, bringing the long separation to an emotional end.",
+    "refs": [
+      "Genesis 45:14–15"
+    ]
+  },
+  "Genesis 46:30": {
+    "title": "Jacob can die in peace",
+    "text": "Jacob tells Joseph he can now die after seeing Joseph’s face and knowing he is alive. The statement expresses profound relief after years of believing his son had been killed.",
+    "refs": [
+      "Genesis 37:33–35"
+    ]
+  },
+  "Genesis 46:31": {
+    "title": "Joseph prepares to speak to Pharaoh",
+    "text": "Joseph tells his brothers and his father’s household that he will report their arrival to Pharaoh. He begins arranging the family’s settlement and public status in Egypt.",
+    "refs": [
+      "Genesis 47:1"
+    ]
+  },
+  "Genesis 46:32": {
+    "title": "The family’s occupation is explained",
+    "text": "Joseph says his family are keepers of livestock and have brought their flocks and herds. Their occupation is relevant to the Egyptian setting and to where Pharaoh will allow them to settle.",
+    "refs": [
+      "Genesis 47:3–4"
+    ]
+  },
+  "Genesis 46:33": {
+    "title": "Pharaoh asks their occupation",
+    "text": "Joseph says Pharaoh will ask what their occupation is. He prepares the family to answer clearly when they appear before the king.",
+    "refs": [
+      "Genesis 47:3"
+    ]
+  },
+  "Genesis 46:34": {
+    "title": "Goshen offered to shepherds",
+    "text": "Joseph instructs them to say they have been keepers of livestock from their youth, so they may dwell in Goshen. The passage explains that shepherds were an abomination or detestable to Egyptians, which helps explain why Goshen is a suitable separate region for Jacob’s family.",
+    "refs": [
+      "Genesis 47:1–6"
+    ]
   }
 };
