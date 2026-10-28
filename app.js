@@ -86,18 +86,21 @@ function normalizeBible(raw){
  if(raw && raw.books && typeof raw.books==="object") return Object.entries(raw.books).map(([name,b])=>({name,chapters:Object.values(b.chapters).map(ch=>Object.values(ch))}));
  throw new Error("Unexpected Bible data format");
 }
+function isValidBible(data){
+ return Array.isArray(data)&&data.length===66&&data.every(b=>b&&typeof b.name==="string"&&Array.isArray(b.chapters)&&b.chapters.length>0&&b.chapters.every(ch=>Array.isArray(ch)));
+}
 async function loadBible(){
  setStatus("Checking saved Bible…");
  const stored=await getStored("kjv");
- if(stored){bible=stored;setStatus("KJV ready · saved offline");setupSelectors();renderChapter();return}
+ if(isValidBible(stored)){bible=stored;setStatus("KJV ready · all 66 books saved offline");setupSelectors();renderChapter();return}
  setStatus("Downloading full KJV…");
  try{
   const res=await fetch(DATA_URL,{cache:"force-cache"});
   if(!res.ok)throw new Error("Bible data request failed ("+res.status+")");
   const raw=await res.json();bible=normalizeBible(raw);
-  if(!bible.length)throw new Error("No Bible books found");
+  if(!isValidBible(bible))throw new Error("The downloaded dataset did not contain all 66 valid Bible books");
   await setStored("kjv",bible);
-  setStatus("KJV ready · saved for offline use");setupSelectors();renderChapter();
+  setStatus("KJV ready · all 66 books saved offline");setupSelectors();renderChapter();
  }catch(e){
   console.error(e);setStatus("Could not load KJV. Connect to internet and reload.",true);
   els.title.textContent="Bible data not downloaded yet";
@@ -184,6 +187,22 @@ function openRef(ref){
 function renderTopic(){
  const t=studyTopics[els.topic.value];if(!t)return;
  els.topicContent.innerHTML=`<h3>${esc(t.title)}</h3><p class="result-ref">Key passage: ${esc(t.key)}</p>${t.body.map(p=>`<p>${esc(p)}</p>`).join("")}<h3>Cross-references to read</h3><div>${t.refs.map(r=>`<button class="ref-chip" data-topicref="${esc(r)}">${esc(r)}</button>`).join("")}</div>`;
+}
+function renderBookGuide(){
+ const select=$("bookGuideSelect"),content=$("bookGuideContent");
+ if(!select||!content||!Array.isArray(window.bookGuides))return;
+ const guides=window.bookGuides;
+ if(select.options.length!==guides.length){
+  select.innerHTML="";
+  guides.forEach((g,i)=>{const option=document.createElement("option");option.value=String(i);option.textContent=g.book;select.append(option)});
+ }
+ const guide=guides[Number(select.value)||0];
+ if(!guide)return;
+ content.innerHTML=`<h3>${esc(guide.book)} — ${esc(guide.theme)}</h3>
+ <p><strong>Key passages:</strong> ${esc(guide.passages)}</p>
+ <h3>Study focus</h3><p>${esc(guide.focus)}</p>
+ <h3>Questions to consider</h3><p>${esc(guide.questions)}</p>
+ <p class="muted">Study reminder: these are teaching notes. Read the full chapters, compare Scripture with Scripture, and distinguish the biblical text from commentary.</p>`;
 }
 function searchBible(query){
  const q=query.toLowerCase().trim();if(!q)return [];
@@ -298,4 +317,6 @@ $("installBtn").addEventListener("click",async()=>{if(!installPrompt)return;inst
 if("serviceWorker" in navigator && location.protocol.startsWith("http"))navigator.serviceWorker.register("./sw.js").catch(err=>console.warn("Service worker registration failed",err));
 $("readingPlanList").addEventListener("change",e=>{const cb=e.target.closest("[data-plan-day]");if(!cb)return;const done=JSON.parse(localStorage.getItem("ogof-reading-plan")||"[]");const i=Number(cb.dataset.planDay);const next=cb.checked?[...new Set([...done,i])]:done.filter(x=>x!==i);localStorage.setItem("ogof-reading-plan",JSON.stringify(next));renderReadingPlan();});
 $("resetPlanBtn").addEventListener("click",()=>{if(confirm("Reset all reading-plan checkmarks on this device?")){localStorage.removeItem("ogof-reading-plan");renderReadingPlan();}});
-renderTopic();renderBookmarks();renderReadingPlan();renderCrossrefTrail();loadBible();
+renderTopic();renderBookmarks();renderReadingPlan();renderCrossrefTrail();renderBookGuide();
+$("bookGuideSelect").addEventListener("change",renderBookGuide);
+loadBible();
