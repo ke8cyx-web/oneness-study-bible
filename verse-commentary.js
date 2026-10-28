@@ -9777,5 +9777,370 @@ window.verseCommentary = {
     "refs": [
       "Genesis 6:9–10"
     ]
+  },
+  "Exodus 1:1": {
+    "title": "Israel’s sons in Egypt",
+    "text": "The names connect Exodus directly to Jacob’s family at the end of Genesis. Israel’s descendants are the same covenant family, now living in Egypt. Exodus continues the story of God’s promises rather than beginning an unrelated account.",
+    "refs": [
+      "Genesis 46:8–27"
+    ]
+  },
+  "Exodus 1:2": {
+    "title": "The sons of Israel",
+    "text": "Reuben, Simeon, Levi, and Judah are listed first among Jacob’s sons. Levi’s inclusion leads into the family line from which Moses and Aaron will come.",
+    "refs": [
+      "Genesis 29:32–35",
+      "Exodus 6:16–20"
+    ]
+  },
+  "Exodus 1:3": {
+    "title": "The sons of Israel",
+    "text": "Issachar, Zebulun, and Benjamin are named as part of the family that entered Egypt. The list emphasizes the historical continuity of Israel’s tribes.",
+    "refs": [
+      "Genesis 35:16–18",
+      "Genesis 46:8"
+    ]
+  },
+  "Exodus 1:4": {
+    "title": "The sons of Israel",
+    "text": "Dan, Naphtali, Gad, and Asher complete this part of the list. Together, the names establish the family whose growth fulfills God’s earlier promise to Abraham.",
+    "refs": [
+      "Genesis 12:2",
+      "Genesis 46:23–25"
+    ]
+  },
+  "Exodus 1:5": {
+    "title": "Seventy souls",
+    "text": "The family entered Egypt in a small number compared with the nation Israel would become. The KJV follows the traditional count of seventy, while Acts 7:14 uses seventy-five in Stephen’s account, reflecting a different textual counting tradition.",
+    "refs": [
+      "Genesis 46:26–27",
+      "Acts 7:14"
+    ]
+  },
+  "Exodus 1:6": {
+    "title": "Joseph and his generation die",
+    "text": "Joseph’s death marks a change of era. The protection associated with Joseph’s place in Egypt will not prevent later rulers from oppressing Israel.",
+    "refs": [
+      "Genesis 50:22–26"
+    ]
+  },
+  "Exodus 1:7": {
+    "title": "Israel multiplies greatly",
+    "text": "Israel becomes fruitful, multiplies, and fills the land. This language echoes God’s creation blessing and His promise to multiply Abraham’s descendants. The growth is presented as God’s covenant promise advancing even in a foreign land.",
+    "refs": [
+      "Genesis 1:28",
+      "Genesis 12:2",
+      "Genesis 15:5"
+    ]
+  },
+  "Exodus 1:8": {
+    "title": "A new king arises",
+    "text": "The new king does not regard Joseph’s service or the earlier history favorably. Political power changes, but God’s covenant with Israel has not changed.",
+    "refs": [
+      "Genesis 41:39–45",
+      "Genesis 15:13–14"
+    ]
+  },
+  "Exodus 1:9": {
+    "title": "Israel is viewed as a threat",
+    "text": "Pharaoh describes Israel as more numerous and powerful than he wishes. His fear becomes the stated reason for oppressive policy, showing how rulers can turn insecurity into injustice.",
+    "refs": [
+      "Exodus 1:12",
+      "Acts 7:17–19"
+    ]
+  },
+  "Exodus 1:10": {
+    "title": "Pharaoh plans to control Israel",
+    "text": "Pharaoh proposes dealing shrewdly with Israel to prevent its growth and possible alliance with enemies. The passage exposes the reasoning used to justify oppression; it does not commend Pharaoh’s plan.",
+    "refs": [
+      "Psalm 105:24–25"
+    ]
+  },
+  "Exodus 1:11": {
+    "title": "Taskmasters and oppression",
+    "text": "The Egyptians impose hard labor and use forced work to weaken Israel. The store cities named here show that Israel’s suffering is concrete and political, not merely symbolic.",
+    "refs": [
+      "Exodus 5:6–14",
+      "Acts 7:18–19"
+    ]
+  },
+  "Exodus 1:12": {
+    "title": "Oppression fails to stop growth",
+    "text": "The more Israel is afflicted, the more it multiplies. The Egyptians become distressed by this, but their hostility cannot cancel God’s stated purpose for Abraham’s descendants.",
+    "refs": [
+      "Genesis 15:5",
+      "Exodus 1:7"
+    ]
+  },
+  "Exodus 1:13": {
+    "title": "Cruel bondage",
+    "text": "The Egyptians make Israel serve with rigor. Scripture names the cruelty plainly, establishing the injustice from which God will deliver His people.",
+    "refs": [
+      "Exodus 2:23–25",
+      "Exodus 3:7–8"
+    ]
+  },
+  "Exodus 1:14": {
+    "title": "Bitter service",
+    "text": "The text describes hard labor in mortar, brick, and field work. The detailed wording preserves the severity of Israel’s bondage and prepares for God’s response to their cries.",
+    "refs": [
+      "Exodus 5:7–9",
+      "Deuteronomy 26:6–8"
+    ]
+  },
+  "Exodus 1:15": {
+    "title": "The Hebrew midwives",
+    "text": "Pharaoh turns from forced labor to a plan aimed at Hebrew newborn sons. Shiphrah and Puah are introduced as women placed in a position where obedience to God’s moral will will be tested.",
+    "refs": [
+      "Exodus 1:17"
+    ]
+  },
+  "Exodus 1:16": {
+    "title": "Pharaoh’s murderous order",
+    "text": "Pharaoh secretly orders the midwives to kill Hebrew boys at birth. The command reveals the cruelty of the regime and the threat facing Israel’s next generation.",
+    "refs": [
+      "Acts 7:19",
+      "Hebrews 11:23"
+    ]
+  },
+  "Exodus 1:17": {
+    "title": "The midwives fear God",
+    "text": "The midwives refuse to obey Pharaoh’s murderous command because they fear God. Their action demonstrates that human authority is not absolute when it demands evil.",
+    "refs": [
+      "Daniel 3:16–18",
+      "Acts 5:29",
+      "Hebrews 11:23"
+    ]
+  },
+  "Exodus 1:18": {
+    "title": "Pharaoh questions the midwives",
+    "text": "Pharaoh challenges the women because the Hebrew boys remain alive. His question confirms that the midwives’ refusal has frustrated his plan.",
+    "refs": [
+      "Exodus 1:16–17"
+    ]
+  },
+  "Exodus 1:19": {
+    "title": "The midwives answer Pharaoh",
+    "text": "The midwives explain that Hebrew women give birth before they arrive. The narrative reports their answer but does not pause to provide a general rule about every detail of their speech; the clear emphasis is that they did not carry out Pharaoh’s killing order.",
+    "refs": [
+      "Exodus 1:17"
+    ]
+  },
+  "Exodus 1:20": {
+    "title": "God deals well with the midwives",
+    "text": "God’s favor rests on the midwives, and Israel continues to grow. The account contrasts God’s blessing with Pharaoh’s violence.",
+    "refs": [
+      "Exodus 1:7",
+      "Psalm 33:18–19"
+    ]
+  },
+  "Exodus 1:21": {
+    "title": "God establishes the midwives’ houses",
+    "text": "Because the midwives fear God, He gives them families or household standing. The text connects their reverence and courageous refusal with divine favor without claiming that every faithful person will receive the same earthly outcome.",
+    "refs": [
+      "Psalm 112:1–2"
+    ]
+  },
+  "Exodus 1:22": {
+    "title": "Pharaoh commands the people",
+    "text": "Pharaoh broadens the murderous policy by ordering that every Hebrew son be cast into the river. This threat directly sets the stage for Moses’ birth and rescue.",
+    "refs": [
+      "Exodus 2:1–10",
+      "Acts 7:19–21"
+    ]
+  },
+  "Exodus 2:1": {
+    "title": "A Levite family",
+    "text": "A man and woman from the tribe of Levi marry. The narrative introduces Moses’ parents without yet naming them; Exodus 6:20 later identifies them as Amram and Jochebed.",
+    "refs": [
+      "Exodus 6:16–20",
+      "Numbers 26:59"
+    ]
+  },
+  "Exodus 2:2": {
+    "title": "Moses is born and hidden",
+    "text": "The mother sees that the child is good and hides him for three months. Hebrews 11:23 remembers the parents’ faith and their refusal to be ruled by the king’s command.",
+    "refs": [
+      "Acts 7:20",
+      "Hebrews 11:23"
+    ]
+  },
+  "Exodus 2:3": {
+    "title": "The child is placed in an ark",
+    "text": "When hiding him is no longer possible, the mother places Moses in a papyrus basket sealed against water and sets it among the reeds. The word translated “ark” recalls the term used for Noah’s vessel, though the scale and purpose differ.",
+    "refs": [
+      "Genesis 6:14",
+      "Hebrews 11:23"
+    ]
+  },
+  "Exodus 2:4": {
+    "title": "His sister watches",
+    "text": "Moses’ sister remains nearby to see what will happen. Her watchfulness prepares for her practical role in bringing the child’s mother into Pharaoh’s household story.",
+    "refs": [
+      "Exodus 15:20",
+      "Numbers 26:59"
+    ]
+  },
+  "Exodus 2:5": {
+    "title": "Pharaoh’s daughter finds Moses",
+    "text": "Pharaoh’s daughter comes to the river, sees the basket, and sends a servant to retrieve it. The rescue comes from within Pharaoh’s own household, overturning the purpose of his decree.",
+    "refs": [
+      "Exodus 1:22",
+      "Acts 7:21"
+    ]
+  },
+  "Exodus 2:6": {
+    "title": "Compassion for the Hebrew child",
+    "text": "The princess recognizes that the child is Hebrew and feels compassion, despite the royal order against Hebrew boys. The narrative highlights a human response that counters the cruelty of Pharaoh’s policy.",
+    "refs": [
+      "Exodus 1:22",
+      "Deuteronomy 10:18"
+    ]
+  },
+  "Exodus 2:7": {
+    "title": "Moses’ sister offers help",
+    "text": "The girl asks whether she should find a Hebrew nurse for the child. Her question is a courageous and timely intervention within a dangerous situation.",
+    "refs": [
+      "Exodus 2:4"
+    ]
+  },
+  "Exodus 2:8": {
+    "title": "Moses’ mother is called",
+    "text": "Pharaoh’s daughter tells the girl to go, and the child’s own mother is brought. The threatened child is returned to his mother for care through the very household that issued the decree.",
+    "refs": [
+      "Exodus 2:3–7"
+    ]
+  },
+  "Exodus 2:9": {
+    "title": "The mother is paid to nurse him",
+    "text": "Moses’ mother receives wages to nurse her own son. The account shows providential reversal: the child survives, and his mother is supported while caring for him.",
+    "refs": [
+      "Psalm 9:9–10",
+      "Romans 8:28"
+    ]
+  },
+  "Exodus 2:10": {
+    "title": "Moses receives his name",
+    "text": "When the child grows, he is brought to Pharaoh’s daughter and becomes her son. She names him Moses because she drew him out of the water; the explanation in the text is associated with the Hebrew verb for drawing out.",
+    "refs": [
+      "Acts 7:21–22",
+      "Hebrews 11:24–26"
+    ]
+  },
+  "Exodus 2:11": {
+    "title": "Moses sees his people’s burdens",
+    "text": "As an adult, Moses goes out to his Hebrew brethren and sees their forced labor. Acts 7:23 says he was about forty when he visited his people, giving a later detail about his age.",
+    "refs": [
+      "Acts 7:23"
+    ]
+  },
+  "Exodus 2:12": {
+    "title": "Moses kills the Egyptian",
+    "text": "Moses looks around, kills an Egyptian who was striking a Hebrew, and hides the body. The text records his act but does not present this killing as a divine command or an example to imitate; his later flight follows.",
+    "refs": [
+      "Acts 7:24–29",
+      "Hebrews 11:24–26"
+    ]
+  },
+  "Exodus 2:13": {
+    "title": "Moses confronts a Hebrew dispute",
+    "text": "The next day Moses sees two Hebrews fighting and challenges the one in the wrong. His concern for justice is evident, although the previous day’s violence shows that he has not yet learned how God will deliver Israel.",
+    "refs": [
+      "Acts 7:26"
+    ]
+  },
+  "Exodus 2:14": {
+    "title": "Moses’ action is exposed",
+    "text": "The man asks who made Moses a ruler and judge and refers to the Egyptian’s death. Moses fears that his deed is known. Acts 7 later describes Moses as supposing his people would understand that God would deliver them through him, but they did not understand.",
+    "refs": [
+      "Acts 7:25–29"
+    ]
+  },
+  "Exodus 2:15": {
+    "title": "Moses flees to Midian",
+    "text": "Pharaoh seeks to kill Moses, so Moses flees and sits by a well in Midian. His life in the palace ends, and a long period of preparation in the wilderness begins.",
+    "refs": [
+      "Acts 7:29",
+      "Hebrews 11:27"
+    ]
+  },
+  "Exodus 2:16": {
+    "title": "The daughters of the priest of Midian",
+    "text": "A priest of Midian has seven daughters who come to draw water for their father’s flock. The setting at a well introduces the people and place through which Moses will find refuge.",
+    "refs": [
+      "Genesis 24:10–20",
+      "Genesis 29:1–10"
+    ]
+  },
+  "Exodus 2:17": {
+    "title": "Moses helps the women",
+    "text": "Shepherds drive the women away, but Moses rises to help them and waters their flock. His intervention resembles other biblical well scenes where a meeting leads to a new household relationship, without making the events identical.",
+    "refs": [
+      "Genesis 29:10",
+      "Exodus 2:19"
+    ]
+  },
+  "Exodus 2:18": {
+    "title": "The daughters return to Reuel",
+    "text": "Their father Reuel asks why they have returned so early. The question leads them to tell him about the Egyptian who helped them.",
+    "refs": [
+      "Exodus 3:1",
+      "Exodus 18:1"
+    ]
+  },
+  "Exodus 2:19": {
+    "title": "Moses is described as an Egyptian",
+    "text": "The women explain that an Egyptian rescued them from the shepherds and drew water for them. Moses’ appearance and background lead them to describe him this way; the verse does not mean he has ceased to be Hebrew.",
+    "refs": [
+      "Exodus 2:11"
+    ]
+  },
+  "Exodus 2:20": {
+    "title": "Moses is invited to eat",
+    "text": "Reuel asks why they left the man behind and tells them to call him. Hospitality opens the way for Moses to remain with the family rather than continue as a fugitive alone.",
+    "refs": [
+      "Genesis 18:1–8",
+      "Hebrews 13:2"
+    ]
+  },
+  "Exodus 2:21": {
+    "title": "Moses dwells with the family",
+    "text": "Moses agrees to live with the man, who gives him Zipporah as a wife. Moses begins a family life in Midian during the years before God sends him back to Egypt.",
+    "refs": [
+      "Exodus 18:2–4"
+    ]
+  },
+  "Exodus 2:22": {
+    "title": "Gershom and the feeling of exile",
+    "text": "Zipporah bears a son named Gershom, a name connected in the verse with Moses’ status as a stranger in a foreign land. Moses has found a home, yet he remains away from his people and their suffering.",
+    "refs": [
+      "Acts 7:29",
+      "Exodus 18:3"
+    ]
+  },
+  "Exodus 2:23": {
+    "title": "Israel cries under bondage",
+    "text": "After many days the king of Egypt dies, but Israel’s suffering continues. Their cry rises because of bondage; a change of ruler alone has not brought deliverance.",
+    "refs": [
+      "Exodus 1:14",
+      "Exodus 3:7"
+    ]
+  },
+  "Exodus 2:24": {
+    "title": "God remembers His covenant",
+    "text": "God hears Israel’s groaning and remembers His covenant with Abraham, Isaac, and Jacob. “Remembered” does not mean God had forgotten; it describes His turning to act faithfully according to the covenant He had established.",
+    "refs": [
+      "Genesis 15:13–14",
+      "Genesis 17:7",
+      "Leviticus 26:42"
+    ]
+  },
+  "Exodus 2:25": {
+    "title": "God sees and knows",
+    "text": "God looks upon Israel and knows their condition. The verse prepares for His call to Moses in chapter 3. In Oneness understanding, this is the one God acting in faithful relationship with His people; the verse itself emphasizes His awareness and covenant concern, not a technical explanation of the Godhead.",
+    "refs": [
+      "Exodus 3:7–10",
+      "Deuteronomy 4:7"
+    ]
   }
 };
