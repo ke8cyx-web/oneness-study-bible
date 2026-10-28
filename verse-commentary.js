@@ -17638,5 +17638,425 @@ window.verseCommentary = {
     "refs": [
       "Exodus 26:37"
     ]
+  },
+  "Exodus 37:1": {
+    "title": "The ark is constructed",
+    "text": "Bezalel makes the ark of acacia wood according to the dimensions God gave Moses. The construction now carries out the design for the central covenant object in the sanctuary.",
+    "refs": [
+      "Exodus 25:10"
+    ]
+  },
+  "Exodus 37:2": {
+    "title": "Gold covers the ark",
+    "text": "The ark is overlaid with pure gold inside and outside, and a gold crown is made around it. The work follows the pattern specified in the instructions.",
+    "refs": [
+      "Exodus 25:11"
+    ]
+  },
+  "Exodus 37:3": {
+    "title": "Four gold rings",
+    "text": "Four gold rings are cast for the ark’s feet. The rings will hold the staves used to carry it.",
+    "refs": [
+      "Exodus 25:12"
+    ]
+  },
+  "Exodus 37:4": {
+    "title": "Staves for carrying the ark",
+    "text": "Staves of acacia wood are made and overlaid with gold. The ark is designed to be carried by the appointed means.",
+    "refs": [
+      "Exodus 25:13–14"
+    ]
+  },
+  "Exodus 37:5": {
+    "title": "Staves inserted into the rings",
+    "text": "The staves are placed through the rings on the ark’s sides. The construction follows God’s instructions for handling and transport.",
+    "refs": [
+      "Exodus 25:14–15"
+    ]
+  },
+  "Exodus 37:6": {
+    "title": "The mercy seat is made",
+    "text": "The mercy seat is made of pure gold with specified dimensions. It is the appointed place associated with God’s meeting with Moses above the ark.",
+    "refs": [
+      "Exodus 25:17–22"
+    ]
+  },
+  "Exodus 37:7": {
+    "title": "Two gold cherubim",
+    "text": "Two cherubim are made of hammered gold at the ends of the mercy seat. They are part of the sanctuary design and are not objects of worship.",
+    "refs": [
+      "Exodus 25:18"
+    ]
+  },
+  "Exodus 37:8": {
+    "title": "The cherubim are made with the mercy seat",
+    "text": "The cherubim are made at the two ends of the mercy seat as one piece. The work follows the exact design God showed Moses.",
+    "refs": [
+      "Exodus 25:19"
+    ]
+  },
+  "Exodus 37:9": {
+    "title": "Wings over the mercy seat",
+    "text": "The cherubim spread their wings above and face one another, looking toward the mercy seat. Their posture frames the place from which God promised to speak.",
+    "refs": [
+      "Exodus 25:20–22"
+    ]
+  },
+  "Exodus 37:10": {
+    "title": "The table is made",
+    "text": "Bezalel makes the table of acacia wood with the dimensions God prescribed. The table is part of the holy place’s furnishings.",
+    "refs": [
+      "Exodus 25:23"
+    ]
+  },
+  "Exodus 37:11": {
+    "title": "Gold overlays the table",
+    "text": "The table is overlaid with pure gold and given a gold border. The construction follows the instructions given on Sinai.",
+    "refs": [
+      "Exodus 25:24"
+    ]
+  },
+  "Exodus 37:12": {
+    "title": "The table’s rim",
+    "text": "A border of a handbreadth and a gold rim are made around the table. These details complete the prescribed edge of the table.",
+    "refs": [
+      "Exodus 25:25"
+    ]
+  },
+  "Exodus 37:13": {
+    "title": "Four gold rings",
+    "text": "Four gold rings are cast for the table’s four corners. The rings will hold the carrying staves.",
+    "refs": [
+      "Exodus 25:26"
+    ]
+  },
+  "Exodus 37:14": {
+    "title": "Rings near the border",
+    "text": "The rings are placed near the border to hold the staves used to carry the table. Their position is specified in the original pattern.",
+    "refs": [
+      "Exodus 25:27"
+    ]
+  },
+  "Exodus 37:15": {
+    "title": "Gold-covered staves",
+    "text": "The table’s staves are made of acacia wood and overlaid with gold. They provide the appointed means of transporting the table.",
+    "refs": [
+      "Exodus 25:28"
+    ]
+  },
+  "Exodus 37:16": {
+    "title": "Gold utensils for the table",
+    "text": "The dishes, spoons, bowls, and covers are made of pure gold. These utensils are for the table’s sacred service.",
+    "refs": [
+      "Exodus 25:29"
+    ]
+  },
+  "Exodus 37:17": {
+    "title": "The lampstand is made of pure gold",
+    "text": "Bezalel makes the lampstand of hammered pure gold, including its shaft, branches, bowls, knops, and flowers. The lampstand is crafted according to God’s detailed design.",
+    "refs": [
+      "Exodus 25:31"
+    ]
+  },
+  "Exodus 37:18": {
+    "title": "Six branches extend from the shaft",
+    "text": "Six branches extend from the lampstand, three on each side. The arrangement creates the prescribed form of the seven-lamp stand.",
+    "refs": [
+      "Exodus 25:32"
+    ]
+  },
+  "Exodus 37:19": {
+    "title": "Almond-shaped cups on the branches",
+    "text": "Each branch has almond-shaped cups, knops, and flowers. The repeated decorative form is part of the lampstand’s unified design.",
+    "refs": [
+      "Exodus 25:33"
+    ]
+  },
+  "Exodus 37:20": {
+    "title": "Almond-shaped cups on the central shaft",
+    "text": "The central shaft also has almond-shaped cups, knops, and flowers. The shaft and branches share the same pattern.",
+    "refs": [
+      "Exodus 25:34"
+    ]
+  },
+  "Exodus 37:21": {
+    "title": "Knops beneath the branches",
+    "text": "A knop is placed beneath each pair of branches. The detail follows the original instructions for the lampstand’s construction.",
+    "refs": [
+      "Exodus 25:35"
+    ]
+  },
+  "Exodus 37:22": {
+    "title": "The lampstand is one piece",
+    "text": "The knops and branches are made as one piece with the lampstand, all of pure hammered gold. The single structure fulfills the design shown to Moses.",
+    "refs": [
+      "Exodus 25:36"
+    ]
+  },
+  "Exodus 37:23": {
+    "title": "Seven lamps and tools",
+    "text": "The lamps, tongs, and snuff dishes are made of pure gold. The verse includes both the lights and the utensils needed to tend them.",
+    "refs": [
+      "Exodus 25:37–38"
+    ]
+  },
+  "Exodus 37:24": {
+    "title": "A talent of gold",
+    "text": "The lampstand and its utensils are made from a talent of pure gold. The amount records the material used in this sacred furnishing.",
+    "refs": [
+      "Exodus 25:39"
+    ]
+  },
+  "Exodus 37:25": {
+    "title": "The incense altar is made",
+    "text": "The altar of incense is made of acacia wood with horns formed as one piece. It is a distinct altar for the incense service inside the sanctuary.",
+    "refs": [
+      "Exodus 30:1–2"
+    ]
+  },
+  "Exodus 37:26": {
+    "title": "The incense altar is overlaid with gold",
+    "text": "The top, sides, and horns are covered with pure gold, and a gold crown is placed around it. The materials match the design God gave Moses.",
+    "refs": [
+      "Exodus 30:3"
+    ]
+  },
+  "Exodus 37:27": {
+    "title": "Gold rings for carrying the incense altar",
+    "text": "Two gold rings are placed beneath the crown on opposite sides to hold the staves. The altar is designed to be carried when the tabernacle moves.",
+    "refs": [
+      "Exodus 30:4"
+    ]
+  },
+  "Exodus 37:28": {
+    "title": "Staves for the incense altar",
+    "text": "The staves are made of acacia wood and overlaid with gold. They provide the prescribed means of carrying the altar.",
+    "refs": [
+      "Exodus 30:5"
+    ]
+  },
+  "Exodus 37:29": {
+    "title": "The holy oil and incense are prepared",
+    "text": "The holy anointing oil and pure incense are made by a perfumer according to the prescribed recipe. The verse closes the chapter by confirming that the sacred materials are prepared as God commanded.",
+    "refs": [
+      "Exodus 30:22–38"
+    ]
+  },
+  "Exodus 38:1": {
+    "title": "The bronze altar is built",
+    "text": "The altar of burnt offering is made of acacia wood with the dimensions God gave Moses. It is the main altar in the courtyard where Israel’s burnt offerings are presented.",
+    "refs": [
+      "Exodus 27:1"
+    ]
+  },
+  "Exodus 38:2": {
+    "title": "The altar’s horns and bronze covering",
+    "text": "The horns are made as one piece with the altar, which is overlaid with bronze. The construction follows the pattern for the courtyard altar.",
+    "refs": [
+      "Exodus 27:2"
+    ]
+  },
+  "Exodus 38:3": {
+    "title": "Bronze utensils for the altar",
+    "text": "The pans, shovels, basins, forks, and firepans are made of bronze. These utensils are required for the altar’s regular sacrificial service.",
+    "refs": [
+      "Exodus 27:3"
+    ]
+  },
+  "Exodus 38:4": {
+    "title": "The bronze grating",
+    "text": "A bronze grating is made for the altar, with rings at its four corners. The grating is part of the altar’s prescribed construction.",
+    "refs": [
+      "Exodus 27:4"
+    ]
+  },
+  "Exodus 38:5": {
+    "title": "Rings for the altar’s carrying poles",
+    "text": "Bronze rings are cast to hold the staves. The arrangement makes the altar portable for Israel’s wilderness journey.",
+    "refs": [
+      "Exodus 27:6–7"
+    ]
+  },
+  "Exodus 38:6": {
+    "title": "Bronze-covered staves",
+    "text": "Staves of acacia wood are made and overlaid with bronze. They are used to carry the altar according to God’s instructions.",
+    "refs": [
+      "Exodus 27:6"
+    ]
+  },
+  "Exodus 38:7": {
+    "title": "The altar is made hollow",
+    "text": "The staves are placed through the rings, and the altar is made hollow with boards. The construction matches the design previously shown to Moses.",
+    "refs": [
+      "Exodus 27:8"
+    ]
+  },
+  "Exodus 38:8": {
+    "title": "The bronze laver and women’s mirrors",
+    "text": "The laver and its base are made of bronze from the mirrors of the women who assembled at the entrance of the tent of meeting. The verse records a specific source for the material; it does not explain the women’s exact role beyond this reference.",
+    "refs": [
+      "Exodus 30:17–21"
+    ]
+  },
+  "Exodus 38:9": {
+    "title": "The south courtyard hangings",
+    "text": "The courtyard is enclosed with fine linen hangings on the south side. The measurements and supports follow the earlier instructions.",
+    "refs": [
+      "Exodus 27:9"
+    ]
+  },
+  "Exodus 38:10": {
+    "title": "Pillars and sockets for the south side",
+    "text": "Twenty pillars and bronze sockets support the hangings, with silver hooks and bands. The details ensure the enclosure is securely built.",
+    "refs": [
+      "Exodus 27:10"
+    ]
+  },
+  "Exodus 38:11": {
+    "title": "The north side hangings",
+    "text": "The north side is built with the same hangings, pillars, sockets, hooks, and bands as the south. The matching sides make the courtyard symmetrical.",
+    "refs": [
+      "Exodus 27:11"
+    ]
+  },
+  "Exodus 38:12": {
+    "title": "The west side hangings",
+    "text": "The west end has hangings of the specified length and ten pillars with their sockets. The end wall uses fewer pillars than the long sides.",
+    "refs": [
+      "Exodus 27:12"
+    ]
+  },
+  "Exodus 38:13": {
+    "title": "The east side dimensions",
+    "text": "The east side of the courtyard is the specified width. The following verses describe the sections and gate at this end.",
+    "refs": [
+      "Exodus 27:13"
+    ]
+  },
+  "Exodus 38:14": {
+    "title": "One side of the gate",
+    "text": "One side of the entrance has fifteen cubits of hangings supported by three pillars and sockets. This forms one side of the central gate opening.",
+    "refs": [
+      "Exodus 27:14"
+    ]
+  },
+  "Exodus 38:15": {
+    "title": "The other side of the gate",
+    "text": "The other side has matching hangings and supports. The two sections frame the gate symmetrically.",
+    "refs": [
+      "Exodus 27:15"
+    ]
+  },
+  "Exodus 38:16": {
+    "title": "Fine linen around the courtyard",
+    "text": "All the hangings around the courtyard are made of fine linen. The completed enclosure follows the dimensions God prescribed.",
+    "refs": [
+      "Exodus 27:9–18"
+    ]
+  },
+  "Exodus 38:17": {
+    "title": "Pillars and sockets completed",
+    "text": "The pillars’ sockets are bronze, while their hooks and bands are silver and their tops are overlaid with silver. The materials distinguish the fittings and complete the courtyard supports.",
+    "refs": [
+      "Exodus 27:10"
+    ]
+  },
+  "Exodus 38:18": {
+    "title": "The gate screen",
+    "text": "The courtyard gate screen is made of embroidered colored yarn and fine linen, with specified dimensions. The entrance is marked by a screen matching the sanctuary’s sacred colors.",
+    "refs": [
+      "Exodus 27:16"
+    ]
+  },
+  "Exodus 38:19": {
+    "title": "Four pillars for the gate",
+    "text": "The gate screen is supported by four pillars with silver hooks and bands and bronze sockets. The entrance structure follows the pattern given earlier.",
+    "refs": [
+      "Exodus 27:16–17"
+    ]
+  },
+  "Exodus 38:20": {
+    "title": "Bronze pins",
+    "text": "The pins for the tabernacle and courtyard are made of bronze. These practical fittings secure the portable sanctuary and its enclosure.",
+    "refs": [
+      "Exodus 27:19"
+    ]
+  },
+  "Exodus 38:21": {
+    "title": "The tabernacle’s inventory",
+    "text": "The chapter records the account of materials used for the tabernacle of testimony, compiled under the direction of Moses and the Levites. The inventory makes the work accountable and records how the materials were used.",
+    "refs": [
+      "Exodus 38:24–31"
+    ]
+  },
+  "Exodus 38:22": {
+    "title": "Bezalel does what God commanded",
+    "text": "Bezalel son of Uri makes all that the LORD commanded Moses. The verse summarizes his faithful execution of the divine instructions.",
+    "refs": [
+      "Exodus 31:1–5"
+    ]
+  },
+  "Exodus 38:23": {
+    "title": "Oholiab works with Bezalel",
+    "text": "Oholiab assists as an engraver, designer, and embroiderer in colored materials and fine linen. The work is shared by the skilled workers God appointed.",
+    "refs": [
+      "Exodus 31:6"
+    ]
+  },
+  "Exodus 38:24": {
+    "title": "Gold used for the sanctuary",
+    "text": "The gold used for the work is counted according to the sanctuary measure. The inventory begins with the amount of gold contributed and used for the sanctuary.",
+    "refs": [
+      "Exodus 25:3"
+    ]
+  },
+  "Exodus 38:25": {
+    "title": "Silver from the census offering",
+    "text": "The silver is counted from the congregation’s census contribution. The amount is recorded so the use of the people’s offering can be accounted for.",
+    "refs": [
+      "Exodus 30:11–16"
+    ]
+  },
+  "Exodus 38:26": {
+    "title": "Each counted person’s contribution",
+    "text": "The account specifies the half-shekel contribution from those numbered, twenty years old and upward. The equal amount reflects the uniform requirement given in the census instructions.",
+    "refs": [
+      "Exodus 30:13–15"
+    ]
+  },
+  "Exodus 38:27": {
+    "title": "Silver sockets for the sanctuary",
+    "text": "The silver is used to cast sockets for the sanctuary and the veil pillars. The inventory connects the contributed metal with the actual structural work.",
+    "refs": [
+      "Exodus 26:19–25"
+    ]
+  },
+  "Exodus 38:28": {
+    "title": "Silver for hooks and bands",
+    "text": "The remaining silver is used for hooks, bands, and overlays on the pillars. The account records how the material was allocated beyond the sockets.",
+    "refs": [
+      "Exodus 27:10"
+    ]
+  },
+  "Exodus 38:29": {
+    "title": "Bronze from the offering",
+    "text": "The bronze contributed is counted and recorded. The next verse lists the objects made from it.",
+    "refs": [
+      "Exodus 25:3"
+    ]
+  },
+  "Exodus 38:30": {
+    "title": "Bronze for sockets and altar utensils",
+    "text": "Bronze is used for the sockets at the entrance, the bronze altar and its grating, and its utensils. The inventory shows the material’s use in the courtyard structures and sacrificial equipment.",
+    "refs": [
+      "Exodus 27:1–8"
+    ]
+  },
+  "Exodus 38:31": {
+    "title": "Bronze sockets and pins",
+    "text": "Bronze is used for the courtyard sockets and the pins of the tabernacle and courtyard. The account closes by listing the practical fittings made from the contributed bronze.",
+    "refs": [
+      "Exodus 27:19"
+    ]
   }
 };
