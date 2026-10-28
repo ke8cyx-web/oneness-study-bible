@@ -14320,5 +14320,392 @@ window.verseCommentary = {
       "Leviticus 11:44–45",
       "Deuteronomy 14:21"
     ]
+  },
+  "Exodus 23:1": {
+    "title": "Do not spread a false report",
+    "text": "Israel must not spread a false report or join the wicked in giving malicious testimony. The command protects truth and justice in the community.",
+    "refs": [
+      "Exodus 20:16",
+      "Leviticus 19:16"
+    ]
+  },
+  "Exodus 23:2": {
+    "title": "Do not follow a crowd into evil",
+    "text": "The people must not follow a multitude to do evil or distort justice because many people are doing so. Truth and right judgment must not be surrendered to group pressure.",
+    "refs": [
+      "Deuteronomy 16:19",
+      "Proverbs 1:10"
+    ]
+  },
+  "Exodus 23:3": {
+    "title": "Do not favor the poor unjustly",
+    "text": "The law says not to favor a poor person in a lawsuit merely because of poverty. Justice requires impartiality: compassion for the vulnerable must not become dishonest judgment.",
+    "refs": [
+      "Leviticus 19:15",
+      "James 2:1–9"
+    ]
+  },
+  "Exodus 23:4": {
+    "title": "Return an enemy’s wandering animal",
+    "text": "If an Israelite finds an enemy’s ox or donkey wandering, the animal must be returned. The law requires practical good even toward an adversary.",
+    "refs": [
+      "Deuteronomy 22:1–4",
+      "Matthew 5:44"
+    ]
+  },
+  "Exodus 23:5": {
+    "title": "Help an enemy’s burdened animal",
+    "text": "If an enemy’s donkey has fallen under its burden, the Israelite must help it rather than ignore the situation. The command teaches that justice and mercy can require action even when relationships are hostile.",
+    "refs": [
+      "Deuteronomy 22:4",
+      "Proverbs 25:21"
+    ]
+  },
+  "Exodus 23:6": {
+    "title": "Do not pervert justice for the poor",
+    "text": "The people must not deny justice to a poor person in a lawsuit. The verse balances the earlier warning against favoritism by requiring a fair judgment regardless of wealth or poverty.",
+    "refs": [
+      "Exodus 23:3",
+      "Leviticus 19:15"
+    ]
+  },
+  "Exodus 23:7": {
+    "title": "Keep away from false accusation",
+    "text": "Israel must keep far from a false matter and must not condemn the innocent or righteous. God declares that He will not justify the wicked; judicial decisions must not knowingly punish the innocent.",
+    "refs": [
+      "Proverbs 17:15",
+      "Deuteronomy 25:1"
+    ]
+  },
+  "Exodus 23:8": {
+    "title": "Do not take a bribe",
+    "text": "A bribe blinds those who see clearly and twists the words of the righteous. The command condemns corruption because money can distort judgment and deprive people of justice.",
+    "refs": [
+      "Deuteronomy 16:19",
+      "Proverbs 17:23"
+    ]
+  },
+  "Exodus 23:9": {
+    "title": "Remember the stranger’s experience",
+    "text": "Israel must not oppress a stranger because they know the heart of a stranger, having been strangers in Egypt. Their own history of suffering is to make them more just and compassionate, not more oppressive.",
+    "refs": [
+      "Exodus 22:21",
+      "Leviticus 19:33–34"
+    ]
+  },
+  "Exodus 23:10": {
+    "title": "Six years of sowing",
+    "text": "Israel may sow and gather produce for six years. The law now applies a pattern of work and rest to the land itself.",
+    "refs": [
+      "Leviticus 25:3–4"
+    ]
+  },
+  "Exodus 23:11": {
+    "title": "The land rests in the seventh year",
+    "text": "In the seventh year the land is to rest and lie fallow, so the poor may eat from it and what remains may feed the beasts. The practice limits ordinary exploitation of the land and provides for vulnerable people and animals.",
+    "refs": [
+      "Leviticus 25:4–7",
+      "Deuteronomy 15:1–2"
+    ]
+  },
+  "Exodus 23:12": {
+    "title": "Sabbath rest for people and animals",
+    "text": "The people are to work six days and rest on the seventh, so their ox and donkey may rest and the son of the servant and the stranger may be refreshed. Sabbath rest is presented as a benefit extending to those with the least power.",
+    "refs": [
+      "Exodus 20:8–11",
+      "Deuteronomy 5:14"
+    ]
+  },
+  "Exodus 23:13": {
+    "title": "Do not invoke other gods",
+    "text": "Israel must be careful to do all God has said and not even make the names of other gods part of their worship. The command guards the community against idolatry and the practices associated with it.",
+    "refs": [
+      "Joshua 23:7",
+      "Psalm 16:4"
+    ]
+  },
+  "Exodus 23:14": {
+    "title": "Three annual feasts",
+    "text": "Israel is commanded to keep three annual feasts to the LORD. The feasts gather the people around remembrance, worship, and gratitude for God’s provision.",
+    "refs": [
+      "Deuteronomy 16:16"
+    ]
+  },
+  "Exodus 23:15": {
+    "title": "The Feast of Unleavened Bread",
+    "text": "Israel must keep the Feast of Unleavened Bread at the appointed time in Abib, remembering that they came out of Egypt. No one is to appear before the LORD empty-handed; worship is linked to remembering deliverance and bringing offerings.",
+    "refs": [
+      "Exodus 12:14–20",
+      "Deuteronomy 16:1–3"
+    ]
+  },
+  "Exodus 23:16": {
+    "title": "Harvest and ingathering feasts",
+    "text": "Israel is to keep the Feast of Harvest with the firstfruits of labor and the Feast of Ingathering at the end of the year. These observances express gratitude for God’s provision through the agricultural seasons.",
+    "refs": [
+      "Leviticus 23:15–22",
+      "Leviticus 23:33–43"
+    ]
+  },
+  "Exodus 23:17": {
+    "title": "Appear before the LORD three times",
+    "text": "All the males are to appear before the Lord GOD at the three annual feasts. The command emphasizes communal worship and the centrality of the LORD in Israel’s calendar.",
+    "refs": [
+      "Deuteronomy 16:16"
+    ]
+  },
+  "Exodus 23:18": {
+    "title": "Offerings handled as commanded",
+    "text": "The blood of God’s sacrifice is not to be offered with leavened bread, and the fat of the feast is not to remain until morning. The instructions preserve the distinct requirements of Israel’s sacrificial worship.",
+    "refs": [
+      "Exodus 12:8–10",
+      "Leviticus 7:15"
+    ]
+  },
+  "Exodus 23:19": {
+    "title": "Bring the firstfruits to God",
+    "text": "The first of the firstfruits of the land is to be brought to the house of the LORD. The prohibition against boiling a kid in its mother’s milk is also stated; the precise rationale is not explained here, so interpretation should not be claimed as certain.",
+    "refs": [
+      "Deuteronomy 26:1–11",
+      "Proverbs 3:9"
+    ]
+  },
+  "Exodus 23:20": {
+    "title": "An angel goes before Israel",
+    "text": "God promises to send an angel before Israel to guard them on the way and bring them to the prepared place. The angel is God’s messenger and agent; the verse itself does not require the conclusion that the messenger is a separate divine person.",
+    "refs": [
+      "Exodus 14:19",
+      "Exodus 32:34"
+    ]
+  },
+  "Exodus 23:21": {
+    "title": "Hear the messenger’s voice",
+    "text": "Israel must beware of the messenger and obey his voice, because God’s name is in him and he will not pardon rebellion. The passage describes a messenger bearing God’s authority; it should be interpreted within its context rather than using one phrase alone to settle every question about divine identity.",
+    "refs": [
+      "Exodus 23:20",
+      "Exodus 32:34–35"
+    ]
+  },
+  "Exodus 23:22": {
+    "title": "God will oppose Israel’s enemies",
+    "text": "If Israel obeys the messenger and does all God speaks, God will be an enemy to Israel’s enemies and an adversary to their adversaries. The promise is covenantal and tied to Israel’s obedience under the guidance God provides.",
+    "refs": [
+      "Deuteronomy 28:1–7"
+    ]
+  },
+  "Exodus 23:23": {
+    "title": "The messenger leads into the land",
+    "text": "The messenger will go before Israel to bring them to the peoples of Canaan, whom God will cut off. The verse anticipates the conquest and the specific judgment described in the covenant narrative.",
+    "refs": [
+      "Deuteronomy 7:1–5"
+    ]
+  },
+  "Exodus 23:24": {
+    "title": "Reject Canaanite worship",
+    "text": "Israel must not bow to the nations’ gods or imitate their practices, but must overthrow their idols. The command protects Israel’s exclusive worship of the LORD and warns against absorbing the religious customs of the land.",
+    "refs": [
+      "Deuteronomy 12:2–4"
+    ]
+  },
+  "Exodus 23:25": {
+    "title": "Serve the LORD and receive provision",
+    "text": "Israel is to serve the LORD, who promises blessing on their bread and water and removal of sickness. These are covenant promises to Israel in this setting; they should not be turned into a guarantee that every faithful person today will always be free from illness.",
+    "refs": [
+      "Deuteronomy 7:12–15"
+    ]
+  },
+  "Exodus 23:26": {
+    "title": "Life and fruitfulness in the land",
+    "text": "God promises that there will be no miscarriage or barrenness in the land and that Israel’s days will be fulfilled. The statement describes the covenant blessing associated with Israel’s life in the promised land.",
+    "refs": [
+      "Deuteronomy 7:14"
+    ]
+  },
+  "Exodus 23:27": {
+    "title": "God sends fear before Israel",
+    "text": "God promises to send His fear before Israel and confuse the peoples they encounter. The language describes God’s intervention as Israel enters the land, not a general command for believers to frighten others.",
+    "refs": [
+      "Deuteronomy 2:25",
+      "Joshua 2:9–11"
+    ]
+  },
+  "Exodus 23:28": {
+    "title": "Hornets before Israel",
+    "text": "God says He will send hornets before Israel to drive out certain peoples. The text presents this as part of God’s promised assistance; interpretations of whether the expression is literal or figurative vary.",
+    "refs": [
+      "Deuteronomy 7:20",
+      "Joshua 24:12"
+    ]
+  },
+  "Exodus 23:29": {
+    "title": "The nations are not removed all at once",
+    "text": "God says He will not drive the nations out in one year, lest the land become desolate and wild animals multiply. The gradual process is explained as practical care for the land and the people who will inhabit it.",
+    "refs": [
+      "Deuteronomy 7:22"
+    ]
+  },
+  "Exodus 23:30": {
+    "title": "Israel grows into the land",
+    "text": "God will drive out the nations little by little until Israel increases and possesses the land. The promise describes a gradual process rather than an instant change.",
+    "refs": [
+      "Joshua 13:1"
+    ]
+  },
+  "Exodus 23:31": {
+    "title": "Borders of the promised land",
+    "text": "God describes Israel’s borders from the Red Sea toward the sea of the Philistines and from the wilderness to the river, and promises to deliver the inhabitants into Israel’s hand. The borders express the land promise in the covenant; later biblical history records the complex process of settlement.",
+    "refs": [
+      "Genesis 15:18",
+      "Deuteronomy 11:24"
+    ]
+  },
+  "Exodus 23:32": {
+    "title": "No covenant with the nations’ gods",
+    "text": "Israel must make no covenant with the peoples or their gods. The command warns against political or religious agreements that would compromise Israel’s covenant loyalty to the LORD.",
+    "refs": [
+      "Deuteronomy 7:2–4"
+    ]
+  },
+  "Exodus 23:33": {
+    "title": "Do not let idolatry become a snare",
+    "text": "The nations must not dwell in a way that leads Israel to sin against God, because serving their gods would become a snare. The warning identifies idolatry as a spiritual and communal danger within Israel’s covenant life.",
+    "refs": [
+      "Judges 2:1–3",
+      "Psalm 106:34–39"
+    ]
+  },
+  "Exodus 24:1": {
+    "title": "Moses, Aaron, and the elders called up",
+    "text": "God tells Moses to come up with Aaron, Nadab, Abihu, and seventy elders, while they worship from a distance. The approach is structured by God’s instruction, with Moses having a distinct role in drawing nearer.",
+    "refs": [
+      "Exodus 19:24"
+    ]
+  },
+  "Exodus 24:2": {
+    "title": "Moses alone draws near",
+    "text": "Moses alone is to come near the LORD, while the others and the people remain at a distance. The arrangement distinguishes Moses’ mediating role in the covenant ceremony without suggesting that he is divine.",
+    "refs": [
+      "Deuteronomy 5:5"
+    ]
+  },
+  "Exodus 24:3": {
+    "title": "The people accept the words",
+    "text": "Moses tells the people the LORD’s words and judgments, and they answer that they will do them. Their response echoes the earlier covenant commitment and prepares for the formal ceremony.",
+    "refs": [
+      "Exodus 19:8"
+    ]
+  },
+  "Exodus 24:4": {
+    "title": "Moses writes God’s words",
+    "text": "Moses writes the words of the LORD and builds an altar with twelve pillars for Israel’s twelve tribes. The written record and twelve pillars mark the covenant as a public act involving the whole nation.",
+    "refs": [
+      "Exodus 20:1–17",
+      "Joshua 4:4–7"
+    ]
+  },
+  "Exodus 24:5": {
+    "title": "Young men offer sacrifices",
+    "text": "Young men of Israel offer burnt offerings and peace offerings of oxen to the LORD. The sacrifices accompany the covenant ceremony and express worship and fellowship.",
+    "refs": [
+      "Exodus 20:24"
+    ]
+  },
+  "Exodus 24:6": {
+    "title": "Blood is divided",
+    "text": "Moses puts half the blood in basins and sprinkles the other half on the altar. The blood is central to the covenant ceremony, signifying the solemnity of the agreement before God.",
+    "refs": [
+      "Hebrews 9:18–22"
+    ]
+  },
+  "Exodus 24:7": {
+    "title": "The book of the covenant is read",
+    "text": "Moses reads the book of the covenant to the people, who again promise to obey all that the LORD has said. The reading makes the terms public before the covenant is confirmed with blood.",
+    "refs": [
+      "Deuteronomy 31:9–13"
+    ]
+  },
+  "Exodus 24:8": {
+    "title": "The blood of the covenant",
+    "text": "Moses sprinkles the blood on the people and declares it the blood of the covenant the LORD has made with them according to His words. The New Testament later uses covenant-blood language in explaining Jesus’ death, but the immediate event is the covenant at Sinai.",
+    "refs": [
+      "Matthew 26:28",
+      "Hebrews 9:19–22"
+    ]
+  },
+  "Exodus 24:9": {
+    "title": "The leaders ascend the mountain",
+    "text": "Moses, Aaron, Nadab, Abihu, and seventy elders go up. The group’s ascent follows the covenant ceremony and leads into the description of their encounter with God.",
+    "refs": [
+      "Exodus 24:1–2"
+    ]
+  },
+  "Exodus 24:10": {
+    "title": "They see the God of Israel",
+    "text": "The leaders see a manifestation described as beneath His feet, like a pavement of sapphire stone, clear as heaven. The passage describes a remarkable vision of God’s glory; it does not give a complete physical description of God or imply that the infinite Spirit is confined to a body.",
+    "refs": [
+      "Ezekiel 1:26–28",
+      "John 1:18"
+    ]
+  },
+  "Exodus 24:11": {
+    "title": "God does not lay His hand on the leaders",
+    "text": "God does not harm the nobles of Israel; they behold God and eat and drink. The text emphasizes their preservation during an extraordinary encounter and their fellowship in the covenant meal.",
+    "refs": [
+      "Genesis 32:30"
+    ]
+  },
+  "Exodus 24:12": {
+    "title": "Stone tablets for instruction",
+    "text": "The LORD calls Moses up the mountain to receive stone tablets containing the law and commandments written for Israel’s instruction. The tablets signify the covenant words are given by God, not invented by Moses.",
+    "refs": [
+      "Exodus 31:18",
+      "Deuteronomy 9:9–11"
+    ]
+  },
+  "Exodus 24:13": {
+    "title": "Joshua accompanies Moses",
+    "text": "Moses rises with Joshua, his servant, and goes up the mountain of God. Joshua’s presence anticipates his later leadership and shows his close service to Moses.",
+    "refs": [
+      "Exodus 17:9–14",
+      "Joshua 1:1–2"
+    ]
+  },
+  "Exodus 24:14": {
+    "title": "The elders remain and wait",
+    "text": "Moses tells the elders to wait for them and says Aaron and Hur are available to judge disputes. Even during Moses’ absence, arrangements are made for the people’s practical needs.",
+    "refs": [
+      "Exodus 18:21–26"
+    ]
+  },
+  "Exodus 24:15": {
+    "title": "The cloud covers the mountain",
+    "text": "Moses goes up, and the cloud covers the mountain. The cloud continues the biblical imagery of God’s manifest presence at Sinai.",
+    "refs": [
+      "Exodus 19:9",
+      "Exodus 19:18"
+    ]
+  },
+  "Exodus 24:16": {
+    "title": "The glory rests on Sinai",
+    "text": "The glory of the LORD rests on the mountain for six days, and on the seventh day God calls to Moses from the cloud. The timing links the encounter with a period of waiting before Moses receives the next instruction.",
+    "refs": [
+      "Exodus 40:34–35"
+    ]
+  },
+  "Exodus 24:17": {
+    "title": "The glory appears like a consuming fire",
+    "text": "To the Israelites below, the glory of the LORD looks like a consuming fire on the mountain’s top. The description conveys awe and holiness through visible imagery.",
+    "refs": [
+      "Deuteronomy 4:24",
+      "Hebrews 12:29"
+    ]
+  },
+  "Exodus 24:18": {
+    "title": "Moses remains forty days and nights",
+    "text": "Moses enters the cloud and remains on the mountain forty days and nights. The extended period prepares for the instructions about the tabernacle and the covenant worship of Israel.",
+    "refs": [
+      "Exodus 34:28",
+      "Deuteronomy 9:9"
+    ]
   }
 };
