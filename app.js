@@ -210,7 +210,7 @@ function renderBookGuide(){
  const guide=guides[Number(select.value)||0];
  if(!guide)return;
  content.innerHTML=`<h3>${esc(guide.book)} — ${esc(guide.theme)}</h3>
- <p><strong>Key passages:</strong> ${esc(guide.passages)}</p>
+ <h3>Key passages</h3><div>${guide.passages.split("; ").map(ref=>`<button class="ref-chip" data-guide-ref="${esc(ref)}">${esc(ref)}</button>`).join("")}</div>
  <h3>Study focus</h3><p>${esc(guide.focus)}</p>
  <h3>Questions to consider</h3><p>${esc(guide.questions)}</p>
  <p class="muted">Study reminder: these are teaching notes. Read the full chapters, compare Scripture with Scripture, and distinguish the biblical text from commentary.</p>`;
@@ -330,4 +330,5 @@ $("readingPlanList").addEventListener("change",e=>{const cb=e.target.closest("[d
 $("resetPlanBtn").addEventListener("click",()=>{if(confirm("Reset all reading-plan checkmarks on this device?")){localStorage.removeItem("ogof-reading-plan");renderReadingPlan();}});
 renderTopic();renderBookmarks();renderReadingPlan();renderCrossrefTrail();renderBookGuide();
 $("bookGuideSelect").addEventListener("change",renderBookGuide);
+$("bookGuideContent").addEventListener("click",e=>{const b=e.target.closest("[data-guide-ref]");if(b)openRef(b.dataset.guideRef)});
 loadBible();
