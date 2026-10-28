@@ -686,3 +686,11 @@ Object.assign(window.verseCommentary, {
   "Matthew 12:48": { title: "A Woman Calls Mary Blessed", text: "A woman in the crowd blesses the womb that bore Jesus and the breasts that nursed Him. Jesus responds by emphasizing obedience to God’s word rather than biological relationship alone.", refs: ["Luke 11:27–28"] },
   "Matthew 12:49": { title: "Hear and Keep God’s Word", text: "Jesus says those who hear and keep God’s word are blessed. The emphasis is not disrespect for His mother but on faithful obedience as the mark of true discipleship.", refs: ["Luke 8:21","James 1:22–25"] }
 });
+
+Object.assign(window.verseCommentary, {
+  "Matthew 12:46": { title: "Jesus’ Mother and Brethren Stand Outside", text: "While Jesus speaks to the multitude, His mother and brethren stand outside and seek to speak with Him. The scene sets up Jesus’ teaching about spiritual kinship.", refs: ["Mark 3:31–32","Luke 8:19"] },
+  "Matthew 12:47": { title: "Someone Tells Jesus His Family Is Waiting", text: "A person informs Jesus that His mother and brethren are outside wishing to speak with Him. Jesus uses the moment to teach rather than dismiss the importance of family care.", refs: ["Mark 3:32","Luke 8:20"] },
+  "Matthew 12:48": { title: "Who Is My Mother?", text: "Jesus asks who His mother and brethren are, preparing to identify His spiritual family. His question does not deny His human family; it highlights a deeper relationship formed by obedience to God.", refs: ["Mark 3:33","John 2:4"] },
+  "Matthew 12:49": { title: "Jesus Points to His Disciples", text: "Jesus stretches His hand toward His disciples and identifies them as His family in this spiritual sense. Those who follow Him belong to a community defined by doing God’s will.", refs: ["Mark 3:34","Hebrews 2:11–12"] },
+  "Matthew 12:50": { title: "Whoever Does the Father’s Will Is Family", text: "Jesus says whoever does the will of His Father in heaven is His brother, sister, and mother. True spiritual kinship is marked by obedience to God, not merely by biological connection.", refs: ["Luke 8:21","John 14:15","James 1:22"] }
+});
