@@ -1,4 +1,4 @@
-const CACHE_NAME = "ogof-oneness-bible-v75";
+const CACHE_NAME = "ogof-oneness-bible-v76";
 const APP_SHELL = ["./", "./index.html", "./styles.css", "./app.js", "./manifest.webmanifest", "./assets/icon.svg", "./book-guides.js", "./verse-commentary.js", "./exodus-commentary.js", "./new-testament-commentary.js"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting()));
