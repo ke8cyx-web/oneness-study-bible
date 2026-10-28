@@ -4353,5 +4353,555 @@ window.verseCommentary = {
       "Genesis 14:20",
       "Leviticus 27:30"
     ]
+  },
+  "Genesis 29:1": {
+    "title": "Jacob reaches the eastern land",
+    "text": "Jacob continues his journey and arrives in the region of the people of the east. The narrative moves from the vision at Bethel to the practical events through which Jacob’s family will grow.",
+    "refs": [
+      "Genesis 28:10–15"
+    ]
+  },
+  "Genesis 29:2": {
+    "title": "A well and flocks",
+    "text": "Jacob sees a well with flocks gathered nearby. The scene introduces the shepherding community and sets up his meeting with Rachel.",
+    "refs": [
+      "Genesis 24:11–15"
+    ]
+  },
+  "Genesis 29:3": {
+    "title": "The custom at the well",
+    "text": "The shepherds explain that they wait until the flocks are gathered before rolling away the stone. Their local practice provides the setting for Jacob’s conversation.",
+    "refs": [
+      "Genesis 29:7–8"
+    ]
+  },
+  "Genesis 29:4": {
+    "title": "Jacob asks about their home",
+    "text": "Jacob asks the shepherds where they are from, and they answer that they are from Haran. His question confirms that he has reached the region he was seeking.",
+    "refs": [
+      "Genesis 28:2"
+    ]
+  },
+  "Genesis 29:5": {
+    "title": "They know Laban",
+    "text": "Jacob asks whether they know Laban, the son of Nahor’s family. The answer links Jacob’s journey to the relatives his parents directed him to find.",
+    "refs": [
+      "Genesis 24:29"
+    ]
+  },
+  "Genesis 29:6": {
+    "title": "Rachel is approaching",
+    "text": "The shepherds tell Jacob that Laban’s daughter Rachel is coming with the sheep. God’s providence unfolds through ordinary encounters, though the text does not describe every detail as a separate miracle.",
+    "refs": [
+      "Genesis 24:12–27"
+    ]
+  },
+  "Genesis 29:7": {
+    "title": "Jacob urges them to water the flock",
+    "text": "Jacob points out that it is still daytime and suggests watering the sheep before they lie down. His words show his practical knowledge of the work of shepherds.",
+    "refs": [
+      "Genesis 31:38–40"
+    ]
+  },
+  "Genesis 29:8": {
+    "title": "The stone must be moved together",
+    "text": "The shepherds explain that they cannot water the flocks until all have gathered and the stone is rolled away. Their answer clarifies the custom Jacob has observed.",
+    "refs": [
+      "Genesis 29:2–3"
+    ]
+  },
+  "Genesis 29:9": {
+    "title": "Rachel comes with her father’s sheep",
+    "text": "Rachel arrives while the conversation continues. She is identified as a shepherdess, and the family connection soon becomes clear.",
+    "refs": [
+      "Genesis 29:10"
+    ]
+  },
+  "Genesis 29:10": {
+    "title": "Jacob helps Rachel",
+    "text": "When Jacob sees Rachel and Laban’s flock, he rolls away the stone and waters the sheep. His action is an act of assistance and marks the beginning of their relationship.",
+    "refs": [
+      "Genesis 24:17–20"
+    ]
+  },
+  "Genesis 29:11": {
+    "title": "Jacob weeps and kisses Rachel",
+    "text": "Jacob weeps aloud and kisses Rachel in greeting, then tells her that he is her father’s relative. The emotional response reflects the relief and significance of reaching his mother’s family.",
+    "refs": [
+      "Genesis 28:15"
+    ]
+  },
+  "Genesis 29:12": {
+    "title": "Rachel runs to tell Laban",
+    "text": "Rachel reports Jacob’s family connection, and Laban comes to meet him. The story parallels earlier family encounters in which a traveler is welcomed by relatives.",
+    "refs": [
+      "Genesis 24:29–31"
+    ]
+  },
+  "Genesis 29:13": {
+    "title": "Laban welcomes Jacob",
+    "text": "Laban embraces Jacob, brings him home, and hears his account. The warm welcome later becomes complicated by Laban’s own deceptive treatment of Jacob.",
+    "refs": [
+      "Genesis 29:25",
+      "Genesis 31:7"
+    ]
+  },
+  "Genesis 29:14": {
+    "title": "A month in the household",
+    "text": "Laban acknowledges that Jacob is his relative and lets him stay for a month. The family relationship becomes the basis for the employment arrangement that follows.",
+    "refs": [
+      "Genesis 29:15"
+    ]
+  },
+  "Genesis 29:15": {
+    "title": "Work and wages",
+    "text": "Laban asks Jacob whether he should serve without wages because they are relatives. The question introduces the issue of fair compensation and the terms of Jacob’s work.",
+    "refs": [
+      "Genesis 31:7"
+    ]
+  },
+  "Genesis 29:16": {
+    "title": "Leah and Rachel",
+    "text": "Laban has two daughters, Leah and Rachel. Their contrasting descriptions introduce the sisters and the family conflict that develops around marriage and favoritism.",
+    "refs": [
+      "Genesis 29:17–30"
+    ]
+  },
+  "Genesis 29:17": {
+    "title": "The sisters’ descriptions",
+    "text": "The verse describes Leah’s eyes and Rachel’s appearance. These descriptions are part of the narrator’s account and should not be used to judge a person’s worth by physical beauty.",
+    "refs": [
+      "1 Samuel 16:7"
+    ]
+  },
+  "Genesis 29:18": {
+    "title": "Jacob loves Rachel",
+    "text": "Jacob offers seven years of service because he loves Rachel. The passage presents his willingness to work as the basis of the marriage agreement.",
+    "refs": [
+      "Genesis 29:20"
+    ]
+  },
+  "Genesis 29:19": {
+    "title": "Laban agrees",
+    "text": "Laban says it is better to give Rachel to Jacob than to another man and invites him to stay. The agreement sounds straightforward, but Laban later changes the terms through deception.",
+    "refs": [
+      "Genesis 29:25–27"
+    ]
+  },
+  "Genesis 29:20": {
+    "title": "Seven years seem like days",
+    "text": "Jacob’s love makes the seven years seem short to him. The verse expresses his devotion without implying that love makes the later deception harmless.",
+    "refs": [
+      "Genesis 29:18"
+    ]
+  },
+  "Genesis 29:21": {
+    "title": "Jacob asks for his wife",
+    "text": "After the agreed period, Jacob asks Laban to give him Rachel so they may marry. He believes he has fulfilled the terms of their agreement.",
+    "refs": [
+      "Genesis 29:18–20"
+    ]
+  },
+  "Genesis 29:22": {
+    "title": "The wedding feast",
+    "text": "Laban gathers the people of the place and holds a feast. The public celebration sets the stage for the deception that follows that night.",
+    "refs": [
+      "Genesis 29:23–25"
+    ]
+  },
+  "Genesis 29:23": {
+    "title": "Leah is brought to Jacob",
+    "text": "Laban brings Leah to Jacob, and Jacob unknowingly lies with her. The narrative reports the deception directly, creating a painful reversal of Jacob’s own earlier deceit.",
+    "refs": [
+      "Genesis 27:18–29"
+    ]
+  },
+  "Genesis 29:24": {
+    "title": "Zilpah given to Leah",
+    "text": "Laban gives his servant Zilpah to Leah. This detail becomes relevant to the later account of the children born in Jacob’s household.",
+    "refs": [
+      "Genesis 30:9–13"
+    ]
+  },
+  "Genesis 29:25": {
+    "title": "Jacob discovers the deception",
+    "text": "In the morning Jacob realizes that Laban has given him Leah instead of Rachel. Jacob’s angry question confronts him with a deception resembling the one he used against Isaac.",
+    "refs": [
+      "Genesis 27:18–29"
+    ]
+  },
+  "Genesis 29:26": {
+    "title": "The local custom explained",
+    "text": "Laban claims that the younger daughter cannot be married before the elder. The text records his explanation, but it does not say that this custom justified his failure to disclose the arrangement beforehand.",
+    "refs": [
+      "Genesis 29:21–25"
+    ]
+  },
+  "Genesis 29:27": {
+    "title": "Another seven years",
+    "text": "Laban tells Jacob to complete Leah’s wedding week and promises Rachel in return for another seven years of service. Jacob is placed in a difficult arrangement, and Laban benefits from his labor.",
+    "refs": [
+      "Genesis 31:41"
+    ]
+  },
+  "Genesis 29:28": {
+    "title": "Jacob marries Rachel",
+    "text": "Jacob agrees and receives Rachel as wife after the wedding week. The narrative describes a household arrangement shaped by Laban’s deception and the customs of the time.",
+    "refs": [
+      "Genesis 29:25–27"
+    ]
+  },
+  "Genesis 29:29": {
+    "title": "Bilhah given to Rachel",
+    "text": "Laban gives Bilhah to Rachel as her servant. Bilhah later bears children to Jacob within the household’s complicated struggle over fertility.",
+    "refs": [
+      "Genesis 30:3–8"
+    ]
+  },
+  "Genesis 29:30": {
+    "title": "Jacob’s love and divided household",
+    "text": "Jacob loves Rachel more than Leah and serves Laban another seven years. The favoritism repeats a painful pattern already present in Isaac and Rebekah’s family.",
+    "refs": [
+      "Genesis 25:28",
+      "Genesis 27:1–17"
+    ]
+  },
+  "Genesis 29:31": {
+    "title": "The LORD sees Leah’s affliction",
+    "text": "The LORD sees that Leah is less loved and enables her to conceive, while Rachel remains barren at this point. God’s attention to Leah’s distress is explicit, though the verse does not say that her worth depends on childbearing.",
+    "refs": [
+      "Psalm 34:18"
+    ]
+  },
+  "Genesis 29:32": {
+    "title": "Reuben is born",
+    "text": "Leah names her first son Reuben and connects the name with the LORD’s seeing her affliction and her hope of being loved. Her words reveal the emotional pain within the marriage.",
+    "refs": [
+      "Genesis 35:23"
+    ]
+  },
+  "Genesis 29:33": {
+    "title": "Simeon is born",
+    "text": "Leah names her second son Simeon because she believes the LORD has heard that she is unloved. The verse portrays God as attentive to her suffering.",
+    "refs": [
+      "Exodus 3:7"
+    ]
+  },
+  "Genesis 29:34": {
+    "title": "Levi is born",
+    "text": "Leah names her third son Levi and hopes her husband will become attached to her. Her words show that the birth of children has not resolved the relationship’s lack of affection.",
+    "refs": [
+      "Genesis 49:5–7"
+    ]
+  },
+  "Genesis 29:35": {
+    "title": "Judah is born",
+    "text": "Leah names her fourth son Judah and says she will praise the LORD. Judah’s line later becomes significant in Israel’s history and in the New Testament’s account of Jesus’ ancestry.",
+    "refs": [
+      "Genesis 49:8–10",
+      "Matthew 1:2–3"
+    ]
+  },
+  "Genesis 30:1": {
+    "title": "Rachel’s anguish over barrenness",
+    "text": "Rachel envies Leah and asks Jacob for children, expressing her distress intensely. The chapter presents infertility as a source of deep family pain, not as proof that God has rejected someone.",
+    "refs": [
+      "1 Samuel 1:10–11"
+    ]
+  },
+  "Genesis 30:2": {
+    "title": "Jacob points to God’s sovereignty",
+    "text": "Jacob responds that he is not in God’s place, who has withheld children from Rachel. His words acknowledge that fertility is beyond his control, though his anger does not ease Rachel’s suffering.",
+    "refs": [
+      "Genesis 29:31"
+    ]
+  },
+  "Genesis 30:3": {
+    "title": "Rachel offers Bilhah",
+    "text": "Rachel gives Bilhah to Jacob so she may have children through her servant. This reflects a custom in the ancient household, but the resulting competition brings further strain.",
+    "refs": [
+      "Genesis 16:1–4"
+    ]
+  },
+  "Genesis 30:4": {
+    "title": "Bilhah becomes Jacob’s wife",
+    "text": "Rachel gives Bilhah to Jacob, and he goes in to her. The account records the household practice without presenting it as a universal command for marriage.",
+    "refs": [
+      "Genesis 30:3"
+    ]
+  },
+  "Genesis 30:5": {
+    "title": "Dan is born",
+    "text": "Bilhah bears Jacob a son. The child’s birth becomes part of the rivalry between Leah and Rachel over status and children.",
+    "refs": [
+      "Genesis 30:6"
+    ]
+  },
+  "Genesis 30:6": {
+    "title": "Rachel names Dan",
+    "text": "Rachel names the child Dan and says God has judged her and heard her voice. Her words show how she interprets the birth within her distress and hope.",
+    "refs": [
+      "Genesis 30:1–2"
+    ]
+  },
+  "Genesis 30:7": {
+    "title": "Bilhah conceives again",
+    "text": "Bilhah bears a second son to Jacob. The family grows, but the narrative’s pattern of rivalry continues.",
+    "refs": [
+      "Genesis 30:8"
+    ]
+  },
+  "Genesis 30:8": {
+    "title": "Naphtali and the struggle",
+    "text": "Rachel names the child Naphtali and describes her struggle with her sister. Her words reveal that the competition between the sisters has become central to the household.",
+    "refs": [
+      "Genesis 29:31–35"
+    ]
+  },
+  "Genesis 30:9": {
+    "title": "Leah gives Zilpah to Jacob",
+    "text": "When Leah stops bearing children for a time, she gives Zilpah to Jacob. The household’s efforts to secure children through servants intensify the competition rather than bringing peace.",
+    "refs": [
+      "Genesis 30:3–4"
+    ]
+  },
+  "Genesis 30:10": {
+    "title": "Zilpah bears a son",
+    "text": "Zilpah bears Jacob a son. The verse continues the account of the children born through the two sisters’ servants.",
+    "refs": [
+      "Genesis 30:11–13"
+    ]
+  },
+  "Genesis 30:11": {
+    "title": "Gad is born",
+    "text": "Leah names the child Gad, a name associated with good fortune or a troop. The naming reflects Leah’s interpretation of the event and the family’s hopes.",
+    "refs": [
+      "Genesis 35:26"
+    ]
+  },
+  "Genesis 30:12": {
+    "title": "Zilpah bears another son",
+    "text": "Zilpah bears Jacob a second son. The growing family later becomes the foundation for the tribes of Israel.",
+    "refs": [
+      "Genesis 35:23–26"
+    ]
+  },
+  "Genesis 30:13": {
+    "title": "Asher and Leah’s happiness",
+    "text": "Leah names the child Asher and says the daughters will call her blessed. Her words express joy, while the broader narrative still shows tension and competition in the household.",
+    "refs": [
+      "Genesis 49:20"
+    ]
+  },
+  "Genesis 30:14": {
+    "title": "Mandrakes in the field",
+    "text": "Reuben finds mandrakes and brings them to Leah. The plant was associated with fertility in the ancient world, but the narrative does not teach that it can guarantee conception.",
+    "refs": [
+      "Song of Solomon 7:13"
+    ]
+  },
+  "Genesis 30:15": {
+    "title": "The sisters bargain",
+    "text": "Rachel asks for mandrakes, and Leah answers bitterly about Rachel taking Jacob’s affection. Their exchange exposes resentment and the way affection has become a contested resource.",
+    "refs": [
+      "Genesis 29:30–31"
+    ]
+  },
+  "Genesis 30:16": {
+    "title": "Leah meets Jacob",
+    "text": "Leah tells Jacob she has hired him with the mandrakes, and he goes in to her that night. The scene depicts a troubled marriage shaped by bargaining and rivalry.",
+    "refs": [
+      "Genesis 30:14–15"
+    ]
+  },
+  "Genesis 30:17": {
+    "title": "God hears Leah",
+    "text": "God hears Leah, and she conceives again. The narrative attributes the conception to God’s action rather than to the mandrakes Rachel desired.",
+    "refs": [
+      "Genesis 29:31–35"
+    ]
+  },
+  "Genesis 30:18": {
+    "title": "Issachar is born",
+    "text": "Leah names her son Issachar and connects the name with the arrangement she made. Her explanation reflects the complicated human negotiations surrounding the births.",
+    "refs": [
+      "Genesis 35:23"
+    ]
+  },
+  "Genesis 30:19": {
+    "title": "Leah conceives again",
+    "text": "Leah bears Jacob a sixth son. The account records the growth of Jacob’s family and the developing tribal ancestry of Israel.",
+    "refs": [
+      "Genesis 35:23"
+    ]
+  },
+  "Genesis 30:20": {
+    "title": "Zebulun and Leah’s hope",
+    "text": "Leah names the child Zebulun and hopes Jacob will honor her because she has borne him six sons. Her hope reveals that the struggle for her husband’s affection remains unresolved.",
+    "refs": [
+      "Genesis 49:13"
+    ]
+  },
+  "Genesis 30:21": {
+    "title": "Dinah is born",
+    "text": "Leah later bears a daughter named Dinah. The verse briefly records her birth before the narrative turns back to Jacob’s departure and the conflict involving Laban.",
+    "refs": [
+      "Genesis 34:1"
+    ]
+  },
+  "Genesis 30:22": {
+    "title": "God remembers Rachel",
+    "text": "God remembers Rachel, hears her, and opens her womb. “Remembered” describes God acting faithfully toward her; it does not mean that He had literally forgotten her.",
+    "refs": [
+      "Genesis 8:1",
+      "1 Samuel 1:19"
+    ]
+  },
+  "Genesis 30:23": {
+    "title": "Rachel’s reproach removed",
+    "text": "Rachel conceives and bears a son, saying God has taken away her reproach. The verse presents the birth as an answer to her long distress, without teaching that childlessness is shameful in God’s sight.",
+    "refs": [
+      "Luke 1:25"
+    ]
+  },
+  "Genesis 30:24": {
+    "title": "Joseph’s name and prayer",
+    "text": "Rachel names her son Joseph and asks that the LORD add another son. Joseph’s name expresses gratitude and continued hope, and his later story becomes central to the survival of Jacob’s family.",
+    "refs": [
+      "Genesis 37:2–4"
+    ]
+  },
+  "Genesis 30:25": {
+    "title": "Jacob asks to return home",
+    "text": "After Joseph’s birth, Jacob asks Laban to let him return to his own place and country. His request begins the transition from years of service toward the promised homeland.",
+    "refs": [
+      "Genesis 28:15"
+    ]
+  },
+  "Genesis 30:26": {
+    "title": "Jacob names his years of service",
+    "text": "Jacob asks to take his wives and children, for whom he served Laban. He reminds Laban that his labor has built the household and that he now seeks to provide for his own family.",
+    "refs": [
+      "Genesis 29:18–30"
+    ]
+  },
+  "Genesis 30:27": {
+    "title": "Laban acknowledges God’s blessing",
+    "text": "Laban says he has learned by experience that the LORD has blessed him because of Jacob. Even a person outside Jacob’s immediate household recognizes that God’s favor has accompanied Jacob’s work.",
+    "refs": [
+      "Genesis 30:30"
+    ]
+  },
+  "Genesis 30:28": {
+    "title": "Laban offers wages",
+    "text": "Laban asks Jacob to name his wages. The negotiation follows years in which Laban changed the terms of their agreement, so the request must be read in that history.",
+    "refs": [
+      "Genesis 31:7"
+    ]
+  },
+  "Genesis 30:29": {
+    "title": "Jacob describes his service",
+    "text": "Jacob explains how he has cared for Laban’s livestock and how the flock has fared under his supervision. He presents the record of his work as the basis for fair compensation.",
+    "refs": [
+      "Genesis 31:38–40"
+    ]
+  },
+  "Genesis 30:30": {
+    "title": "The LORD has blessed Laban",
+    "text": "Jacob notes that Laban’s possessions grew during his service and says the LORD blessed Laban through him. The verse emphasizes God’s providence in work and provision.",
+    "refs": [
+      "Genesis 12:3"
+    ]
+  },
+  "Genesis 30:31": {
+    "title": "Jacob proposes a wage",
+    "text": "Jacob says he will continue tending the flock if Laban agrees to a specific arrangement. He seeks a measurable wage rather than another vague promise.",
+    "refs": [
+      "Genesis 30:32–33"
+    ]
+  },
+  "Genesis 30:32": {
+    "title": "Marked animals as wages",
+    "text": "Jacob proposes receiving the speckled, spotted, and dark-colored animals as his wages. The agreement makes the division visible and gives both men a way to identify Jacob’s portion.",
+    "refs": [
+      "Genesis 30:33"
+    ]
+  },
+  "Genesis 30:33": {
+    "title": "A transparent agreement",
+    "text": "Jacob says his honesty can be checked by examining the animals. The verse highlights accountability in a setting where trust between Jacob and Laban has been repeatedly damaged.",
+    "refs": [
+      "Genesis 31:7"
+    ]
+  },
+  "Genesis 30:34": {
+    "title": "Laban agrees",
+    "text": "Laban accepts the proposed arrangement. The following verses reveal that he still acts in ways that complicate the agreement.",
+    "refs": [
+      "Genesis 30:35–36"
+    ]
+  },
+  "Genesis 30:35": {
+    "title": "Laban removes the marked animals",
+    "text": "Laban separates many of the animals that would qualify as Jacob’s wages and gives them to his sons. His action undermines the fairness of the agreement he just accepted.",
+    "refs": [
+      "Genesis 31:7"
+    ]
+  },
+  "Genesis 30:36": {
+    "title": "Distance between the flocks",
+    "text": "Laban places a three-day journey between his flock and Jacob’s care. The arrangement limits Jacob’s access to the animals and shows the continuing distrust between them.",
+    "refs": [
+      "Genesis 31:41"
+    ]
+  },
+  "Genesis 30:37": {
+    "title": "Jacob uses rods",
+    "text": "Jacob takes fresh rods and peels them to expose white streaks. The passage describes an ancient husbandry practice; it should not be turned into a universal biological rule or a magical technique.",
+    "refs": [
+      "Genesis 30:38–43"
+    ]
+  },
+  "Genesis 30:38": {
+    "title": "The rods at the watering troughs",
+    "text": "Jacob places the rods where the animals mate while they drink. The narrative describes his method, while the later account credits God with intervening in the dispute over wages.",
+    "refs": [
+      "Genesis 31:10–12"
+    ]
+  },
+  "Genesis 30:39": {
+    "title": "The animals produce marked young",
+    "text": "The flock brings forth streaked, speckled, and spotted young. The story reports the outcome but does not require readers to conclude that the rods themselves caused it.",
+    "refs": [
+      "Genesis 31:10–12"
+    ]
+  },
+  "Genesis 30:40": {
+    "title": "Jacob separates the flocks",
+    "text": "Jacob separates the animals and manages the flocks so that his portion is distinct. The verse records his practical work in caring for the growing herd.",
+    "refs": [
+      "Genesis 30:32–33"
+    ]
+  },
+  "Genesis 30:41": {
+    "title": "Selective breeding practices",
+    "text": "Jacob places the rods before the stronger animals when they mate. The text details his strategy but later reveals that God’s intervention, not a guaranteed effect of the rods, is central to the outcome.",
+    "refs": [
+      "Genesis 31:10–12"
+    ]
+  },
+  "Genesis 30:42": {
+    "title": "The weaker animals excluded",
+    "text": "Jacob does not use the same method with the weaker animals, so Laban’s portion is weaker and Jacob’s stronger. The account describes how Jacob’s wealth increases amid a contested wage arrangement.",
+    "refs": [
+      "Genesis 31:7–9"
+    ]
+  },
+  "Genesis 30:43": {
+    "title": "Jacob’s household and wealth grow",
+    "text": "Jacob becomes very prosperous, with large flocks, servants, camels, and donkeys. The next chapter explains Jacob’s understanding that God saw Laban’s unfairness and protected him.",
+    "refs": [
+      "Genesis 31:7–12"
+    ]
   }
 };
