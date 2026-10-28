@@ -3522,5 +3522,350 @@ window.verseCommentary = {
     "title": "Isaac takes Rebekah as his wife",
     "text": "Isaac brings Rebekah into Sarah’s tent, takes her as his wife, and loves her; he is comforted after his mother’s death. The verse joins marriage with grief and consolation. It records the continuation of the covenant family through Isaac and Rebekah.",
     "refs": "Genesis 23:1–2; Genesis 25:20"
+  },
+  "Genesis 25:1": {
+    "title": "Abraham takes another wife",
+    "text": "Abraham takes Keturah as a wife after Sarah’s death. The verse introduces another family line in Abraham’s later life. The text records the relationship without suggesting that every family arrangement described in Genesis is a universal command.",
+    "refs": "Genesis 23:1–2; 1 Chronicles 1:32"
+  },
+  "Genesis 25:2": {
+    "title": "Keturah’s sons",
+    "text": "The verse lists the sons born to Keturah. These names extend the account of Abraham’s descendants beyond Isaac and Ishmael. The next verses continue the genealogy and describe Abraham’s arrangements for inheritance.",
+    "refs": "Genesis 25:5–6"
+  },
+  "Genesis 25:3": {
+    "title": "The sons of Dedan",
+    "text": "The genealogy names descendants of Dedan. The list helps record family lines associated with Abraham’s wider household. Precise identification of every ancient group with modern populations requires evidence beyond the names alone.",
+    "refs": "Genesis 10:7; 1 Chronicles 1:32"
+  },
+  "Genesis 25:4": {
+    "title": "The sons of Midian",
+    "text": "The verse names the sons of Midian and other descendants. Midian becomes important in later biblical narratives. The genealogy preserves ancestry but does not define the moral character of every later person associated with these names.",
+    "refs": "Exodus 2:15–21; Numbers 22:4"
+  },
+  "Genesis 25:5": {
+    "title": "Isaac receives Abraham’s possessions",
+    "text": "Abraham gives all that he has to Isaac. This confirms Isaac’s place as the covenant heir. The earlier promise of a multitude of nations does not erase the specific inheritance assigned to Isaac in the family narrative.",
+    "refs": "Genesis 17:19–21; Genesis 24:36"
+  },
+  "Genesis 25:6": {
+    "title": "Gifts to other sons and separation",
+    "text": "Abraham gives gifts to the sons of his concubines and sends them eastward, away from Isaac. The arrangement distinguishes Isaac’s inheritance while acknowledging the other sons. The verse reports the patriarch’s household decision, not a rule for every family inheritance.",
+    "refs": "Genesis 25:5; Genesis 21:12–13"
+  },
+  "Genesis 25:7": {
+    "title": "Abraham’s lifespan",
+    "text": "Abraham lives one hundred and seventy-five years. The verse records the end of a life shaped by God’s call and covenant. His story includes faith and failure, yet the narrative repeatedly emphasizes God’s faithfulness to His promise.",
+    "refs": "Genesis 12:1–3; Hebrews 11:8–10"
+  },
+  "Genesis 25:8": {
+    "title": "Abraham dies in a good old age",
+    "text": "Abraham dies at a good old age, old and full of years, and is gathered to his people. The expression describes the completion of his life. The verse does not give a full doctrine of the afterlife by itself; its language belongs to the patriarchal burial narrative.",
+    "refs": "Genesis 15:15; Genesis 25:9"
+  },
+  "Genesis 25:9": {
+    "title": "Isaac and Ishmael bury Abraham",
+    "text": "Isaac and Ishmael bury Abraham in the cave of Machpelah with Sarah. Their cooperation at the burial is notable given the earlier separation of their households. The verse records both sons participating in honoring their father.",
+    "refs": "Genesis 23:19; Genesis 21:13–14"
+  },
+  "Genesis 25:10": {
+    "title": "The family burial place",
+    "text": "The field Abraham purchased from the sons of Heth is identified as the burial place of Abraham and Sarah. The property purchase in Genesis 23 now becomes the family tomb. The narrative carefully connects the patriarchs with the promised land through this burial possession.",
+    "refs": "Genesis 23:16–20; Genesis 49:29–32"
+  },
+  "Genesis 25:11": {
+    "title": "God blesses Isaac",
+    "text": "After Abraham’s death, God blesses Isaac, who dwells by the well Lahai-roi. The verse shows the covenant story continuing through Isaac. The one God who called Abraham remains active in the next generation.",
+    "refs": "Genesis 17:19; Genesis 26:2–5"
+  },
+  "Genesis 25:12": {
+    "title": "The generations of Ishmael",
+    "text": "The text introduces Ishmael’s descendants, identifying him as Abraham’s son through Hagar. This genealogy fulfills the promise that Ishmael would become a great nation. The record should not be used to stereotype modern peoples descended from or associated with these ancient names.",
+    "refs": "Genesis 16:10; Genesis 17:20"
+  },
+  "Genesis 25:13": {
+    "title": "Ishmael’s sons named",
+    "text": "The verse lists Ishmael’s sons in the order of their birth. These names preserve the genealogy promised earlier. The list is historical and familial rather than a doctrinal statement about God’s identity.",
+    "refs": "Genesis 17:20; Genesis 25:16"
+  },
+  "Genesis 25:14": {
+    "title": "Mishma and Dumah",
+    "text": "The genealogy continues with Mishma, Dumah, and Massa. These names help identify the descendants of Ishmael in the biblical record. Modern geographical associations may be discussed, but should not be presented as certain where evidence is limited.",
+    "refs": "Genesis 25:13–16"
+  },
+  "Genesis 25:15": {
+    "title": "Hadar and other sons",
+    "text": "The verse continues the list of Ishmael’s sons. The genealogy records the breadth of the family line and sets up the summary of their settlements. Its purpose is to show the fulfillment of God’s promise concerning Ishmael’s descendants.",
+    "refs": "Genesis 17:20; Genesis 25:16"
+  },
+  "Genesis 25:16": {
+    "title": "Twelve princes by their nations",
+    "text": "Ishmael’s sons are identified as twelve princes according to their settlements and encampments. This corresponds to God’s promise that Ishmael would become a great nation. The verse shows that God’s word concerning Ishmael was fulfilled even though Isaac carries the covenant line.",
+    "refs": "Genesis 17:20; Genesis 21:13"
+  },
+  "Genesis 25:17": {
+    "title": "Ishmael’s lifespan and death",
+    "text": "Ishmael lives one hundred and thirty-seven years and is gathered to his people. The verse records his death and closes his genealogy. The narrative acknowledges his place in Abraham’s family and God’s promise to him.",
+    "refs": "Genesis 16:10–12; Genesis 17:20"
+  },
+  "Genesis 25:18": {
+    "title": "Ishmael’s descendants settle",
+    "text": "Ishmael’s descendants settle from Havilah to Shur, toward Egypt and Assyria, and are described in relation to their brethren. The verse gives a broad geographical picture of the family’s spread. It should not be used to assign a fixed character to modern populations.",
+    "refs": "Genesis 10:7; Genesis 25:16"
+  },
+  "Genesis 25:19": {
+    "title": "The generations of Isaac",
+    "text": "The text begins Isaac’s family account and identifies him as Abraham’s son. The repeated genealogy formula connects Isaac to the covenant promises already given. The next verses describe the long-awaited birth of his children.",
+    "refs": "Genesis 17:19; Genesis 21:1–3"
+  },
+  "Genesis 25:20": {
+    "title": "Isaac marries Rebekah",
+    "text": "Isaac is forty years old when he marries Rebekah, daughter of Bethuel and sister of Laban. This connects the marriage narrative of Genesis 24 with the next generation. The family connection is stated directly in the verse.",
+    "refs": "Genesis 24:15; Genesis 24:67"
+  },
+  "Genesis 25:21": {
+    "title": "Isaac prays for Rebekah",
+    "text": "Isaac entreats the LORD for Rebekah because she is barren, and the LORD answers his prayer so she conceives. The verse presents God as the one who hears and acts. The covenant promise continues through divine faithfulness, not human control over fertility.",
+    "refs": "Genesis 11:30; 1 Samuel 1:10–20"
+  },
+  "Genesis 25:22": {
+    "title": "The children struggle within Rebekah",
+    "text": "The children struggle inside Rebekah, and she asks why this is happening. She goes to inquire of the LORD. The verse portrays a troubling pregnancy and Rebekah’s search for understanding from God.",
+    "refs": "Genesis 25:23; Jeremiah 1:5"
+  },
+  "Genesis 25:23": {
+    "title": "Two nations in the womb",
+    "text": "The LORD tells Rebekah that two nations are in her womb and that the elder will serve the younger. The oracle explains the struggle as connected to the future of the two lines. Paul later discusses this passage in relation to God’s purpose; the immediate text concerns Jacob and Esau and their descendants.",
+    "refs": "Romans 9:10–13; Malachi 1:2–3"
+  },
+  "Genesis 25:24": {
+    "title": "The twins are born",
+    "text": "When the days of delivery arrive, Rebekah bears twins. The birth fulfills the announcement that two children and two lines are involved. The following verses describe their distinct appearances and names.",
+    "refs": "Genesis 25:23"
+  },
+  "Genesis 25:25": {
+    "title": "Esau is born",
+    "text": "The first child is red and hairy, and he is named Esau. The description explains the name and contrasts with the second child’s appearance. The text is setting up the different paths the brothers will take.",
+    "refs": "Genesis 25:26; Genesis 27:11"
+  },
+  "Genesis 25:26": {
+    "title": "Jacob is born holding Esau’s heel",
+    "text": "The second child comes out holding Esau’s heel and is named Jacob. The name is connected in the narrative with the heel, and later events develop its associations. Isaac is sixty years old at the twins’ birth, a marker of the long wait for children.",
+    "refs": "Genesis 25:23; Genesis 27:36"
+  },
+  "Genesis 25:27": {
+    "title": "The brothers’ different ways",
+    "text": "Esau becomes a skilled hunter and man of the field, while Jacob is a quiet man dwelling in tents. The description sets up their differing interests and family dynamics. Neither occupation alone determines moral character; the following story reveals their choices.",
+    "refs": "Genesis 27:3–5"
+  },
+  "Genesis 25:28": {
+    "title": "Isaac and Rebekah have preferences",
+    "text": "Isaac loves Esau because he eats of his venison, while Rebekah loves Jacob. The divided parental affection contributes to the family tension that follows. The text reports the favoritism without endorsing it as a wise way to raise children.",
+    "refs": "Genesis 27:1–13; Ephesians 6:4"
+  },
+  "Genesis 25:29": {
+    "title": "Jacob cooks pottage",
+    "text": "Jacob cooks pottage when Esau comes in from the field faint. The ordinary meal becomes the setting for a consequential exchange. The verse prepares for Esau’s request and Jacob’s demand.",
+    "refs": "Genesis 25:30–34"
+  },
+  "Genesis 25:30": {
+    "title": "Esau asks for the red pottage",
+    "text": "Esau asks Jacob to feed him the red stew and is called Edom in connection with the episode. The name becomes associated with Esau’s descendants. The verse connects a brief family event with a later people’s name.",
+    "refs": "Genesis 36:1; Genesis 36:8"
+  },
+  "Genesis 25:31": {
+    "title": "Jacob asks for the birthright",
+    "text": "Jacob tells Esau to sell him his birthright first. Jacob seeks an advantage from Esau’s hunger, and the narrative presents a morally complicated transaction. The later blessing story shows that family inheritance and blessing remain sources of conflict.",
+    "refs": "Genesis 27:36; Hebrews 12:16"
+  },
+  "Genesis 25:32": {
+    "title": "Esau fears he will die",
+    "text": "Esau says he is at the point of death and asks what profit the birthright will do him. His words show that immediate appetite dominates his thinking. The next verse records his oath and the exchange.",
+    "refs": "Hebrews 12:16–17"
+  },
+  "Genesis 25:33": {
+    "title": "Esau sells his birthright",
+    "text": "Esau swears and sells his birthright to Jacob. The act gives up a significant family privilege for immediate food. The New Testament later uses Esau as a warning against treating sacred privileges lightly.",
+    "refs": "Hebrews 12:16"
+  },
+  "Genesis 25:34": {
+    "title": "Esau despises his birthright",
+    "text": "Jacob gives Esau bread and pottage; Esau eats, drinks, rises, and leaves. The narrator concludes that Esau despised his birthright. The verse criticizes his disregard for the privilege, while Jacob’s manipulative demand remains part of the wider family conflict.",
+    "refs": "Genesis 25:31–33; Hebrews 12:16"
+  },
+  "Genesis 26:1": {
+    "title": "A famine in Isaac’s time",
+    "text": "A famine comes besides the earlier famine, and Isaac goes to Abimelech king of the Philistines in Gerar. The situation echoes the earlier famine in Abraham’s story. The next verses give Isaac a specific instruction from the LORD.",
+    "refs": "Genesis 12:10; Genesis 26:2"
+  },
+  "Genesis 26:2": {
+    "title": "The LORD appears to Isaac",
+    "text": "The LORD appears to Isaac and tells him not to go down to Egypt but to dwell in the land God will show him. The verse identifies the LORD as the one speaking directly to Isaac. The instruction recalls God’s earlier direction to Abraham while addressing Isaac’s own situation.",
+    "refs": "Genesis 12:1; Genesis 26:3"
+  },
+  "Genesis 26:3": {
+    "title": "God confirms the oath to Abraham",
+    "text": "God tells Isaac to sojourn in the land and promises to be with him and bless him, confirming the oath sworn to Abraham. The covenant promise continues through Isaac. The text presents one LORD acting faithfully across generations.",
+    "refs": "Genesis 22:16–18; Genesis 28:13–15"
+  },
+  "Genesis 26:4": {
+    "title": "The stars and the nations blessed",
+    "text": "God promises descendants as numerous as the stars and says all nations will be blessed in Isaac’s seed. This repeats the covenant promise and connects the family line with blessing for the nations. The New Testament traces this promise toward Christ and the gospel.",
+    "refs": "Genesis 22:17–18; Galatians 3:8, 16"
+  },
+  "Genesis 26:5": {
+    "title": "Abraham obeyed God’s voice",
+    "text": "God connects the covenant promise with Abraham’s obedience to His voice, commandments, statutes, and laws. The verse summarizes Abraham’s faithfulness in the narrative. It should be read in the context of the covenant relationship and not used to claim Abraham earned God’s promise by perfect performance.",
+    "refs": "Genesis 12:1–4; Genesis 15:6"
+  },
+  "Genesis 26:6": {
+    "title": "Isaac stays in Gerar",
+    "text": "Isaac dwells in Gerar as instructed. The brief verse shows his obedience to the command not to go down to Egypt. The following verses show that Isaac nevertheless repeats a pattern of fear seen in Abraham’s life.",
+    "refs": "Genesis 26:2–3; Genesis 26:7"
+  },
+  "Genesis 26:7": {
+    "title": "Isaac says Rebekah is his sister",
+    "text": "Isaac tells the men of the place that Rebekah is his sister because he fears they may kill him for her. This repeats Abraham’s deception concerning Sarah. The Bible records the failure honestly rather than presenting the patriarchs as flawless examples.",
+    "refs": "Genesis 12:13; Genesis 20:2"
+  },
+  "Genesis 26:8": {
+    "title": "Abimelech sees Isaac and Rebekah",
+    "text": "After Isaac has been there a long time, Abimelech sees Isaac showing affection toward Rebekah. The action reveals that she is his wife, not his sister. The narrative shows the deception being exposed by ordinary observation.",
+    "refs": "Genesis 26:7; Genesis 26:9"
+  },
+  "Genesis 26:9": {
+    "title": "Abimelech confronts Isaac",
+    "text": "Abimelech asks why Isaac said Rebekah was his sister, and Isaac admits fear of death. The foreign king again confronts a patriarch’s deception. Scripture’s honest reporting warns that fear can lead believers to mislead others.",
+    "refs": "Genesis 20:9–11"
+  },
+  "Genesis 26:10": {
+    "title": "A possible wrong against the people",
+    "text": "Abimelech says Isaac might have brought guilt upon the people if someone had taken Rebekah as his wife. The verse shows that deception can place others at risk of wrongdoing. The king’s rebuke exposes the social consequences of Isaac’s fear.",
+    "refs": "Genesis 20:3–7; Proverbs 12:22"
+  },
+  "Genesis 26:11": {
+    "title": "Protection for Isaac and Rebekah",
+    "text": "Abimelech commands that no one harm Isaac or Rebekah under penalty of death. The king protects them after learning the truth. The account again shows a foreign ruler acting with a sense of justice while the patriarch’s conduct is corrected.",
+    "refs": "Genesis 20:6–7"
+  },
+  "Genesis 26:12": {
+    "title": "Isaac sows and reaps abundantly",
+    "text": "Isaac sows in the land and receives a hundredfold in the same year because the LORD blesses him. The verse explicitly attributes the harvest to God’s blessing. It describes Isaac’s particular experience and should not be made into a guarantee that every faithful person will receive the same material yield.",
+    "refs": "Genesis 26:3–5; Psalm 67:6"
+  },
+  "Genesis 26:13": {
+    "title": "Isaac grows prosperous",
+    "text": "Isaac grows great, continues to prosper, and becomes very wealthy. The narrative describes the material result of the blessing in this period. Wealth is a circumstance in the story, not the sole measure of spiritual faithfulness.",
+    "refs": "Genesis 26:12; Proverbs 10:22"
+  },
+  "Genesis 26:14": {
+    "title": "The Philistines envy Isaac",
+    "text": "Isaac has flocks, herds, and servants, and the Philistines envy him. The verse shows prosperity creating social tension. Envy can turn another person’s success into a source of conflict rather than gratitude.",
+    "refs": "Genesis 26:15; Proverbs 14:30"
+  },
+  "Genesis 26:15": {
+    "title": "Wells stopped up",
+    "text": "The Philistines stop up the wells dug by Abraham’s servants. The act attacks the family’s access to water and threatens its livelihood. The dispute over wells will become a recurring issue in the chapter.",
+    "refs": "Genesis 21:25; Genesis 26:18"
+  },
+  "Genesis 26:16": {
+    "title": "Abimelech asks Isaac to leave",
+    "text": "Abimelech tells Isaac to depart because he has become much mightier than the local people. The verse records a political decision prompted by the growing tension. Isaac’s prosperity does not prevent hostility from those around him.",
+    "refs": "Genesis 26:14–17"
+  },
+  "Genesis 26:17": {
+    "title": "Isaac camps in the valley",
+    "text": "Isaac moves away and camps in the valley of Gerar. He responds to the order by relocating rather than immediately fighting. The next verses describe his efforts to reopen the wells associated with Abraham.",
+    "refs": "Genesis 26:16; Genesis 26:18"
+  },
+  "Genesis 26:18": {
+    "title": "Isaac reopens Abraham’s wells",
+    "text": "Isaac digs again the wells dug in Abraham’s days, which the Philistines had stopped up, and restores their names. The act preserves family history and recovers necessary water sources. The narrative emphasizes continuity between Abraham’s experience and Isaac’s.",
+    "refs": "Genesis 21:25–31; Genesis 26:15"
+  },
+  "Genesis 26:19": {
+    "title": "A well of springing water",
+    "text": "Isaac’s servants dig in the valley and find a well of springing water. The discovery brings hope but soon leads to a dispute. The story shows the practical importance of water in the land and the tensions surrounding its control.",
+    "refs": "Genesis 26:20"
+  },
+  "Genesis 26:20": {
+    "title": "Esek, the well of contention",
+    "text": "The herdsmen of Gerar contend with Isaac’s herdsmen over the well, and Isaac names it Esek because of the dispute. The name preserves the conflict in the narrative. Isaac does not insist on fighting over this well; he moves on and digs again.",
+    "refs": "Genesis 26:21–22"
+  },
+  "Genesis 26:21": {
+    "title": "Sitnah, another disputed well",
+    "text": "Isaac’s servants dig another well, and the herdsmen contend over that one too. Isaac names it Sitnah, associated with opposition. The repeated conflict shows that the problem is persistent, but Isaac continues seeking a peaceful place.",
+    "refs": "Genesis 26:20; Genesis 26:22"
+  },
+  "Genesis 26:22": {
+    "title": "Rehoboth and room to flourish",
+    "text": "Isaac moves again and digs a well over which there is no dispute, naming it Rehoboth because the LORD has made room for them to be fruitful. Isaac interprets the relief as God’s provision. The verse emphasizes patience and peace rather than victory through retaliation.",
+    "refs": "Psalm 18:19; Romans 12:18"
+  },
+  "Genesis 26:23": {
+    "title": "Isaac goes to Beersheba",
+    "text": "Isaac travels from there to Beersheba. The place is associated with earlier events in Abraham’s life and will become the setting for God’s reassurance to Isaac. The narrative links the generations through shared locations.",
+    "refs": "Genesis 21:31–33; Genesis 26:24"
+  },
+  "Genesis 26:24": {
+    "title": "The LORD appears and reassures Isaac",
+    "text": "The LORD appears to Isaac at night and tells him not to fear, for He is the God of Abraham and will bless him and multiply his seed for Abraham’s sake. The verse directly identifies the one LORD as the God of Abraham. The covenant promise continues through Isaac by God’s faithfulness.",
+    "refs": "Genesis 15:1; Genesis 17:7"
+  },
+  "Genesis 26:25": {
+    "title": "Isaac builds an altar",
+    "text": "Isaac builds an altar, calls on the name of the LORD, pitches his tent, and his servants dig a well. Worship and ordinary work appear together in the verse. Isaac responds to God’s promise through worship and continues to establish his household.",
+    "refs": "Genesis 12:7–8; Genesis 21:33"
+  },
+  "Genesis 26:26": {
+    "title": "Abimelech visits Isaac",
+    "text": "Abimelech comes from Gerar with friends and Phichol, the captain of his army. The visit begins a new agreement after earlier tension. The following verses explain that Abimelech recognizes the LORD’s presence with Isaac.",
+    "refs": "Genesis 21:22; Genesis 26:28"
+  },
+  "Genesis 26:27": {
+    "title": "Isaac asks why they came",
+    "text": "Isaac asks why Abimelech’s party has come when they had previously sent him away. His question names the apparent contradiction between past rejection and present visit. The dialogue allows both sides to clarify their intentions.",
+    "refs": "Genesis 26:16; Genesis 26:28"
+  },
+  "Genesis 26:28": {
+    "title": "They see the LORD is with Isaac",
+    "text": "Abimelech’s party says they clearly see that the LORD is with Isaac and proposes an oath and covenant. The statement attributes Isaac’s success to the LORD. The passage speaks of the one LORD’s presence and blessing, not multiple Gods.",
+    "refs": "Genesis 21:22; Genesis 26:24"
+  },
+  "Genesis 26:29": {
+    "title": "A covenant of peace",
+    "text": "Abimelech asks that neither side harm the other and refers to having sent Isaac away in peace. The account records a negotiated peace despite earlier conflict. The request is followed by a meal and an oath that formalize the agreement.",
+    "refs": "Genesis 21:23–24; Romans 12:18"
+  },
+  "Genesis 26:30": {
+    "title": "A feast is made",
+    "text": "Isaac prepares a feast for the visitors, and they eat and drink. The meal accompanies the peace agreement. As in other Genesis encounters, hospitality plays a practical role in settling relations.",
+    "refs": "Genesis 18:5–8; Genesis 26:31"
+  },
+  "Genesis 26:31": {
+    "title": "They swear to one another",
+    "text": "The parties rise early and swear to one another, then depart in peace. The oath formalizes their agreement. The narrative emphasizes the value of keeping peace through clear commitments.",
+    "refs": "Genesis 21:31–32; Joshua 9:15"
+  },
+  "Genesis 26:32": {
+    "title": "The servants report a well",
+    "text": "Isaac’s servants report that they have found water. The news arrives on the same day as the covenant’s completion. The provision of water reinforces the theme of God making room for Isaac to live in the land.",
+    "refs": "Genesis 26:22; Genesis 26:25"
+  },
+  "Genesis 26:33": {
+    "title": "The well is called Shebah",
+    "text": "Isaac names the well Shebah, and the city is called Beersheba. The name connects this episode with Abraham’s earlier covenant and well at Beersheba. The repeated place-name links the generations and their dealings with the LORD.",
+    "refs": "Genesis 21:31; Genesis 26:23"
+  },
+  "Genesis 26:34": {
+    "title": "Esau marries Hittite women",
+    "text": "Esau marries Judith and Bashemath, daughters of Hittites, when he is forty. The marriages create grief for Isaac and Rebekah in the next verse. The narrative connects family choices with the covenant household’s concerns.",
+    "refs": "Genesis 24:3–4; Genesis 26:35"
+  },
+  "Genesis 26:35": {
+    "title": "Esau’s marriages grieve his parents",
+    "text": "Esau’s wives are a grief of mind to Isaac and Rebekah. The verse records family sorrow over the marriages. The issue belongs to this family’s covenant context and should be explained through the wider narrative rather than generalized as ethnic prejudice.",
+    "refs": "Genesis 27:46; Genesis 28:1–2"
   }
 };
