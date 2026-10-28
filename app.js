@@ -79,14 +79,20 @@ function setStatus(msg,error=false){
 }
 function normalizeBible(raw){
  if(raw && Array.isArray(raw.books)) return raw.books.map(b=>({
-  name:b.book||b.name||b.title,
+  name:b.englishName||b.name||b.title||b.book,
   chapters:(b.chapters||[]).map((ch)=> {
    const vs=ch.verses||ch;
    if(Array.isArray(vs)) return vs.map((v,i)=>typeof v==="string"?v:(v.text||v.verse||""));
    return Object.keys(vs).sort((a,b)=>Number(a)-Number(b)).map(k=>typeof vs[k]==="string"?vs[k]:(vs[k].text||""));
   })
  }));
- if(raw && raw.books && typeof raw.books==="object") return Object.entries(raw.books).map(([name,b])=>({name,chapters:Object.values(b.chapters).map(ch=>Object.values(ch))}));
+ if(raw && raw.books && typeof raw.books==="object") return Object.entries(raw.books).map(([name,b])=>({
+  name:b.englishName||b.name||b.title||name,
+  chapters:(b.chapters||[]).map(ch=>{
+   const verses=ch.verses||ch;
+   return Array.isArray(verses)?verses.map(v=>typeof v==="string"?v:(v.text||v.verse||"")):Object.keys(verses).sort((a,b)=>Number(a)-Number(b)).map(k=>typeof verses[k]==="string"?verses[k]:(verses[k].text||""));
+  })
+ }));
  throw new Error("Unexpected Bible data format");
 }
 function isValidBible(data){
@@ -95,7 +101,7 @@ function isValidBible(data){
 async function loadBible(){
  setStatus("Checking saved Bible…");
  const stored=await getStored("kjv");
- if(isValidBible(stored)){bible=stored;setStatus("KJV ready · all 66 books saved offline");setupSelectors();renderChapter();return}
+ if(isValidBible(stored)&&stored[0].name==="Genesis"&&stored[65].name==="Revelation"){bible=stored;setStatus("KJV ready · all 66 books saved offline");setupSelectors();renderChapter();return}
  setStatus("Downloading full KJV…");
  try{
   const res=await fetch(DATA_URL,{cache:"force-cache"});
