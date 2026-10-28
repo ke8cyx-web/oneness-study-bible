@@ -1822,5 +1822,215 @@ window.verseCommentary = {
     "title": "Abram leaves Egypt",
     "text": "Pharaoh orders men to send Abram away with Sarai and all he has. The chapter ends with Abram leaving Egypt, carrying the possessions acquired during the episode. The story continues to show a real believer whose faith journey includes failures as well as obedience.",
     "refs": "Genesis 13:1–4; Genesis 15:6"
+  },
+  "Genesis 13:1": {
+    "title": "Abram returns from Egypt",
+    "text": "Abram returns from Egypt with Sarai, Lot, and his possessions. The earlier deception has ended, but the story continues with the household God has called. The narrative records the journey without claiming Abram’s earlier actions were right.",
+    "refs": "Genesis 12:10–20; Genesis 13:3–4"
+  },
+  "Genesis 13:2": {
+    "title": "Abram is very rich",
+    "text": "Abram has livestock, silver, and gold. The verse reports his possessions but does not teach that wealth alone proves a person is righteous or favored in every circumstance. The story soon shows that possessions can also create practical difficulties.",
+    "refs": "Genesis 12:16; Proverbs 30:8–9"
+  },
+  "Genesis 13:3": {
+    "title": "Back to Bethel",
+    "text": "Abram travels back to the place between Bethel and Hai where he had previously pitched his tent. The return links this chapter to his earlier journey and worship. The account emphasizes continuity in Abram’s life of pilgrimage.",
+    "refs": "Genesis 12:8; Genesis 13:4"
+  },
+  "Genesis 13:4": {
+    "title": "Abram calls on the LORD",
+    "text": "Abram returns to the altar and calls on the name of the LORD. The verse describes worship of the one LORD who has called and guided him. It does not introduce multiple divine beings; the focus is Abram’s invocation of God’s name.",
+    "refs": "Genesis 12:8; Joel 2:32"
+  },
+  "Genesis 13:5": {
+    "title": "Lot also has flocks",
+    "text": "Lot, who travels with Abram, also has flocks, herds, and tents. Their combined households now possess substantial resources. The next verses show that prosperity brings a conflict over land and grazing space.",
+    "refs": "Genesis 12:5; Genesis 13:6"
+  },
+  "Genesis 13:6": {
+    "title": "The land cannot support both households",
+    "text": "The land cannot support Abram and Lot living together because their possessions are so great. The conflict is presented as a practical resource problem, not simply as evidence that either man is wicked. The story now tests how they will handle disagreement.",
+    "refs": "Genesis 13:5; Proverbs 15:1"
+  },
+  "Genesis 13:7": {
+    "title": "Strife between the herdsmen",
+    "text": "Conflict arises between Abram’s herdsmen and Lot’s, while Canaanites and Perizzites live in the land. The narrative notes the wider setting and the danger of ongoing strife. Abram’s response will seek peace rather than escalate the dispute.",
+    "refs": "Genesis 13:8–9; Romans 12:18"
+  },
+  "Genesis 13:8": {
+    "title": "Let there be no strife",
+    "text": "Abram asks that there be no strife between him and Lot because they are brethren. He prioritizes peace within the family relationship. The passage gives a practical example of seeking reconciliation instead of insisting on winning every dispute.",
+    "refs": "Psalm 133:1; Romans 12:18"
+  },
+  "Genesis 13:9": {
+    "title": "Choose the land",
+    "text": "Abram offers Lot the choice of land and agrees to separate if Lot goes one way and he the other. Abram does not cling to first choice, showing a willingness to make room for peace. The verse is a narrative example, not a universal rule that one must always surrender every right.",
+    "refs": "Matthew 5:9; Philippians 2:3–4"
+  },
+  "Genesis 13:10": {
+    "title": "Lot sees the plain of Jordan",
+    "text": "Lot looks toward the well-watered plain of Jordan, which appears like the garden of the LORD and the land of Egypt. The text describes its appearance before explaining the moral danger of the nearby cities. Attractive appearances do not reveal every consequence of a choice.",
+    "refs": "Genesis 2:10; Genesis 19:24–25"
+  },
+  "Genesis 13:11": {
+    "title": "Lot chooses the plain",
+    "text": "Lot chooses the plain of Jordan and separates from Abram. The choice is based on what he sees as a good land, while the following verses identify the wickedness of Sodom. The narrative invites readers to consider more than immediate material advantage.",
+    "refs": "Genesis 13:12–13; Proverbs 14:12"
+  },
+  "Genesis 13:12": {
+    "title": "Lot pitches toward Sodom",
+    "text": "Abram dwells in Canaan, while Lot settles among the cities of the plain and pitches his tent toward Sodom. The direction of Lot’s movement sets up his deeper involvement with the city. The verse itself describes location; the next verse gives Sodom’s moral condition.",
+    "refs": "Genesis 13:13; Genesis 14:12"
+  },
+  "Genesis 13:13": {
+    "title": "The men of Sodom are wicked",
+    "text": "The text directly describes the men of Sodom as exceedingly wicked and sinful before the LORD. This is the narrator’s moral assessment, not merely Abram’s opinion. The next chapters show the consequences of the city’s corruption.",
+    "refs": "Genesis 18:20; Genesis 19:4–9"
+  },
+  "Genesis 13:14": {
+    "title": "God tells Abram to look",
+    "text": "After Lot separates, the LORD tells Abram to lift his eyes and look in every direction. God’s promise comes after the separation, reassuring Abram about the land. The narrative portrays the LORD as the one speaking and promising, the one God of Abram.",
+    "refs": "Genesis 12:7; Genesis 15:18"
+  },
+  "Genesis 13:15": {
+    "title": "The land promised to Abram’s seed",
+    "text": "God promises the land to Abram and his seed forever. The verse is part of the covenant promise developed throughout Genesis. Later biblical interpretation connects God’s promises to the larger story of redemption, but the immediate wording concerns Abram’s descendants and land.",
+    "refs": "Genesis 15:18; Genesis 17:8"
+  },
+  "Genesis 13:16": {
+    "title": "Descendants like the dust",
+    "text": "God compares Abram’s seed with the dust of the earth, emphasizing a vast number of descendants. At this point Abram has no child by Sarai, making the promise humanly difficult to imagine. The narrative invites trust in God’s word despite present circumstances.",
+    "refs": "Genesis 15:5; Romans 4:18–21"
+  },
+  "Genesis 13:17": {
+    "title": "Walk through the land",
+    "text": "God tells Abram to walk through the land in its length and breadth. The action connects the promise with the actual land and Abram’s life there. It is an instruction within this covenant narrative, not a general command to claim any territory for oneself.",
+    "refs": "Genesis 12:7; Genesis 15:18"
+  },
+  "Genesis 13:18": {
+    "title": "Abram builds an altar at Hebron",
+    "text": "Abram moves his tent and builds an altar to the LORD. As in earlier episodes, movement through the land is paired with worship. The altar marks Abram’s response to God’s promise and his continuing dependence on the LORD.",
+    "refs": "Genesis 12:7–8; Genesis 13:4"
+  },
+  "Genesis 14:1": {
+    "title": "Kings go to war",
+    "text": "The chapter names kings involved in a regional conflict. The historical names and locations situate the episode in the ancient world, though identifying every ruler with certainty can be difficult. The narrative uses the conflict to explain Lot’s capture and Abram’s rescue mission.",
+    "refs": "Genesis 14:2–4"
+  },
+  "Genesis 14:2": {
+    "title": "The kings of the plain",
+    "text": "The verse lists the rulers of Sodom, Gomorrah, Admah, Zeboiim, and Bela. These cities will matter in the story of Lot and the judgment of Sodom. The list is historical narrative and does not itself make a claim about the Godhead.",
+    "refs": "Genesis 13:10; Genesis 19:24–25"
+  },
+  "Genesis 14:3": {
+    "title": "The valley of Siddim",
+    "text": "The kings gather in the valley of Siddim, identified with the Salt Sea. The verse provides the setting for the battle. Ancient geographical identifications can be debated, so modern location claims should be made cautiously.",
+    "refs": "Genesis 14:8–10"
+  },
+  "Genesis 14:4": {
+    "title": "Twelve years of service",
+    "text": "The kings had served Chedorlaomer for twelve years and rebelled in the thirteenth. This establishes the political background to the conflict. The verse records a change in allegiance and the cause of the campaign that follows.",
+    "refs": "Genesis 14:1; Genesis 14:5"
+  },
+  "Genesis 14:5": {
+    "title": "The campaign against the Rephaim",
+    "text": "Chedorlaomer and allied kings defeat several peoples in a campaign. The names and places provide the route and scale of the conflict. The narrative reports military events without requiring every ancient location to be identified with certainty today.",
+    "refs": "Genesis 14:6–7"
+  },
+  "Genesis 14:6": {
+    "title": "The Horites in Seir",
+    "text": "The campaign reaches the Horites in the hill country of Seir. The verse is part of the account of the kings’ advance through the region. Its primary purpose is geographical and historical within the story.",
+    "refs": "Deuteronomy 2:12; Genesis 14:5"
+  },
+  "Genesis 14:7": {
+    "title": "The return to En-mishpat",
+    "text": "The kings return to En-mishpat and strike the Amalekites and Amorites. The passage records peoples and places before the battle in the valley. Later biblical references to these groups should be read in their own historical contexts.",
+    "refs": "Genesis 14:8; Genesis 15:16"
+  },
+  "Genesis 14:8": {
+    "title": "The kings prepare for battle",
+    "text": "The kings of the plain go out to battle in the valley of Siddim. The conflict that follows leads to the capture of Lot and his goods. The text sets out the battle’s immediate setting without suggesting that military power determines righteousness.",
+    "refs": "Genesis 14:9–12"
+  },
+  "Genesis 14:9": {
+    "title": "Four kings against five",
+    "text": "The opposing coalition is listed as four kings against five. The numbers establish the imbalance and scale of the conflict. The outcome is described in the following verses, including the flight of the kings of Sodom and Gomorrah.",
+    "refs": "Genesis 14:10–11"
+  },
+  "Genesis 14:10": {
+    "title": "The valley’s slime pits",
+    "text": "The valley contains pits of bitumen, and the kings of Sodom and Gomorrah flee. The verse describes the terrain and the defeat of the local kings. The narrative now explains how the defeated cities’ people and possessions are taken.",
+    "refs": "Genesis 14:11"
+  },
+  "Genesis 14:11": {
+    "title": "Goods and provisions taken",
+    "text": "The victorious kings take the goods and provisions of Sodom and Gomorrah and depart. This includes the possessions that will bring Lot into the story of the conflict. The verse describes the consequences of war for the people living in the cities.",
+    "refs": "Genesis 14:12"
+  },
+  "Genesis 14:12": {
+    "title": "Lot is captured",
+    "text": "Lot, Abram’s nephew, is taken with his goods because he lives in Sodom. The choice to settle near Sodom now has direct consequences for Lot. The verse does not say Lot deserved capture; it reports what happened in the invasion.",
+    "refs": "Genesis 13:12–13; Genesis 14:14"
+  },
+  "Genesis 14:13": {
+    "title": "Abram the Hebrew",
+    "text": "A survivor tells Abram the Hebrew about the capture. The verse identifies Abram by a term associated with his people and reports that he is living near the Amorites. The story turns from the kings’ war to Abram’s response to news of Lot.",
+    "refs": "Genesis 11:26–28; Genesis 14:14"
+  },
+  "Genesis 14:14": {
+    "title": "Abram gathers trained men",
+    "text": "Abram hears that his brother is taken and gathers trained men from his household to pursue the captors. Here “brother” is used broadly for a close relative, since Lot is his nephew. Abram’s response is active and practical, not merely verbal concern.",
+    "refs": "Genesis 12:5; Genesis 14:15"
+  },
+  "Genesis 14:15": {
+    "title": "Abram divides his forces",
+    "text": "Abram divides his men by night and attacks the opposing force, pursuing them beyond Damascus. The narrative presents a tactical rescue effort. The text does not claim Abram acted alone or that the battle was won by supernatural means explicitly stated in this verse.",
+    "refs": "Genesis 14:14; Genesis 14:16"
+  },
+  "Genesis 14:16": {
+    "title": "Lot and the goods recovered",
+    "text": "Abram brings back Lot, the goods, the women, and the people. The rescue reverses the outcome of the raid. The following meeting with Melchizedek introduces a priest-king who blesses Abram in the name of the most high God.",
+    "refs": "Genesis 14:17–20"
+  },
+  "Genesis 14:17": {
+    "title": "The king of Sodom meets Abram",
+    "text": "The king of Sodom comes out to meet Abram after his victory. The scene prepares for Abram’s conversation with both the king of Sodom and Melchizedek. The contrast between their offers and words is important to the chapter’s conclusion.",
+    "refs": "Genesis 14:18–24"
+  },
+  "Genesis 14:18": {
+    "title": "Melchizedek, priest of the most high God",
+    "text": "Melchizedek, king of Salem and priest of the most high God, brings bread and wine. The text presents him as a priest of God and a king. Hebrews later uses Melchizedek in a theological comparison with Christ, but Genesis itself does not explicitly say Melchizedek is Jesus incarnate.",
+    "refs": "Psalm 110:4; Hebrews 7:1–17"
+  },
+  "Genesis 14:19": {
+    "title": "The most high God, possessor of heaven and earth",
+    "text": "Melchizedek blesses Abram in the name of the most high God, possessor of heaven and earth. The verse declares God’s sovereignty over all creation. Oneness readers can emphasize the one God who owns heaven and earth without needing to multiply divine persons.",
+    "refs": "Deuteronomy 6:4; Isaiah 44:24"
+  },
+  "Genesis 14:20": {
+    "title": "God delivers the enemies",
+    "text": "Melchizedek blesses the most high God who delivered Abram’s enemies into his hand, and Abram gives him a tenth. The verse attributes the victory ultimately to God. The tithe here is an act in the narrative; later legal instructions about tithes should be studied in their own contexts.",
+    "refs": "Genesis 14:18–19; Hebrews 7:4–10"
+  },
+  "Genesis 14:21": {
+    "title": "The king offers the goods",
+    "text": "The king of Sodom tells Abram to give him the people and keep the goods. This offer sets up Abram’s refusal to become indebted to the king. The chapter contrasts the king’s offer with Abram’s desire that the LORD alone be recognized as the source of his prosperity.",
+    "refs": "Genesis 14:22–24"
+  },
+  "Genesis 14:22": {
+    "title": "Abram lifts his hand to the LORD",
+    "text": "Abram swears by the LORD, the most high God, possessor of heaven and earth. The verse identifies the LORD as the God Abram worships and invokes. This is consistent with the biblical confession of one sovereign God over all creation.",
+    "refs": "Genesis 14:19; Deuteronomy 6:4"
+  },
+  "Genesis 14:23": {
+    "title": "Abram refuses the king’s riches",
+    "text": "Abram refuses to take even a thread or a shoe-latchet from the king, lest the king claim to have made Abram rich. Abram wants no ambiguity about the source of his blessing. The verse teaches integrity in this situation, not a universal ban on receiving any material payment.",
+    "refs": "Genesis 14:22; Proverbs 10:9"
+  },
+  "Genesis 14:24": {
+    "title": "The allies receive their share",
+    "text": "Abram allows his allies to take their share while declining the goods for himself. His refusal does not deny the legitimate participation of those who helped in the rescue. The chapter ends with fairness toward allies and loyalty to the LORD.",
+    "refs": "Genesis 14:13; Genesis 14:23"
   }
 };
