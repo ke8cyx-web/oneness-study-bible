@@ -455,3 +455,16 @@ Object.assign(window.verseCommentary, {
 });
 delete window.verseCommentary["Matthew 9:39"];
 delete window.verseCommentary["Matthew 9:40"];
+
+Object.assign(window.verseCommentary, {
+  "Matthew 6:3": { title: "Give Without Seeking Praise", text: "Jesus says generosity should be so sincere that the giver does not perform it for recognition. The image of the left hand not knowing what the right hand does emphasizes unshowy giving.", refs: ["Matthew 6:1–2","2 Corinthians 9:7"] },
+  "Matthew 6:4": { title: "The Father Sees Secret Giving", text: "Giving done privately is seen by the Father. Jesus redirects the giver from human applause to sincere devotion before God.", refs: ["Matthew 6:1–4","Hebrews 4:13"] },
+  "Matthew 6:5": { title: "Do Not Pray to Be Seen", text: "Jesus warns against praying for public admiration. Prayer is not wrong when others hear it; the condemned motive is performing devotion to gain status.", refs: ["Luke 18:10–14","Matthew 23:5"] },
+  "Matthew 6:6": { title: "Pray to the Father in Secret", text: "Jesus teaches His disciples to seek God in private, away from an audience. The Father sees what is hidden, so prayer can be sincere rather than theatrical.", refs: ["Psalm 91:1","Matthew 6:6"] },
+  "Matthew 6:7": { title: "Avoid Empty Repetition", text: "Jesus condemns empty, mechanical repetition as if many words could force God to answer. This does not forbid persistent prayer, which Scripture also commends.", refs: ["1 Kings 18:26–29","Luke 18:1–8"] },
+  "Matthew 6:8": { title: "The Father Knows Your Needs", text: "God knows what His children need before they ask. Prayer is not informing an unaware God but expressing dependence, trust, and relationship.", refs: ["Psalm 139:1–4","Romans 8:26–27"] },
+  "Matthew 6:9": { title: "Our Father in Heaven", text: "Jesus begins the model prayer by addressing God as Father. The Bible’s confession remains that God is one; Jesus teaches His disciples to approach the one God with reverence and trust.", refs: ["Deuteronomy 6:4","Isaiah 64:8"] },
+  "Matthew 6:10": { title: "Hallowed Be Thy Name", text: "God’s name is holy and must be treated with reverence. Prayer begins by honoring God, not merely listing personal requests.", refs: ["Leviticus 22:32","Ezekiel 36:23"] },
+  "Matthew 6:11": { title: "Thy Kingdom Come", text: "The disciple asks for God’s reign and purposes to be manifested. Prayer looks beyond personal interests toward God’s will on earth.", refs: ["Matthew 4:17","Revelation 11:15"] },
+  "Matthew 6:12": { title: "Thy Will Be Done", text: "Jesus teaches surrender to the Father’s will. His own prayer in Gethsemane later demonstrates obedience even in the face of suffering.", refs: ["Matthew 26:39","1 John 5:14"] }
+});
