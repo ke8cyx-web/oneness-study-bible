@@ -16309,5 +16309,390 @@ window.verseCommentary = {
     "refs": [
       "Exodus 30:37"
     ]
+  },
+  "Exodus 31:1": {
+    "title": "Bezalel is called by name",
+    "text": "The LORD identifies Bezalel son of Uri, from the tribe of Judah, as the person chosen for the work of the sanctuary. God’s detailed instructions include calling specific people to carry them out.",
+    "refs": [
+      "Exodus 35:30–33"
+    ]
+  },
+  "Exodus 31:2": {
+    "title": "God appoints a skilled craftsman",
+    "text": "Bezalel is called by name and appointed for the work. His role shows that craftsmanship and practical skill can be part of faithful service to God.",
+    "refs": [
+      "1 Chronicles 28:19"
+    ]
+  },
+  "Exodus 31:3": {
+    "title": "Filled with the Spirit of God",
+    "text": "God says He has filled Bezalel with the Spirit of God in wisdom, understanding, knowledge, and workmanship. Here the Spirit’s empowering is specifically connected with skill for sacred craftsmanship; the verse should not be reduced to a claim that the Spirit is merely a human talent.",
+    "refs": [
+      "Exodus 35:31",
+      "Isaiah 11:2"
+    ]
+  },
+  "Exodus 31:4": {
+    "title": "Skillful designs in gold and other materials",
+    "text": "Bezalel is equipped to devise artistic works in gold, silver, and bronze. The passage presents artistic design as a God-enabled ability used for the sanctuary.",
+    "refs": [
+      "Exodus 35:32"
+    ]
+  },
+  "Exodus 31:5": {
+    "title": "Cutting stones and carving wood",
+    "text": "The work includes cutting stones for settings and carving wood, as well as other craftsmanship. The sanctuary requires a range of practical skills, not only preaching or public leadership.",
+    "refs": [
+      "Exodus 28:9–12"
+    ]
+  },
+  "Exodus 31:6": {
+    "title": "Oholiab and other skilled workers",
+    "text": "God appoints Oholiab and gives skill to other wise-hearted workers so they can make everything commanded. The work is shared among several people; the Spirit-enabled project is not carried by one craftsman alone.",
+    "refs": [
+      "Exodus 35:34–35"
+    ]
+  },
+  "Exodus 31:7": {
+    "title": "The tent, ark, and mercy seat",
+    "text": "The list begins with the tent of meeting, ark of the testimony, mercy seat, and furnishings. The craftsmen are to build the objects according to the pattern God gave Moses.",
+    "refs": [
+      "Exodus 25:9–22"
+    ]
+  },
+  "Exodus 31:8": {
+    "title": "The table and lampstand",
+    "text": "The table and its vessels, the pure lampstand and its utensils, and the altar of incense are included in the work. The sacred furnishings are all part of one carefully prescribed sanctuary.",
+    "refs": [
+      "Exodus 25:23–40",
+      "Exodus 30:1–10"
+    ]
+  },
+  "Exodus 31:9": {
+    "title": "The altar and laver",
+    "text": "The burnt-offering altar and its utensils, the laver and its base, are included. The list covers the main objects used in the courtyard’s sacrificial and washing service.",
+    "refs": [
+      "Exodus 27:1–8",
+      "Exodus 30:17–21"
+    ]
+  },
+  "Exodus 31:10": {
+    "title": "The holy garments",
+    "text": "The service includes the finely worked garments for Aaron and his sons. Their clothing is part of the sanctuary’s sacred arrangement and must be made according to God’s instructions.",
+    "refs": [
+      "Exodus 28:1–43"
+    ]
+  },
+  "Exodus 31:11": {
+    "title": "Oil and incense made as commanded",
+    "text": "The anointing oil and the incense are to be made according to God’s instructions. The chapter reiterates that both the physical sanctuary and its ritual materials are governed by divine direction.",
+    "refs": [
+      "Exodus 30:22–38"
+    ]
+  },
+  "Exodus 31:12": {
+    "title": "The LORD speaks about the Sabbath",
+    "text": "The LORD gives Moses a further command concerning the Sabbath. After instructions for building the sanctuary, the text reminds Israel that worship work does not cancel the Sabbath command.",
+    "refs": [
+      "Exodus 20:8–11"
+    ]
+  },
+  "Exodus 31:13": {
+    "title": "The Sabbath is a sign",
+    "text": "Israel is to keep God’s Sabbaths as a sign between Him and them throughout their generations, so they may know that the LORD sanctifies them. The sign marks Israel’s covenant relationship and God’s work of setting them apart.",
+    "refs": [
+      "Ezekiel 20:12",
+      "Exodus 20:12"
+    ]
+  },
+  "Exodus 31:14": {
+    "title": "Keep the Sabbath holy",
+    "text": "The Sabbath is holy to Israel, and the law gives a severe penalty for profaning it. This is part of Israel’s covenant legal order at Sinai; its specific civil penalty should not be transferred carelessly into modern settings.",
+    "refs": [
+      "Exodus 20:8–11"
+    ]
+  },
+  "Exodus 31:15": {
+    "title": "Six days of work, seventh day rest",
+    "text": "Six days are appointed for work, but the seventh is a Sabbath of rest, holy to the LORD. The instruction establishes a rhythm of labor and rest even while the tabernacle is being built.",
+    "refs": [
+      "Genesis 2:2–3"
+    ]
+  },
+  "Exodus 31:16": {
+    "title": "Israel keeps the Sabbath through generations",
+    "text": "The children of Israel are to observe the Sabbath throughout their generations as a perpetual covenant. The practice serves as a lasting sign within Israel’s covenant life.",
+    "refs": [
+      "Exodus 31:13"
+    ]
+  },
+  "Exodus 31:17": {
+    "title": "God rested on the seventh day",
+    "text": "The Sabbath is a sign between the LORD and Israel because God made heaven and earth in six days and rested on the seventh. The language draws on the creation account to ground Israel’s weekly rest in God’s own pattern.",
+    "refs": [
+      "Genesis 2:2–3",
+      "Exodus 20:11"
+    ]
+  },
+  "Exodus 31:18": {
+    "title": "The two tables of testimony",
+    "text": "God gives Moses two stone tablets written with the finger of God. The expression emphasizes the divine origin and authority of the covenant testimony; it is not a literal anatomy lesson about God’s Spirit.",
+    "refs": [
+      "Deuteronomy 9:10",
+      "Luke 11:20"
+    ]
+  },
+  "Exodus 32:1": {
+    "title": "The people demand a visible god",
+    "text": "When Moses delays on the mountain, the people gather around Aaron and ask him to make gods to go before them. Their demand reveals impatience and distrust, and it begins a direct violation of the commandments they had just agreed to obey.",
+    "refs": [
+      "Exodus 20:3–4",
+      "Deuteronomy 9:12"
+    ]
+  },
+  "Exodus 32:2": {
+    "title": "Aaron asks for gold earrings",
+    "text": "Aaron tells the people to remove the gold earrings from their wives, sons, and daughters and bring them to him. The narrative shows Aaron yielding to the crowd rather than firmly upholding the covenant command.",
+    "refs": [
+      "Exodus 32:1"
+    ]
+  },
+  "Exodus 32:3": {
+    "title": "The people give their gold",
+    "text": "The people remove their gold earrings and bring them to Aaron. Their willing contribution supplies the material for the idol they have demanded.",
+    "refs": [
+      "Exodus 32:2–4"
+    ]
+  },
+  "Exodus 32:4": {
+    "title": "The golden calf is made",
+    "text": "Aaron fashions the gold into a molten calf, and the people declare that this is the god who brought them out of Egypt. The statement is a serious misattribution: the LORD had delivered Israel, and the people now attach His saving act to an image.",
+    "refs": [
+      "Exodus 20:3–4",
+      "Nehemiah 9:18"
+    ]
+  },
+  "Exodus 32:5": {
+    "title": "Aaron builds an altar",
+    "text": "Aaron sees the calf and builds an altar before it, announcing a feast to the LORD for the next day. By connecting the image with the LORD’s name, the people mix worship language with idolatry; invoking God’s name does not make an unauthorized image acceptable.",
+    "refs": [
+      "Exodus 20:4–5"
+    ]
+  },
+  "Exodus 32:6": {
+    "title": "The people feast and play",
+    "text": "The people rise early, offer sacrifices, eat and drink, and rise to play. The account portrays their worship gathering as corrupted by the idol they have made.",
+    "refs": [
+      "1 Corinthians 10:7"
+    ]
+  },
+  "Exodus 32:7": {
+    "title": "God tells Moses what Israel has done",
+    "text": "The LORD tells Moses to go down because the people have corrupted themselves. God identifies the wrongdoing plainly and does not treat the golden calf as an innocent cultural variation.",
+    "refs": [
+      "Deuteronomy 9:12"
+    ]
+  },
+  "Exodus 32:8": {
+    "title": "Israel turns aside quickly",
+    "text": "God says Israel has quickly departed from the way He commanded, making and worshipping a calf. Their actions directly contradict the covenant words they had accepted.",
+    "refs": [
+      "Exodus 24:3",
+      "Exodus 20:3–5"
+    ]
+  },
+  "Exodus 32:9": {
+    "title": "A stiff-necked people",
+    "text": "The LORD describes Israel as stiff-necked. The phrase depicts stubborn resistance to God’s direction, not a claim about their physical bodies.",
+    "refs": [
+      "Exodus 33:3",
+      "Deuteronomy 9:6"
+    ]
+  },
+  "Exodus 32:10": {
+    "title": "God speaks of judgment",
+    "text": "God tells Moses to let Him alone so His anger may be kindled against the people, and He speaks of making a great nation from Moses. The passage presents a severe judgment warning that leads Moses to intercede for Israel.",
+    "refs": [
+      "Numbers 14:11–20"
+    ]
+  },
+  "Exodus 32:11": {
+    "title": "Moses pleads with the LORD",
+    "text": "Moses entreats the LORD and appeals to the people whom God brought out of Egypt with great power. His prayer rests on God’s own saving work rather than Israel’s merit.",
+    "refs": [
+      "Deuteronomy 9:26–29"
+    ]
+  },
+  "Exodus 32:12": {
+    "title": "Moses appeals to God’s reputation",
+    "text": "Moses asks why the Egyptians should be able to say God brought Israel out to destroy them in the mountains. He appeals to God’s public name and purpose among the nations.",
+    "refs": [
+      "Numbers 14:13–16"
+    ]
+  },
+  "Exodus 32:13": {
+    "title": "Remember Abraham, Isaac, and Israel",
+    "text": "Moses asks God to remember the oath made to Abraham, Isaac, and Israel concerning their descendants and the land. The prayer appeals to God’s covenant promise, not to a claim that God has literally forgotten it.",
+    "refs": [
+      "Genesis 22:16–18",
+      "Genesis 26:3–4"
+    ]
+  },
+  "Exodus 32:14": {
+    "title": "The LORD relents from the threatened judgment",
+    "text": "The text says the LORD repented of the evil He had said He would do to His people. In context, God responds to Moses’ intercession and does not carry out the announced destruction in the form threatened; this language describes a change in the announced course of action, not moral wrongdoing in God.",
+    "refs": [
+      "Numbers 23:19",
+      "Jeremiah 18:7–10"
+    ]
+  },
+  "Exodus 32:15": {
+    "title": "Moses descends with the tablets",
+    "text": "Moses turns and goes down the mountain with the two tablets of testimony in his hands. The tablets are written on both sides, underscoring their status as the covenant document God has given.",
+    "refs": [
+      "Exodus 31:18"
+    ]
+  },
+  "Exodus 32:16": {
+    "title": "The tablets are God’s work",
+    "text": "The tablets and their writing are described as the work of God. The verse emphasizes their divine origin and the authority of the words they contain.",
+    "refs": [
+      "Exodus 24:12"
+    ]
+  },
+  "Exodus 32:17": {
+    "title": "Joshua hears the noise",
+    "text": "Joshua hears the noise of the people and thinks it sounds like war in the camp. He has not yet seen the calf and misinterprets the sound.",
+    "refs": [
+      "Exodus 24:13"
+    ]
+  },
+  "Exodus 32:18": {
+    "title": "Moses identifies the sound",
+    "text": "Moses says the noise is neither a victory song nor a cry of defeat, but singing. He knows that something is wrong in the camp, and the next verse reveals the idolatry.",
+    "refs": [
+      "Exodus 32:19"
+    ]
+  },
+  "Exodus 32:19": {
+    "title": "Moses breaks the tablets",
+    "text": "When Moses sees the calf and dancing, he casts the tablets down and breaks them at the foot of the mountain. The act visibly reflects the people’s breaking of the covenant; the text records Moses’ anger without making every angry act a model for imitation.",
+    "refs": [
+      "Deuteronomy 9:16–17"
+    ]
+  },
+  "Exodus 32:20": {
+    "title": "The calf is destroyed",
+    "text": "Moses burns the calf, grinds it to powder, scatters it on the water, and makes Israel drink it. The action demonstrates that the idol is powerless and can be reduced to dust, not that it is a living deity.",
+    "refs": [
+      "Deuteronomy 9:21"
+    ]
+  },
+  "Exodus 32:21": {
+    "title": "Moses questions Aaron",
+    "text": "Moses asks Aaron what the people did to him that he brought such a great sin upon them. The question confronts Aaron’s responsibility as the leader who participated in making the calf.",
+    "refs": [
+      "Exodus 32:2–6"
+    ]
+  },
+  "Exodus 32:22": {
+    "title": "Aaron blames the people",
+    "text": "Aaron tells Moses not to be angry and says the people are set on evil. His answer shifts attention toward the crowd instead of fully owning his part in the sin.",
+    "refs": [
+      "Exodus 32:1–4"
+    ]
+  },
+  "Exodus 32:23": {
+    "title": "The people asked for gods",
+    "text": "Aaron recounts that the people demanded gods to go before them because Moses had delayed. The explanation repeats their demand but does not excuse Aaron’s decision to make the calf.",
+    "refs": [
+      "Exodus 32:1"
+    ]
+  },
+  "Exodus 32:24": {
+    "title": "Aaron’s account of the calf",
+    "text": "Aaron says he threw the gold into the fire and the calf came out. His explanation avoids acknowledging the craftsmanship he had used, and the narrative has already stated that he fashioned the calf with a graving tool.",
+    "refs": [
+      "Exodus 32:4"
+    ]
+  },
+  "Exodus 32:25": {
+    "title": "The people are out of control",
+    "text": "Moses sees that the people are naked or exposed in the sense described by the KJV wording, because Aaron had allowed them to become a disgrace before their enemies. The verse portrays the community’s loss of restraint and public shame.",
+    "refs": [
+      "Exodus 32:6"
+    ]
+  },
+  "Exodus 32:26": {
+    "title": "Who is on the LORD’s side?",
+    "text": "Moses stands at the camp gate and calls for those on the LORD’s side to come to him; the sons of Levi gather to him. The call demands a clear choice after the people have violated the covenant.",
+    "refs": [
+      "Joshua 24:15"
+    ]
+  },
+  "Exodus 32:27": {
+    "title": "A severe judgment in the camp",
+    "text": "Moses gives the Levites a command to go through the camp and execute judgment. This is a specific episode of covenant judgment in ancient Israel’s history, not authorization for private violence or for modern believers to punish religious disagreement.",
+    "refs": [
+      "Deuteronomy 13:6–11"
+    ]
+  },
+  "Exodus 32:28": {
+    "title": "The judgment is carried out",
+    "text": "The Levites do as Moses commanded, and about three thousand men fall that day. The verse records the severity of the covenant crisis and the consequences of the idolatry; it should not be detached from its unique historical and covenant setting.",
+    "refs": [
+      "Exodus 32:27"
+    ]
+  },
+  "Exodus 32:29": {
+    "title": "The Levites are set apart for service",
+    "text": "Moses tells the Levites to consecrate themselves to the LORD because they acted decisively in the crisis. The statement belongs to the episode’s judgment and appointment context and should be read with the later development of the Levitical service.",
+    "refs": [
+      "Numbers 3:5–13"
+    ]
+  },
+  "Exodus 32:30": {
+    "title": "Moses returns to seek atonement",
+    "text": "The next day Moses tells the people they have committed a great sin and says he will go up to the LORD to seek atonement. The leader does not minimize the wrongdoing but intercedes for the guilty people.",
+    "refs": [
+      "Exodus 32:11–14"
+    ]
+  },
+  "Exodus 32:31": {
+    "title": "Moses confesses Israel’s sin",
+    "text": "Moses returns to the LORD and openly acknowledges that the people have made a golden god. His prayer does not conceal the nature of their offense.",
+    "refs": [
+      "Exodus 32:4"
+    ]
+  },
+  "Exodus 32:32": {
+    "title": "Moses offers himself in intercession",
+    "text": "Moses asks God to forgive the people, and if not, to blot him out of the book God has written. This is an intense expression of intercession and solidarity; the text does not say Moses can literally atone for Israel’s sin by his own life.",
+    "refs": [
+      "Romans 9:3"
+    ]
+  },
+  "Exodus 32:33": {
+    "title": "Each person is accountable",
+    "text": "The LORD answers that whoever has sinned against Him will be blotted out of His book. The reply stresses personal accountability before God and does not accept Moses as a substitute for the guilty.",
+    "refs": [
+      "Ezekiel 18:20"
+    ]
+  },
+  "Exodus 32:34": {
+    "title": "God’s messenger will lead Israel",
+    "text": "God tells Moses to lead the people to the place He has spoken of and says His angel will go before them. God will still address the people’s sin in His appointed time; continued guidance does not mean the offense is ignored.",
+    "refs": [
+      "Exodus 23:20",
+      "Exodus 33:2"
+    ]
+  },
+  "Exodus 32:35": {
+    "title": "The LORD sends a plague",
+    "text": "The LORD plagues the people because they made the calf Aaron fashioned. The chapter ends by affirming that idolatry has real consequences and that Aaron’s involvement does not remove responsibility from the people.",
+    "refs": [
+      "Exodus 32:4",
+      "Numbers 11:33"
+    ]
   }
 };
