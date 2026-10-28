@@ -32,22 +32,14 @@ https://raw.githubusercontent.com/midvash/bible-data/main/versions/en/kjv/kjv.js
 
 The repository identifies the KJV text as public domain and the dataset code as MIT-licensed. Check the source repository's current license and attribution notes before redistributing or modifying the data.
 
-## Deploy free with GitHub Pages
+## Current deployment
 
-You need a free GitHub account. On a computer:
+This project is already published through GitHub Pages at:
+https://ke8cyx-web.github.io/oneness-study-bible/
 
-1. Download and unzip this project.
-2. Sign in at https://github.com and create a new **public** repository, for example `oneness-study-bible`. Do not initialize it with a README if you will upload this project's files.
-3. In the repository, choose **Add file → Upload files** and upload the contents of this folder (the files themselves, not the outer folder).
-4. Commit the upload.
-5. Open **Settings → Pages**.
-6. Under the build/deployment section, choose **Deploy from a branch**.
-7. Select branch `main` and folder `/(root)`, then save.
-8. Wait for GitHub Pages to publish. The address will resemble `https://YOUR-USERNAME.github.io/oneness-study-bible/`. Use the exact URL shown by GitHub; this project is not live until that happens.
-9. Open the published URL while online and wait for “KJV ready · saved for offline use.” This first download can take a little time.
-10. Test by turning off internet and reloading. If the app shell and KJV have been cached, reading and searching should continue to work offline.
+The source of truth is the `main` branch of this repository. Changes committed to `main` are published by GitHub Pages after its deployment finishes. If a browser keeps showing an older version, reload the page and allow the service worker to update. GitHub Pages settings and deployment status are available under the repository's **Settings → Pages** and **Actions** tabs.
 
-GitHub Pages documentation: https://docs.github.com/en/pages/getting-started-with-github-pages
+Official documentation: https://docs.github.com/en/pages/getting-started-with-github-pages
 
 ## Install on Android
 
