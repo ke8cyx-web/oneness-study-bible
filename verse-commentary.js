@@ -2032,5 +2032,190 @@ window.verseCommentary = {
     "title": "The allies receive their share",
     "text": "Abram allows his allies to take their share while declining the goods for himself. His refusal does not deny the legitimate participation of those who helped in the rescue. The chapter ends with fairness toward allies and loyalty to the LORD.",
     "refs": "Genesis 14:13; Genesis 14:23"
+  },
+  "Genesis 15:1": {
+    "title": "Fear not, Abram",
+    "text": "After these events, the word of the LORD comes to Abram in a vision: God tells him not to fear and calls Himself Abram’s shield and great reward. The passage presents God as the speaker and protector. It does not describe a second divine being speaking alongside the LORD.",
+    "refs": "Psalm 3:3; Isaiah 41:10"
+  },
+  "Genesis 15:2": {
+    "title": "Abram asks about an heir",
+    "text": "Abram asks what God will give him while he remains childless and names Eliezer of Damascus. The question is honest distress in the face of a promise that has not yet come to pass. Scripture records the question rather than condemning Abram for bringing his concern before God.",
+    "refs": "Genesis 12:2; Genesis 11:30"
+  },
+  "Genesis 15:3": {
+    "title": "A servant as heir",
+    "text": "Abram repeats that he has no child and that a household servant may inherit his estate. His concern shows the gap between the promise and his present circumstances. The next verse answers the specific question of who will be his heir.",
+    "refs": "Genesis 15:4–5"
+  },
+  "Genesis 15:4": {
+    "title": "Abram’s own son",
+    "text": "The word of the LORD tells Abram that the servant will not be his heir; one coming from Abram’s own body will be his heir. God’s promise becomes more specific. The passage emphasizes the reliability of God’s word despite Abram’s age and circumstances.",
+    "refs": "Genesis 17:16–19; Romans 4:18–21"
+  },
+  "Genesis 15:5": {
+    "title": "Count the stars",
+    "text": "God brings Abram outside and compares his descendants to the stars. The image communicates a multitude beyond Abram’s ability to count. The promise is grounded in God’s word, not in what Abram can presently see.",
+    "refs": "Genesis 22:17; Romans 4:18"
+  },
+  "Genesis 15:6": {
+    "title": "Abram believed the LORD",
+    "text": "Abram believes the LORD, and it is counted to him for righteousness. This verse becomes foundational in later teaching about faith and righteousness. Faith is trust in the God who speaks; it is not a claim that Abram has earned the promise by flawless conduct.",
+    "refs": "Romans 4:3; Galatians 3:6; James 2:23"
+  },
+  "Genesis 15:7": {
+    "title": "The LORD brought Abram from Ur",
+    "text": "The LORD identifies Himself as the one who brought Abram from Ur of the Chaldees to give him the land. God reminds Abram of His past action as assurance of the promise. The verse directly names the LORD as the deliverer and giver.",
+    "refs": "Genesis 12:1; Nehemiah 9:7"
+  },
+  "Genesis 15:8": {
+    "title": "Abram asks for assurance",
+    "text": "Abram asks how he may know that he will inherit the land. The question leads to the covenant ceremony that follows. The text presents a request for assurance within the relationship God has initiated, not a rejection of God’s identity.",
+    "refs": "Genesis 15:9–18"
+  },
+  "Genesis 15:9": {
+    "title": "Animals for the covenant",
+    "text": "God instructs Abram to bring specified animals and birds. The animals are part of the covenant ceremony that follows. Their precise symbolic meanings should not be asserted beyond what the text and later Scripture support.",
+    "refs": "Jeremiah 34:18–19"
+  },
+  "Genesis 15:10": {
+    "title": "The animals are divided",
+    "text": "Abram divides the animals and lays the pieces opposite each other, while the birds are not divided. This prepares for the covenant sign in which God’s presence passes between the pieces. The action belongs to an ancient covenant ceremony, not a ritual Christians are commanded to repeat.",
+    "refs": "Genesis 15:17; Jeremiah 34:18"
+  },
+  "Genesis 15:11": {
+    "title": "Abram drives away the birds",
+    "text": "Birds of prey come down on the carcasses, and Abram drives them away. The verse describes what happens during the waiting period. Later symbolic interpretations are possible, but the text itself does not explicitly identify the birds with a particular enemy or spiritual power.",
+    "refs": "Genesis 15:12"
+  },
+  "Genesis 15:12": {
+    "title": "A deep sleep and great darkness",
+    "text": "As the sun goes down, a deep sleep and great darkness fall on Abram. The scene prepares for God’s revelation about Abram’s descendants. The passage uses solemn imagery to introduce the future hardship and deliverance God will describe.",
+    "refs": "Genesis 2:21; Job 4:13"
+  },
+  "Genesis 15:13": {
+    "title": "Strangers and affliction",
+    "text": "God tells Abram that his descendants will be strangers in a land not theirs and will be afflicted for four hundred years. The prophecy anticipates Israel’s experience in Egypt, though biblical passages express the time periods in different ways that require careful comparison. The verse shows that God knows the hardship before it happens.",
+    "refs": "Exodus 12:40–41; Acts 7:6"
+  },
+  "Genesis 15:14": {
+    "title": "God judges the oppressing nation",
+    "text": "God says He will judge the nation that enslaves Abram’s descendants and that they will leave with great substance. This anticipates the exodus from Egypt. The promise presents God as judge and deliverer, not as a passive observer of oppression.",
+    "refs": "Exodus 3:7–8; Exodus 12:35–36"
+  },
+  "Genesis 15:15": {
+    "title": "Abram’s peaceful death",
+    "text": "God tells Abram he will go to his fathers in peace and be buried at a good old age. The prophecy distinguishes Abram’s own lifespan from the later hardship of his descendants. The verse offers a personal promise within the larger covenant plan.",
+    "refs": "Genesis 25:7–10"
+  },
+  "Genesis 15:16": {
+    "title": "The fourth generation",
+    "text": "God says Abram’s descendants will return in the fourth generation because the iniquity of the Amorites is not yet full. The verse presents judgment as delayed rather than arbitrary. The text connects the timing of the land promise with moral accountability in history.",
+    "refs": "Leviticus 18:24–28; Deuteronomy 9:4–5"
+  },
+  "Genesis 15:17": {
+    "title": "The smoking furnace and burning lamp",
+    "text": "A smoking furnace and burning lamp pass between the pieces as the sun sets. The scene marks God’s covenant commitment. The verse does not explicitly identify these signs as separate divine persons; the narrative portrays God ratifying the covenant with Abram.",
+    "refs": "Genesis 15:18; Exodus 13:21"
+  },
+  "Genesis 15:18": {
+    "title": "The LORD makes a covenant",
+    "text": "The LORD makes a covenant with Abram and describes the land’s boundaries. The promise is specific to Abram’s descendants in the covenant narrative. Later biblical interpretation should preserve the original context while also tracing how Scripture develops the promise.",
+    "refs": "Genesis 12:7; Genesis 17:8"
+  },
+  "Genesis 15:19": {
+    "title": "The land’s peoples named",
+    "text": "The verse names peoples whose lands are included in the promise. These are ancient groups in the narrative, and identifying each with modern populations requires caution. The list situates the covenant in a real geographical and historical setting.",
+    "refs": "Genesis 15:18; Exodus 3:8"
+  },
+  "Genesis 15:20": {
+    "title": "More peoples named",
+    "text": "The list of peoples continues. The names help define the land described in the covenant. The verse is geographical and historical in function, not a separate teaching about the Godhead.",
+    "refs": "Genesis 15:18–21"
+  },
+  "Genesis 15:21": {
+    "title": "The final peoples in the list",
+    "text": "The verse completes the list of peoples whose land is described in the covenant. The passage closes the vision by tying God’s promise to a stated inheritance. The next chapter turns to Abram and Sarai’s attempt to resolve the delay in having a child.",
+    "refs": "Genesis 16:1–4"
+  },
+  "Genesis 16:1": {
+    "title": "Sarai has no child",
+    "text": "Sarai has borne Abram no child, and she has an Egyptian handmaid named Hagar. This repeats the human difficulty at the heart of the promise. The narrative introduces Hagar as a person within the household, not merely as a plot device.",
+    "refs": "Genesis 11:30; Genesis 15:4"
+  },
+  "Genesis 16:2": {
+    "title": "Sarai proposes Hagar",
+    "text": "Sarai suggests that Abram go in to Hagar, hoping to obtain children through her. Abram listens to Sarai. The text records their plan but does not say God commanded it; later conflict shows the painful consequences of their decision.",
+    "refs": "Genesis 16:3–6"
+  },
+  "Genesis 16:3": {
+    "title": "Hagar is given to Abram",
+    "text": "After Abram has lived ten years in Canaan, Sarai gives Hagar to him as a wife. The verse reports a household custom in the ancient narrative. Recording the action does not mean every aspect of the arrangement is presented as God’s ideal or command.",
+    "refs": "Genesis 16:1–2; Genesis 21:10–12"
+  },
+  "Genesis 16:4": {
+    "title": "Hagar conceives and Sarai is despised",
+    "text": "After Hagar conceives, she looks on Sarai with contempt. The attempt to secure the promised child through human arrangement creates rivalry and pain. The narrative shows the relational consequences rather than presenting the plan as a simple success.",
+    "refs": "Genesis 16:5–6; Galatians 4:22–23"
+  },
+  "Genesis 16:5": {
+    "title": "Sarai appeals to Abram",
+    "text": "Sarai tells Abram that the wrong she experiences is connected with him and places the matter before the LORD as judge. The verse reveals the household conflict from Sarai’s perspective. The text does not excuse cruelty by either party; it records the dispute honestly.",
+    "refs": "Genesis 16:4; Genesis 16:6"
+  },
+  "Genesis 16:6": {
+    "title": "Hagar flees",
+    "text": "Abram tells Sarai that Hagar is in her hand, and Sarai deals harshly with Hagar so that Hagar flees. The verse records harsh treatment and a vulnerable woman’s flight. It should not be read as blanket approval of Sarai’s conduct simply because Abram allows it.",
+    "refs": "Exodus 22:21; Genesis 16:7"
+  },
+  "Genesis 16:7": {
+    "title": "The angel of the LORD finds Hagar",
+    "text": "The angel of the LORD finds Hagar by a spring in the wilderness. The phrase “angel of the LORD” has been interpreted in different ways across Scripture. This verse itself says the messenger finds Hagar; it should not be treated as an automatic proof of a separate divine person or of a particular incarnation without considering the full context.",
+    "refs": "Genesis 22:11–18; Exodus 3:2–6"
+  },
+  "Genesis 16:8": {
+    "title": "Hagar is asked where she came from",
+    "text": "The angel asks Hagar where she came from and where she is going. The question invites her to speak about her situation. God’s attention reaches a person who has fled mistreatment, and the narrative gives Hagar a voice in the account.",
+    "refs": "Genesis 16:7; Psalm 34:18"
+  },
+  "Genesis 16:9": {
+    "title": "Return and submit",
+    "text": "The messenger tells Hagar to return to Sarai and submit to her. This is a specific instruction within the ancient narrative and should not be used to tell every abused person today to return to danger. Scripture’s broader teaching on justice, oppression, and protection must be considered when applying difficult passages.",
+    "refs": "Genesis 16:6; Psalm 9:9"
+  },
+  "Genesis 16:10": {
+    "title": "Hagar’s seed multiplied",
+    "text": "The messenger promises that Hagar’s descendants will be multiplied greatly. God sees Hagar and speaks of a future for her child and descendants. The promise demonstrates that Hagar is not invisible to God even though she is socially vulnerable.",
+    "refs": "Genesis 17:20; Genesis 25:12–18"
+  },
+  "Genesis 16:11": {
+    "title": "Ishmael’s name and affliction",
+    "text": "Hagar is told she will bear a son named Ishmael because the LORD has heard her affliction. The name is connected in the text with God hearing. God’s response does not erase the household’s wrongdoing, but it shows His attention to the suffering of Hagar.",
+    "refs": "Exodus 3:7; Psalm 34:17"
+  },
+  "Genesis 16:12": {
+    "title": "Ishmael’s future described",
+    "text": "The verse describes Ishmael’s future as a wild man and speaks of conflict with others. The wording is an ancient characterization of his life and descendants; it should not be used to stigmatize modern peoples or claim every descendant has the same character. The verse’s specific historical context matters.",
+    "refs": "Genesis 25:12–18"
+  },
+  "Genesis 16:13": {
+    "title": "Thou God seest me",
+    "text": "Hagar calls the name of the LORD who spoke to her “Thou God seest me,” because she recognizes that God has seen her. This is a powerful testimony to God’s awareness of a person in distress. The passage identifies the LORD as the God who sees and responds.",
+    "refs": "Psalm 139:1–12; Genesis 21:17"
+  },
+  "Genesis 16:14": {
+    "title": "The well of the living one who sees me",
+    "text": "The well receives a name associated with the living God who sees Hagar. The place-name preserves her encounter and testimony. The verse does not establish a separate divine being; it points to the LORD’s attention to Hagar in the wilderness.",
+    "refs": "Genesis 16:13; Genesis 24:62"
+  },
+  "Genesis 16:15": {
+    "title": "Hagar bears Ishmael",
+    "text": "Hagar bears Abram’s son, and Abram names him Ishmael as the messenger had instructed. The narrative shows the prophecy fulfilled. Ishmael’s birth does not replace the later covenant promise concerning Isaac, which the following chapters clarify.",
+    "refs": "Genesis 16:11; Genesis 17:18–21"
+  },
+  "Genesis 16:16": {
+    "title": "Abram’s age at Ishmael’s birth",
+    "text": "Abram is eighty-six when Hagar bears Ishmael. The age marker links this episode to the later covenant events. It shows the passage of time while the promised son through Sarai has not yet been born.",
+    "refs": "Genesis 17:1; Genesis 21:5"
   }
 };
