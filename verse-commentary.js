@@ -18058,5 +18058,579 @@ window.verseCommentary = {
     "refs": [
       "Exodus 27:19"
     ]
+  },
+  "Exodus 39:1": {
+    "title": "Holy garments made for ministry",
+    "text": "The workers make the garments for service in the holy place and the holy garments for Aaron, as the LORD commanded Moses. The chapter records the actual making of the priestly clothing according to the earlier instructions.",
+    "refs": [
+      "Exodus 28:1–5"
+    ]
+  },
+  "Exodus 39:2": {
+    "title": "The ephod is made",
+    "text": "The ephod is made of gold, blue, purple, scarlet, and fine linen. Its materials and workmanship match the design given on Sinai.",
+    "refs": [
+      "Exodus 28:6"
+    ]
+  },
+  "Exodus 39:3": {
+    "title": "Gold woven into the fabric",
+    "text": "Gold is beaten into thin plates and cut into threads for skillful work with the colored yarns and linen. The verse records the detailed craftsmanship used for the ephod.",
+    "refs": [
+      "Exodus 28:6–8"
+    ]
+  },
+  "Exodus 39:4": {
+    "title": "Shoulder pieces are attached",
+    "text": "The workers make shoulder pieces for the ephod and join them at its edges. These pieces support the stones that represent Israel’s tribes.",
+    "refs": [
+      "Exodus 28:7"
+    ]
+  },
+  "Exodus 39:5": {
+    "title": "The ephod’s band",
+    "text": "The woven band is made of the same materials as the ephod, as the LORD commanded Moses. The band completes the garment’s coordinated construction.",
+    "refs": [
+      "Exodus 28:8"
+    ]
+  },
+  "Exodus 39:6": {
+    "title": "Onyx stones are set in gold",
+    "text": "The onyx stones are prepared and engraved with the names of Israel’s sons as a seal is engraved. They are set in gold settings for the priestly garment.",
+    "refs": [
+      "Exodus 28:9–11"
+    ]
+  },
+  "Exodus 39:7": {
+    "title": "The names are a memorial",
+    "text": "The stones are placed on the ephod’s shoulder pieces as memorial stones for Israel’s sons, as the LORD commanded Moses. Aaron’s garment represents the tribes before God.",
+    "refs": [
+      "Exodus 28:12"
+    ]
+  },
+  "Exodus 39:8": {
+    "title": "The breastplate is made",
+    "text": "The breastplate is made with skillful work using the same materials as the ephod. It is designed to be worn over the heart in priestly service.",
+    "refs": [
+      "Exodus 28:15"
+    ]
+  },
+  "Exodus 39:9": {
+    "title": "The breastplate is doubled and square",
+    "text": "The breastplate is made square and doubled, with the dimensions specified in the instructions. The construction forms the required shape for the stones and the Urim and Thummim.",
+    "refs": [
+      "Exodus 28:16"
+    ]
+  },
+  "Exodus 39:10": {
+    "title": "The first row of stones",
+    "text": "The first row of precious stones is set in the breastplate. The stones are arranged in the order specified by God’s instruction.",
+    "refs": [
+      "Exodus 28:17"
+    ]
+  },
+  "Exodus 39:11": {
+    "title": "The second row of stones",
+    "text": "The second row of stones is set into the breastplate. The work follows the prescribed arrangement of twelve stones.",
+    "refs": [
+      "Exodus 28:18"
+    ]
+  },
+  "Exodus 39:12": {
+    "title": "The third row of stones",
+    "text": "The third row is set in place according to the pattern. Some ancient gemstone names cannot be identified with certainty today, but the text’s count and arrangement are clear.",
+    "refs": [
+      "Exodus 28:19"
+    ]
+  },
+  "Exodus 39:13": {
+    "title": "The fourth row of stones",
+    "text": "The fourth row is set in gold settings, completing the breastplate’s four rows. Together the stones represent Israel’s twelve tribes.",
+    "refs": [
+      "Exodus 28:20–21"
+    ]
+  },
+  "Exodus 39:14": {
+    "title": "Twelve stones with twelve names",
+    "text": "The stones are engraved with the names of Israel’s sons, one name on each stone. The breastplate visibly carries the names of the whole nation.",
+    "refs": [
+      "Exodus 28:21"
+    ]
+  },
+  "Exodus 39:15": {
+    "title": "Gold chains for the breastplate",
+    "text": "Chains of pure gold, twisted like cords, are made for the breastplate. They connect it to the gold settings on the ephod.",
+    "refs": [
+      "Exodus 28:22"
+    ]
+  },
+  "Exodus 39:16": {
+    "title": "Gold settings and rings",
+    "text": "The workers make gold settings and rings for the breastplate. The fittings provide the attachment points specified in the design.",
+    "refs": [
+      "Exodus 28:23"
+    ]
+  },
+  "Exodus 39:17": {
+    "title": "The chains are attached",
+    "text": "The gold chains are attached to the rings on the breastplate. The connection helps secure the breastplate to the priestly garment.",
+    "refs": [
+      "Exodus 28:24"
+    ]
+  },
+  "Exodus 39:18": {
+    "title": "The chains connect to the ephod",
+    "text": "The other ends of the chains are attached to the settings on the shoulder pieces. The breastplate and ephod are joined according to the pattern.",
+    "refs": [
+      "Exodus 28:25"
+    ]
+  },
+  "Exodus 39:19": {
+    "title": "Lower rings on the breastplate",
+    "text": "Two gold rings are made for the lower corners of the breastplate on its inner side. They are part of the means for securing it to the ephod.",
+    "refs": [
+      "Exodus 28:26"
+    ]
+  },
+  "Exodus 39:20": {
+    "title": "Matching rings on the ephod",
+    "text": "Two gold rings are made on the ephod near the band, opposite the breastplate’s lower rings. Their position allows the two garments to be tied together.",
+    "refs": [
+      "Exodus 28:27"
+    ]
+  },
+  "Exodus 39:21": {
+    "title": "The breastplate is secured",
+    "text": "A blue cord joins the breastplate’s rings to the ephod’s rings so the breastplate stays in place above the band, as the LORD commanded Moses. The completed attachment allows Aaron to wear it securely in service.",
+    "refs": [
+      "Exodus 28:28"
+    ]
+  },
+  "Exodus 39:22": {
+    "title": "The robe is woven in blue",
+    "text": "The robe of the ephod is made entirely of blue fabric. The robe is a distinct part of the high priest’s garment.",
+    "refs": [
+      "Exodus 28:31"
+    ]
+  },
+  "Exodus 39:23": {
+    "title": "A reinforced neck opening",
+    "text": "The robe’s opening is woven with a binding so it will not tear. The detail protects the garment from damage during use.",
+    "refs": [
+      "Exodus 28:32"
+    ]
+  },
+  "Exodus 39:24": {
+    "title": "Pomegranates on the robe’s hem",
+    "text": "Pomegranates of blue, purple, scarlet, and fine linen are made around the robe’s hem. Their colors match the sanctuary’s prescribed materials.",
+    "refs": [
+      "Exodus 28:33"
+    ]
+  },
+  "Exodus 39:25": {
+    "title": "Gold bells are made",
+    "text": "Pure gold bells are made and placed among the pomegranates around the robe’s hem. The bells form the alternating pattern commanded for the priestly garment.",
+    "refs": [
+      "Exodus 28:34"
+    ]
+  },
+  "Exodus 39:26": {
+    "title": "Bells and pomegranates alternate",
+    "text": "The hem alternates bells and pomegranates as Aaron ministers, according to the LORD’s command to Moses. The garment is completed with the prescribed pattern.",
+    "refs": [
+      "Exodus 28:33–35"
+    ]
+  },
+  "Exodus 39:27": {
+    "title": "Linen coats for Aaron and his sons",
+    "text": "The workers make coats of fine linen for Aaron and his sons. The garments distinguish their priestly service.",
+    "refs": [
+      "Exodus 28:39–40"
+    ]
+  },
+  "Exodus 39:28": {
+    "title": "Turbans, bonnets, and breeches",
+    "text": "Fine linen turbans, bonnets, and breeches are made, along with the linen undergarments. These items complete important parts of the priestly clothing and modesty requirements.",
+    "refs": [
+      "Exodus 28:39–42"
+    ]
+  },
+  "Exodus 39:29": {
+    "title": "The embroidered sash",
+    "text": "The sash is made of fine linen embroidered with blue, purple, and scarlet, as the LORD commanded Moses. The detail completes the specified clothing for priestly service.",
+    "refs": [
+      "Exodus 28:39–40"
+    ]
+  },
+  "Exodus 39:30": {
+    "title": "The holy crown plate",
+    "text": "The plate of the holy crown is made of pure gold and engraved with “HOLINESS TO THE LORD.” It marks the high priest’s service as consecrated to God.",
+    "refs": [
+      "Exodus 28:36–38"
+    ]
+  },
+  "Exodus 39:31": {
+    "title": "The plate is attached to the turban",
+    "text": "A blue lace attaches the gold plate to the turban, as the LORD commanded Moses. The priestly garments are made according to the instructions, not by improvisation.",
+    "refs": [
+      "Exodus 28:37"
+    ]
+  },
+  "Exodus 39:32": {
+    "title": "All the tabernacle work is finished",
+    "text": "All the work of the tabernacle is completed, and the children of Israel have done according to all the LORD commanded Moses. The chapter begins its final summary by emphasizing obedience to God’s pattern.",
+    "refs": [
+      "Exodus 25:9",
+      "Exodus 35:10"
+    ]
+  },
+  "Exodus 39:33": {
+    "title": "The tabernacle is brought to Moses",
+    "text": "The people bring the tabernacle to Moses, including the tent and its furnishings, clasps, boards, bars, pillars, and sockets. The assembled parts are presented for inspection before the sanctuary is erected.",
+    "refs": [
+      "Exodus 36:8–38"
+    ]
+  },
+  "Exodus 39:34": {
+    "title": "The coverings are presented",
+    "text": "The coverings of ram skins and durable skins, along with the veil, are brought to Moses. The protective layers and inner veil are included in the completed work.",
+    "refs": [
+      "Exodus 26:14",
+      "Exodus 26:31"
+    ]
+  },
+  "Exodus 39:35": {
+    "title": "The ark and its staves",
+    "text": "The ark of the testimony, its staves, and the mercy seat are brought. These are the central objects associated with the covenant testimony and the appointed meeting place.",
+    "refs": [
+      "Exodus 25:10–22"
+    ]
+  },
+  "Exodus 39:36": {
+    "title": "The table and its utensils",
+    "text": "The table and all its vessels, with the showbread, are presented to Moses. The items are ready for their prescribed sanctuary service.",
+    "refs": [
+      "Exodus 25:23–30"
+    ]
+  },
+  "Exodus 39:37": {
+    "title": "The lampstand and its lamps",
+    "text": "The pure lampstand, its lamps, utensils, and oil are brought. These provide the sanctuary’s appointed light.",
+    "refs": [
+      "Exodus 25:31–40"
+    ]
+  },
+  "Exodus 39:38": {
+    "title": "The golden altar and anointing oil",
+    "text": "The gold altar, anointing oil, incense, and entrance screen are presented. The items serve the sanctuary’s regular worship and consecration.",
+    "refs": [
+      "Exodus 30:1–38"
+    ]
+  },
+  "Exodus 39:39": {
+    "title": "The bronze altar and laver",
+    "text": "The bronze altar, its utensils, the laver, and its base are brought. These furnishings support the courtyard’s sacrifices and priestly washing.",
+    "refs": [
+      "Exodus 27:1–8",
+      "Exodus 30:17–21"
+    ]
+  },
+  "Exodus 39:40": {
+    "title": "The courtyard and its fittings",
+    "text": "The hangings, pillars, sockets, gate screen, cords, and pins are presented. The complete courtyard enclosure is ready for assembly.",
+    "refs": [
+      "Exodus 27:9–19"
+    ]
+  },
+  "Exodus 39:41": {
+    "title": "The priestly garments are presented",
+    "text": "The service garments for Aaron and his sons are brought, completing the list of the tabernacle’s work. Both the sanctuary and the priests’ clothing have been prepared according to God’s instructions.",
+    "refs": [
+      "Exodus 28:1–43"
+    ]
+  },
+  "Exodus 39:42": {
+    "title": "Israel follows the LORD’s command",
+    "text": "The children of Israel have done all the work as the LORD commanded Moses. The verse emphasizes obedience as the standard by which the work is evaluated.",
+    "refs": [
+      "Exodus 39:32"
+    ]
+  },
+  "Exodus 39:43": {
+    "title": "Moses inspects and blesses the people",
+    "text": "Moses looks over all the work and sees that it has been done as the LORD commanded; he blesses the people. The blessing follows faithful completion of the task entrusted to them.",
+    "refs": [
+      "Genesis 1:31",
+      "Exodus 40:1–2"
+    ]
+  },
+  "Exodus 40:1": {
+    "title": "The LORD gives the date for erection",
+    "text": "The LORD tells Moses when to set up the tabernacle, on the first day of the first month. The completed pieces are now to be assembled according to God’s timing and command.",
+    "refs": [
+      "Exodus 39:32–43"
+    ]
+  },
+  "Exodus 40:2": {
+    "title": "Set up the tabernacle",
+    "text": "Moses is commanded to erect the tabernacle of the tent of meeting. The structure becomes the appointed place for Israel’s sanctuary worship and God’s covenant presence among them.",
+    "refs": [
+      "Exodus 25:8"
+    ]
+  },
+  "Exodus 40:3": {
+    "title": "Place the ark behind the veil",
+    "text": "The ark of the testimony is placed inside the tabernacle and screened by the veil. The arrangement preserves the boundary around the most holy place.",
+    "refs": [
+      "Exodus 26:33–34"
+    ]
+  },
+  "Exodus 40:4": {
+    "title": "Bring in the table and lampstand",
+    "text": "The table is brought in and arranged, and the lampstand is brought in with its lamps set in order. The furnishings are placed according to their prescribed positions.",
+    "refs": [
+      "Exodus 25:23–40"
+    ]
+  },
+  "Exodus 40:5": {
+    "title": "Set the incense altar and entrance screen",
+    "text": "The gold incense altar is placed before the ark, and the screen is set at the tabernacle entrance. The layout follows the pattern for the holy place.",
+    "refs": [
+      "Exodus 30:1–6",
+      "Exodus 26:36"
+    ]
+  },
+  "Exodus 40:6": {
+    "title": "The burnt-offering altar is placed",
+    "text": "The bronze altar is set before the entrance of the tabernacle. It occupies the courtyard position specified for sacrifices.",
+    "refs": [
+      "Exodus 27:1–8"
+    ]
+  },
+  "Exodus 40:7": {
+    "title": "The laver is set between altar and tent",
+    "text": "The laver is placed between the tent of meeting and the altar and filled with water. It is ready for the priests’ prescribed washing.",
+    "refs": [
+      "Exodus 30:17–21"
+    ]
+  },
+  "Exodus 40:8": {
+    "title": "The courtyard is erected",
+    "text": "The courtyard is set up around the tabernacle and altar, and the screen is hung at the gate. The enclosure completes the outer worship space.",
+    "refs": [
+      "Exodus 27:9–19"
+    ]
+  },
+  "Exodus 40:9": {
+    "title": "Anoint the tabernacle and furnishings",
+    "text": "Moses is told to anoint the tabernacle and all that is in it, consecrating it and its furnishings. The sanctuary is set apart for the service God has appointed.",
+    "refs": [
+      "Exodus 30:26–29"
+    ]
+  },
+  "Exodus 40:10": {
+    "title": "Anoint the altar",
+    "text": "The burnt-offering altar and its utensils are anointed and made holy. The altar is consecrated for the sacrifices to be offered there.",
+    "refs": [
+      "Exodus 29:36–37"
+    ]
+  },
+  "Exodus 40:11": {
+    "title": "Anoint the laver and its base",
+    "text": "The laver and its base are anointed and consecrated. The washing place is included in the sanctuary’s sacred arrangement.",
+    "refs": [
+      "Exodus 30:17–21"
+    ]
+  },
+  "Exodus 40:12": {
+    "title": "Bring Aaron and his sons to the entrance",
+    "text": "Aaron and his sons are brought to the door of the tent of meeting and washed with water. Their consecration prepares them for the priestly service.",
+    "refs": [
+      "Exodus 29:4"
+    ]
+  },
+  "Exodus 40:13": {
+    "title": "Clothe and anoint Aaron",
+    "text": "Moses is to put the holy garments on Aaron, anoint him, and sanctify him to minister as priest. The high-priestly office is established through the prescribed act of consecration.",
+    "refs": [
+      "Exodus 29:5–7"
+    ]
+  },
+  "Exodus 40:14": {
+    "title": "Clothe Aaron’s sons",
+    "text": "Moses is to bring Aaron’s sons and put coats on them. Their garments distinguish their service as priests.",
+    "refs": [
+      "Exodus 29:8"
+    ]
+  },
+  "Exodus 40:15": {
+    "title": "Anoint the sons for priestly service",
+    "text": "Aaron’s sons are to be anointed as their father was, so they may minister as priests. The anointing establishes the continuing priestly line under Israel’s covenant arrangement.",
+    "refs": [
+      "Exodus 29:9"
+    ]
+  },
+  "Exodus 40:16": {
+    "title": "Moses does as commanded",
+    "text": "Moses carries out all that the LORD commanded him. The repeated statement of obedience is a central theme in the tabernacle account.",
+    "refs": [
+      "Exodus 39:42–43"
+    ]
+  },
+  "Exodus 40:17": {
+    "title": "The tabernacle is erected in the second year",
+    "text": "The tabernacle is set up on the first day of the first month in the second year after Israel left Egypt. The date anchors the completion of the sanctuary in the chronology of the exodus.",
+    "refs": [
+      "Exodus 12:2"
+    ]
+  },
+  "Exodus 40:18": {
+    "title": "The framework is assembled",
+    "text": "Moses raises the tabernacle, sets its sockets, boards, bars, pillars, and sockets in place. The sanctuary’s framework is assembled according to the plan.",
+    "refs": [
+      "Exodus 26:15–30"
+    ]
+  },
+  "Exodus 40:19": {
+    "title": "The coverings are spread over the tent",
+    "text": "Moses spreads the tent over the tabernacle and places the outer covering as the LORD commanded. The protective layers are installed according to the design.",
+    "refs": [
+      "Exodus 26:7–14"
+    ]
+  },
+  "Exodus 40:20": {
+    "title": "The testimony is placed in the ark",
+    "text": "Moses takes the testimony and puts it into the ark, attaches the staves, and sets the mercy seat above it. The covenant words occupy the central place in the sanctuary arrangement.",
+    "refs": [
+      "Exodus 25:16–21"
+    ]
+  },
+  "Exodus 40:21": {
+    "title": "The ark is brought inside the veil",
+    "text": "Moses brings the ark into the tabernacle, hangs the veil, and screens the ark of the testimony as the LORD commanded. The most holy place is now set apart according to the pattern.",
+    "refs": [
+      "Exodus 26:33"
+    ]
+  },
+  "Exodus 40:22": {
+    "title": "The table is placed on the north side",
+    "text": "Moses places the table in the tent of meeting on the north side, outside the veil. The table occupies its appointed position in the holy place.",
+    "refs": [
+      "Exodus 25:23–30"
+    ]
+  },
+  "Exodus 40:23": {
+    "title": "The bread is arranged before the LORD",
+    "text": "Moses sets the bread in order on the table before the LORD, as commanded. The showbread service is established in the completed sanctuary.",
+    "refs": [
+      "Leviticus 24:5–9"
+    ]
+  },
+  "Exodus 40:24": {
+    "title": "The lampstand is placed on the south side",
+    "text": "Moses places the lampstand opposite the table on the south side. The arrangement follows the prescribed layout of the holy place.",
+    "refs": [
+      "Exodus 25:31–40"
+    ]
+  },
+  "Exodus 40:25": {
+    "title": "The lamps are lit before the LORD",
+    "text": "Moses lights the lamps as the LORD commanded. The sanctuary’s light service begins according to the prescribed order.",
+    "refs": [
+      "Exodus 27:20–21"
+    ]
+  },
+  "Exodus 40:26": {
+    "title": "The gold altar is placed before the veil",
+    "text": "Moses places the gold altar of incense in the tent of meeting before the veil. The altar occupies the position specified for the daily incense service.",
+    "refs": [
+      "Exodus 30:1–6"
+    ]
+  },
+  "Exodus 40:27": {
+    "title": "Sweet incense is burned",
+    "text": "Moses burns sweet incense on the altar as the LORD commanded. The prescribed worship service is now carried out in the assembled tabernacle.",
+    "refs": [
+      "Exodus 30:7–8"
+    ]
+  },
+  "Exodus 40:28": {
+    "title": "The screen is set at the entrance",
+    "text": "Moses hangs the screen at the tabernacle entrance. The entrance is completed as part of the sanctuary’s arrangement.",
+    "refs": [
+      "Exodus 26:36–37"
+    ]
+  },
+  "Exodus 40:29": {
+    "title": "The bronze altar is set up",
+    "text": "Moses places the burnt-offering altar at the entrance and offers the burnt offering and grain offering on it. The sacrificial service begins in the completed courtyard.",
+    "refs": [
+      "Exodus 27:1–8"
+    ]
+  },
+  "Exodus 40:30": {
+    "title": "The laver is filled",
+    "text": "Moses places the laver between the tent and altar and fills it with water. The water is ready for the priests’ washing.",
+    "refs": [
+      "Exodus 30:17–21"
+    ]
+  },
+  "Exodus 40:31": {
+    "title": "Moses, Aaron, and his sons wash",
+    "text": "Moses, Aaron, and Aaron’s sons wash their hands and feet at the laver. The washing follows the instructions for entering and serving at the sanctuary.",
+    "refs": [
+      "Exodus 30:19–21"
+    ]
+  },
+  "Exodus 40:32": {
+    "title": "They wash before entering or approaching the altar",
+    "text": "They wash whenever they enter the tent of meeting or approach the altar, as the LORD commanded Moses. The rule maintains the prescribed preparation for priestly service.",
+    "refs": [
+      "Exodus 30:20–21"
+    ]
+  },
+  "Exodus 40:33": {
+    "title": "The work is completed",
+    "text": "Moses sets up the courtyard around the tabernacle and altar and hangs the entrance screen; so Moses finishes the work. The long process of receiving, making, and assembling the sanctuary reaches completion.",
+    "refs": [
+      "Exodus 39:32–43"
+    ]
+  },
+  "Exodus 40:34": {
+    "title": "The glory of the LORD fills the tabernacle",
+    "text": "The cloud covers the tent of meeting, and the glory of the LORD fills the tabernacle. The completion of the sanctuary is confirmed by God’s presence; the building does not contain God’s infinite being, but it becomes the appointed place of His covenant presence among Israel.",
+    "refs": [
+      "Exodus 25:8",
+      "1 Kings 8:10–11"
+    ]
+  },
+  "Exodus 40:35": {
+    "title": "Moses cannot enter because of the cloud",
+    "text": "Moses is unable to enter the tent because the cloud rests on it and the glory of the LORD fills the tabernacle. Even Moses, who spoke with God, must respect the manifestation of God’s holiness and wait for God’s direction.",
+    "refs": [
+      "Exodus 33:9–11"
+    ]
+  },
+  "Exodus 40:36": {
+    "title": "The cloud guides Israel’s journeys",
+    "text": "When the cloud lifts from the tabernacle, Israel journeys onward. The cloud provides the visible sign for when the people are to move.",
+    "refs": [
+      "Numbers 9:17–23"
+    ]
+  },
+  "Exodus 40:37": {
+    "title": "Israel waits while the cloud remains",
+    "text": "If the cloud does not lift, Israel does not journey until it lifts. The people learn to wait for God’s guidance rather than choose their own timing.",
+    "refs": [
+      "Numbers 9:18–19"
+    ]
+  },
+  "Exodus 40:38": {
+    "title": "The LORD’s presence remains with Israel",
+    "text": "The cloud of the LORD is over the tabernacle by day and fire is in it by night, visible to all Israel throughout their journeys. Exodus ends with God’s presence guiding the people He delivered from Egypt; the story moves forward with the LORD among His covenant people.",
+    "refs": [
+      "Exodus 13:21–22",
+      "Numbers 9:15–23"
+    ]
   }
 };
