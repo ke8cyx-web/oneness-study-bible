@@ -9550,5 +9550,232 @@ window.verseCommentary = {
       "Joshua 24:32",
       "Hebrews 11:22"
     ]
+  },
+  "Genesis 5:1": {
+    "title": "The book of Adam’s generations",
+    "text": "The chapter begins the record of Adam’s descendants and recalls that God made mankind in His likeness. The genealogy connects the creation account to the family line that continues through Noah.",
+    "refs": [
+      "Genesis 1:26–28"
+    ]
+  },
+  "Genesis 5:2": {
+    "title": "Male and female created and blessed",
+    "text": "God created them male and female, blessed them, and called their name Adam in the day they were created. The verse summarizes humanity’s origin and shared human identity before listing the generations.",
+    "refs": [
+      "Genesis 1:27"
+    ]
+  },
+  "Genesis 5:3": {
+    "title": "Seth born in Adam’s likeness",
+    "text": "Adam fathers Seth in his own likeness and image. The wording echoes humanity’s creation in God’s image while describing the transmission of human life through generations.",
+    "refs": [
+      "Genesis 1:26",
+      "Genesis 4:25"
+    ]
+  },
+  "Genesis 5:4": {
+    "title": "Adam’s other sons and daughters",
+    "text": "Adam lives many years after Seth’s birth and has other sons and daughters. The genealogy names Seth as the line being traced without claiming that he was Adam’s only child.",
+    "refs": [
+      "Genesis 4:25"
+    ]
+  },
+  "Genesis 5:5": {
+    "title": "Adam dies",
+    "text": "Adam lives nine hundred and thirty years and dies. The repeated formula of death begins to mark the genealogy and reminds readers of mortality after the entrance of sin into the human story.",
+    "refs": [
+      "Genesis 2:17",
+      "Romans 5:12"
+    ]
+  },
+  "Genesis 5:6": {
+    "title": "Seth fathers Enos",
+    "text": "Seth fathers Enos at the age of one hundred and five. The genealogy continues the line through which the account will proceed toward Noah.",
+    "refs": [
+      "Genesis 4:26"
+    ]
+  },
+  "Genesis 5:7": {
+    "title": "Seth’s descendants",
+    "text": "Seth lives after Enos’s birth and fathers other sons and daughters. The verse records the continuation and growth of the family line.",
+    "refs": [
+      "Genesis 5:4"
+    ]
+  },
+  "Genesis 5:8": {
+    "title": "Seth dies",
+    "text": "Seth’s lifespan is given as nine hundred and twelve years, and he dies. The repeated wording emphasizes that even the early generations of humanity are subject to death.",
+    "refs": [
+      "Genesis 5:5"
+    ]
+  },
+  "Genesis 5:9": {
+    "title": "Enos fathers Cainan",
+    "text": "Enos fathers Cainan at ninety years old. The genealogy advances to another generation in Adam’s family line.",
+    "refs": [
+      "Luke 3:38"
+    ]
+  },
+  "Genesis 5:10": {
+    "title": "Enos’s descendants",
+    "text": "Enos lives after Cainan’s birth and fathers other sons and daughters. The account emphasizes the continued growth of humanity across generations.",
+    "refs": [
+      "Genesis 5:7"
+    ]
+  },
+  "Genesis 5:11": {
+    "title": "Enos dies",
+    "text": "Enos lives nine hundred and five years and dies. The repeated death formula keeps mortality in view throughout the genealogy.",
+    "refs": [
+      "Genesis 5:8"
+    ]
+  },
+  "Genesis 5:12": {
+    "title": "Cainan fathers Mahalaleel",
+    "text": "Cainan fathers Mahalaleel at seventy years old. The genealogy continues without pausing to narrate the individual events of each person’s life.",
+    "refs": [
+      "Luke 3:37"
+    ]
+  },
+  "Genesis 5:13": {
+    "title": "Cainan’s descendants",
+    "text": "Cainan lives after Mahalaleel’s birth and fathers other sons and daughters. The record highlights family continuity through the generations.",
+    "refs": [
+      "Genesis 5:10"
+    ]
+  },
+  "Genesis 5:14": {
+    "title": "Cainan dies",
+    "text": "Cainan lives nine hundred and ten years and dies. The formula continues the chapter’s pattern and contrasts with the later account of Enoch’s unusual departure from life.",
+    "refs": [
+      "Genesis 5:24"
+    ]
+  },
+  "Genesis 5:15": {
+    "title": "Mahalaleel fathers Jared",
+    "text": "Mahalaleel fathers Jared at sixty-five years old. The line moves toward Enoch and eventually Noah.",
+    "refs": [
+      "Genesis 5:18"
+    ]
+  },
+  "Genesis 5:16": {
+    "title": "Mahalaleel’s descendants",
+    "text": "Mahalaleel lives after Jared’s birth and fathers other sons and daughters. The genealogy records the ordinary passage of generations rather than a detailed biography.",
+    "refs": [
+      "Genesis 5:10"
+    ]
+  },
+  "Genesis 5:17": {
+    "title": "Mahalaleel dies",
+    "text": "Mahalaleel lives eight hundred and ninety-five years and dies. The chapter’s repeated account of death reinforces the consequences of humanity’s fallen condition.",
+    "refs": [
+      "Romans 5:12"
+    ]
+  },
+  "Genesis 5:18": {
+    "title": "Jared fathers Enoch",
+    "text": "Jared fathers Enoch at one hundred and sixty-two years old. Enoch’s life will stand out from the repeated pattern that surrounds the other names in the genealogy.",
+    "refs": [
+      "Genesis 5:21–24"
+    ]
+  },
+  "Genesis 5:19": {
+    "title": "Jared’s descendants",
+    "text": "Jared lives after Enoch’s birth and fathers other sons and daughters. The verse preserves the continuation of the family line.",
+    "refs": [
+      "Genesis 5:16"
+    ]
+  },
+  "Genesis 5:20": {
+    "title": "Jared dies",
+    "text": "Jared lives nine hundred and sixty-two years and dies. His lifespan is among the longest recorded in the genealogy, yet the same death formula applies.",
+    "refs": [
+      "Genesis 5:17"
+    ]
+  },
+  "Genesis 5:21": {
+    "title": "Enoch fathers Methuselah",
+    "text": "Enoch fathers Methuselah at sixty-five years old. The account then emphasizes Enoch’s walk with God, distinguishing his description from the surrounding entries.",
+    "refs": [
+      "Genesis 5:22"
+    ]
+  },
+  "Genesis 5:22": {
+    "title": "Enoch walks with God",
+    "text": "Enoch walks with God after Methuselah’s birth for three hundred years and fathers other sons and daughters. The phrase describes an enduring relationship of faithfulness to God.",
+    "refs": [
+      "Genesis 6:9"
+    ]
+  },
+  "Genesis 5:23": {
+    "title": "Enoch’s lifespan",
+    "text": "Enoch’s total lifespan is three hundred and sixty-five years, shorter than the other ages listed in this chapter. The next verse explains his unusual end.",
+    "refs": [
+      "Genesis 5:24"
+    ]
+  },
+  "Genesis 5:24": {
+    "title": "Enoch is taken by God",
+    "text": "Enoch walks with God, and then he is not found because God takes him. The verse is distinct from the repeated statement that each other named patriarch died; Hebrews later connects Enoch’s life with faith.",
+    "refs": [
+      "Hebrews 11:5"
+    ]
+  },
+  "Genesis 5:25": {
+    "title": "Methuselah fathers Lamech",
+    "text": "Methuselah fathers Lamech at one hundred and eighty-seven years old. The genealogy continues toward Noah’s generation and the flood narrative.",
+    "refs": [
+      "Genesis 5:28–29"
+    ]
+  },
+  "Genesis 5:26": {
+    "title": "Methuselah’s descendants",
+    "text": "Methuselah lives after Lamech’s birth and fathers other sons and daughters. The verse continues the family record with the same structure used for earlier generations.",
+    "refs": [
+      "Genesis 5:22"
+    ]
+  },
+  "Genesis 5:27": {
+    "title": "Methuselah dies",
+    "text": "Methuselah lives nine hundred and sixty-nine years, the longest lifespan stated in the Bible, and dies. Despite the extraordinary number of years, the genealogy still places his life under the recurring reality of death.",
+    "refs": [
+      "Genesis 5:5"
+    ]
+  },
+  "Genesis 5:28": {
+    "title": "Lamech fathers a son",
+    "text": "Lamech fathers a son at one hundred and eighty-two years old. His words at the naming of the child will express hope for relief from the curse on the ground.",
+    "refs": [
+      "Genesis 5:29"
+    ]
+  },
+  "Genesis 5:29": {
+    "title": "Noah and the hope of comfort",
+    "text": "Lamech names his son Noah and says he will comfort them concerning their work and the toil of their hands because of the cursed ground. His statement expresses hope for relief; the later story shows Noah’s role in preservation through the flood.",
+    "refs": [
+      "Genesis 3:17–19",
+      "Genesis 6:8"
+    ]
+  },
+  "Genesis 5:30": {
+    "title": "Lamech’s descendants",
+    "text": "Lamech lives after Noah’s birth and fathers other sons and daughters. The genealogy continues to record the family that precedes the flood.",
+    "refs": [
+      "Genesis 5:28"
+    ]
+  },
+  "Genesis 5:31": {
+    "title": "Lamech dies",
+    "text": "Lamech lives seven hundred and seventy-seven years and dies. The repeated formula closes his entry before the chapter focuses on Noah and his sons.",
+    "refs": [
+      "Genesis 5:29"
+    ]
+  },
+  "Genesis 5:32": {
+    "title": "Noah fathers Shem, Ham, and Japheth",
+    "text": "At five hundred years old, Noah fathers Shem, Ham, and Japheth. Their names introduce the family through which humanity will continue after the flood.",
+    "refs": [
+      "Genesis 6:9–10"
+    ]
   }
 };
