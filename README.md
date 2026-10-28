@@ -21,7 +21,7 @@ An installable Progressive Web App (PWA) using a green-and-gold theme, built for
 
 ## Current commentary progress
 
-Original verse-by-verse commentary is being added incrementally. The existing verse-commentary.js contains early Genesis entries. exodus-commentary.js now contains entries for Exodus 11 and Exodus 12:1–51, plus Exodus 13:1–22 and Exodus 14:1–31. The verse-by-verse commentary for all 66 books is **not yet complete**; do not represent the full commentary as finished until every verse has been written and checked.
+Original verse-by-verse commentary is being added incrementally. The existing verse-commentary.js contains early Genesis entries. exodus-commentary.js now contains entries for Exodus 11 and Exodus 12:1–51, plus Exodus 13:1–22, Exodus 14:1–31, and Exodus 15:1–27. The verse-by-verse commentary for all 66 books is **not yet complete**; do not represent the full commentary as finished until every verse has been written and checked.
 
 The Bible text and commentary are kept separate so readers can compare each teaching note with Scripture in context. Commentary is a study aid and should be checked against the cited passages.
 
