@@ -3187,5 +3187,340 @@ window.verseCommentary = {
     "title": "The field and cave secured",
     "text": "The field and cave are confirmed to Abraham as a burial possession by the sons of Heth. The chapter closes by emphasizing the legitimacy and permanence of the purchase. Abraham’s family still waits for the larger land promise, but now has a recognized burial place there.",
     "refs": "Genesis 23:16–19; Acts 7:16"
+  },
+  "Genesis 24:1": {
+    "title": "Abraham is old and blessed",
+    "text": "Abraham is old and well advanced in age, and the LORD has blessed him in all things. The statement summarizes God’s faithfulness over Abraham’s life before the search for Isaac’s wife begins. The blessing does not mean Abraham’s life was free of hardship.",
+    "refs": "Genesis 12:2; Genesis 21:5"
+  },
+  "Genesis 24:2": {
+    "title": "The eldest servant is commissioned",
+    "text": "Abraham asks his eldest servant to swear an oath concerning Isaac’s wife. The request shows that Abraham treats the covenant family’s future as important. The oath is a specific act in the patriarchal narrative, not a general command for all believers to use the same procedure.",
+    "refs": "Genesis 24:3–4"
+  },
+  "Genesis 24:3": {
+    "title": "Do not take a wife from Canaan",
+    "text": "Abraham asks the servant to swear by the LORD, the God of heaven and earth, that Isaac will not marry a daughter of the Canaanites. The concern is the covenant family’s direction and allegiance to the LORD. The verse should be read in its historical covenant setting, not as permission for ethnic contempt.",
+    "refs": "Deuteronomy 7:3–4; 1 Kings 11:2"
+  },
+  "Genesis 24:4": {
+    "title": "Go to Abraham’s kindred",
+    "text": "The servant is instructed to travel to Abraham’s country and kindred to find a wife for Isaac. The instruction connects Isaac’s marriage with Abraham’s extended family. The narrative will show the servant relying on God’s guidance during the journey.",
+    "refs": "Genesis 22:20–23; Genesis 24:12"
+  },
+  "Genesis 24:5": {
+    "title": "What if the woman will not come?",
+    "text": "The servant asks what he should do if the woman refuses to return to Canaan. The question anticipates a practical difficulty rather than expressing a denial of God’s promise. Abraham answers with confidence in God’s direction in the next verses.",
+    "refs": "Genesis 24:6–8"
+  },
+  "Genesis 24:6": {
+    "title": "Do not take Isaac back",
+    "text": "Abraham firmly tells the servant not to take Isaac back to the land from which he came. The promise concerns the land God has given Abraham’s descendants. The instruction keeps Isaac’s future tied to God’s covenant rather than reversing the call.",
+    "refs": "Genesis 12:1; Hebrews 11:8–9"
+  },
+  "Genesis 24:7": {
+    "title": "The LORD will send His angel",
+    "text": "Abraham recalls that the LORD took him from his father’s house and promised the land to his seed; he trusts that God will send His angel ahead. The verse expresses confidence in divine guidance. The mention of an angel describes God’s messenger and does not by itself define a separate divine person.",
+    "refs": "Exodus 23:20; Hebrews 1:14"
+  },
+  "Genesis 24:8": {
+    "title": "The servant released from the oath",
+    "text": "If the woman will not come, the servant is released from the oath, but he must not take Isaac back there. The instructions include a contingency while preserving the main boundary. The passage shows that faith can plan for practical uncertainty.",
+    "refs": "Genesis 24:5–6"
+  },
+  "Genesis 24:9": {
+    "title": "The servant swears",
+    "text": "The servant places his hand under Abraham’s thigh and swears concerning the matter. This is an ancient oath custom within the narrative. The verse records the practice but does not prescribe it for later believers.",
+    "refs": "Genesis 24:2–4"
+  },
+  "Genesis 24:10": {
+    "title": "The journey to Mesopotamia",
+    "text": "The servant takes camels and gifts and travels to Mesopotamia, to the city of Nahor. The preparations show that the mission is both practical and purposeful. The next verses describe his prayer for guidance at the well.",
+    "refs": "Genesis 22:20–23; Genesis 24:11–14"
+  },
+  "Genesis 24:11": {
+    "title": "The camels kneel at the well",
+    "text": "The servant makes the camels kneel by a well at evening, when women come to draw water. The ordinary setting becomes the place where he seeks God’s guidance. The narrative links divine providence with everyday circumstances.",
+    "refs": "Genesis 24:12–15"
+  },
+  "Genesis 24:12": {
+    "title": "The servant prays to the LORD",
+    "text": "The servant asks the LORD, the God of his master Abraham, to show kindness and guide his mission. His prayer identifies the LORD as the one who can direct events. It models seeking God’s help while carrying out a responsibility.",
+    "refs": "Proverbs 3:5–6; Psalm 32:8"
+  },
+  "Genesis 24:13": {
+    "title": "The servant waits by the well",
+    "text": "The servant describes where he is standing and the women who will come to draw water. His prayer is specific to the task at hand. The verse shows that he is looking for guidance in the circumstances of the journey.",
+    "refs": "Genesis 24:11–12"
+  },
+  "Genesis 24:14": {
+    "title": "A sign of kindness",
+    "text": "The servant asks that the chosen woman offer him water and volunteer to water the camels. He asks that this identify a person whose conduct shows kindness and willingness to serve. The sign is part of this particular narrative and should not be turned into a formula that every decision must be made by testing people.",
+    "refs": "Judges 6:36–40; Proverbs 31:26"
+  },
+  "Genesis 24:15": {
+    "title": "Rebekah arrives",
+    "text": "Before the servant finishes speaking, Rebekah arrives with a pitcher. The narrative presents the timing as an answer to prayer. Rebekah’s family line was introduced in Genesis 22, connecting the events through the wider genealogy.",
+    "refs": "Genesis 22:23; Genesis 24:45"
+  },
+  "Genesis 24:16": {
+    "title": "Rebekah’s appearance and purity",
+    "text": "Rebekah is described as fair to look upon, a virgin, and not known by man. The details identify her in the narrative before the servant speaks with her. The passage’s focus is her suitability within the marriage arrangement, not a universal measure of a person’s worth based only on appearance.",
+    "refs": "Genesis 24:43; Proverbs 31:30"
+  },
+  "Genesis 24:17": {
+    "title": "The servant asks for water",
+    "text": "The servant runs to meet Rebekah and asks for a little water from her pitcher. The action begins the test he prayed about. The story’s focus is the interaction and Rebekah’s response, not the servant’s status or power.",
+    "refs": "Genesis 24:14; Genesis 24:18"
+  },
+  "Genesis 24:18": {
+    "title": "Rebekah offers water",
+    "text": "Rebekah promptly lowers her pitcher and gives the servant a drink. Her response shows willingness and courtesy. The following verses expand her offer to water the camels as well.",
+    "refs": "Genesis 24:14; Genesis 24:19"
+  },
+  "Genesis 24:19": {
+    "title": "Rebekah waters the camels",
+    "text": "After the servant drinks, Rebekah offers to draw water for the camels until they have finished drinking. This is substantial labor and demonstrates generosity in the scene. Her actions match the sign the servant had prayed about.",
+    "refs": "Genesis 24:14; Genesis 24:20"
+  },
+  "Genesis 24:20": {
+    "title": "Rebekah hurries to draw water",
+    "text": "Rebekah quickly empties her pitcher into the trough and returns to draw more water for the camels. The repetition stresses her energy and willingness to help. The narrative portrays her character through action rather than merely through description.",
+    "refs": "Genesis 24:18–19"
+  },
+  "Genesis 24:21": {
+    "title": "The servant watches in silence",
+    "text": "The servant watches Rebekah, wondering whether the LORD has made his journey successful. He does not immediately assume he knows the answer; he observes and waits. This careful pause distinguishes prayerful expectation from hasty certainty.",
+    "refs": "Proverbs 18:13; Genesis 24:26"
+  },
+  "Genesis 24:22": {
+    "title": "Gifts are given to Rebekah",
+    "text": "After the camels finish drinking, the servant gives Rebekah jewelry. The gifts begin a formal exchange, but he still needs to learn her family identity and whether hospitality is available. The story combines practical arrangements with the servant’s belief that God has guided him.",
+    "refs": "Genesis 24:23–27"
+  },
+  "Genesis 24:23": {
+    "title": "The servant asks her family",
+    "text": "The servant asks whose daughter Rebekah is and whether there is room for lodging. These are sensible questions that verify her family connection and practical circumstances. The narrative shows that perceived guidance is followed by careful inquiry.",
+    "refs": "Genesis 24:24–25"
+  },
+  "Genesis 24:24": {
+    "title": "Rebekah names her family",
+    "text": "Rebekah identifies herself as the daughter of Bethuel, son of Milcah and Nahor. Her answer confirms the family connection sought by Abraham. The genealogy introduced earlier now becomes directly relevant to the mission.",
+    "refs": "Genesis 22:20–23; Genesis 24:15"
+  },
+  "Genesis 24:25": {
+    "title": "There is room and food",
+    "text": "Rebekah says there is both straw and provender for the camels and room for lodging. Her answer extends hospitality beyond the initial drink. The servant’s journey now has a practical path forward.",
+    "refs": "Genesis 24:23; Genesis 24:31"
+  },
+  "Genesis 24:26": {
+    "title": "The servant worships the LORD",
+    "text": "The servant bows his head and worships the LORD after hearing Rebekah’s answer. He attributes the apparent success of the journey to God’s guidance. This is worship of the LORD, the God of Abraham, rather than praise of the servant’s own cleverness.",
+    "refs": "Genesis 24:12; Genesis 24:48"
+  },
+  "Genesis 24:27": {
+    "title": "God has led him to Abraham’s kin",
+    "text": "The servant blesses the LORD, who has not left His mercy and truth toward Abraham and has led him to the house of his master’s relatives. The verse explicitly attributes guidance to the LORD. It presents God’s faithfulness as continuous with the covenant promises.",
+    "refs": "Genesis 12:1–3; Genesis 24:48"
+  },
+  "Genesis 24:28": {
+    "title": "Rebekah tells her household",
+    "text": "Rebekah runs to tell her mother’s household what has happened. The family now becomes involved in the visitor’s mission. The narrative continues through ordinary communication and hospitality.",
+    "refs": "Genesis 24:29–31"
+  },
+  "Genesis 24:29": {
+    "title": "Laban runs to the servant",
+    "text": "Rebekah’s brother Laban runs out to the man at the well. The next verse explains that he has seen the jewelry and heard Rebekah’s report. The verse begins Laban’s role in the negotiations.",
+    "refs": "Genesis 24:30"
+  },
+  "Genesis 24:30": {
+    "title": "Laban sees the jewelry",
+    "text": "Laban sees the jewelry on Rebekah and hears her account, then goes to the servant. The detail helps explain his eagerness to welcome the visitor. The text does not explicitly state every motive Laban has, so interpretations about greed should be identified as inference.",
+    "refs": "Genesis 24:29; Genesis 24:31"
+  },
+  "Genesis 24:31": {
+    "title": "Come in, blessed of the LORD",
+    "text": "Laban invites the servant into the house and calls him blessed of the LORD. The greeting recognizes the LORD in the events surrounding the visitor. The servant’s mission is received with hospitality.",
+    "refs": "Genesis 24:26–27"
+  },
+  "Genesis 24:32": {
+    "title": "The camels are cared for",
+    "text": "The servant enters, the camels are unloaded and given straw and provender, and water is provided for washing feet. The narrative emphasizes hospitality and practical care. The servant’s mission is not complete until he explains why he has come.",
+    "refs": "Genesis 18:4; Genesis 24:33"
+  },
+  "Genesis 24:33": {
+    "title": "The servant will not eat until he speaks",
+    "text": "Food is set before the servant, but he says he will not eat until he has delivered his message. His sense of mission takes priority over the meal. The family agrees to hear him, and he begins by explaining Abraham’s circumstances.",
+    "refs": "Genesis 24:34–36"
+  },
+  "Genesis 24:34": {
+    "title": "I am Abraham’s servant",
+    "text": "The servant identifies himself and begins his account. His role is to carry out Abraham’s commission, not to seek a wife for himself. The first-person report gives the family the background needed to evaluate the request.",
+    "refs": "Genesis 24:2–4"
+  },
+  "Genesis 24:35": {
+    "title": "The LORD has blessed Abraham greatly",
+    "text": "The servant describes Abraham’s wealth in livestock, silver, gold, servants, and camels. The point is to explain Abraham’s household and standing. The wealth is reported as a fact of the story, not as proof that riches alone establish righteousness.",
+    "refs": "Genesis 13:2; Genesis 24:1"
+  },
+  "Genesis 24:36": {
+    "title": "Isaac is Abraham’s heir",
+    "text": "The servant says Sarah bore Abraham a son in her old age and that Abraham gave him all he had. This confirms Isaac’s place as the promised heir. The detail connects the marriage mission to the covenant promise fulfilled in Isaac’s birth.",
+    "refs": "Genesis 21:1–7; Genesis 25:5"
+  },
+  "Genesis 24:37": {
+    "title": "The oath not to take a Canaanite wife",
+    "text": "The servant recounts Abraham’s oath that Isaac should not marry a daughter of the Canaanites. The concern reflects the covenant family’s religious direction and future. It should be understood in that ancient setting, not generalized into contempt for people of other ethnicities.",
+    "refs": "Genesis 24:3–4; Deuteronomy 7:3–4"
+  },
+  "Genesis 24:38": {
+    "title": "Go to Abraham’s kindred",
+    "text": "The servant repeats the instruction to go to Abraham’s father’s house and kindred to find a wife for Isaac. The retelling underscores the family connection as a central condition of the mission. The next verses recount Abraham’s confidence that God would guide the journey.",
+    "refs": "Genesis 24:4; Genesis 24:39"
+  },
+  "Genesis 24:39": {
+    "title": "The servant asks what if she will not come",
+    "text": "The servant recounts his question about the woman’s willingness to return. The account shows that the journey involved uncertainty and required trust. Abraham’s answer, repeated next, gave the servant a clear boundary and confidence in God’s help.",
+    "refs": "Genesis 24:5–8"
+  },
+  "Genesis 24:40": {
+    "title": "The LORD will send His angel",
+    "text": "The servant repeats Abraham’s assurance that the LORD, before whom Abraham walks, would send His angel and prosper the journey. The messenger is presented as God’s agent. The verse does not itself define the angel as a separate divine person.",
+    "refs": "Genesis 24:7; Exodus 23:20"
+  },
+  "Genesis 24:41": {
+    "title": "The servant is released if refused",
+    "text": "The servant recounts that he would be released from the oath if the family refused, provided he did not take Isaac back there. The condition preserves the central instruction while acknowledging the woman’s family may decline. The narrative is not presented as coercion of Rebekah.",
+    "refs": "Genesis 24:8"
+  },
+  "Genesis 24:42": {
+    "title": "The servant prays at the well",
+    "text": "The servant explains that when he reached the well, he prayed to the LORD, the God of Abraham, for guidance. The retelling emphasizes prayer as part of the mission. God’s name and relationship to Abraham remain central in the servant’s account.",
+    "refs": "Genesis 24:12–14"
+  },
+  "Genesis 24:43": {
+    "title": "The sign repeated",
+    "text": "The servant recounts the request that the young woman who came to draw water offer him a drink. He is explaining how Rebekah’s arrival fit the prayer he had made. The narrative presents this as guidance in a particular situation, not as a universal method that guarantees every decision.",
+    "refs": "Genesis 24:14–15"
+  },
+  "Genesis 24:44": {
+    "title": "The woman who waters the camels",
+    "text": "The servant repeats that the woman who offered him water and watered the camels would be the one he saw as provided by the LORD. The action demonstrates hospitality and diligence. The servant is now giving the family his reasoning rather than simply demanding agreement.",
+    "refs": "Genesis 24:18–20"
+  },
+  "Genesis 24:45": {
+    "title": "Rebekah arrives before he finishes praying",
+    "text": "The servant says Rebekah arrived while he was still speaking in his heart, carrying her pitcher. The timing is presented as providential. The verse highlights the servant’s perception that the LORD answered his prayer.",
+    "refs": "Genesis 24:15; Genesis 24:26"
+  },
+  "Genesis 24:46": {
+    "title": "Rebekah waters him and the camels",
+    "text": "The servant recounts Rebekah’s offer of water and her work watering the camels. These actions correspond to the request he had made. The repetition reinforces why he believes the LORD has guided him to Abraham’s relatives.",
+    "refs": "Genesis 24:18–20"
+  },
+  "Genesis 24:47": {
+    "title": "The servant asks her family identity",
+    "text": "The servant recounts asking whose daughter she was and hearing that she was Bethuel’s daughter. He also mentions giving her the jewelry. The answer confirms the family relationship central to Abraham’s commission.",
+    "refs": "Genesis 24:23–24"
+  },
+  "Genesis 24:48": {
+    "title": "The servant worships the LORD",
+    "text": "The servant says he bowed his head and worshipped the LORD, who led him to the right family. The verse explicitly attributes the successful search to the LORD’s guidance. This is worship directed to the one God, not to the servant or the family.",
+    "refs": "Genesis 24:26–27; Deuteronomy 6:4"
+  },
+  "Genesis 24:49": {
+    "title": "Choose kindness or tell him no",
+    "text": "The servant asks the family to show kindness and truth to Abraham, or else tell him plainly so he can turn elsewhere. He does not pretend the family has no choice. The request seeks an honest answer to complete the mission.",
+    "refs": "Genesis 24:8; Joshua 2:14"
+  },
+  "Genesis 24:50": {
+    "title": "The matter is from the LORD",
+    "text": "Laban and Bethuel answer that the matter comes from the LORD and that they cannot speak against it. Their response recognizes God’s providence in the events. The statement is their judgment about this particular marriage proposal, not a blanket claim that every human plan is God’s will.",
+    "refs": "Proverbs 16:9; Genesis 24:51"
+  },
+  "Genesis 24:51": {
+    "title": "Rebekah may go with the servant",
+    "text": "The family gives Rebekah to the servant to become Isaac’s wife, as the LORD has spoken. The next verses show that the family will still speak with Rebekah herself. The account combines family consent and the woman’s own answer.",
+    "refs": "Genesis 24:57–58"
+  },
+  "Genesis 24:52": {
+    "title": "The servant worships again",
+    "text": "When the servant hears their words, he bows himself to the earth before the LORD. His repeated worship shows gratitude and recognition that the journey has been guided. The success is attributed to God, not merely to human planning.",
+    "refs": "Genesis 24:26–27"
+  },
+  "Genesis 24:53": {
+    "title": "Gifts for Rebekah and her family",
+    "text": "The servant brings out silver, gold, clothing, and gifts for Rebekah’s brother and mother. The gifts accompany the marriage arrangement in the culture of the narrative. The text reports the custom without requiring modern readers to reproduce every ancient practice.",
+    "refs": "Genesis 24:22; Genesis 24:30"
+  },
+  "Genesis 24:54": {
+    "title": "The servant asks to depart",
+    "text": "After eating and resting, the servant asks to be sent away to his master. He remains focused on completing the commission rather than prolonging the visit. The family’s request to delay is recorded next.",
+    "refs": "Genesis 24:55"
+  },
+  "Genesis 24:55": {
+    "title": "The family asks for a delay",
+    "text": "Rebekah’s brother and mother ask that she remain for a time before departing. Their request shows the emotional and practical cost of her leaving. The next verses bring Rebekah’s own decision into the conversation.",
+    "refs": "Genesis 24:56–58"
+  },
+  "Genesis 24:56": {
+    "title": "The servant asks not to delay",
+    "text": "The servant asks them not to delay him, since the LORD has prospered his way. He believes the time has come to return to Abraham. The verse highlights the servant’s sense of duty and gratitude for divine guidance.",
+    "refs": "Genesis 24:40; Genesis 24:52"
+  },
+  "Genesis 24:57": {
+    "title": "Ask Rebekah herself",
+    "text": "The family proposes calling Rebekah and asking her directly. This is an important detail: the narrative does not end with the family deciding without her voice. Her response follows immediately.",
+    "refs": "Genesis 24:58"
+  },
+  "Genesis 24:58": {
+    "title": "Rebekah agrees to go",
+    "text": "Rebekah is asked whether she will go with the servant, and she answers, “I will go.” Her willingness is explicitly recorded. The journey proceeds with her own assent rather than only through arrangements made by others.",
+    "refs": "Genesis 24:51; Genesis 24:61"
+  },
+  "Genesis 24:59": {
+    "title": "Rebekah departs with her nurse",
+    "text": "The family sends Rebekah away with her nurse and the servant and his men. The departure marks a major transition in her life. The story has traced the journey from prayer to family agreement and Rebekah’s own decision.",
+    "refs": "Genesis 24:61"
+  },
+  "Genesis 24:60": {
+    "title": "A blessing for Rebekah",
+    "text": "Rebekah’s family blesses her, wishing that she become the mother of thousands and that her seed possess the gate of those who hate them. The words echo covenant language given to Abraham. The blessing links Rebekah’s future with the promised family line.",
+    "refs": "Genesis 22:17; Genesis 24:4"
+  },
+  "Genesis 24:61": {
+    "title": "Rebekah travels toward Isaac",
+    "text": "Rebekah and her attendants rise, mount the camels, and follow the servant. The journey carries the answer to Abraham’s commission back to Canaan. The narrative emphasizes the completion of the servant’s task through God’s guidance and Rebekah’s willingness.",
+    "refs": "Genesis 24:58–60"
+  },
+  "Genesis 24:62": {
+    "title": "Isaac comes from the way of the well",
+    "text": "Isaac has come from the way of the well Lahai-roi and is dwelling in the south country. The place name recalls God’s seeing and hearing of Hagar. The verse sets the scene for Isaac’s meeting with Rebekah.",
+    "refs": "Genesis 16:13–14; Genesis 24:63"
+  },
+  "Genesis 24:63": {
+    "title": "Isaac meditates in the field",
+    "text": "Isaac goes out into the field at evening to meditate and looks up to see the camels coming. The verse gives a quiet moment before the meeting. The exact Hebrew word translated “meditate” has been discussed, but the scene conveys Isaac’s solitary reflection.",
+    "refs": "Psalm 1:2; Genesis 24:64"
+  },
+  "Genesis 24:64": {
+    "title": "Rebekah sees Isaac",
+    "text": "Rebekah looks up and sees Isaac, then dismounts from her camel. The narrative shifts from the long search to the meeting itself. Her response signals that she recognizes the man she is approaching.",
+    "refs": "Genesis 24:65"
+  },
+  "Genesis 24:65": {
+    "title": "Rebekah asks about Isaac",
+    "text": "Rebekah asks the servant who the man is walking in the field, and the servant says he is his master. She covers herself with a veil. The verse reflects the customs of the narrative’s setting; the veil should be interpreted in context rather than made into an unqualified rule for every culture.",
+    "refs": "1 Corinthians 11:5–6"
+  },
+  "Genesis 24:66": {
+    "title": "The servant reports the journey",
+    "text": "The servant tells Isaac everything he has done. The report closes the mission narrative and explains how Rebekah came to be there. The servant’s account has consistently attributed the outcome to the LORD’s guidance.",
+    "refs": "Genesis 24:12–27; Genesis 24:48"
+  },
+  "Genesis 24:67": {
+    "title": "Isaac takes Rebekah as his wife",
+    "text": "Isaac brings Rebekah into Sarah’s tent, takes her as his wife, and loves her; he is comforted after his mother’s death. The verse joins marriage with grief and consolation. It records the continuation of the covenant family through Isaac and Rebekah.",
+    "refs": "Genesis 23:1–2; Genesis 25:20"
   }
 };
