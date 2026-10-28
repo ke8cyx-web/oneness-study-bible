@@ -11836,5 +11836,470 @@ window.verseCommentary = {
     "refs": [
       "Exodus 11:1–8"
     ]
+  },
+  "Exodus 11:1": {
+    "title": "One more plague",
+    "text": "The LORD tells Moses that one more plague will come upon Pharaoh and Egypt, after which Pharaoh will send Israel away and even drive them out. God announces the outcome before the final judgment, showing that Pharaoh’s power cannot prevent the promised deliverance.",
+    "refs": [
+      "Exodus 3:19–20",
+      "Exodus 12:31–33"
+    ]
+  },
+  "Exodus 11:2": {
+    "title": "Ask for silver and gold",
+    "text": "Moses is told that Israelite men and women should ask their Egyptian neighbors for silver and gold articles. This prepares for the departure with provision after years of forced labor; Exodus later says the Egyptians grant the requests.",
+    "refs": [
+      "Exodus 3:21–22",
+      "Exodus 12:35–36"
+    ]
+  },
+  "Exodus 11:3": {
+    "title": "Moses is respected in Egypt",
+    "text": "The LORD gives Israel favor in the Egyptians’ sight, and Moses is regarded as great by Pharaoh’s servants and the people. The contrast with Pharaoh’s hostility shows that the king’s view does not represent every Egyptian’s response.",
+    "refs": [
+      "Exodus 3:21",
+      "Exodus 12:36"
+    ]
+  },
+  "Exodus 11:4": {
+    "title": "The LORD announces the final judgment",
+    "text": "Moses declares that at about midnight the LORD will go out into the midst of Egypt. The wording presents the judgment as God’s own act, not merely a human uprising or an unexplained disaster.",
+    "refs": [
+      "Exodus 12:12",
+      "Exodus 12:29"
+    ]
+  },
+  "Exodus 11:5": {
+    "title": "The firstborn will die",
+    "text": "The firstborn throughout Egypt, from Pharaoh’s household to the lowest servant and even among livestock, will die. The severity of the judgment answers Pharaoh’s earlier decree against Hebrew sons, though the text presents this as divine judgment rather than a general license for human vengeance.",
+    "refs": [
+      "Exodus 1:22",
+      "Exodus 4:22–23"
+    ]
+  },
+  "Exodus 11:6": {
+    "title": "A great cry in Egypt",
+    "text": "A great cry will rise throughout Egypt, unlike any before or after it. The prediction emphasizes the widespread grief that will follow the final plague.",
+    "refs": [
+      "Exodus 12:30"
+    ]
+  },
+  "Exodus 11:7": {
+    "title": "Israel is distinguished",
+    "text": "No dog will move its tongue against Israel’s people or livestock, so Egypt will know that the LORD distinguishes Israel from Egypt. The expression emphasizes a remarkable peace and protection for Israel during judgment.",
+    "refs": [
+      "Exodus 8:22–23",
+      "Exodus 9:4"
+    ]
+  },
+  "Exodus 11:8": {
+    "title": "Pharaoh’s servants will urge departure",
+    "text": "Moses says Pharaoh’s servants will bow and urge him and the people to leave, after which Moses departs in anger. The anger follows the repeated refusal and the announced judgment; Moses is not portrayed as acting without God’s instructions.",
+    "refs": [
+      "Exodus 10:28–29",
+      "Exodus 12:31–33"
+    ]
+  },
+  "Exodus 11:9": {
+    "title": "Pharaoh will not listen",
+    "text": "The LORD says Pharaoh will not listen so that God’s wonders may be multiplied in Egypt. The statement fits the account’s repeated pattern of Pharaoh’s resistance and God’s public revelation through judgment.",
+    "refs": [
+      "Exodus 7:3–5",
+      "Exodus 10:1–2"
+    ]
+  },
+  "Exodus 11:10": {
+    "title": "The signs before Pharaoh",
+    "text": "Moses and Aaron have performed the signs, but Pharaoh has not let Israel go because the LORD has hardened his heart as described in the narrative. The verse summarizes the conflict and prepares for the final plague and departure.",
+    "refs": [
+      "Exodus 7:13",
+      "Exodus 10:27"
+    ]
+  },
+  "Exodus 12:1": {
+    "title": "A new beginning in Egypt",
+    "text": "The LORD speaks to Moses and Aaron in Egypt, giving instructions that will shape Israel’s calendar and worship. The deliverance is not only an escape from slavery; it becomes a defining event in Israel’s life with God.",
+    "refs": [
+      "Exodus 12:14",
+      "Deuteronomy 16:1"
+    ]
+  },
+  "Exodus 12:2": {
+    "title": "The first month",
+    "text": "God declares this month the beginning of months for Israel. The calendar is organized around the deliverance, so Israel’s national memory and worship will continually recall what the LORD has done.",
+    "refs": [
+      "Exodus 13:4",
+      "Deuteronomy 16:1"
+    ]
+  },
+  "Exodus 12:3": {
+    "title": "Each household takes a lamb",
+    "text": "Israel is instructed to take a lamb for each household on the tenth day of the month. The household-based instruction makes the observance communal and domestic, with neighbors joining when a household is too small.",
+    "refs": [
+      "Exodus 12:4"
+    ]
+  },
+  "Exodus 12:4": {
+    "title": "Share according to the household",
+    "text": "A household too small for one lamb is to share with its neighbor according to the number of people and what each can eat. The provision aims for an appropriate meal rather than waste or exclusion.",
+    "refs": [
+      "Exodus 12:3",
+      "Exodus 12:10"
+    ]
+  },
+  "Exodus 12:5": {
+    "title": "A male without blemish",
+    "text": "The lamb must be a male of the first year and without blemish, taken from the sheep or goats. The animal is to meet the stated requirements for this sacred meal; later Christian interpretation sees Passover imagery fulfilled in Jesus, while the immediate instruction concerns Israel’s deliverance from Egypt.",
+    "refs": [
+      "Leviticus 22:20–22",
+      "1 Corinthians 5:7",
+      "1 Peter 1:19"
+    ]
+  },
+  "Exodus 12:6": {
+    "title": "Kept until the fourteenth day",
+    "text": "The lamb is kept until the fourteenth day, when the congregation kills it at evening. The shared timing joins the households in one national observance of the LORD’s deliverance.",
+    "refs": [
+      "Exodus 12:18"
+    ]
+  },
+  "Exodus 12:7": {
+    "title": "Blood on the doorposts",
+    "text": "The Israelites are to put some blood on the two side posts and upper doorpost of the houses where they eat. The blood serves as the appointed sign for the judgment that is coming; the text’s emphasis is on obeying God’s instruction and trusting His stated promise.",
+    "refs": [
+      "Exodus 12:13",
+      "Hebrews 11:28"
+    ]
+  },
+  "Exodus 12:8": {
+    "title": "Roasted lamb, unleavened bread, and bitter herbs",
+    "text": "The meal is to include roasted lamb, unleavened bread, and bitter herbs. The meal’s features preserve the memory of deliverance under urgent circumstances and the bitterness of bondage.",
+    "refs": [
+      "Exodus 12:11",
+      "Deuteronomy 16:3"
+    ]
+  },
+  "Exodus 12:9": {
+    "title": "Do not eat it raw or boiled",
+    "text": "The lamb must not be eaten raw or boiled in water, but roasted with fire, including its head, legs, and inner parts. The instructions specify the form of the Passover meal and are to be followed as given.",
+    "refs": [
+      "Exodus 12:8"
+    ]
+  },
+  "Exodus 12:10": {
+    "title": "Nothing left until morning",
+    "text": "Any portion remaining until morning is to be burned. The command prevents the meal from being treated casually or preserved contrary to the prescribed observance.",
+    "refs": [
+      "Exodus 12:4",
+      "Exodus 12:46"
+    ]
+  },
+  "Exodus 12:11": {
+    "title": "Eat ready to depart",
+    "text": "Israel is to eat dressed for travel, with shoes on, staff in hand, and in haste. The meal is called the LORD’s passover and is eaten in expectation of immediate departure from bondage.",
+    "refs": [
+      "Exodus 12:31–33",
+      "Deuteronomy 16:3"
+    ]
+  },
+  "Exodus 12:12": {
+    "title": "The LORD judges Egypt’s gods",
+    "text": "God says He will pass through Egypt, strike the firstborn, and execute judgment against the gods of Egypt, declaring, “I am the LORD.” The plague reveals the impotence of Egypt’s religious powers before the one true God.",
+    "refs": [
+      "Numbers 33:4",
+      "Isaiah 19:1"
+    ]
+  },
+  "Exodus 12:13": {
+    "title": "The blood as a sign",
+    "text": "The blood will be a sign on the houses, and when the LORD sees it He will pass over them; the plague will not destroy them. The protection is based on God’s promise and Israel’s obedience to His command, not on the blood having independent magical power.",
+    "refs": [
+      "Exodus 12:7",
+      "Hebrews 11:28"
+    ]
+  },
+  "Exodus 12:14": {
+    "title": "A memorial day",
+    "text": "The day is to be remembered as a feast to the LORD throughout Israel’s generations. The deliverance becomes a lasting testimony to God’s saving action.",
+    "refs": [
+      "Exodus 13:8–10",
+      "Deuteronomy 16:1–3"
+    ]
+  },
+  "Exodus 12:15": {
+    "title": "Seven days without leaven",
+    "text": "Israel must eat unleavened bread for seven days and remove leaven from the houses. The seriousness of the command is expressed by the penalty for eating leaven during the appointed feast.",
+    "refs": [
+      "Exodus 13:6–7",
+      "1 Corinthians 5:7–8"
+    ]
+  },
+  "Exodus 12:16": {
+    "title": "Holy assemblies",
+    "text": "The first and seventh days are to be holy assemblies, with no ordinary work except preparing what each person needs to eat. Worship and rest are built into the observance while practical food needs are allowed.",
+    "refs": [
+      "Leviticus 23:7–8"
+    ]
+  },
+  "Exodus 12:17": {
+    "title": "The Feast of Unleavened Bread",
+    "text": "God commands Israel to keep the Feast of Unleavened Bread because on that day He brought their hosts out of Egypt. The observance remembers a historical deliverance that God Himself accomplished.",
+    "refs": [
+      "Exodus 13:3–10"
+    ]
+  },
+  "Exodus 12:18": {
+    "title": "Unleavened bread from evening to evening",
+    "text": "The dates for eating unleavened bread are specified from the evening of the fourteenth day through the evening of the twenty-first. The timing makes the observance clear and orderly for the community.",
+    "refs": [
+      "Exodus 12:6",
+      "Leviticus 23:5–6"
+    ]
+  },
+  "Exodus 12:19": {
+    "title": "Leaven removed from every home",
+    "text": "For seven days no leaven is to be found in the houses, and the same serious penalty is stated for native-born and stranger alike. The command makes the observance apply across the community rather than only to one family group.",
+    "refs": [
+      "Exodus 12:15"
+    ]
+  },
+  "Exodus 12:20": {
+    "title": "No leaven anywhere",
+    "text": "God repeats that Israel must eat unleavened bread wherever they dwell. Repetition underlines the centrality of this practice in remembering the departure from Egypt.",
+    "refs": [
+      "Exodus 12:17–19"
+    ]
+  },
+  "Exodus 12:21": {
+    "title": "The elders are instructed",
+    "text": "Moses calls Israel’s elders and tells them to select and kill the Passover lambs. The instructions are passed through recognized community leaders so the households can act together.",
+    "refs": [
+      "Exodus 12:3–6"
+    ]
+  },
+  "Exodus 12:22": {
+    "title": "Hyssop and the blood",
+    "text": "The people are to use a bunch of hyssop to apply the blood to the doorposts and stay inside until morning. The clear instruction to remain inside is part of the appointed means of protection that night.",
+    "refs": [
+      "Exodus 12:7",
+      "Psalm 51:7"
+    ]
+  },
+  "Exodus 12:23": {
+    "title": "The LORD protects the marked houses",
+    "text": "The LORD will pass through to strike Egypt, but when He sees the blood on the doorposts He will pass over the entrance and not allow the destroyer to enter the house. The verse describes judgment and protection under God’s direction; it does not present the destroyer as an independent power equal to God.",
+    "refs": [
+      "Exodus 12:12–13"
+    ]
+  },
+  "Exodus 12:24": {
+    "title": "Keep the ordinance",
+    "text": "Israel is commanded to observe this practice as a lasting ordinance for themselves and their children. The memorial is meant to carry the story of deliverance beyond the generation that experienced it.",
+    "refs": [
+      "Exodus 12:14",
+      "Exodus 12:26–27"
+    ]
+  },
+  "Exodus 12:25": {
+    "title": "The promised land observance",
+    "text": "When Israel enters the land the LORD promised, they are to keep the service. The observance is connected to both the historical exodus and the future fulfillment of God’s land promise.",
+    "refs": [
+      "Genesis 15:18",
+      "Exodus 3:8"
+    ]
+  },
+  "Exodus 12:26": {
+    "title": "Children ask what it means",
+    "text": "God anticipates that children will ask about the meaning of the service. The question creates an opportunity for parents to explain God’s saving work rather than leaving the ritual unexplained.",
+    "refs": [
+      "Deuteronomy 6:20–25"
+    ]
+  },
+  "Exodus 12:27": {
+    "title": "The Passover sacrifice and worship",
+    "text": "Israel is to explain that the Passover sacrifice recalls how the LORD passed over Israel’s houses while striking Egypt. The people bow their heads and worship, responding to the promise with reverence and obedience.",
+    "refs": [
+      "Exodus 12:13",
+      "Hebrews 11:28"
+    ]
+  },
+  "Exodus 12:28": {
+    "title": "Israel obeys the command",
+    "text": "The Israelites go and do what the LORD commanded Moses and Aaron. The account highlights their obedience before the judgment takes place.",
+    "refs": [
+      "Exodus 12:21–27"
+    ]
+  },
+  "Exodus 12:29": {
+    "title": "The firstborn die",
+    "text": "At midnight the LORD strikes the firstborn throughout Egypt, from Pharaoh’s household to the captive and the firstborn of livestock. This is the climactic judgment announced in chapter 11 and the turning point that forces Pharaoh to release Israel.",
+    "refs": [
+      "Exodus 11:4–6"
+    ]
+  },
+  "Exodus 12:30": {
+    "title": "A great cry in Egypt",
+    "text": "Pharaoh, his servants, and the Egyptians rise in the night, and there is a great cry because every house has death. The predicted grief becomes reality, and the land that inflicted suffering on Israel now experiences profound loss.",
+    "refs": [
+      "Exodus 11:6"
+    ]
+  },
+  "Exodus 12:31": {
+    "title": "Pharaoh sends Israel away",
+    "text": "Pharaoh calls Moses and Aaron by night and tells them to rise and leave with Israel. He now yields to the demand he had repeatedly refused, though the narrative will still show further pursuit after the departure.",
+    "refs": [
+      "Exodus 3:19–20",
+      "Exodus 14:5–8"
+    ]
+  },
+  "Exodus 12:32": {
+    "title": "Take the flocks and bless me",
+    "text": "Pharaoh tells Israel to take their flocks and herds and asks Moses to bless him also. The demand for full departure is finally accepted, and Pharaoh seeks blessing from the God whose authority he had denied.",
+    "refs": [
+      "Exodus 10:24–26"
+    ]
+  },
+  "Exodus 12:33": {
+    "title": "The Egyptians urge Israel to leave",
+    "text": "The Egyptians press Israel to leave quickly, fearing that they will all die. The urgency is a direct result of the final plague and the accumulated judgments.",
+    "refs": [
+      "Exodus 11:1",
+      "Exodus 12:29–30"
+    ]
+  },
+  "Exodus 12:34": {
+    "title": "Dough before it is leavened",
+    "text": "The Israelites carry their dough before it is leavened, with kneading bowls wrapped in their clothing. This practical detail explains why unleavened bread becomes associated with the hurried departure.",
+    "refs": [
+      "Exodus 12:39"
+    ]
+  },
+  "Exodus 12:35": {
+    "title": "Israel asks for silver and gold",
+    "text": "The Israelites do as Moses instructed and ask the Egyptians for silver, gold, and clothing. The request follows God’s prior promise that Israel would not leave empty-handed.",
+    "refs": [
+      "Exodus 3:21–22",
+      "Exodus 11:2"
+    ]
+  },
+  "Exodus 12:36": {
+    "title": "The Egyptians grant their requests",
+    "text": "The LORD gives Israel favor, and the Egyptians give what they ask for; thus Israel receives goods from Egypt. The narrative presents this as God’s fulfillment of His promise after Israel’s years of oppression.",
+    "refs": [
+      "Genesis 15:14",
+      "Exodus 3:21"
+    ]
+  },
+  "Exodus 12:37": {
+    "title": "Israel journeys from Rameses",
+    "text": "Israel travels from Rameses to Succoth, with about six hundred thousand men on foot besides children. The count emphasizes the remarkable growth of the family that entered Egypt, though the exact total population is not specified by this number alone.",
+    "refs": [
+      "Exodus 1:7",
+      "Numbers 33:3–5"
+    ]
+  },
+  "Exodus 12:38": {
+    "title": "A mixed multitude travels too",
+    "text": "A mixed multitude goes with Israel, along with flocks and herds. The departing company includes more than ethnic Israelites, showing that others also leave Egypt with them.",
+    "refs": [
+      "Numbers 11:4"
+    ]
+  },
+  "Exodus 12:39": {
+    "title": "Unleavened cakes for the journey",
+    "text": "Israel bakes unleavened cakes because they were driven from Egypt and could not delay or prepare provisions. The text connects unleavened bread to the haste of departure as well as the memorial feast.",
+    "refs": [
+      "Exodus 12:34"
+    ]
+  },
+  "Exodus 12:40": {
+    "title": "The years of sojourning",
+    "text": "The KJV states that the sojourning of the children of Israel was four hundred and thirty years. Other biblical passages describe the period in related ways, and interpreters discuss how the years are counted; this verse should be read alongside Genesis 15:13 and Galatians 3:17 rather than isolated from them.",
+    "refs": [
+      "Genesis 15:13",
+      "Galatians 3:17"
+    ]
+  },
+  "Exodus 12:41": {
+    "title": "The appointed day arrives",
+    "text": "At the end of the four hundred and thirty years, Israel’s hosts go out of Egypt on the same day. The exact timing emphasizes the fulfillment of God’s promise according to His appointed purpose.",
+    "refs": [
+      "Genesis 15:13–14"
+    ]
+  },
+  "Exodus 12:42": {
+    "title": "A night of watching",
+    "text": "This night is to be kept as a solemn observance because the LORD brought Israel out of Egypt. The night becomes a memorial of God’s watchful deliverance and Israel’s continuing obligation to remember it.",
+    "refs": [
+      "Exodus 12:14",
+      "Deuteronomy 16:1"
+    ]
+  },
+  "Exodus 12:43": {
+    "title": "Who may eat the Passover",
+    "text": "The LORD gives further rules about who may participate in the Passover meal. The feast is a covenant ordinance with defined conditions, not an ordinary meal open without regard to its meaning.",
+    "refs": [
+      "Exodus 12:48–49"
+    ]
+  },
+  "Exodus 12:44": {
+    "title": "A purchased servant and circumcision",
+    "text": "A purchased servant may eat the Passover after being circumcised. Participation is tied to the covenant sign, showing that household status alone does not determine access to the observance.",
+    "refs": [
+      "Genesis 17:10–14"
+    ]
+  },
+  "Exodus 12:45": {
+    "title": "Certain outsiders excluded",
+    "text": "A foreigner and hired servant are not to eat the Passover under these instructions. The restriction belongs to the specific covenant ordinance and should be read with the provision for a stranger who joins the covenant community in verse 48.",
+    "refs": [
+      "Exodus 12:48"
+    ]
+  },
+  "Exodus 12:46": {
+    "title": "The lamb is eaten in one house",
+    "text": "The Passover meal is to be eaten in the house; no meat is to be carried outside, and no bone is to be broken. The instructions preserve the integrity of the prescribed meal. John 19:36 later connects the unbroken bones of Jesus with Scripture, applying Passover imagery to His death.",
+    "refs": [
+      "Numbers 9:12",
+      "John 19:36"
+    ]
+  },
+  "Exodus 12:47": {
+    "title": "All Israel keeps the Passover",
+    "text": "The whole congregation of Israel is instructed to keep the Passover. It is a national memorial of the deliverance that made Israel a free people under God.",
+    "refs": [
+      "Exodus 12:14"
+    ]
+  },
+  "Exodus 12:48": {
+    "title": "A stranger who joins the covenant",
+    "text": "A stranger who wishes to keep the Passover must have the males of his household circumcised; then he may participate as one born in the land. The law also states that no uncircumcised male may eat it, while the following verse establishes one rule for native and stranger.",
+    "refs": [
+      "Genesis 17:10–14",
+      "Exodus 12:49"
+    ]
+  },
+  "Exodus 12:49": {
+    "title": "One law for native and stranger",
+    "text": "The same law applies to the native-born and the stranger living among Israel. Within this ordinance, covenant requirements are not to be changed based on a person’s origin.",
+    "refs": [
+      "Leviticus 24:22",
+      "Numbers 15:15–16"
+    ]
+  },
+  "Exodus 12:50": {
+    "title": "Israel obeys the LORD",
+    "text": "The children of Israel do as the LORD commanded Moses and Aaron. The summary underscores obedience as the response to the deliverance they have received.",
+    "refs": [
+      "Exodus 12:28"
+    ]
+  },
+  "Exodus 12:51": {
+    "title": "The LORD brings Israel out",
+    "text": "On that very day the LORD brings Israel out of Egypt by their hosts. The exodus is attributed to God’s action: Moses leads, Israel follows, but the LORD is the deliverer.",
+    "refs": [
+      "Exodus 6:6–8",
+      "Deuteronomy 5:15"
+    ]
   }
 };
