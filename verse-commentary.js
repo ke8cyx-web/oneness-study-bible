@@ -10554,5 +10554,407 @@ window.verseCommentary = {
       "Exodus 2:24–25",
       "Exodus 3:7–10"
     ]
+  },
+  "Exodus 5:1": {
+    "title": "Let My people go",
+    "text": "Moses and Aaron deliver God’s demand that Pharaoh release Israel for a feast in the wilderness. The command establishes that Israel belongs to the LORD and is to worship Him, not remain Pharaoh’s property.",
+    "refs": [
+      "Exodus 3:18",
+      "Exodus 4:22–23"
+    ]
+  },
+  "Exodus 5:2": {
+    "title": "Who is the LORD?",
+    "text": "Pharaoh rejects the LORD’s authority and says he will not let Israel go. His question is defiance, not a neutral request for information. The conflict will reveal who truly rules: Pharaoh or the God of Israel.",
+    "refs": [
+      "Exodus 3:14–15",
+      "Exodus 7:5"
+    ]
+  },
+  "Exodus 5:3": {
+    "title": "A request to sacrifice",
+    "text": "Moses and Aaron explain that the God of the Hebrews has met with them and ask for a three-day journey to sacrifice, warning of judgment if they refuse. Pharaoh has not yet accepted God’s authority, and the request becomes the opening of a larger confrontation.",
+    "refs": [
+      "Exodus 3:18",
+      "Exodus 10:25–26"
+    ]
+  },
+  "Exodus 5:4": {
+    "title": "Pharaoh sends them back to work",
+    "text": "Pharaoh asks why Moses and Aaron distract the people from their burdens and orders them back to their tasks. He treats worship as an obstacle to production and refuses to recognize Israel’s claim to serve God.",
+    "refs": [
+      "Exodus 1:11–14"
+    ]
+  },
+  "Exodus 5:5": {
+    "title": "The people are numerous",
+    "text": "Pharaoh points to the large population of Israel and accuses Moses and Aaron of making the people rest from their burdens. His words reveal that he values forced labor over their freedom.",
+    "refs": [
+      "Exodus 1:7–12"
+    ]
+  },
+  "Exodus 5:6": {
+    "title": "Taskmasters receive new orders",
+    "text": "Pharaoh orders the taskmasters and officers to change how Israel’s work is managed. The oppression becomes more severe immediately after Moses’ first demand.",
+    "refs": [
+      "Exodus 1:11",
+      "Exodus 5:9"
+    ]
+  },
+  "Exodus 5:7": {
+    "title": "No straw supplied",
+    "text": "Israel is told to gather straw for brickmaking rather than receiving it from the Egyptians. The same required output remains, while the laborers must now perform additional work to obtain materials.",
+    "refs": [
+      "Exodus 5:8–9"
+    ]
+  },
+  "Exodus 5:8": {
+    "title": "The same quota demanded",
+    "text": "Pharaoh requires the same number of bricks and calls the people idle. The accusation is unjust because the labor requirement is unchanged while the means of meeting it are made harder.",
+    "refs": [
+      "Exodus 5:17–18"
+    ]
+  },
+  "Exodus 5:9": {
+    "title": "Oppression meant to silence hope",
+    "text": "Pharaoh commands that heavier labor keep the people occupied so they will not heed what he calls vain words. The ruler tries to crush hope by exhausting the people, but the narrative will show that his plan cannot stop God’s deliverance.",
+    "refs": [
+      "Exodus 5:1–2",
+      "Exodus 6:6–8"
+    ]
+  },
+  "Exodus 5:10": {
+    "title": "The taskmasters announce the order",
+    "text": "The taskmasters and officers tell the people that Pharaoh will no longer provide straw. The king’s policy is passed down through the machinery of administration, spreading responsibility for oppression through the system.",
+    "refs": [
+      "Exodus 5:6–7"
+    ]
+  },
+  "Exodus 5:11": {
+    "title": "Israel must find its own straw",
+    "text": "The laborers are told to gather straw wherever they can find it, but their quota will not be reduced. The demand makes the injustice measurable and unavoidable.",
+    "refs": [
+      "Exodus 5:8",
+      "Exodus 5:13"
+    ]
+  },
+  "Exodus 5:12": {
+    "title": "Scattered through Egypt",
+    "text": "The people spread throughout Egypt to gather stubble for straw. Their work becomes more difficult because they must search for materials in addition to making bricks.",
+    "refs": [
+      "Exodus 5:7–8"
+    ]
+  },
+  "Exodus 5:13": {
+    "title": "The daily quota remains",
+    "text": "The taskmasters insist that the daily work be completed as when straw was supplied. The officers enforce Pharaoh’s unreasonable policy without relief for the people.",
+    "refs": [
+      "Exodus 5:14"
+    ]
+  },
+  "Exodus 5:14": {
+    "title": "Israelite officers are beaten",
+    "text": "The Israelite officers are beaten because the brick quota is not met. They suffer punishment for a demand they cannot fairly fulfill, showing how Pharaoh’s policy turns administrative failure into violence.",
+    "refs": [
+      "Exodus 5:15–16"
+    ]
+  },
+  "Exodus 5:15": {
+    "title": "The officers appeal to Pharaoh",
+    "text": "The Israelite officers cry out to Pharaoh and ask why he treats his servants this way. They appeal to the king who controls the system, but he will not grant justice.",
+    "refs": [
+      "Exodus 5:16–18"
+    ]
+  },
+  "Exodus 5:16": {
+    "title": "The officers explain the injustice",
+    "text": "They say no straw is supplied, yet they are ordered to make bricks and are beaten. Their statement exposes the contradiction at the heart of Pharaoh’s demand.",
+    "refs": [
+      "Exodus 5:7–8"
+    ]
+  },
+  "Exodus 5:17": {
+    "title": "Pharaoh calls them idle",
+    "text": "Pharaoh repeats the accusation of idleness and refuses to recognize the people’s real suffering. He interprets their desire to worship as evidence of laziness rather than honoring their request.",
+    "refs": [
+      "Exodus 5:1–2",
+      "Exodus 5:9"
+    ]
+  },
+  "Exodus 5:18": {
+    "title": "The work remains unchanged",
+    "text": "Pharaoh orders the people back to work and refuses to provide straw while maintaining the brick quota. His response confirms that the appeal for fair treatment has failed.",
+    "refs": [
+      "Exodus 5:7–8"
+    ]
+  },
+  "Exodus 5:19": {
+    "title": "The officers see their trouble",
+    "text": "The Israelite officers realize they are in serious trouble when told their daily quota will not be reduced. Their distress reflects the consequences of Moses’ initial appeal, and it sets up their confrontation with him and Aaron.",
+    "refs": [
+      "Exodus 5:20–21"
+    ]
+  },
+  "Exodus 5:20": {
+    "title": "They meet Moses and Aaron",
+    "text": "The officers encounter Moses and Aaron as they leave Pharaoh. The meeting turns the people’s frustration toward the leaders who had brought the message of deliverance.",
+    "refs": [
+      "Exodus 5:1–3"
+    ]
+  },
+  "Exodus 5:21": {
+    "title": "The officers blame the leaders",
+    "text": "They accuse Moses and Aaron of making Israel offensive to Pharaoh and putting a sword in the Egyptians’ hands. Their words show how worsening conditions can make a promise of rescue seem dangerous before the rescue arrives.",
+    "refs": [
+      "Exodus 6:9"
+    ]
+  },
+  "Exodus 5:22": {
+    "title": "Moses returns to the LORD",
+    "text": "Moses asks the LORD why He has brought trouble upon the people and why He sent him. He speaks honestly from the pain of the failed first attempt; the text records his lament rather than condemning him for bringing the problem to God.",
+    "refs": [
+      "Exodus 3:10",
+      "Psalm 13:1–2"
+    ]
+  },
+  "Exodus 5:23": {
+    "title": "Moses asks why deliverance has not begun",
+    "text": "Moses says that since he spoke to Pharaoh, Pharaoh has treated the people worse and God has not delivered them. The chapter ends with an unresolved question, preparing for God’s renewed promise in chapter 6.",
+    "refs": [
+      "Exodus 6:1–8"
+    ]
+  },
+  "Exodus 6:1": {
+    "title": "God promises a mighty release",
+    "text": "The LORD answers that Pharaoh will let Israel go because of God’s strong hand and will even drive them out. The setback does not cancel the promise; it sets the stage for God to reveal His power more fully.",
+    "refs": [
+      "Exodus 3:19–20",
+      "Exodus 12:31–33"
+    ]
+  },
+  "Exodus 6:2": {
+    "title": "I am the LORD",
+    "text": "God speaks to Moses and identifies Himself as the LORD. The repeated divine name anchors the coming assurance in the identity and authority of the covenant God.",
+    "refs": [
+      "Exodus 3:14–15",
+      "Exodus 6:6"
+    ]
+  },
+  "Exodus 6:3": {
+    "title": "God Almighty and the name YHWH",
+    "text": "God says He appeared to Abraham, Isaac, and Jacob as God Almighty, but by His name YHWH He was not known to them in the same way. The patriarchs did use the name LORD in Genesis, so the statement is often understood as a distinction in the fuller experience or revelation of God’s name and covenant action, not simply that the name’s syllables had never been heard. God is the same covenant God, now about to act in a new way.",
+    "refs": [
+      "Genesis 17:1",
+      "Genesis 28:13",
+      "Exodus 3:14–15"
+    ]
+  },
+  "Exodus 6:4": {
+    "title": "The covenant land",
+    "text": "God recalls establishing His covenant to give the patriarchs the land of Canaan, where they lived as strangers. Israel’s current bondage does not erase the promise tied to that land.",
+    "refs": [
+      "Genesis 15:18–21",
+      "Genesis 17:8"
+    ]
+  },
+  "Exodus 6:5": {
+    "title": "God hears Israel’s groaning",
+    "text": "God says He has heard the groaning of Israel and remembered His covenant. As in Exodus 2:24, remembering means acting faithfully on the covenant, not recovering forgotten information.",
+    "refs": [
+      "Exodus 2:24–25",
+      "Psalm 105:8"
+    ]
+  },
+  "Exodus 6:6": {
+    "title": "Seven promises of deliverance begin",
+    "text": "God promises to bring Israel out from under Egypt’s burdens, deliver them from bondage, redeem them with an outstretched arm and great judgments. The language of redemption becomes central to Israel’s identity and later biblical teaching about salvation.",
+    "refs": [
+      "Deuteronomy 7:8",
+      "Isaiah 63:9",
+      "Luke 1:68"
+    ]
+  },
+  "Exodus 6:7": {
+    "title": "Israel will know the LORD",
+    "text": "God promises to take Israel as His people and be their God, so they will know that He is the LORD who brought them out of Egypt. Knowledge here includes recognizing God through His saving acts and covenant relationship, not merely knowing a title.",
+    "refs": [
+      "Exodus 7:5",
+      "Exodus 14:30–31"
+    ]
+  },
+  "Exodus 6:8": {
+    "title": "The land promised to the fathers",
+    "text": "God promises to bring Israel into the land He swore to give Abraham, Isaac, and Jacob. He declares, “I am the LORD,” grounding the future fulfillment in His own faithfulness.",
+    "refs": [
+      "Genesis 15:18",
+      "Genesis 26:3",
+      "Genesis 28:13"
+    ]
+  },
+  "Exodus 6:9": {
+    "title": "The people cannot hear Moses",
+    "text": "Moses tells Israel God’s promise, but they do not listen because of anguish of spirit and cruel bondage. Their inability to receive the message is portrayed with compassion for their suffering, not as proof that God’s promise has failed.",
+    "refs": [
+      "Exodus 5:21–23"
+    ]
+  },
+  "Exodus 6:10": {
+    "title": "God speaks again to Moses",
+    "text": "The LORD commands Moses to go back to Pharaoh. The command continues despite Israel’s discouragement and Pharaoh’s resistance.",
+    "refs": [
+      "Exodus 3:10",
+      "Exodus 6:1"
+    ]
+  },
+  "Exodus 6:11": {
+    "title": "Demand Israel’s release again",
+    "text": "Moses is ordered to tell Pharaoh to send Israel out of his land. God does not revise the goal because Pharaoh has refused the first request.",
+    "refs": [
+      "Exodus 5:1",
+      "Exodus 7:2"
+    ]
+  },
+  "Exodus 6:12": {
+    "title": "Moses questions his ability to speak",
+    "text": "Moses points out that Israel has not listened to him and asks how Pharaoh will listen, since he is of uncircumcised lips. His concern repeats the issue of speech, but God’s commission remains in force.",
+    "refs": [
+      "Exodus 4:10–12"
+    ]
+  },
+  "Exodus 6:13": {
+    "title": "God commissions Moses and Aaron",
+    "text": "The LORD gives Moses and Aaron a charge concerning Israel and Pharaoh. The narrative underscores that their mission is authorized by God, not by their own ambitions.",
+    "refs": [
+      "Exodus 3:10",
+      "Exodus 4:14–16"
+    ]
+  },
+  "Exodus 6:14": {
+    "title": "Reuben’s family line",
+    "text": "The genealogy begins with Reuben, Israel’s firstborn, and names his sons. The list situates Moses and Aaron within Israel’s actual family history rather than presenting them as detached legendary figures.",
+    "refs": [
+      "Genesis 46:9"
+    ]
+  },
+  "Exodus 6:15": {
+    "title": "Simeon’s family line",
+    "text": "The sons of Simeon are named, continuing the record of Israel’s tribes. The genealogy provides the family framework for the account that follows.",
+    "refs": [
+      "Genesis 46:10"
+    ]
+  },
+  "Exodus 6:16": {
+    "title": "Levi’s sons and generations",
+    "text": "The passage lists Levi’s sons and gives his lifespan. The genealogy now moves toward the tribe and family from which Moses and Aaron descend.",
+    "refs": [
+      "Genesis 29:34",
+      "Numbers 3:17"
+    ]
+  },
+  "Exodus 6:17": {
+    "title": "The sons of Gershon",
+    "text": "The sons of Gershon and their families are named. The details establish the Levitical family lines that will have duties in Israel’s worship and tabernacle service.",
+    "refs": [
+      "Numbers 3:18–26"
+    ]
+  },
+  "Exodus 6:18": {
+    "title": "The sons of Kohath",
+    "text": "Kohath’s descendants are named, including Amram’s family line. This branch of Levi’s family will include Moses and Aaron.",
+    "refs": [
+      "Numbers 3:27–32"
+    ]
+  },
+  "Exodus 6:19": {
+    "title": "The sons of Merari",
+    "text": "Merari’s sons are listed, completing the three main branches of Levi’s descendants. The genealogy prepares for later descriptions of the Levites’ service.",
+    "refs": [
+      "Numbers 3:33–37"
+    ]
+  },
+  "Exodus 6:20": {
+    "title": "Amram, Jochebed, Moses, and Aaron",
+    "text": "Amram marries Jochebed, his father’s sister according to the KJV wording, and she bears Aaron and Moses. Later Israelite law prohibits certain close-kin unions, but the narrative is reporting an earlier generation rather than issuing a command for such marriages.",
+    "refs": [
+      "Exodus 2:1–2",
+      "Numbers 26:59",
+      "Leviticus 18:12"
+    ]
+  },
+  "Exodus 6:21": {
+    "title": "Korah’s family line",
+    "text": "The sons of Izhar, including Korah, are named. Korah’s later rebellion will be described in Numbers, so this genealogy also establishes relationships important to the wilderness story.",
+    "refs": [
+      "Numbers 16:1–3"
+    ]
+  },
+  "Exodus 6:22": {
+    "title": "Uzziel’s family line",
+    "text": "The sons of Uzziel are listed as part of Levi’s wider family. The genealogy records the people and relationships that frame Israel’s later priestly and Levitical service.",
+    "refs": [
+      "Leviticus 10:4"
+    ]
+  },
+  "Exodus 6:23": {
+    "title": "Aaron’s family",
+    "text": "Aaron marries Elisheba, and the verse names their sons, including Eleazar and Ithamar. Eleazar will become high priest after Aaron, linking the genealogy to the future priesthood.",
+    "refs": [
+      "Numbers 20:25–28",
+      "Numbers 26:60"
+    ]
+  },
+  "Exodus 6:24": {
+    "title": "Korah’s sons and descendants",
+    "text": "The sons of Korah are listed. Later biblical books refer to descendants of Korah in connection with temple service and psalms, even though Korah himself rebelled.",
+    "refs": [
+      "Numbers 16:1–3",
+      "1 Chronicles 6:31–38"
+    ]
+  },
+  "Exodus 6:25": {
+    "title": "Eleazar’s family and Phinehas",
+    "text": "Eleazar’s marriage and son Phinehas are noted. Phinehas becomes significant in Numbers, and the verse completes the genealogy’s focus on Aaron’s priestly descendants.",
+    "refs": [
+      "Numbers 25:7–13"
+    ]
+  },
+  "Exodus 6:26": {
+    "title": "The same Moses and Aaron",
+    "text": "The text identifies the Moses and Aaron named in this genealogy as the ones to whom the LORD said to bring Israel out of Egypt by their hosts. The family record is tied directly to the mission already narrated.",
+    "refs": [
+      "Exodus 3:10",
+      "Exodus 6:13"
+    ]
+  },
+  "Exodus 6:27": {
+    "title": "Moses and Aaron before Pharaoh",
+    "text": "The verse again identifies Moses and Aaron as the men who spoke to Pharaoh about bringing Israel out. The repetition reinforces the continuity between the genealogy and the historical narrative.",
+    "refs": [
+      "Exodus 5:1",
+      "Exodus 7:1–2"
+    ]
+  },
+  "Exodus 6:28": {
+    "title": "The LORD speaks in Egypt",
+    "text": "The narrative returns to the moment when the LORD spoke to Moses in Egypt. The genealogy has interrupted the action to establish the family credentials of the leaders.",
+    "refs": [
+      "Exodus 6:10–13"
+    ]
+  },
+  "Exodus 6:29": {
+    "title": "God’s command to Moses",
+    "text": "The LORD tells Moses that He is the LORD and commands him to speak to Pharaoh all that He says. God’s identity and authority remain the basis for Moses’ assignment.",
+    "refs": [
+      "Exodus 3:14–15",
+      "Exodus 6:2"
+    ]
+  },
+  "Exodus 6:30": {
+    "title": "Moses repeats his concern",
+    "text": "Moses again says he is of uncircumcised lips and questions why Pharaoh should listen. The next chapter answers by explaining the roles God assigns to Moses and Aaron and by continuing the signs before Pharaoh.",
+    "refs": [
+      "Exodus 4:10–16",
+      "Exodus 7:1–2"
+    ]
   }
 };
