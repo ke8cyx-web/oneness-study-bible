@@ -27,3 +27,5 @@ dialog{border:1px solid var(--gold);border-radius:16px;width:min(560px,calc(100%
 .book-guide-content strong{color:var(--green)}
 
 .reader-tools{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 4px}.reader-help{margin:6px 0 12px}.verse-highlighted{background:#fff0b8;border-radius:8px;padding-left:6px;padding-right:6px}.verse-actions{flex-wrap:wrap}.verse-actions button{margin-bottom:3px}@media print{body{background:#fff;color:#000}.topbar,.tabs,.selectors,.reader-tools,.reader-help,.chapter-nav,.verse-actions,.note-card,footer,.status{display:none!important}main{max-width:none;margin:0;padding:0}.panel.hidden{display:none!important}#readPanel{display:block!important}.card{box-shadow:none;border:0;padding:0}.verse{break-inside:avoid;border-bottom:1px solid #ddd;grid-template-columns:28px 1fr}.verse-text{font-size:12pt}.chapter-title{font-size:18pt}}
+
+#commentaryDialog{max-height:85vh;overflow:auto}#commentaryDialog h3{color:var(--green);margin-bottom:6px}.verse-actions button[data-action="study"]{background:var(--green);color:var(--gold);border-color:var(--green)}
