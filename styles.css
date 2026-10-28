@@ -14,11 +14,9 @@ main{max-width:980px;margin:24px auto;padding:0 16px}.panel{margin-bottom:20px}.
 .search-row{display:flex;gap:8px}.search-row input{flex:1}.results{margin-top:15px}.result{padding:12px 0;border-bottom:1px solid var(--line)}.result button{display:block;text-align:left;width:100%;background:transparent;border:0;padding:0;color:var(--green)}.result-ref{font-size:.83rem;color:#927025;font-weight:800}.result-text{font-family:Georgia,"Times New Roman",serif;margin-top:3px}.saved-actions{display:flex;flex-wrap:wrap;gap:8px}.file-button{display:inline-flex;align-items:center}.file-button input{display:none}.tool-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.tool-grid>div{background:var(--cream);padding:14px;border-radius:10px;border-top:2px solid var(--gold)}.tool-grid strong{color:var(--green)}.tool-grid p{font-size:.9rem;margin:5px 0 0}.fineprint{font-size:.78rem;color:var(--muted);margin:18px 0 0}footer{text-align:center;padding:24px 15px;color:#6d746b;font-size:.82rem}
 dialog{border:1px solid var(--gold);border-radius:16px;width:min(560px,calc(100% - 28px));padding:22px;background:var(--paper);box-shadow:0 15px 55px #0004}dialog::backdrop{background:#10251bd9}.dialog-head{display:flex;align-items:center;justify-content:space-between}.dialog-head h2{color:var(--green);margin:0}.icon-button{font-size:1.5rem;padding:0 8px;background:transparent;border:0;color:var(--green)}.dialog-actions{display:flex;justify-content:flex-end;gap:8px;margin-top:15px}
 @media(max-width:650px){.topbar{padding:18px 14px}.brandmark{width:44px;height:44px}.topbar p{font-size:.78rem}.ministry{font-size:.62rem}.topbar .small{display:none}.selectors{grid-template-columns:1fr 1fr}.selectors button{grid-column:1/-1}.verse{grid-template-columns:25px 1fr}.verse-actions{grid-column:2}.verse-text{font-size:1rem}.tool-grid{grid-template-columns:1fr}.section-heading{display:block}.status{display:inline-block;margin-bottom:8px}.search-row{display:block}.search-row button{width:100%;margin-top:8px}.tabs{top:0}}
-#installBtn {
-  color: #123c2c;
-  background: #f8f3e5;
-  border: 2px solid #c6a24a;
-  font-weight: 800;
-  padding: 12px 20px;
-  font-size: 1rem;
-}
+
+/* Reading plan and visible install control */
+#installBtn:not(.hidden){display:inline-flex!important;align-items:center;justify-content:center;flex-shrink:0;color:#123c2c!important;background:#fffdf7!important;border:3px solid #c6a24a!important;box-shadow:0 3px 10px rgba(0,0,0,.25);font-weight:900!important;padding:12px 20px;font-size:1rem;white-space:nowrap}
+#installBtn:not(.hidden):hover{background:#c6a24a!important;color:#123c2c!important}
+.plan-progress{height:12px;background:#e8e0cc;border-radius:99px;overflow:hidden;border:1px solid #d6c99f}.plan-progress div{height:100%;width:0;background:linear-gradient(90deg,#123c2c,#c6a24a);transition:width .2s}.plan-list{display:grid;gap:9px;margin:16px 0}.plan-day{display:grid;grid-template-columns:auto 1fr;gap:12px;align-items:start;background:#f8f3e5;border:1px solid #e1d5b7;border-left:4px solid #c6a24a;border-radius:10px;padding:12px}.plan-day input{width:20px;height:20px;margin:3px 0;accent-color:#123c2c}.plan-day strong{color:#123c2c;display:block}.plan-day span{color:#647067;font-size:.9rem}.plan-day.done{opacity:.72}.plan-day.done strong{text-decoration:line-through}
+@media(max-width:650px){.topbar{flex-wrap:wrap}.topbar #installBtn:not(.hidden){display:inline-flex!important;margin-left:58px}.tabs{gap:2px}.tab{padding:10px 12px;font-size:.88rem}}

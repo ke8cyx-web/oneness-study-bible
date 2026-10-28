@@ -7,7 +7,6 @@
   <meta name="description" content="One God One Faith Ministry Digital Oneness Study Bible — KJV reading, study notes, cross-references, search, and bookmarks.">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
-  <link rel="apple-touch-icon" href="assets/icon-192.png">
   <link rel="stylesheet" href="styles.css">
   <title>Digital Oneness Study Bible</title>
 </head>
@@ -27,6 +26,7 @@
     <button class="tab" data-tab="study">Study Notes</button>
     <button class="tab" data-tab="search">Search</button>
     <button class="tab" data-tab="saved">Bookmarks</button>
+    <button class="tab" data-tab="plan">Reading Plan</button>
   </nav>
 
   <main>
@@ -72,6 +72,9 @@
           </select>
         </label>
         <article id="topicContent" class="study-content"></article>
+        <h3>Yahweh revealed in Jesus Christ — cross-reference trail</h3>
+        <p class="muted">These are study connections used in a Oneness reading. Open each reference in the Bible reader and read its surrounding context.</p>
+        <div id="onenessCrossrefs" class="crossref-list"></div>
       </div>
     </section>
 
@@ -86,6 +89,18 @@
         </form>
         <div id="searchStatus" class="muted"></div>
         <div id="searchResults" class="results"></div>
+      </div>
+    </section>
+
+    <section id="planPanel" class="panel hidden">
+      <div class="card">
+        <div class="eyebrow">DAILY SCRIPTURE HABIT</div>
+        <h2>Bible Reading Plan</h2>
+        <p class="muted">A starter 30-day reading plan through key passages about the one God and the revelation of God in Jesus Christ. Your checked days are saved in this browser on this device.</p>
+        <div class="plan-progress"><div id="planProgressBar"></div></div>
+        <p id="planProgressText" class="muted">0 of 30 days completed</p>
+        <div id="readingPlanList" class="plan-list"></div>
+        <button id="resetPlanBtn" class="outline small" type="button">Reset reading plan</button>
       </div>
     </section>
 

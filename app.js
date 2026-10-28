@@ -191,6 +191,65 @@ function searchBible(query){
  outer:for(const b of bible){for(let ci=0;ci<b.chapters.length;ci++){const ch=b.chapters[ci]||[];for(let vi=0;vi<ch.length;vi++){const text=ch[vi]||"";if(text.toLowerCase().includes(q)){results.push({ref:refOf(b.name,ci+1,vi+1),text});if(results.length>=250)break outer}}}}
  return results;
 }
+
+const readingPlan = [
+ ["Deuteronomy 6:4–9","Israel’s confession that the LORD is one"],
+ ["Isaiah 43:10–11","The LORD declares that there is no other Saviour"],
+ ["Isaiah 44:6–8","The LORD declares Himself first and last"],
+ ["Isaiah 9:6","The promised child and the names given to Him"],
+ ["Micah 5:2","The ruler promised from Bethlehem"],
+ ["John 1:1–14","The Word was God and was made flesh"],
+ ["John 4:19–26","God is Spirit; Jesus speaks of true worship"],
+ ["John 8:48–59","Read John 8 in context; focus especially on Jesus’ identity claims"],
+ ["John 10:22–38","Jesus’ works and His statement about the Father"],
+ ["John 14:7–11","Jesus tells Philip to see the Father revealed in Him"],
+ ["John 20:24–31","Thomas confesses Jesus as Lord and God"],
+ ["Acts 2:22–39","Peter preaches Jesus and calls for repentance and baptism"],
+ ["Acts 10:34–48","The gospel reaches Cornelius and his household"],
+ ["Romans 8:1–17","The Spirit of God and the Spirit of Christ"],
+ ["1 Corinthians 8:4–6","One God, the Father, and one Lord, Jesus Christ"],
+ ["2 Corinthians 5:17–21","God reconciling the world to Himself in Christ"],
+ ["Galatians 3:26–29","Believers put on Christ"],
+ ["Philippians 2:5–11","Christ humbled Himself and is exalted"],
+ ["Colossians 1:12–20","The image of the invisible God and fullness in Christ"],
+ ["Colossians 2:8–10","All the fullness of the Godhead dwells bodily in Christ"],
+ ["1 Timothy 3:14–16","The mystery of godliness and God manifested in flesh"],
+ ["Titus 2:11–14","The great God and Saviour Jesus Christ"],
+ ["Hebrews 1:1–12","God speaks by the Son; the Son’s divine glory"],
+ ["1 Peter 2:21–25","Christ suffers and bears our sins"],
+ ["1 John 5:18–21","The true God and eternal life"],
+ ["Revelation 1:4–18","The First and the Last, who was dead and is alive"],
+ ["Revelation 4:8–11","The Holy One and Creator worshipped"],
+ ["Revelation 21:1–7","God dwells with His people"],
+ ["Revelation 22:6–16","The Alpha and Omega and the coming Lord"],
+ ["Review: Deuteronomy 6:4; John 14:9; Colossians 2:9","Review the one-God confession and the revelation of God in Christ"]
+];
+const crossrefTrail = [
+ {ot:"Isaiah 40:3",nt:"Matthew 3:1–3",note:"Isaiah speaks of preparing the way of the LORD; Matthew applies the forerunner prophecy to John preparing the way for Jesus."},
+ {ot:"Isaiah 9:6",nt:"John 14:7–11",note:"The promised child is called Mighty God and Everlasting Father; Jesus tells Philip that seeing Him is seeing the Father and points to the Father dwelling in Him."},
+ {ot:"Isaiah 43:10–11",nt:"Titus 2:13–14",note:"Isaiah declares the LORD the only Saviour; Titus speaks of the great God and Saviour Jesus Christ. Read the grammar and context carefully."},
+ {ot:"Isaiah 44:6",nt:"Revelation 1:17–18",note:"The LORD calls Himself the first and the last; the risen Jesus uses the same title and identifies Himself as the one who was dead and is alive."},
+ {ot:"Joel 2:32",nt:"Romans 10:9–13",note:"Joel says whoever calls on the name of the LORD shall be delivered; Paul quotes this passage in a section about confessing Jesus as Lord."},
+ {ot:"Psalm 23:1",nt:"John 10:11–16",note:"The LORD is Israel’s shepherd; Jesus calls Himself the good shepherd who lays down His life for the sheep."},
+ {ot:"Jeremiah 23:5–6",nt:"1 Corinthians 1:30; 2 Corinthians 5:21",note:"The promised righteous Branch is called THE LORD OUR RIGHTEOUSNESS; the New Testament describes righteousness as found in Christ."},
+ {ot:"Zechariah 12:10",nt:"John 19:34–37",note:"The pierced one in Zechariah is connected with the crucifixion scene in John. Compare the wording and context."},
+ {ot:"Psalm 102:25–27",nt:"Hebrews 1:8–12",note:"Hebrews applies language about the unchanging Creator to the Son. Read the whole argument of Hebrews 1."},
+ {ot:"Deuteronomy 6:4",nt:"Mark 12:28–34; 1 Corinthians 8:4–6",note:"The New Testament repeats Israel’s confession of one God while speaking of the Father and Jesus Christ. Study how each passage phrases the confession."},
+ {ot:"Exodus 3:14",nt:"John 8:58",note:"God reveals Himself to Moses; Jesus uses the expression ‘I am’ in a dispute about His identity. Read both passages in context."},
+ {ot:"Isaiah 45:21–23",nt:"Philippians 2:9–11",note:"Isaiah declares that every knee will bow to the LORD; Paul describes every knee bowing and every tongue confessing Jesus Christ as Lord."}
+];
+function renderReadingPlan(){
+ const list=$("readingPlanList"); if(!list)return;
+ const done=JSON.parse(localStorage.getItem("ogof-reading-plan")||"[]");
+ list.innerHTML=readingPlan.map((item,i)=>`<label class="plan-day ${done.includes(i)?"done":""}"><input type="checkbox" data-plan-day="${i}" ${done.includes(i)?"checked":""}><span><strong>Day ${i+1}: ${esc(item[0])}</strong>${esc(item[1])}</span></label>`).join("");
+ const n=done.length;$("planProgressText").textContent=`${n} of ${readingPlan.length} days completed`;$("planProgressBar").style.width=`${n/readingPlan.length*100}%`;
+}
+function renderCrossrefTrail(){
+ const box=$("onenessCrossrefs"); if(!box)return;
+ box.innerHTML=crossrefTrail.map((x,i)=>`<div class="crossref-card"><div class="crossref-pair"><button data-topicref="${esc(x.ot)}">${esc(x.ot)}</button><span>↔</span><button data-topicref="${esc(x.nt)}">${esc(x.nt)}</button></div><p>${esc(x.note)}</p></div>`).join("");
+}
+$("onenessCrossrefs").addEventListener("click",e=>{const b=e.target.closest("[data-topicref]");if(!b)return;const ref=b.dataset.topicref;const m=ref.match(/^(.*?\s+\d+):(\d+)/);if(m)openRef(`${m[1]}:${m[2]}`);else{document.querySelector('[data-tab="read"]').click();setStatus(`Please open ${ref} using the Book and Chapter selectors.`);}});
+
 document.querySelectorAll(".tab").forEach(btn=>btn.addEventListener("click",()=>{
  document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("active",b===btn));
  ["read","study","search","saved"].forEach(n=>$(n+"Panel").classList.toggle("hidden",n!==btn.dataset.tab));
@@ -236,4 +295,6 @@ $("importBookmarks").addEventListener("change",async e=>{
 window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();installPrompt=e;$("installBtn").classList.remove("hidden")});
 $("installBtn").addEventListener("click",async()=>{if(!installPrompt)return;installPrompt.prompt();await installPrompt.userChoice;installPrompt=null;$("installBtn").classList.add("hidden")});
 if("serviceWorker" in navigator && location.protocol.startsWith("http"))navigator.serviceWorker.register("./sw.js").catch(err=>console.warn("Service worker registration failed",err));
-renderTopic();renderBookmarks();loadBible();
+$("readingPlanList").addEventListener("change",e=>{const cb=e.target.closest("[data-plan-day]");if(!cb)return;const done=JSON.parse(localStorage.getItem("ogof-reading-plan")||"[]");const i=Number(cb.dataset.planDay);const next=cb.checked?[...new Set([...done,i])]:done.filter(x=>x!==i);localStorage.setItem("ogof-reading-plan",JSON.stringify(next));renderReadingPlan();});
+$("resetPlanBtn").addEventListener("click",()=>{if(confirm("Reset all reading-plan checkmarks on this device?")){localStorage.removeItem("ogof-reading-plan");renderReadingPlan();}});
+renderTopic();renderBookmarks();renderReadingPlan();renderCrossrefTrail();loadBible();
