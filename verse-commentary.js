@@ -1257,5 +1257,310 @@ window.verseCommentary = {
     "title": "The seasons continue",
     "text": "God promises the continuing cycles of seedtime and harvest, cold and heat, summer and winter, day and night while the earth remains. The verse emphasizes stability after the flood. It is not a promise that every season or local weather pattern will always be uniform.",
     "refs": "Jeremiah 33:20–21; Psalm 74:17"
+  },
+  "Genesis 9:1": {
+    "title": "Be fruitful and multiply",
+    "text": "God blesses Noah and his sons and commands them to multiply and fill the earth. This echoes the blessing given to humanity at creation. The flood has not cancelled God’s purpose for human life and the earth.",
+    "refs": "Genesis 1:28; Genesis 8:17"
+  },
+  "Genesis 9:2": {
+    "title": "Humanity and the animals",
+    "text": "God describes a changed relationship in which animals fear and dread humans. The verse gives humanity authority in a world affected by the flood. Dominion should not be confused with permission for needless cruelty.",
+    "refs": "Genesis 1:26–28; Psalm 8:6–8"
+  },
+  "Genesis 9:3": {
+    "title": "Food from living creatures",
+    "text": "God permits living creatures as food, as He had given green herbs. The wording marks a development from the food provision stated in Genesis 1:29–30. Read this alongside the blood restriction in the next verse.",
+    "refs": "Genesis 1:29–30; Genesis 9:4"
+  },
+  "Genesis 9:4": {
+    "title": "Do not eat flesh with its blood",
+    "text": "God prohibits eating flesh with its life, its blood. Blood is treated as significant because it represents life. Later biblical instructions repeat the importance of abstaining from blood; this is more than a casual dietary preference.",
+    "refs": "Leviticus 17:10–14; Acts 15:20"
+  },
+  "Genesis 9:5": {
+    "title": "An accounting for life",
+    "text": "God says He will require an accounting for the shedding of human blood. Human life is morally serious and answerable to God. The verse establishes accountability, not a license for personal vengeance outside lawful justice.",
+    "refs": "Genesis 4:10; Psalm 9:12"
+  },
+  "Genesis 9:6": {
+    "title": "Humanity bears God’s image",
+    "text": "The verse grounds the seriousness of murder in humanity’s being made in God’s image. Human beings have dignity because of their relation to their Creator. Interpret this alongside the wider biblical teaching about justice and lawful authority.",
+    "refs": "Genesis 1:26–27; James 3:9"
+  },
+  "Genesis 9:7": {
+    "title": "Multiply on the earth",
+    "text": "God repeats the command to be fruitful and multiply. The repetition emphasizes the continuation of humanity after the flood. The command looks beyond Noah’s immediate household to future generations.",
+    "refs": "Genesis 9:1; Genesis 1:28"
+  },
+  "Genesis 9:8": {
+    "title": "God speaks to Noah and his sons",
+    "text": "God addresses Noah and his sons as the covenant announcement begins. The covenant concerns the family and generations after them. The passage speaks of the LORD making a covenant, without introducing a separate divine person.",
+    "refs": "Genesis 9:9–11"
+  },
+  "Genesis 9:9": {
+    "title": "The covenant is established",
+    "text": "God declares that He establishes His covenant with Noah and his descendants. The initiative belongs to God, who gives a promise extending beyond the immediate survivors. The covenant’s scope is explained in the following verses.",
+    "refs": "Genesis 6:18; Genesis 9:11–17"
+  },
+  "Genesis 9:10": {
+    "title": "Every living creature included",
+    "text": "The covenant includes birds, livestock, and the animals of the earth. The promise is not limited to Noah’s family; it includes creatures preserved through the flood. This broad scope underlines God’s concern for creation.",
+    "refs": "Genesis 8:17; Genesis 9:12"
+  },
+  "Genesis 9:11": {
+    "title": "No more flood to destroy all flesh",
+    "text": "God promises that all flesh will not again be cut off by floodwaters and that a flood will not again destroy the earth in this way. The promise concerns the flood judgment described here; it does not mean Scripture denies every future judgment.",
+    "refs": "Isaiah 54:9; 2 Peter 3:6–7"
+  },
+  "Genesis 9:12": {
+    "title": "The covenant sign",
+    "text": "God identifies a sign of the covenant between Himself and every living creature for future generations. The sign makes the promise visible and memorable. The covenant is God’s declaration, not a bargain in which Noah controls the outcome.",
+    "refs": "Genesis 9:13–17"
+  },
+  "Genesis 9:13": {
+    "title": "The bow in the cloud",
+    "text": "God places His bow in the cloud as the sign of the covenant. The verse itself identifies its meaning through the promise that follows. Additional symbolic meanings should not replace the meaning God explicitly gives in the passage.",
+    "refs": "Genesis 9:14–16"
+  },
+  "Genesis 9:14": {
+    "title": "Clouds over the earth",
+    "text": "When clouds come over the earth, the bow will be seen in them. The sign is connected to the created world and points back to God’s promise. Its meaning is established by God’s words, not by speculation about its colors.",
+    "refs": "Genesis 9:13; Genesis 9:16"
+  },
+  "Genesis 9:15": {
+    "title": "God remembers His covenant",
+    "text": "God says He will remember His covenant and the waters will not again become a flood to destroy all flesh. “Remember” describes faithful action toward a promise, not God recovering a forgotten fact. The verse stresses the reliability of God’s word.",
+    "refs": "Genesis 8:1; Exodus 2:24"
+  },
+  "Genesis 9:16": {
+    "title": "An everlasting covenant",
+    "text": "The bow is to remind God of the everlasting covenant between God and every living creature. The text presents the covenant as enduring across generations. The verse gives the covenant’s scope and purpose directly.",
+    "refs": "Genesis 9:12–15"
+  },
+  "Genesis 9:17": {
+    "title": "The covenant confirmed",
+    "text": "God repeats that the bow is the sign of His covenant with all flesh. Repetition underscores the certainty of the promise. The passage reveals God’s faithfulness in preserving the world after the flood.",
+    "refs": "Genesis 9:8–16"
+  },
+  "Genesis 9:18": {
+    "title": "Noah’s sons named",
+    "text": "The narrative returns to Shem, Ham, and Japheth and notes Ham’s relationship to Canaan. These details prepare for the family episode and later genealogies. This verse alone should not be used to justify racial prejudice or unsupported claims about modern peoples.",
+    "refs": "Genesis 10:1; Genesis 10:6"
+  },
+  "Genesis 9:19": {
+    "title": "The earth’s population",
+    "text": "The verse says the earth’s population spread from Noah’s three sons. It is a foundational statement in the biblical genealogy. It does not give modern racial categories or authorize assigning moral character to entire peoples.",
+    "refs": "Genesis 10:32; Acts 17:26"
+  },
+  "Genesis 9:20": {
+    "title": "Noah plants a vineyard",
+    "text": "Noah becomes a man of the soil and plants a vineyard. The narrative turns from the flood to the vulnerability of life afterward. Noah’s earlier righteousness does not mean every later action of his life is without fault.",
+    "refs": "Genesis 6:9; Genesis 9:21"
+  },
+  "Genesis 9:21": {
+    "title": "Noah becomes drunk",
+    "text": "Noah drinks wine, becomes drunk, and lies uncovered in his tent. Scripture records the event plainly rather than concealing the failure of a major biblical figure. The passage gives no approval of drunkenness.",
+    "refs": "Proverbs 20:1; Ephesians 5:18"
+  },
+  "Genesis 9:22": {
+    "title": "Ham sees his father’s nakedness",
+    "text": "Ham sees his father’s nakedness and tells his brothers outside. The exact nature of Ham’s offense has been debated, but the verse explicitly reports seeing and telling. A responsible reading should not present a more elaborate explanation as if the verse directly states it.",
+    "refs": "Genesis 9:23–25"
+  },
+  "Genesis 9:23": {
+    "title": "Shem and Japheth cover Noah",
+    "text": "Shem and Japheth take a garment, walk backward, and cover their father without looking at him. Their action contrasts with Ham’s report and shows an effort to preserve Noah’s dignity. The emphasis is on their deliberate, respectful conduct.",
+    "refs": "Exodus 20:12; 1 Peter 4:8"
+  },
+  "Genesis 9:24": {
+    "title": "Noah learns what happened",
+    "text": "When Noah awakens and learns what his younger son had done, the narrative prepares for his pronouncement. The text does not provide every detail of how he learned of the event. The next verse must be read carefully because Noah’s words name Canaan.",
+    "refs": "Genesis 9:25"
+  },
+  "Genesis 9:25": {
+    "title": "Canaan is named in the curse",
+    "text": "Noah pronounces a curse on Canaan, not directly on Ham in the wording of this verse. The passage has been misused to justify racial slavery, but it does not identify the curse with Black people or any modern race. Such claims go beyond the text and have caused grave harm.",
+    "refs": "Genesis 10:6; Genesis 10:15–19"
+  },
+  "Genesis 9:26": {
+    "title": "The LORD, God of Shem",
+    "text": "Noah blesses the LORD, identifying Him as the God of Shem, and speaks of Canaan’s service. The verse places family lines within the biblical narrative. It names the LORD as God; it does not teach that Shem is divine or that there are multiple Gods.",
+    "refs": "Genesis 12:1–3; Genesis 14:18–20"
+  },
+  "Genesis 9:27": {
+    "title": "Japheth and the tents of Shem",
+    "text": "Noah speaks of Japheth’s enlargement and dwelling in the tents of Shem, while Canaan is again described as serving. The exact historical fulfillment has been interpreted in different ways. The verse should not be forced into modern ethnic theories without textual support.",
+    "refs": "Genesis 10:1–5; Genesis 10:21–31"
+  },
+  "Genesis 9:28": {
+    "title": "Noah lives after the flood",
+    "text": "The verse records that Noah lived three hundred and fifty years after the flood. This chronological note links the flood account to the continuing genealogy. It supplies a stated lifespan, not a separate doctrinal claim.",
+    "refs": "Genesis 5:32; Genesis 9:29"
+  },
+  "Genesis 9:29": {
+    "title": "Noah’s death",
+    "text": "Noah’s total lifespan is given as nine hundred and fifty years, and the chapter ends with his death. The narrative records his role in the flood account while also recording the end of his life. Biblical figures remain human beings under God, not objects of worship.",
+    "refs": "Genesis 6:9; Hebrews 11:7"
+  },
+  "Genesis 10:1": {
+    "title": "The generations of Noah’s sons",
+    "text": "Genesis 10 records the descendants of Shem, Ham, and Japheth after the flood. The genealogy explains how the nations are represented in the biblical story. Names and family relationships should be read from the text rather than mapped carelessly onto modern racial categories.",
+    "refs": "Genesis 9:18–19; 1 Chronicles 1:4–7"
+  },
+  "Genesis 10:2": {
+    "title": "The sons of Japheth",
+    "text": "The verse names Japheth’s sons and begins one branch of the post-flood genealogy. These names establish family relationships in the ancient narrative. The verse itself does not provide enough information to make every proposed identification with a modern nation certain.",
+    "refs": "Genesis 10:5; 1 Chronicles 1:5"
+  },
+  "Genesis 10:3": {
+    "title": "The sons of Gomer",
+    "text": "The verse lists descendants of Gomer within Japheth’s line. Such names help organize the genealogy and its later references to peoples. Where historical identifications are uncertain, the uncertainty should be acknowledged instead of presented as settled Scripture.",
+    "refs": "Genesis 10:2; 1 Chronicles 1:6"
+  },
+  "Genesis 10:4": {
+    "title": "The sons of Javan",
+    "text": "The verse names descendants of Javan in Japheth’s family line. The list provides the biblical framework for the spread of peoples in the chapter. It is genealogical information rather than a direct teaching about the nature of God.",
+    "refs": "Genesis 10:5; 1 Chronicles 1:7"
+  },
+  "Genesis 10:5": {
+    "title": "The isles of the Gentiles",
+    "text": "The text describes the descendants of Japheth spreading into lands and coastlands, each according to language, family, and nation. The verse introduces the chapter’s concern with peoples and languages. All nations remain part of the human family under the one Creator.",
+    "refs": "Genesis 11:8–9; Acts 17:26"
+  },
+  "Genesis 10:6": {
+    "title": "The sons of Ham",
+    "text": "The verse lists Cush, Mizraim, Phut, and Canaan as sons of Ham. The genealogy names ancient family lines; it does not make a moral judgment about every later person associated with these names. It must not be used to support racial hierarchy.",
+    "refs": "Genesis 9:25–27; 1 Chronicles 1:8"
+  },
+  "Genesis 10:7": {
+    "title": "The sons of Cush",
+    "text": "The descendants of Cush are listed as part of the genealogy. The names preserve the ancient account of family and people groups. The verse does not authorize certainty about every modern geographical identification without further evidence.",
+    "refs": "Genesis 10:8–12; 1 Chronicles 1:9"
+  },
+  "Genesis 10:8": {
+    "title": "Nimrod begins to be mighty",
+    "text": "Nimrod is described as beginning to be a mighty one in the earth. The next verses expand on his kingdom and cities. The word “mighty” here is a narrative description; this verse alone does not settle every later tradition about Nimrod.",
+    "refs": "Genesis 10:9–12"
+  },
+  "Genesis 10:9": {
+    "title": "A mighty hunter before the LORD",
+    "text": "Nimrod is described as a mighty hunter before the LORD. The phrase can be understood in more than one way and has generated later interpretations. A careful study should separate the wording from traditions that the verse itself does not explain.",
+    "refs": "Genesis 10:8; Micah 5:6"
+  },
+  "Genesis 10:10": {
+    "title": "The beginning of Nimrod’s kingdom",
+    "text": "The verse names Babel, Erech, Accad, and Calneh as part of Nimrod’s kingdom in Shinar. Babel will become important in the next chapter. The text presents the rise of a kingdom, not a second divine authority alongside the LORD.",
+    "refs": "Genesis 11:1–9"
+  },
+  "Genesis 10:11": {
+    "title": "Asshur and the cities",
+    "text": "The wording describes Asshur’s connection with the building of Nineveh and other cities; translations and interpretations differ on the subject of the action. The important point is the genealogy’s connection with ancient city centers. Avoid building a doctrine on an uncertain grammatical detail.",
+    "refs": "Genesis 10:12; Jonah 1:2"
+  },
+  "Genesis 10:12": {
+    "title": "Resen and the great city",
+    "text": "The verse names Resen and describes the scale of the city grouping. Ancient city locations and the exact identification of the phrase have been debated. The verse records the prominence of these settlements without providing a modern archaeological map.",
+    "refs": "Genesis 10:11"
+  },
+  "Genesis 10:13": {
+    "title": "The sons of Mizraim",
+    "text": "The genealogy lists descendants of Mizraim. The names represent ancient peoples in the biblical account. Their precise later identifications may require historical research, but the verse itself is a family list rather than a theological definition.",
+    "refs": "Genesis 10:6; 1 Chronicles 1:11"
+  },
+  "Genesis 10:14": {
+    "title": "The descendants associated with Pathrusim",
+    "text": "The verse continues the descendants of Mizraim and mentions Philistim. The genealogy links peoples in the biblical story, although the exact relationships among some groups are discussed by historians. The wording should be reported without pretending every detail is beyond debate.",
+    "refs": "Genesis 10:13; Jeremiah 47:4"
+  },
+  "Genesis 10:15": {
+    "title": "Canaan’s descendants",
+    "text": "Canaan’s descendants are listed, including Sidon and Heth. These names become important in later biblical history. The genealogy records ancestry; it does not give permission to treat present-day people as morally defined by an ancient family line.",
+    "refs": "Genesis 15:18–21; Genesis 23:3–20"
+  },
+  "Genesis 10:16": {
+    "title": "The Jebusites and other peoples",
+    "text": "The verse lists peoples associated with Canaan. Later books refer to several of these groups in the history of Israel. Their place in the narrative should be understood in its historical and literary context, not used to make claims about modern ethnic worth.",
+    "refs": "Exodus 3:8; Deuteronomy 7:1"
+  },
+  "Genesis 10:17": {
+    "title": "The Hivites and other peoples",
+    "text": "The list of Canaan’s descendants continues with additional people groups. The verse’s purpose is genealogical and geographic. It does not describe the individual character of every person in those populations.",
+    "refs": "Genesis 10:15–18"
+  },
+  "Genesis 10:18": {
+    "title": "The families of Canaan spread",
+    "text": "The verse reports the spread of Canaan’s families and introduces the geographical description that follows. The genealogy portrays nations developing through family lines. This is narrative history, not a basis for racial superiority or inferiority.",
+    "refs": "Genesis 10:19; Genesis 9:19"
+  },
+  "Genesis 10:19": {
+    "title": "The borders of Canaan",
+    "text": "The text gives a broad description of Canaan’s territory. The place names help orient the reader to the land that becomes important in the patriarchal narratives. Ancient boundaries do not always map neatly onto modern borders.",
+    "refs": "Genesis 15:18–21; Numbers 34:2–12"
+  },
+  "Genesis 10:20": {
+    "title": "The descendants of Ham summarized",
+    "text": "The verse summarizes Ham’s descendants according to families, languages, lands, and nations. The repeated categories prepare for the chapter’s final summary. All are part of the same human story after the flood.",
+    "refs": "Genesis 10:5; Genesis 10:31–32"
+  },
+  "Genesis 10:21": {
+    "title": "Shem, father of Eber",
+    "text": "Shem’s line is introduced, with Eber specifically mentioned. The name Eber is associated by many interpreters with the term “Hebrew,” though the exact etymological relationship should not be overstated. This genealogy leads toward Abram later in Genesis.",
+    "refs": "Genesis 11:10–26; Genesis 14:13"
+  },
+  "Genesis 10:22": {
+    "title": "The sons of Shem",
+    "text": "The verse names Elam, Asshur, Arphaxad, Lud, and Aram. These names establish the branch of the genealogy that will eventually lead to Abram through Arphaxad. The passage records family descent and does not describe separate divine beings.",
+    "refs": "Genesis 11:10–26; 1 Chronicles 1:17"
+  },
+  "Genesis 10:23": {
+    "title": "The sons of Aram",
+    "text": "The descendants of Aram are listed. The genealogy preserves connections among ancient peoples and families. Specific modern identifications should be made cautiously when the biblical text itself gives no further explanation.",
+    "refs": "Genesis 10:22; 1 Chronicles 1:17"
+  },
+  "Genesis 10:24": {
+    "title": "Arphaxad, Salah, and Eber",
+    "text": "The verse traces a line from Arphaxad through Salah to Eber. This is part of the genealogy leading toward Abram. The line is important to the story’s structure, but the verse itself does not yet narrate the covenant with Abram.",
+    "refs": "Genesis 11:10–26; Luke 3:35–36"
+  },
+  "Genesis 10:25": {
+    "title": "Peleg and the division of the earth",
+    "text": "Peleg’s name is associated with a division of the earth in his days. The verse does not specify exactly what event “division” means; interpretations include a division of peoples or lands. Genesis 11 follows with the story of Babel, but the precise relation should be stated as interpretation.",
+    "refs": "Genesis 11:1–9"
+  },
+  "Genesis 10:26": {
+    "title": "The sons of Joktan",
+    "text": "The genealogy lists Joktan’s descendants. These names contribute to the account of peoples and territories in the ancient world. The verse does not directly establish modern national borders or the identity of every later population.",
+    "refs": "Genesis 10:27–30"
+  },
+  "Genesis 10:27": {
+    "title": "More descendants of Joktan",
+    "text": "The verse continues the list of Joktan’s sons. The repeated names and family connections show how the chapter organizes the nations by ancestry. Where a name’s later location is uncertain, that uncertainty should be kept clear.",
+    "refs": "Genesis 10:26; Genesis 10:30"
+  },
+  "Genesis 10:28": {
+    "title": "The sons of Joktan continued",
+    "text": "The genealogy adds more names to Joktan’s line. These records are part of the Bible’s account of the spread of peoples after the flood. They are not in themselves doctrinal statements about God’s nature.",
+    "refs": "Genesis 10:26–29"
+  },
+  "Genesis 10:29": {
+    "title": "The descendants of Joktan listed",
+    "text": "The final names in this segment complete the list of Joktan’s sons. The genealogy emphasizes the breadth of human descent from the post-flood family lines. The chapter’s repeated structure helps readers follow the families and lands.",
+    "refs": "Genesis 10:26–30"
+  },
+  "Genesis 10:30": {
+    "title": "The dwelling place of Joktan’s descendants",
+    "text": "The verse describes the region associated with Joktan’s descendants. The exact borders of ancient locations can be difficult to reconstruct, so modern identifications should be offered with appropriate caution. The verse’s direct role is geographical within the genealogy.",
+    "refs": "Genesis 10:26–29"
+  },
+  "Genesis 10:31": {
+    "title": "The descendants of Shem summarized",
+    "text": "Shem’s descendants are summarized by families, languages, lands, and nations. This formula parallels the summaries of other branches in the chapter. The text presents all these groups as parts of the same post-flood human family.",
+    "refs": "Genesis 10:20; Genesis 10:32"
+  },
+  "Genesis 10:32": {
+    "title": "The nations spread after the flood",
+    "text": "The chapter concludes that the nations spread from Noah’s sons after the flood. Genesis 10 organizes the nations by genealogy, while Genesis 11 will explain the Babel episode. The passage supports the unity of humanity’s descent, not racial ranking.",
+    "refs": "Genesis 9:19; Acts 17:26"
   }
 };
