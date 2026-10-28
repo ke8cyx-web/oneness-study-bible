@@ -2707,5 +2707,265 @@ window.verseCommentary = {
     "title": "Ben-ammi and the Ammonites",
     "text": "The younger daughter bears Ben-ammi, identified as the father of the Ammonites. The chapter closes with a genealogy arising from the family’s tragic decisions. The Bible records these origins candidly and later treats Moab and Ammon within their historical contexts.",
     "refs": "Deuteronomy 2:19; Judges 10:6"
+  },
+  "Genesis 20:1": {
+    "title": "Abraham journeys to Gerar",
+    "text": "Abraham travels toward the south and settles between Kadesh and Shur, sojourning in Gerar. The move sets the scene for another episode involving Sarah’s identity. The narrative shows that Abraham’s earlier failures with fear and concealment recur rather than presenting him as flawless.",
+    "refs": "Genesis 12:10–20; Genesis 26:1"
+  },
+  "Genesis 20:2": {
+    "title": "Sarah called Abraham’s sister",
+    "text": "Abraham says Sarah is his sister, and Abimelech king of Gerar sends for her. This repeats the concealment from Egypt. The text reports Abraham’s claim and its consequences; it does not endorse deception as a righteous way to protect oneself.",
+    "refs": "Genesis 12:13–15; Genesis 20:12"
+  },
+  "Genesis 20:3": {
+    "title": "God warns Abimelech in a dream",
+    "text": "God comes to Abimelech in a dream and warns that he is a dead man because the woman he has taken is married. The verse directly identifies God as the speaker. God intervenes to protect Sarah and preserve the promised line.",
+    "refs": "Genesis 12:17; Genesis 20:6–7"
+  },
+  "Genesis 20:4": {
+    "title": "Abimelech has not approached Sarah",
+    "text": "Abimelech has not come near Sarah and asks whether God will destroy a righteous nation. The narrative distinguishes his taking Sarah into his household from actually having relations with her. His question appeals to the justice of God.",
+    "refs": "Genesis 20:5; Genesis 20:6"
+  },
+  "Genesis 20:5": {
+    "title": "Abimelech claims innocence",
+    "text": "Abimelech says Abraham described Sarah as his sister and Sarah confirmed the relationship. He claims he acted with integrity and clean hands. The passage presents his defense and leaves God to answer the matter.",
+    "refs": "Genesis 20:2; Genesis 20:6"
+  },
+  "Genesis 20:6": {
+    "title": "God restrains Abimelech",
+    "text": "God tells Abimelech that He prevented him from sinning against Him and did not allow him to touch Sarah. The verse emphasizes God’s active protection. God’s intervention does not excuse Abraham’s deception, which the chapter also exposes.",
+    "refs": "Genesis 20:3; Psalm 121:7"
+  },
+  "Genesis 20:7": {
+    "title": "Return the man’s wife",
+    "text": "God commands Abimelech to return Sarah because Abraham is a prophet who will pray for him. The verse identifies Abraham as a prophet and makes restoration necessary. It does not mean prophets are morally perfect; Abraham’s conduct is corrected in the same episode.",
+    "refs": "Genesis 20:17; Psalm 105:14–15"
+  },
+  "Genesis 20:8": {
+    "title": "Abimelech tells his servants",
+    "text": "Abimelech rises early, tells his servants what happened, and they become afraid. The dream is treated seriously and leads to immediate action. The narrative shows that God’s warning changes the king’s behavior.",
+    "refs": "Genesis 20:3–7"
+  },
+  "Genesis 20:9": {
+    "title": "Abimelech confronts Abraham",
+    "text": "Abimelech asks Abraham what he has done and what wrong he has committed. The foreign king directly challenges Abraham’s conduct. Scripture does not conceal the fact that Abraham’s deception brought danger and reproach.",
+    "refs": "Genesis 12:18–19; Genesis 20:10"
+  },
+  "Genesis 20:10": {
+    "title": "Why did Abraham do this?",
+    "text": "Abimelech asks Abraham what he saw that led him to act this way. The question invites Abraham to explain his fear and motive. The episode shows that a person of faith must still be accountable for actions that harm others.",
+    "refs": "Genesis 20:11–13"
+  },
+  "Genesis 20:11": {
+    "title": "Abraham explains his fear",
+    "text": "Abraham says he thought the fear of God was not in the place and that he might be killed for Sarah’s sake. His explanation reveals fear rather than trust. The narrative does not confirm that all the people of Gerar were godless; Abimelech’s response complicates Abraham’s assumption.",
+    "refs": "Genesis 12:12; Proverbs 29:25"
+  },
+  "Genesis 20:12": {
+    "title": "Sarah is Abraham’s half-sister",
+    "text": "Abraham explains that Sarah is his half-sister as well as his wife. This detail explains the partial truth behind his statement, but it does not erase the deception about their marriage. A statement can be technically true and still mislead someone.",
+    "refs": "Genesis 11:29; Genesis 20:2"
+  },
+  "Genesis 20:13": {
+    "title": "Abraham describes their agreement",
+    "text": "Abraham says that when God caused him to wander from his father’s house, he asked Sarah to show him this kindness by saying he was her brother. The verse explains the arrangement as a long-standing strategy born of fear. It records Abraham’s explanation, not a divine command to deceive.",
+    "refs": "Genesis 12:1; Genesis 12:13"
+  },
+  "Genesis 20:14": {
+    "title": "Abimelech gives gifts",
+    "text": "Abimelech gives Abraham sheep, oxen, servants, and returns Sarah. The gifts accompany the restoration of Sarah and an attempt to resolve the crisis. The narrative does not say the gifts make Abraham’s earlier conduct right.",
+    "refs": "Genesis 12:16; Genesis 20:16"
+  },
+  "Genesis 20:15": {
+    "title": "Abimelech offers the land",
+    "text": "Abimelech tells Abraham that the land is before him and that he may dwell where he pleases. The king responds generously after the confrontation. This contrasts with Abraham’s assumption that the people would kill him without fear of God.",
+    "refs": "Genesis 20:11; Genesis 21:23"
+  },
+  "Genesis 20:16": {
+    "title": "Sarah is vindicated",
+    "text": "Abimelech gives Sarah silver and says it is a covering or vindication in the eyes of those with her. The exact nuance of the phrase is debated, but the verse shows Sarah being publicly restored after the incident. The narrative should not place all blame on Sarah for Abraham’s concealment.",
+    "refs": "Genesis 20:2; Genesis 20:14"
+  },
+  "Genesis 20:17": {
+    "title": "Abraham prays and healing comes",
+    "text": "Abraham prays to God, and God heals Abimelech, his wife, and his maidservants so they can bear children. The verse shows God answering prayer and restoring the household. It also shows Abraham fulfilling the role God named in verse 7 despite his earlier failure.",
+    "refs": "Genesis 20:7; James 5:16"
+  },
+  "Genesis 20:18": {
+    "title": "The wombs had been closed",
+    "text": "The LORD had closed the wombs of Abimelech’s household because of Sarah. The verse explains the household’s affliction and connects it to the taking of Sarah. God’s action protects the covenant promise; the chapter ends with healing after Sarah is returned.",
+    "refs": "Genesis 20:3; Genesis 21:1–2"
+  },
+  "Genesis 21:1": {
+    "title": "The LORD visits Sarah",
+    "text": "The LORD visits Sarah as He had said and does for her as He had spoken. The repetition stresses that God fulfills His promise. The promised birth is the result of the LORD’s faithfulness, not an accidental event.",
+    "refs": "Genesis 17:16; Genesis 18:10–14"
+  },
+  "Genesis 21:2": {
+    "title": "Isaac is born at the appointed time",
+    "text": "Sarah conceives and bears Abraham a son in his old age, at the set time God had spoken. The birth fulfills the promise that seemed impossible. The verse repeatedly ties the event to God’s word and appointed time.",
+    "refs": "Genesis 17:19; Genesis 18:14"
+  },
+  "Genesis 21:3": {
+    "title": "The child is named Isaac",
+    "text": "Abraham names the son Isaac, as God had commanded. The name follows the earlier promise and the couple’s laughter at the seemingly impossible announcement. God’s promise is fulfilled despite their earlier uncertainty.",
+    "refs": "Genesis 17:19; Genesis 17:17"
+  },
+  "Genesis 21:4": {
+    "title": "Isaac is circumcised",
+    "text": "Abraham circumcises Isaac on the eighth day as God commanded. The verse records Abraham’s obedience to the covenant instruction given in Genesis 17. The act belongs to that covenant setting and should be distinguished from later New Testament teaching about circumcision.",
+    "refs": "Genesis 17:10–12; Luke 2:21"
+  },
+  "Genesis 21:5": {
+    "title": "Abraham’s age at Isaac’s birth",
+    "text": "Abraham is one hundred years old when Isaac is born. The age emphasizes how far beyond ordinary expectation the promise was fulfilled. Paul later points to Abraham’s faith in God’s power to bring life from an apparently impossible situation.",
+    "refs": "Genesis 17:17; Romans 4:19–21"
+  },
+  "Genesis 21:6": {
+    "title": "Sarah laughs with joy",
+    "text": "Sarah says God has made her laugh and that others who hear will laugh with her. The earlier laughter of disbelief has become laughter associated with joy and fulfillment. The verse shows the change brought by God’s faithfulness.",
+    "refs": "Genesis 18:12–14; Psalm 126:2–3"
+  },
+  "Genesis 21:7": {
+    "title": "Sarah marvels at nursing a child",
+    "text": "Sarah speaks of who would have said Abraham and Sarah would nurse a child in their old age. Her words express wonder at the fulfillment. The story highlights the contrast between human limitation and God’s promise.",
+    "refs": "Genesis 18:11–14"
+  },
+  "Genesis 21:8": {
+    "title": "Isaac is weaned",
+    "text": "Isaac grows and is weaned, and Abraham holds a great feast on that day. The narrative moves forward in the child’s life. The feast celebrates the child’s growth and the continuation of the promised line.",
+    "refs": "Genesis 21:1–7"
+  },
+  "Genesis 21:9": {
+    "title": "Ishmael mocks",
+    "text": "Sarah sees Hagar’s son Ishmael mocking. The precise force of the Hebrew term is discussed, but the episode clearly marks a conflict surrounding Isaac’s place in the household. The next verses show Sarah’s response and God’s instruction to Abraham.",
+    "refs": "Genesis 16:4; Galatians 4:29"
+  },
+  "Genesis 21:10": {
+    "title": "Cast out the bondwoman and her son",
+    "text": "Sarah tells Abraham to cast out Hagar and Ishmael, saying Ishmael will not inherit with Isaac. This is a painful demand involving a mother and child. Paul later uses the episode allegorically, but that later application does not erase the human distress in the Genesis account.",
+    "refs": "Genesis 21:11–14; Galatians 4:30"
+  },
+  "Genesis 21:11": {
+    "title": "Abraham is grieved",
+    "text": "Abraham is distressed because Ishmael is his son. The verse makes clear that the separation is emotionally painful. The covenant distinction does not mean Abraham has no love or concern for Ishmael.",
+    "refs": "Genesis 17:18–20"
+  },
+  "Genesis 21:12": {
+    "title": "God tells Abraham to heed Sarah",
+    "text": "God tells Abraham not to be distressed and to heed Sarah concerning the covenant line, which will be called through Isaac. The verse distinguishes the covenant line while preserving God’s promise to make Ishmael a nation as well. God’s plan and His care for Ishmael are both present in the chapter.",
+    "refs": "Genesis 17:19–21; Romans 9:7"
+  },
+  "Genesis 21:13": {
+    "title": "Ishmael will become a nation",
+    "text": "God promises to make a nation of Ishmael because he is Abraham’s seed. The promise confirms that Ishmael is not abandoned by God, even though Isaac carries the covenant line described here. The distinction should be read exactly as the text gives it.",
+    "refs": "Genesis 17:20; Genesis 25:12–18"
+  },
+  "Genesis 21:14": {
+    "title": "Hagar and Ishmael depart",
+    "text": "Abraham gives Hagar bread and water and sends her away with the boy. Hagar wanders in the wilderness of Beersheba. The scene is painful, and the text should be read with attention to the vulnerability of mother and child, as well as God’s subsequent intervention.",
+    "refs": "Genesis 21:15–19"
+  },
+  "Genesis 21:15": {
+    "title": "The water is spent",
+    "text": "The water in the bottle is used up, and Hagar places the boy under a shrub. The family’s crisis becomes immediate and life-threatening. The narrative prepares for God’s hearing and provision in the next verses.",
+    "refs": "Genesis 21:16–19"
+  },
+  "Genesis 21:16": {
+    "title": "Hagar weeps",
+    "text": "Hagar sits at a distance because she cannot bear to watch the child die, and she lifts up her voice and weeps. The verse portrays a mother’s anguish. God’s response shows that her distress is seen and heard.",
+    "refs": "Genesis 16:11; Genesis 21:17"
+  },
+  "Genesis 21:17": {
+    "title": "God hears the boy",
+    "text": "God hears the voice of the lad, and the angel of God calls to Hagar from heaven. The text explicitly says God hears and responds. The expression “angel of God” should be interpreted in context and not automatically equated with a separate divine person.",
+    "refs": "Genesis 16:7–11; Exodus 3:2–6"
+  },
+  "Genesis 21:18": {
+    "title": "Lift up the lad",
+    "text": "Hagar is told to arise, lift up the boy, and hold him, because God will make him a great nation. The command combines practical action with renewed promise. God does not leave Hagar in despair but directs her toward the child’s future.",
+    "refs": "Genesis 21:13; Genesis 17:20"
+  },
+  "Genesis 21:19": {
+    "title": "God opens Hagar’s eyes",
+    "text": "God opens Hagar’s eyes and she sees a well of water, from which she gives the boy a drink. The provision is near, but Hagar needs help to see it. The verse illustrates God’s care in crisis without requiring a symbolic meaning beyond the narrative.",
+    "refs": "Genesis 16:13; Psalm 146:9"
+  },
+  "Genesis 21:20": {
+    "title": "God is with Ishmael",
+    "text": "God is with the boy as he grows in the wilderness and becomes an archer. The verse affirms God’s care for Ishmael outside the covenant line through Isaac. God’s presence and blessing are not limited to the particular role assigned to Isaac in the covenant story.",
+    "refs": "Genesis 17:20; Genesis 25:12–18"
+  },
+  "Genesis 21:21": {
+    "title": "Ishmael dwells in Paran",
+    "text": "Ishmael lives in the wilderness of Paran, and his mother takes a wife for him from Egypt. The verse closes the account of Hagar and Ishmael’s settlement. It provides family and geographical details without authorizing sweeping claims about modern peoples.",
+    "refs": "Genesis 16:1; Genesis 25:12–18"
+  },
+  "Genesis 21:22": {
+    "title": "Abimelech recognizes God’s help",
+    "text": "Abimelech and Phichol tell Abraham that God is with him in all that he does. The statement recognizes God’s evident help in Abraham’s life. It names God as the one acting with Abraham and does not introduce multiple Gods.",
+    "refs": "Genesis 20:7; Genesis 26:28"
+  },
+  "Genesis 21:23": {
+    "title": "A covenant of honesty",
+    "text": "Abimelech asks Abraham to swear that he will not deal falsely with him, his descendants, or his posterity. The request follows their earlier conflict and seeks reliable conduct. The verse highlights integrity in dealings between neighbors and rulers.",
+    "refs": "Genesis 20:9–16; Proverbs 12:22"
+  },
+  "Genesis 21:24": {
+    "title": "Abraham agrees",
+    "text": "Abraham says he will swear. The agreement opens a discussion about a well and a dispute over water rights. The verse records Abraham’s commitment to the covenant requested by Abimelech.",
+    "refs": "Genesis 21:25–27"
+  },
+  "Genesis 21:25": {
+    "title": "Abraham complains about a well",
+    "text": "Abraham reproves Abimelech because his servants have violently taken a well. The episode shows that peaceful relations require addressing injustice directly. Abraham does not ignore the wrong simply because he has agreed to a covenant.",
+    "refs": "Genesis 26:18–22; Proverbs 31:8–9"
+  },
+  "Genesis 21:26": {
+    "title": "Abimelech says he did not know",
+    "text": "Abimelech says he does not know who did the deed and that Abraham had not told him before. The verse records Abimelech’s response rather than proving whether his servants acted without his knowledge. The dispute is addressed through the covenant ceremony that follows.",
+    "refs": "Genesis 21:25–27"
+  },
+  "Genesis 21:27": {
+    "title": "Abraham and Abimelech make a covenant",
+    "text": "Abraham gives sheep and oxen to Abimelech, and the two make a covenant. The exchange formalizes their agreement. The narrative shows that peace between them involves both a spoken commitment and concrete actions.",
+    "refs": "Genesis 21:28–32"
+  },
+  "Genesis 21:28": {
+    "title": "Seven ewe lambs set apart",
+    "text": "Abraham sets seven ewe lambs apart from the flock. Their purpose is explained in the next verses as testimony concerning the well. The details belong to the ancient covenant practice described in the story.",
+    "refs": "Genesis 21:29–30"
+  },
+  "Genesis 21:29": {
+    "title": "Abimelech asks about the lambs",
+    "text": "Abimelech asks why Abraham has set the seven lambs apart. Abraham explains their significance in the following verse. The conversation clarifies the meaning of the symbolic action rather than leaving the reader to guess.",
+    "refs": "Genesis 21:30"
+  },
+  "Genesis 21:30": {
+    "title": "The lambs witness to the well",
+    "text": "Abraham says Abimelech is to receive the lambs as a witness that Abraham dug the well. The transaction publicly marks the well as connected with Abraham’s claim. The verse demonstrates the use of testimony and agreed signs to settle a dispute.",
+    "refs": "Genesis 21:25–27"
+  },
+  "Genesis 21:31": {
+    "title": "Beersheba is named",
+    "text": "The place is called Beersheba because the two men swore there. The narrative explains the place-name through the covenant and oath. Such explanations preserve the story’s memory of agreements and events.",
+    "refs": "Genesis 26:33"
+  },
+  "Genesis 21:32": {
+    "title": "The covenant is concluded",
+    "text": "Abimelech and Phichol return to the land of the Philistines after making the covenant. The agreement concludes the immediate dispute and establishes peace between the parties. The text describes the historical arrangement without making every later political relationship identical.",
+    "refs": "Genesis 21:22–31"
+  },
+  "Genesis 21:33": {
+    "title": "Abraham plants a grove",
+    "text": "Abraham plants a grove in Beersheba and calls there on the name of the LORD, the everlasting God. The verse explicitly identifies the LORD as everlasting and records Abraham’s worship. The one God whom Abraham invokes is the enduring Creator and covenant Lord.",
+    "refs": "Deuteronomy 6:4; Isaiah 40:28"
+  },
+  "Genesis 21:34": {
+    "title": "Abraham sojourns among the Philistines",
+    "text": "Abraham lives for many days in the land of the Philistines. The verse closes the chapter by describing his continued residence in the region. The covenant story continues with God’s testing of Abraham in Genesis 22.",
+    "refs": "Genesis 22:1–2"
   }
 };
