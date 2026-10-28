@@ -17,7 +17,11 @@ An installable Progressive Web App (PWA) using a green-and-gold theme, built for
 
 ## Important status note
 
-Live website: https://ke8cyx-web.github.io/oneness-study-bible/\n\nThe app includes KJV reading, search, bookmarks, personal verse notes, a 30-day reading plan, cross-references, topical Oneness notes, and a book-by-book guide for all 66 books. The first KJV download requires internet access; after it is successfully saved in this browser, Bible text is stored locally for offline reading. Bookmarks, notes, and reading-plan progress are stored locally in the current browser and do not automatically sync across devices.\n\nImportant scope note: the book-by-book guides and topical notes are study aids, not a completed verse-by-verse commentary on every verse. The Bible text and commentary are kept separate so readers can compare every teaching note with Scripture in context.
+Live website: https://ke8cyx-web.github.io/oneness-study-bible/
+
+The app includes KJV reading, search, bookmarks, personal verse notes, a 30-day reading plan, cross-references, topical Oneness notes, and a book-by-book guide for all 66 books. The first KJV download requires internet access; after it is successfully saved in this browser, Bible text is stored locally for offline reading. Bookmarks, notes, and reading-plan progress are stored locally in the current browser and do not automatically sync across devices.
+
+Important scope note: the book-by-book guides and topical notes are study aids, not a completed verse-by-verse commentary on every verse. The Bible text and commentary are kept separate so readers can compare every teaching note with Scripture in context.
 
 ## KJV data source
 
