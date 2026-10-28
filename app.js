@@ -213,7 +213,7 @@ function renderBookGuide(){
  const guide=guides[Number(select.value)||0];
  if(!guide)return;
  content.innerHTML=`<h3>${esc(guide.book)} — ${esc(guide.theme)}</h3>
- <h3>Key passages</h3><div>${guide.passages.split("; ").map(ref=>`<button class="ref-chip" data-guide-ref="${esc(ref)}">${esc(ref)}</button>`).join("")}</div>
+ <h3>Key passages</h3><div>${guide.passages.split("; ").map(ref=>{const fullRef=/^\d+:\d+/.test(ref)?guide.book+" "+ref:ref;return `<button class="ref-chip" data-guide-ref="${esc(fullRef)}">${esc(fullRef)}</button>`}).join("")}</div>
  <h3>Study focus</h3><p>${esc(guide.focus)}</p>
  <h3>Questions to consider</h3><p>${esc(guide.questions)}</p>
  <p class="muted">Study reminder: these are teaching notes. Read the full chapters, compare Scripture with Scripture, and distinguish the biblical text from commentary.</p>`;
