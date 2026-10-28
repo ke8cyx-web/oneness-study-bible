@@ -14707,5 +14707,554 @@ window.verseCommentary = {
       "Exodus 34:28",
       "Deuteronomy 9:9"
     ]
+  },
+  "Exodus 25:1": {
+    "title": "An offering for the sanctuary",
+    "text": "The LORD tells Moses to receive an offering from those whose hearts move them to give. The materials will be used to build the sanctuary, and the voluntary language emphasizes willing participation in the work of worship.",
+    "refs": [
+      "Exodus 35:4–9"
+    ]
+  },
+  "Exodus 25:2": {
+    "title": "Give from a willing heart",
+    "text": "The people are asked to give willingly from the heart. The passage presents generosity as a response to God’s purpose rather than merely a forced contribution.",
+    "refs": [
+      "2 Corinthians 9:7"
+    ]
+  },
+  "Exodus 25:3": {
+    "title": "Materials for the tabernacle",
+    "text": "Gold, silver, brass, and other materials are listed for the sanctuary. The variety of materials shows that the worship space will be carefully prepared according to God’s instructions.",
+    "refs": [
+      "Exodus 35:5–9"
+    ]
+  },
+  "Exodus 25:4": {
+    "title": "Blue, purple, scarlet, and fine linen",
+    "text": "Colored yarns and fine linen are included among the materials. The text specifies the actual resources needed for the curtains and sacred furnishings that follow.",
+    "refs": [
+      "Exodus 26:1"
+    ]
+  },
+  "Exodus 25:5": {
+    "title": "Skins, wood, and oil",
+    "text": "Ram skins, other durable skins, acacia wood, and oil are listed. These materials serve practical purposes in the tabernacle’s structure, covering, and lighting.",
+    "refs": [
+      "Exodus 26:14",
+      "Exodus 27:20"
+    ]
+  },
+  "Exodus 25:6": {
+    "title": "Spices and stones",
+    "text": "Oil, incense spices, and precious stones are requested for the sanctuary and priestly garments. The materials show that both worship and priestly service require careful preparation.",
+    "refs": [
+      "Exodus 30:23–25",
+      "Exodus 28:9–12"
+    ]
+  },
+  "Exodus 25:7": {
+    "title": "Stones for the priestly garments",
+    "text": "Onyx and other stones are requested for the ephod and breastplate. These stones will be associated with the names of Israel’s tribes, representing the people in priestly service.",
+    "refs": [
+      "Exodus 28:9–21"
+    ]
+  },
+  "Exodus 25:8": {
+    "title": "Make a sanctuary for God",
+    "text": "God commands Israel to make Him a sanctuary so He may dwell among them. This does not mean the omnipresent God is contained by a building; the sanctuary is the appointed place of His covenant presence among Israel.",
+    "refs": [
+      "1 Kings 8:27",
+      "Acts 7:48–50"
+    ]
+  },
+  "Exodus 25:9": {
+    "title": "Follow the pattern shown",
+    "text": "The tabernacle and its furnishings must be made according to the pattern God shows Moses. The details are governed by divine instruction rather than human invention.",
+    "refs": [
+      "Exodus 25:40",
+      "Hebrews 8:5"
+    ]
+  },
+  "Exodus 25:10": {
+    "title": "The ark of acacia wood",
+    "text": "God gives dimensions for an ark made of acacia wood. It will be a central object in the Most Holy Place and associated with the covenant testimony.",
+    "refs": [
+      "Exodus 26:33–34"
+    ]
+  },
+  "Exodus 25:11": {
+    "title": "Gold covers the ark",
+    "text": "The ark is to be overlaid with pure gold inside and outside, with a gold crown around it. The precious covering reflects the sacred role assigned to the ark in Israel’s worship.",
+    "refs": [
+      "Exodus 37:1–2"
+    ]
+  },
+  "Exodus 25:12": {
+    "title": "Four rings for carrying",
+    "text": "Four gold rings are to be cast for the ark’s four feet. The rings allow it to be carried according to the instructions that follow, rather than handled casually.",
+    "refs": [
+      "Exodus 25:13–15"
+    ]
+  },
+  "Exodus 25:13": {
+    "title": "Staves made of acacia wood",
+    "text": "Staves are made and overlaid with gold to carry the ark. The instructions provide a way to transport the sacred object while maintaining its prescribed handling.",
+    "refs": [
+      "Numbers 4:15"
+    ]
+  },
+  "Exodus 25:14": {
+    "title": "The staves go through the rings",
+    "text": "The staves are inserted through the rings at the sides of the ark. The carrying arrangement is part of the exact pattern God has given.",
+    "refs": [
+      "Exodus 25:12–13"
+    ]
+  },
+  "Exodus 25:15": {
+    "title": "The staves remain in the rings",
+    "text": "The staves are not to be removed from the rings of the ark. The instruction preserves the prescribed means of carrying it whenever it must be moved.",
+    "refs": [
+      "1 Kings 8:8"
+    ]
+  },
+  "Exodus 25:16": {
+    "title": "The testimony placed in the ark",
+    "text": "Moses is to put the testimony that God will give him into the ark. The ark’s purpose is closely tied to God’s covenant words, not to an image of God.",
+    "refs": [
+      "Exodus 31:18",
+      "Deuteronomy 10:1–5"
+    ]
+  },
+  "Exodus 25:17": {
+    "title": "The mercy seat",
+    "text": "A mercy seat of pure gold is to be made for the ark. It will be the appointed place associated with atonement and God’s meeting with Israel, as the following verses explain.",
+    "refs": [
+      "Leviticus 16:14–16",
+      "Hebrews 9:5"
+    ]
+  },
+  "Exodus 25:18": {
+    "title": "Two cherubim of gold",
+    "text": "Two cherubim are to be made of hammered gold at the ends of the mercy seat. They are part of the sanctuary’s symbolic design and are not presented as objects for Israel to worship.",
+    "refs": [
+      "Exodus 25:20"
+    ]
+  },
+  "Exodus 25:19": {
+    "title": "The cherubim are one piece with the mercy seat",
+    "text": "The cherubim are made from the ends of the mercy seat. The detailed construction follows the pattern God has given Moses.",
+    "refs": [
+      "Exodus 37:7–8"
+    ]
+  },
+  "Exodus 25:20": {
+    "title": "The cherubim face the mercy seat",
+    "text": "The cherubim spread their wings above and face one another, looking toward the mercy seat. Their posture frames the place where God will speak with Moses.",
+    "refs": [
+      "Exodus 25:22"
+    ]
+  },
+  "Exodus 25:21": {
+    "title": "The testimony is placed inside",
+    "text": "The mercy seat is set on the ark, and the testimony is placed inside. The covenant word is central, with the mercy seat above it as the appointed place of meeting.",
+    "refs": [
+      "Exodus 25:16–17"
+    ]
+  },
+  "Exodus 25:22": {
+    "title": "God meets Moses above the mercy seat",
+    "text": "God says He will meet Moses there and speak from above the mercy seat, between the cherubim, concerning His commands for Israel. This is a chosen place of revelation; it does not imply that God’s whole being is confined to the ark or sanctuary.",
+    "refs": [
+      "Numbers 7:89",
+      "Leviticus 16:2"
+    ]
+  },
+  "Exodus 25:23": {
+    "title": "A table of acacia wood",
+    "text": "God gives dimensions for a table of acacia wood. It will hold the bread set before the LORD and be part of the sanctuary’s regular worship.",
+    "refs": [
+      "Exodus 37:10"
+    ]
+  },
+  "Exodus 25:24": {
+    "title": "The table is overlaid with gold",
+    "text": "The table is to be overlaid with pure gold and have a gold border. Its materials and design follow the instructions for the sanctuary furnishings.",
+    "refs": [
+      "Exodus 37:11"
+    ]
+  },
+  "Exodus 25:25": {
+    "title": "A border and gold rim",
+    "text": "A handbreadth border and gold rim are added around the table. The detail describes the table’s construction and the care given to the sacred furnishings.",
+    "refs": [
+      "Exodus 37:12"
+    ]
+  },
+  "Exodus 25:26": {
+    "title": "Four gold rings for the table",
+    "text": "Four gold rings are made for the table’s four corners. These rings will hold the staves used to carry it.",
+    "refs": [
+      "Exodus 25:27"
+    ]
+  },
+  "Exodus 25:27": {
+    "title": "Rings near the border",
+    "text": "The rings are placed near the border as holders for the staves. The carrying method is integrated into the table’s design.",
+    "refs": [
+      "Exodus 25:26–28"
+    ]
+  },
+  "Exodus 25:28": {
+    "title": "Staves to carry the table",
+    "text": "The staves are made of acacia wood and overlaid with gold so the table can be carried. The instructions maintain the pattern for transport of the sanctuary furnishings.",
+    "refs": [
+      "Numbers 4:7–8"
+    ]
+  },
+  "Exodus 25:29": {
+    "title": "Dishes, spoons, and bowls",
+    "text": "The table’s dishes, spoons, covers, and bowls are to be made of pure gold for the offerings associated with it. The utensils are included in the sacred service rather than treated as ordinary household items.",
+    "refs": [
+      "Exodus 37:16"
+    ]
+  },
+  "Exodus 25:30": {
+    "title": "Bread continually before the LORD",
+    "text": "The showbread is to be set on the table continually before God. The bread represents an ongoing offering and remembrance of Israel’s dependence on the LORD for provision.",
+    "refs": [
+      "Leviticus 24:5–9"
+    ]
+  },
+  "Exodus 25:31": {
+    "title": "A lampstand of pure gold",
+    "text": "The lampstand is to be made of hammered pure gold, including its shaft, branches, bowls, knops, and flowers. The design is given in detail and will provide light within the sanctuary.",
+    "refs": [
+      "Exodus 37:17–18"
+    ]
+  },
+  "Exodus 25:32": {
+    "title": "Six branches from the lampstand",
+    "text": "Six branches extend from the sides of the central shaft, three on each side. The arrangement is part of the specified form of the lampstand.",
+    "refs": [
+      "Exodus 25:33–36"
+    ]
+  },
+  "Exodus 25:33": {
+    "title": "Decorative cups on the branches",
+    "text": "Each branch has cups shaped like almond blossoms, with knops and flowers. The repeated design makes the branches visually unified with the central shaft.",
+    "refs": [
+      "Exodus 25:31"
+    ]
+  },
+  "Exodus 25:34": {
+    "title": "Almond-shaped decorations on the shaft",
+    "text": "The central shaft also has almond-shaped cups, knops, and flowers. The lampstand’s design is carefully coordinated rather than assembled from unrelated parts.",
+    "refs": [
+      "Exodus 25:31–33"
+    ]
+  },
+  "Exodus 25:35": {
+    "title": "Knops beneath the branches",
+    "text": "A knop is placed beneath each pair of branches extending from the central shaft. The verse continues the detailed pattern for the lampstand’s construction.",
+    "refs": [
+      "Exodus 25:32"
+    ]
+  },
+  "Exodus 25:36": {
+    "title": "The lampstand is one work",
+    "text": "The knops and branches are made as one piece of pure hammered gold. The unity of the structure is part of the instruction given to Moses.",
+    "refs": [
+      "Exodus 37:22"
+    ]
+  },
+  "Exodus 25:37": {
+    "title": "Seven lamps give light",
+    "text": "Seven lamps are to be made and arranged to give light in front of the lampstand. The lamps serve the sanctuary’s practical lighting and worship function.",
+    "refs": [
+      "Exodus 27:20–21"
+    ]
+  },
+  "Exodus 25:38": {
+    "title": "Tongs and snuff dishes",
+    "text": "The tongs and snuff dishes are also made of pure gold. Even the tools for maintaining the lamps are included in the sanctuary’s prescribed furnishings.",
+    "refs": [
+      "Exodus 37:23"
+    ]
+  },
+  "Exodus 25:39": {
+    "title": "A talent of pure gold",
+    "text": "The lampstand and its utensils are to be made from a talent of pure gold. The specified quantity underlines the material and workmanship required.",
+    "refs": [
+      "Exodus 37:24"
+    ]
+  },
+  "Exodus 25:40": {
+    "title": "Make it according to the pattern",
+    "text": "Moses is warned to make everything according to the pattern shown on the mountain. The verse emphasizes obedience to God’s revealed design, and Hebrews later uses the tabernacle pattern in discussing earthly worship and heavenly realities.",
+    "refs": [
+      "Exodus 25:9",
+      "Hebrews 8:5"
+    ]
+  },
+  "Exodus 26:1": {
+    "title": "Ten curtains for the tabernacle",
+    "text": "The tabernacle curtains are made from fine linen with blue, purple, and scarlet yarn and cherubim woven into them. The detailed design marks the sanctuary as a specially appointed place of worship.",
+    "refs": [
+      "Exodus 25:4"
+    ]
+  },
+  "Exodus 26:2": {
+    "title": "Curtain dimensions",
+    "text": "The length and width of each curtain are specified. Exact dimensions ensure that the pieces fit together as one covering for the tabernacle.",
+    "refs": [
+      "Exodus 26:1"
+    ]
+  },
+  "Exodus 26:3": {
+    "title": "Curtains joined in sets",
+    "text": "Five curtains are joined to one another in each of two sets. The structure is built from connected sections that form a complete covering.",
+    "refs": [
+      "Exodus 26:1–2"
+    ]
+  },
+  "Exodus 26:4": {
+    "title": "Loops of blue on the curtains",
+    "text": "Loops of blue are made along the edge of each set so the curtains can be joined. The detail prepares for the clasps that connect the sections.",
+    "refs": [
+      "Exodus 26:5–6"
+    ]
+  },
+  "Exodus 26:5": {
+    "title": "Fifty loops on each set",
+    "text": "The loops are placed opposite one another, fifty on each curtain set. The matching arrangement allows the sections to be fastened together evenly.",
+    "refs": [
+      "Exodus 26:4"
+    ]
+  },
+  "Exodus 26:6": {
+    "title": "Gold clasps join the curtains",
+    "text": "Fifty gold clasps connect the loops so the tabernacle becomes one whole. The repeated image of joining sections into one structure reflects the practical unity of the sanctuary.",
+    "refs": [
+      "Exodus 36:13"
+    ]
+  },
+  "Exodus 26:7": {
+    "title": "Curtains of goats’ hair",
+    "text": "Eleven curtains of goats’ hair are made for a tent over the tabernacle. This second covering adds protection above the fine inner curtains.",
+    "refs": [
+      "Exodus 26:14"
+    ]
+  },
+  "Exodus 26:8": {
+    "title": "Dimensions of the goats’ hair curtains",
+    "text": "The dimensions of the goats’ hair curtains are specified. Their measurements are coordinated with the inner covering and the structure they will protect.",
+    "refs": [
+      "Exodus 26:7"
+    ]
+  },
+  "Exodus 26:9": {
+    "title": "Join the curtains into two sets",
+    "text": "Six curtains are joined in one set and five in another, with the sixth folded at the front. The arrangement provides the required shape and coverage for the tent.",
+    "refs": [
+      "Exodus 26:7–8"
+    ]
+  },
+  "Exodus 26:10": {
+    "title": "Loops along the curtain edges",
+    "text": "Fifty loops are made along the edge of the curtain set, with another fifty on the joining edge. The loops prepare the coverings to be connected by clasps.",
+    "refs": [
+      "Exodus 26:11"
+    ]
+  },
+  "Exodus 26:11": {
+    "title": "Bronze clasps connect the covering",
+    "text": "Fifty bronze clasps are made and put through the loops to join the tent covering into one. The outer covering is connected securely according to the prescribed design.",
+    "refs": [
+      "Exodus 26:10"
+    ]
+  },
+  "Exodus 26:12": {
+    "title": "The extra curtain hangs at the back",
+    "text": "The surplus portion of the tent curtains hangs over the rear of the tabernacle. The instruction accounts for the extra length so the covering protects the structure.",
+    "refs": [
+      "Exodus 26:9"
+    ]
+  },
+  "Exodus 26:13": {
+    "title": "The covering extends over the sides",
+    "text": "The extra length hangs over both sides of the tabernacle to cover it. The covering’s dimensions are designed to protect the sanctuary’s sides.",
+    "refs": [
+      "Exodus 26:12"
+    ]
+  },
+  "Exodus 26:14": {
+    "title": "Two additional coverings",
+    "text": "A covering of ram skins dyed red and another covering of durable skins are made over the tent. These outer layers protect the tabernacle from the elements.",
+    "refs": [
+      "Exodus 25:5"
+    ]
+  },
+  "Exodus 26:15": {
+    "title": "Boards for the tabernacle",
+    "text": "The boards are made of acacia wood and stand upright. They form the structural framework that supports the curtains and coverings.",
+    "refs": [
+      "Exodus 26:18–25"
+    ]
+  },
+  "Exodus 26:16": {
+    "title": "The boards’ dimensions",
+    "text": "Each board has a specified length and width. The measurements ensure a consistent framework for the tabernacle.",
+    "refs": [
+      "Exodus 26:15"
+    ]
+  },
+  "Exodus 26:17": {
+    "title": "Two tenons on each board",
+    "text": "Each board has two tenons set in order, allowing it to fit into the supporting sockets. The construction details describe how the framework is assembled.",
+    "refs": [
+      "Exodus 26:19"
+    ]
+  },
+  "Exodus 26:18": {
+    "title": "Boards for the south side",
+    "text": "Twenty boards are assigned to the south side of the tabernacle. The structure is measured and assembled side by side according to the plan.",
+    "refs": [
+      "Exodus 26:20"
+    ]
+  },
+  "Exodus 26:19": {
+    "title": "Silver sockets beneath the boards",
+    "text": "Forty silver sockets are made for the twenty boards, two sockets beneath each board. The sockets support the upright boards securely.",
+    "refs": [
+      "Exodus 26:17"
+    ]
+  },
+  "Exodus 26:20": {
+    "title": "Boards for the north side",
+    "text": "Twenty boards are specified for the north side. The symmetry helps form a stable rectangular sanctuary.",
+    "refs": [
+      "Exodus 26:18"
+    ]
+  },
+  "Exodus 26:21": {
+    "title": "Forty silver sockets",
+    "text": "The north side also has forty silver sockets, two under each board. The repeated measurements make the two long sides structurally consistent.",
+    "refs": [
+      "Exodus 26:19"
+    ]
+  },
+  "Exodus 26:22": {
+    "title": "Boards for the west side",
+    "text": "Six boards are made for the west side of the tabernacle. The end wall uses a different number of boards because of the structure’s dimensions.",
+    "refs": [
+      "Exodus 26:23–25"
+    ]
+  },
+  "Exodus 26:23": {
+    "title": "Corner boards",
+    "text": "Two boards are made for the corners at the rear. The corner pieces help secure the shape of the framework.",
+    "refs": [
+      "Exodus 26:22"
+    ]
+  },
+  "Exodus 26:24": {
+    "title": "The corner boards are joined",
+    "text": "The corner boards are joined together from below and above by a ring. The precise arrangement reinforces the structure at its corners.",
+    "refs": [
+      "Exodus 26:23"
+    ]
+  },
+  "Exodus 26:25": {
+    "title": "Eight boards and sixteen sockets",
+    "text": "The west side has eight boards and sixteen silver sockets, two beneath each board. The verse completes the basic board-and-socket count for the framework.",
+    "refs": [
+      "Exodus 26:22–24"
+    ]
+  },
+  "Exodus 26:26": {
+    "title": "Bars of acacia wood",
+    "text": "Bars are made to hold the boards together. The bars strengthen the framework and keep the boards aligned.",
+    "refs": [
+      "Exodus 26:27–29"
+    ]
+  },
+  "Exodus 26:27": {
+    "title": "Bars for the west side",
+    "text": "Bars are specified for the west side and for the sides of the tabernacle. The arrangement gives lateral support to the upright boards.",
+    "refs": [
+      "Exodus 26:26"
+    ]
+  },
+  "Exodus 26:28": {
+    "title": "The middle bar runs through the boards",
+    "text": "The middle bar extends from end to end at the center of the boards. It helps bind the framework into a unified structure.",
+    "refs": [
+      "Exodus 26:26"
+    ]
+  },
+  "Exodus 26:29": {
+    "title": "Gold-covered boards and rings",
+    "text": "The boards and rings are overlaid with gold, and the bars are also overlaid with gold. The materials and workmanship follow the sacred pattern given to Moses.",
+    "refs": [
+      "Exodus 25:9"
+    ]
+  },
+  "Exodus 26:30": {
+    "title": "Set up the tabernacle by the pattern",
+    "text": "Moses must erect the tabernacle according to the pattern shown on the mountain. The repeated instruction stresses that worship is shaped by God’s direction, not simply human taste.",
+    "refs": [
+      "Exodus 25:40"
+    ]
+  },
+  "Exodus 26:31": {
+    "title": "The veil between holy places",
+    "text": "A veil of fine linen with blue, purple, scarlet, and cherubim is made to divide the holy place from the most holy. The veil marks a boundary within the sanctuary and regulates access.",
+    "refs": [
+      "Exodus 26:33",
+      "Hebrews 9:3"
+    ]
+  },
+  "Exodus 26:32": {
+    "title": "The veil’s pillars and sockets",
+    "text": "The veil hangs from four gold-covered acacia pillars set in silver sockets. The structure supports the barrier that divides the sanctuary spaces.",
+    "refs": [
+      "Exodus 26:31"
+    ]
+  },
+  "Exodus 26:33": {
+    "title": "The ark behind the veil",
+    "text": "The veil is hung beneath the clasps, and the ark of the testimony is placed behind it in the most holy place. The layout defines the innermost sanctuary where the covenant ark is kept.",
+    "refs": [
+      "Exodus 25:16–22",
+      "Hebrews 9:3–5"
+    ]
+  },
+  "Exodus 26:34": {
+    "title": "The mercy seat placed on the ark",
+    "text": "The mercy seat is set upon the ark of the testimony in the most holy place. The arrangement follows the instructions given in chapter 25.",
+    "refs": [
+      "Exodus 25:17–22"
+    ]
+  },
+  "Exodus 26:35": {
+    "title": "The table and lampstand outside the veil",
+    "text": "The table is placed on the north side and the lampstand opposite it on the south side, outside the veil. The furnishings are arranged according to the prescribed plan for the holy place.",
+    "refs": [
+      "Exodus 25:23–40"
+    ]
+  },
+  "Exodus 26:36": {
+    "title": "A screen for the tent entrance",
+    "text": "A screen of embroidered fabric is made for the tabernacle entrance. It distinguishes the entrance while matching the sanctuary’s colors and materials.",
+    "refs": [
+      "Exodus 26:1"
+    ]
+  },
+  "Exodus 26:37": {
+    "title": "Five pillars for the entrance screen",
+    "text": "Five acacia pillars are made for the screen and overlaid with gold, with bronze sockets. The entrance structure completes the tabernacle’s framework according to God’s instruction.",
+    "refs": [
+      "Exodus 27:16"
+    ]
   }
 };
