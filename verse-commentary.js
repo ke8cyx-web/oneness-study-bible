@@ -3867,5 +3867,491 @@ window.verseCommentary = {
     "title": "Esau’s marriages grieve his parents",
     "text": "Esau’s wives are a grief of mind to Isaac and Rebekah. The verse records family sorrow over the marriages. The issue belongs to this family’s covenant context and should be explained through the wider narrative rather than generalized as ethnic prejudice.",
     "refs": "Genesis 27:46; Genesis 28:1–2"
+  },
+  "Genesis 27:1": {
+    "title": "Isaac’s failing sight",
+    "text": "Isaac’s physical blindness frames the chapter’s theme of limited human perception. The account shows how family members act from incomplete understanding and competing desires.",
+    "refs": [
+      "Genesis 27:27–29"
+    ]
+  },
+  "Genesis 27:2": {
+    "title": "The uncertainty of life",
+    "text": "Isaac recognizes that his death may be near, but the narrative does not say that he knows the exact time. His concern leads him to arrange a blessing for Esau.",
+    "refs": [
+      "Genesis 27:27–29"
+    ]
+  },
+  "Genesis 27:3": {
+    "title": "Prepare the hunt",
+    "text": "Isaac asks Esau to hunt and prepare food. The request connects the family blessing with Isaac’s personal appetite and preference.",
+    "refs": [
+      "Genesis 25:27–28"
+    ]
+  },
+  "Genesis 27:4": {
+    "title": "A blessing requested",
+    "text": "Isaac intends to bless Esau before he dies. God’s earlier word to Rebekah had said that the elder would serve the younger, creating tension between the divine promise and the family’s plans.",
+    "refs": [
+      "Genesis 25:23"
+    ]
+  },
+  "Genesis 27:5": {
+    "title": "Rebekah overhears",
+    "text": "Rebekah hears Isaac’s plan and begins arranging for Jacob to receive the blessing. The text records her actions without presenting deception as a righteous example.",
+    "refs": [
+      "Genesis 25:23"
+    ]
+  },
+  "Genesis 27:6": {
+    "title": "Rebekah tells Jacob",
+    "text": "Rebekah repeats Isaac’s words to Jacob. Her knowledge of the promise does not make every method she chooses automatically approved by God.",
+    "refs": [
+      "Genesis 25:23"
+    ]
+  },
+  "Genesis 27:7": {
+    "title": "The words of the blessing",
+    "text": "Isaac’s intended blessing includes prosperity and family leadership. In this narrative, a patriarchal blessing carries serious weight within the family’s future.",
+    "refs": [
+      "Genesis 27:27–29"
+    ]
+  },
+  "Genesis 27:8": {
+    "title": "Obey my voice",
+    "text": "Rebekah directs Jacob to follow her instructions. The chapter shows how parental favoritism and manipulation have become deeply woven into this household.",
+    "refs": [
+      "Genesis 25:28"
+    ]
+  },
+  "Genesis 27:9": {
+    "title": "Two young goats",
+    "text": "Rebekah proposes using two goats to prepare food resembling Isaac’s favorite meal. The plan depends on disguising Jacob’s identity rather than speaking truthfully.",
+    "refs": [
+      "Genesis 27:14–17"
+    ]
+  },
+  "Genesis 27:10": {
+    "title": "Bring it to Isaac",
+    "text": "Rebekah intends for Jacob to present the food and receive the blessing. The story distinguishes the promised outcome from the dishonest means used to pursue it.",
+    "refs": [
+      "Genesis 27:18–29"
+    ]
+  },
+  "Genesis 27:11": {
+    "title": "Jacob names the problem",
+    "text": "Jacob points out that Esau is hairy and he is smooth. His concern is exposure, not a refusal to participate in the deception.",
+    "refs": [
+      "Genesis 27:15–16"
+    ]
+  },
+  "Genesis 27:12": {
+    "title": "Fear of being discovered",
+    "text": "Jacob worries that Isaac will recognize the deception and curse him instead of blessing him. His words reveal that he understands the moral and practical danger of the plan.",
+    "refs": [
+      "Genesis 27:21–24"
+    ]
+  },
+  "Genesis 27:13": {
+    "title": "Rebekah accepts the risk",
+    "text": "Rebekah says the curse should fall on her and again tells Jacob to obey. Her confidence does not remove the wrongness or consequences of deception.",
+    "refs": [
+      "Genesis 27:18–29"
+    ]
+  },
+  "Genesis 27:14": {
+    "title": "The plan is carried out",
+    "text": "Jacob brings the goats, and Rebekah prepares the food. The narrative reports the action plainly rather than asking readers to treat it as a model of faithful conduct.",
+    "refs": [
+      "Genesis 27:15–17"
+    ]
+  },
+  "Genesis 27:15": {
+    "title": "Esau’s clothing",
+    "text": "Rebekah dresses Jacob in Esau’s best garments. The disguise uses smell and touch as well as words to mislead Isaac.",
+    "refs": [
+      "Genesis 27:22–27"
+    ]
+  },
+  "Genesis 27:16": {
+    "title": "Goatskins as a disguise",
+    "text": "Rebekah covers Jacob’s hands and neck with goatskins. The elaborate disguise shows how deliberate the deception has become.",
+    "refs": [
+      "Genesis 27:21–23"
+    ]
+  },
+  "Genesis 27:17": {
+    "title": "Food and bread",
+    "text": "Rebekah gives Jacob the prepared meal. The meal becomes part of a false presentation intended to secure the blessing.",
+    "refs": [
+      "Genesis 27:18–29"
+    ]
+  },
+  "Genesis 27:18": {
+    "title": "Jacob approaches Isaac",
+    "text": "Jacob calls himself Isaac’s son and claims to be Esau. The false identification is central to the conflict that follows.",
+    "refs": [
+      "Genesis 27:19"
+    ]
+  },
+  "Genesis 27:19": {
+    "title": "A direct falsehood",
+    "text": "Jacob claims that he has done what Isaac asked and urges him to eat and bless him. The account does not conceal that Jacob lies to his father.",
+    "refs": [
+      "Genesis 27:18–24"
+    ]
+  },
+  "Genesis 27:20": {
+    "title": "Invoking the LORD",
+    "text": "When Isaac asks how the hunt succeeded so quickly, Jacob says the LORD brought it to him. Jacob uses God’s name to support a deceptive claim, a serious misuse of religious language.",
+    "refs": [
+      "Exodus 20:7"
+    ]
+  },
+  "Genesis 27:21": {
+    "title": "Isaac tests the voice",
+    "text": "Isaac asks Jacob to come near so he can feel him. Isaac senses uncertainty because the voice sounds like Jacob even though the disguise suggests Esau.",
+    "refs": [
+      "Genesis 27:22"
+    ]
+  },
+  "Genesis 27:22": {
+    "title": "Voice and hands",
+    "text": "Isaac identifies the voice as Jacob’s but the hands as Esau’s. The scene emphasizes the limits of relying on outward evidence alone.",
+    "refs": [
+      "1 Samuel 16:7"
+    ]
+  },
+  "Genesis 27:23": {
+    "title": "Isaac does not recognize him",
+    "text": "Isaac fails to identify Jacob because the hands feel hairy. The narrator makes clear that the deception succeeds through the disguise.",
+    "refs": [
+      "Genesis 27:15–16"
+    ]
+  },
+  "Genesis 27:24": {
+    "title": "The question of identity",
+    "text": "Isaac asks again whether Jacob is Esau, and Jacob answers falsely. Repeated questioning makes the deception more deliberate, not less serious.",
+    "refs": [
+      "Genesis 27:18–20"
+    ]
+  },
+  "Genesis 27:25": {
+    "title": "The meal is accepted",
+    "text": "Isaac eats and drinks what Jacob brings. The meal prepares the way for the blessing, while Isaac remains unaware of the true identity of the son before him.",
+    "refs": [
+      "Genesis 27:27–29"
+    ]
+  },
+  "Genesis 27:26": {
+    "title": "A kiss before the blessing",
+    "text": "Isaac asks Jacob to come near and kiss him. This ordinary family gesture also allows Isaac to smell the garments used in the disguise.",
+    "refs": [
+      "Genesis 27:27"
+    ]
+  },
+  "Genesis 27:27": {
+    "title": "The smell of the field",
+    "text": "Isaac smells Esau’s garments and believes the disguise. The field imagery introduces the blessing’s agricultural abundance and echoes Esau’s outdoor life.",
+    "refs": [
+      "Genesis 27:28–29"
+    ]
+  },
+  "Genesis 27:28": {
+    "title": "Dew, earth, grain, and wine",
+    "text": "Isaac blesses Jacob with agricultural plenty. These words describe material prosperity in the covenant setting; they are not a guarantee that every faithful person will be wealthy.",
+    "refs": [
+      "Deuteronomy 7:13"
+    ]
+  },
+  "Genesis 27:29": {
+    "title": "Rule and family blessing",
+    "text": "Isaac’s words place Jacob in a position of authority among peoples and his brothers. The blessing echoes God’s earlier promise concerning Abraham’s family, yet the deception in this chapter remains part of the story’s painful human setting.",
+    "refs": [
+      "Genesis 12:3",
+      "Genesis 25:23"
+    ]
+  },
+  "Genesis 27:30": {
+    "title": "Jacob leaves; Esau arrives",
+    "text": "Jacob has scarcely left when Esau returns. The close timing exposes the deception and brings its consequences into the open.",
+    "refs": [
+      "Genesis 27:31–35"
+    ]
+  },
+  "Genesis 27:31": {
+    "title": "Esau brings his meal",
+    "text": "Esau prepares food and asks his father to eat and bless him. He expects to receive the blessing Isaac had promised him.",
+    "refs": [
+      "Genesis 27:4"
+    ]
+  },
+  "Genesis 27:32": {
+    "title": "Isaac asks who he is",
+    "text": "Isaac asks Esau to identify himself. The question reveals that the father now recognizes the grave mistake made through the disguise.",
+    "refs": [
+      "Genesis 27:18–24"
+    ]
+  },
+  "Genesis 27:33": {
+    "title": "Isaac trembles greatly",
+    "text": "Isaac reacts with intense trembling when he realizes what happened. He says Jacob has received the blessing and does not simply repeat the ceremony for Esau.",
+    "refs": [
+      "Hebrews 11:20"
+    ]
+  },
+  "Genesis 27:34": {
+    "title": "Esau cries out",
+    "text": "Esau responds with a great and bitter cry and begs for a blessing. The scene records the anguish caused by the family’s rivalry and deception.",
+    "refs": [
+      "Genesis 27:38"
+    ]
+  },
+  "Genesis 27:35": {
+    "title": "The deceit is named",
+    "text": "Isaac says Jacob came with deceit and took the blessing. The biblical account openly names the deception rather than excusing it.",
+    "refs": [
+      "Genesis 27:18–24"
+    ]
+  },
+  "Genesis 27:36": {
+    "title": "Esau’s accusation",
+    "text": "Esau points to Jacob’s name and earlier actions as evidence of rivalry. The chapter presents a fractured family in which each person has contributed to the conflict.",
+    "refs": [
+      "Genesis 25:29–34"
+    ]
+  },
+  "Genesis 27:37": {
+    "title": "The blessing cannot simply be repeated",
+    "text": "Isaac explains that Jacob has been set over Esau and asks what remains to give him. The text portrays the blessing as consequential and binding within this family’s world.",
+    "refs": [
+      "Genesis 27:28–29"
+    ]
+  },
+  "Genesis 27:38": {
+    "title": "Esau weeps for a blessing",
+    "text": "Esau asks whether Isaac has only one blessing and weeps aloud. His grief is real, though the earlier account also describes his disregard for his birthright.",
+    "refs": [
+      "Genesis 25:29–34",
+      "Hebrews 12:16–17"
+    ]
+  },
+  "Genesis 27:39": {
+    "title": "A different future foretold",
+    "text": "Isaac’s words describe a life marked by the earth’s resources and the sword. This is a prophetic description of Esau’s line, not a general teaching that violence is righteous.",
+    "refs": [
+      "Genesis 36:1–8"
+    ]
+  },
+  "Genesis 27:40": {
+    "title": "Serving and breaking free",
+    "text": "Isaac says Esau will serve his brother but eventually break his yoke. The verse anticipates conflict and shifting political relationships between their descendants.",
+    "refs": [
+      "2 Kings 8:20–22"
+    ]
+  },
+  "Genesis 27:41": {
+    "title": "Esau’s hatred",
+    "text": "Esau resolves to kill Jacob after Isaac dies. His bitterness shows how the stolen blessing deepens the family’s danger rather than bringing peace.",
+    "refs": [
+      "Genesis 4:5–8"
+    ]
+  },
+  "Genesis 27:42": {
+    "title": "Rebekah hears the threat",
+    "text": "Rebekah learns of Esau’s plan and sends for Jacob. The deception now has immediate consequences for Jacob’s safety and the family’s future.",
+    "refs": [
+      "Genesis 27:43–45"
+    ]
+  },
+  "Genesis 27:43": {
+    "title": "Flee to Laban",
+    "text": "Rebekah tells Jacob to flee to her brother Laban in Haran. Jacob must leave the household and the land because of the conflict his actions helped create.",
+    "refs": [
+      "Genesis 28:1–5"
+    ]
+  },
+  "Genesis 27:44": {
+    "title": "Stay a little while",
+    "text": "Rebekah expects Jacob to remain with Laban briefly until Esau’s anger subsides. The following events show that this separation lasts far longer than the plan suggests.",
+    "refs": [
+      "Genesis 31:38–41"
+    ]
+  },
+  "Genesis 27:45": {
+    "title": "Rebekah fears losing both sons",
+    "text": "Rebekah fears that Esau may kill Jacob and that she could lose both sons in one day. The chapter closes this part of the story with grief and fear rather than triumph.",
+    "refs": [
+      "Genesis 27:41–43"
+    ]
+  },
+  "Genesis 27:46": {
+    "title": "A reason given to Isaac",
+    "text": "Rebekah complains about the Hittite women and says Jacob’s marriage to one would make life unbearable. This prepares the way for Isaac to send Jacob to find a wife among their relatives.",
+    "refs": [
+      "Genesis 26:34–35",
+      "Genesis 28:1–2"
+    ]
+  },
+  "Genesis 28:1": {
+    "title": "Isaac blesses Jacob openly",
+    "text": "Isaac now knowingly blesses Jacob and commands him not to marry a Canaanite woman. The blessing is no longer obtained through disguise; Isaac deliberately sends Jacob forward.",
+    "refs": [
+      "Genesis 27:27–29"
+    ]
+  },
+  "Genesis 28:2": {
+    "title": "Go to Padan-aram",
+    "text": "Isaac directs Jacob to Bethuel’s family and to take a wife from Laban’s daughters. The instruction continues the family’s concern that marriage should remain within their kinship and covenant setting.",
+    "refs": [
+      "Genesis 24:3–4"
+    ]
+  },
+  "Genesis 28:3": {
+    "title": "God Almighty bless thee",
+    "text": "Isaac invokes God Almighty, El Shaddai, asking for fruitfulness and a multitude of descendants. The language recalls the covenant blessing given to Abraham and Isaac.",
+    "refs": [
+      "Genesis 17:1–6",
+      "Genesis 26:3–4"
+    ]
+  },
+  "Genesis 28:4": {
+    "title": "The blessing of Abraham",
+    "text": "Isaac asks that Jacob receive Abraham’s blessing and possess the land where he is a stranger. The covenant promise continues through Jacob’s line because of God’s purpose, not because Jacob’s deception was itself righteous.",
+    "refs": [
+      "Genesis 12:1–3",
+      "Genesis 17:7–8"
+    ]
+  },
+  "Genesis 28:5": {
+    "title": "Jacob departs for Haran",
+    "text": "Jacob leaves for Padan-aram and Laban. The family history moves into a new stage in which Jacob will experience deception and hardship himself.",
+    "refs": [
+      "Genesis 29:20–27"
+    ]
+  },
+  "Genesis 28:6": {
+    "title": "Esau observes the marriage decision",
+    "text": "Esau sees that Isaac has blessed Jacob and sent him away to find a wife from their relatives. He recognizes that his parents disapprove of Canaanite marriages.",
+    "refs": [
+      "Genesis 26:34–35"
+    ]
+  },
+  "Genesis 28:7": {
+    "title": "Jacob obeys his parents",
+    "text": "Jacob follows Isaac and Rebekah’s instruction and travels toward Padan-aram. This contrasts with the earlier deception: in this matter he acts in accordance with their stated direction.",
+    "refs": [
+      "Genesis 28:1–5"
+    ]
+  },
+  "Genesis 28:8": {
+    "title": "Esau understands his parents’ displeasure",
+    "text": "Esau realizes that the Canaanite women are displeasing to Isaac. The verse describes his recognition of family expectations, not necessarily a full change of heart.",
+    "refs": [
+      "Genesis 26:34–35"
+    ]
+  },
+  "Genesis 28:9": {
+    "title": "Esau marries into Ishmael’s family",
+    "text": "Esau takes another wife from Ishmael’s family. The text reports the choice as a response to the family situation, but does not say it reverses the earlier conflict or restores the birthright.",
+    "refs": [
+      "Genesis 25:12–18",
+      "Genesis 27:36"
+    ]
+  },
+  "Genesis 28:10": {
+    "title": "Jacob leaves Beersheba",
+    "text": "Jacob travels from Beersheba toward Haran. His journey begins a period of vulnerability away from home, during which God will reaffirm the covenant promise.",
+    "refs": [
+      "Genesis 28:15"
+    ]
+  },
+  "Genesis 28:11": {
+    "title": "A stone for a pillow",
+    "text": "Jacob stops for the night, uses a stone for a pillow, and lies down. The simple setting underscores that this revelation comes to a traveler without outward grandeur.",
+    "refs": [
+      "Genesis 28:16–17"
+    ]
+  },
+  "Genesis 28:12": {
+    "title": "The ladder and the angels",
+    "text": "Jacob dreams of a ladder or stairway reaching from earth to heaven, with angels ascending and descending. The image portrays communication between heaven and earth under God’s authority; it does not by itself define multiple divine persons.",
+    "refs": [
+      "John 1:51"
+    ]
+  },
+  "Genesis 28:13": {
+    "title": "The LORD identifies Himself",
+    "text": "The LORD stands above or beside the scene and identifies Himself as the God of Abraham and Isaac. The speaker claims the covenant identity and promises the land to Jacob and his descendants.",
+    "refs": [
+      "Exodus 3:6",
+      "Genesis 26:3–4"
+    ]
+  },
+  "Genesis 28:14": {
+    "title": "Descendants and blessing to the nations",
+    "text": "God promises Jacob descendants like the dust of the earth and says all families of the earth will be blessed through him and his seed. The promise continues the covenant first given to Abraham and later understood in the wider biblical story as reaching the nations through Christ.",
+    "refs": [
+      "Genesis 12:3",
+      "Galatians 3:8, 16"
+    ]
+  },
+  "Genesis 28:15": {
+    "title": "God promises His presence",
+    "text": "God promises to be with Jacob, keep him wherever he goes, bring him back to the land, and not leave him until His word is fulfilled. The assurance rests on God’s faithfulness, not Jacob’s perfection.",
+    "refs": [
+      "Deuteronomy 31:6",
+      "Hebrews 13:5"
+    ]
+  },
+  "Genesis 28:16": {
+    "title": "The LORD was in this place",
+    "text": "Jacob awakens and recognizes that the LORD was present though he had not realized it. The verse emphasizes God’s presence and Jacob’s newly awakened awareness, not that God had been absent before the dream.",
+    "refs": [
+      "Psalm 139:7–10"
+    ]
+  },
+  "Genesis 28:17": {
+    "title": "The house of God and gate of heaven",
+    "text": "Jacob responds with awe and calls the place dreadful in the sense of awesome or fear-inspiring. His description reflects the holiness of the encounter and the significance of God’s revelation.",
+    "refs": [
+      "Exodus 3:5"
+    ]
+  },
+  "Genesis 28:18": {
+    "title": "The stone becomes a pillar",
+    "text": "Jacob sets up the stone as a memorial and pours oil on it. The act marks the place where he received the promise; the verse does not establish a general command to worship stones or objects.",
+    "refs": [
+      "Genesis 31:13"
+    ]
+  },
+  "Genesis 28:19": {
+    "title": "Bethel, the house of God",
+    "text": "Jacob names the place Bethel, though it had formerly been called Luz. The name preserves the memory of the encounter and the promise given there.",
+    "refs": [
+      "Genesis 35:6–7"
+    ]
+  },
+  "Genesis 28:20": {
+    "title": "Jacob makes a vow",
+    "text": "Jacob vows that if God will be with him, keep him, provide food and clothing, and bring him home safely, the LORD will be his God. The wording reflects Jacob’s developing faith and should be read alongside God’s prior promise in verse 15.",
+    "refs": [
+      "Genesis 28:15"
+    ]
+  },
+  "Genesis 28:21": {
+    "title": "The LORD will be my God",
+    "text": "Jacob connects safe return with his commitment to the LORD. His vow shows a response to God’s revelation, though the passage does not require readers to conclude that God’s covenant promise depended on Jacob bargaining for it.",
+    "refs": [
+      "Genesis 28:13–15"
+    ]
+  },
+  "Genesis 28:22": {
+    "title": "A pillar and a tenth",
+    "text": "Jacob declares that the stone will be God’s house and promises to give God a tenth of what He provides. This is Jacob’s personal vow in the narrative; later biblical teaching about giving should be studied in its own covenant context.",
+    "refs": [
+      "Genesis 14:20",
+      "Leviticus 27:30"
+    ]
   }
 };
