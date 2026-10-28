@@ -16694,5 +16694,432 @@ window.verseCommentary = {
       "Exodus 32:4",
       "Numbers 11:33"
     ]
+  },
+  "Exodus 33:1": {
+    "title": "Continue toward the promised land",
+    "text": "The LORD tells Moses to depart with the people toward the land promised to Abraham, Isaac, and Jacob. Despite Israel’s sin, God’s covenant purpose for the journey has not disappeared.",
+    "refs": [
+      "Genesis 12:7",
+      "Exodus 32:34"
+    ]
+  },
+  "Exodus 33:2": {
+    "title": "God will send an angel before Israel",
+    "text": "God says He will send an angel before Israel and drive out the peoples of Canaan. The promise of guidance continues, though the next verses reveal a serious question about God’s presence among the people.",
+    "refs": [
+      "Exodus 23:20–23"
+    ]
+  },
+  "Exodus 33:3": {
+    "title": "A warning about God’s presence",
+    "text": "God calls the people stiff-necked and says He will not go up in their midst lest He consume them on the way. The warning shows the seriousness of Israel’s sin and the tension between God’s holiness and a rebellious people.",
+    "refs": [
+      "Exodus 32:9–10"
+    ]
+  },
+  "Exodus 33:4": {
+    "title": "The people mourn",
+    "text": "When the people hear the bad news, they mourn and remove their ornaments. Their response reflects grief and the seriousness of the threatened loss of God’s presence.",
+    "refs": [
+      "Exodus 32:1–6"
+    ]
+  },
+  "Exodus 33:5": {
+    "title": "Remove the ornaments",
+    "text": "The LORD tells Israel to remove their ornaments while He considers what to do with them. The instruction calls for humility rather than celebration after the golden calf incident.",
+    "refs": [
+      "Exodus 32:2–4"
+    ]
+  },
+  "Exodus 33:6": {
+    "title": "Israel leaves its ornaments at Horeb",
+    "text": "The people strip themselves of ornaments from Mount Horeb onward. The action marks a visible response to God’s rebuke and the gravity of their covenant failure.",
+    "refs": [
+      "Exodus 33:4–5"
+    ]
+  },
+  "Exodus 33:7": {
+    "title": "The tent outside the camp",
+    "text": "Moses takes a tent and pitches it outside the camp, calling it the tent of meeting. Those seeking the LORD go out to this tent, a sign of the distance created by the people’s sin and the continuing opportunity to seek God.",
+    "refs": [
+      "Exodus 25:8",
+      "Exodus 29:42–43"
+    ]
+  },
+  "Exodus 33:8": {
+    "title": "The people stand at their tent doors",
+    "text": "When Moses goes out to the tent, the people rise and stand at their own tent doors, watching him. Their posture shows that they recognize the importance of Moses’ meeting with the LORD.",
+    "refs": [
+      "Exodus 33:9"
+    ]
+  },
+  "Exodus 33:9": {
+    "title": "The pillar of cloud descends",
+    "text": "When Moses enters the tent, the pillar of cloud descends and stands at its entrance, and the LORD speaks with Moses. The cloud is a visible sign of God’s presence and communication, not a limit on God’s being.",
+    "refs": [
+      "Exodus 13:21–22",
+      "Numbers 12:5–8"
+    ]
+  },
+  "Exodus 33:10": {
+    "title": "The people worship at their tent doors",
+    "text": "When the people see the pillar of cloud, they stand and worship at their tent doors. The visible sign prompts reverence as Moses speaks with God.",
+    "refs": [
+      "Exodus 33:9"
+    ]
+  },
+  "Exodus 33:11": {
+    "title": "The LORD speaks to Moses face to face",
+    "text": "The LORD speaks with Moses face to face, as a man speaks to his friend, and Joshua remains in the tent. The phrase describes direct, personal communication in contrast to riddles or distant reports; it does not mean Moses comprehended the full essence of the infinite God.",
+    "refs": [
+      "Numbers 12:6–8",
+      "Deuteronomy 34:10"
+    ]
+  },
+  "Exodus 33:12": {
+    "title": "Moses asks whom God will send",
+    "text": "Moses reminds the LORD that He has told him to lead the people but has not fully disclosed whom He will send with him. Moses appeals to the relationship and favor God has shown him as he seeks clarity for the mission.",
+    "refs": [
+      "Exodus 3:12"
+    ]
+  },
+  "Exodus 33:13": {
+    "title": "Show me Your way",
+    "text": "Moses asks God to show him His way so he may know Him and find favor, and to remember that Israel is God’s people. The request seeks deeper knowledge of God’s character and guidance for leading the people.",
+    "refs": [
+      "Psalm 25:4–5"
+    ]
+  },
+  "Exodus 33:14": {
+    "title": "My presence shall go with thee",
+    "text": "God promises, “My presence shall go with thee, and I will give thee rest.” The answer directly addresses Moses’ concern: the mission depends on God’s own presence, not merely an angelic escort.",
+    "refs": [
+      "Deuteronomy 4:37",
+      "Matthew 28:20"
+    ]
+  },
+  "Exodus 33:15": {
+    "title": "Moses will not go without God’s presence",
+    "text": "Moses says that if God’s presence does not go with them, he does not want them to leave that place. Israel’s distinction among the nations depends on God’s presence, not simply on territory or military success.",
+    "refs": [
+      "Exodus 33:16"
+    ]
+  },
+  "Exodus 33:16": {
+    "title": "God’s presence distinguishes Israel",
+    "text": "Moses asks how anyone will know that he and the people have found favor unless God goes with them. The LORD’s presence, not Israel’s own greatness, marks them as His people.",
+    "refs": [
+      "Deuteronomy 4:7–8"
+    ]
+  },
+  "Exodus 33:17": {
+    "title": "God grants Moses’ request",
+    "text": "The LORD says He will do what Moses has asked because Moses has found favor and is known by name. The language describes a personal relationship and God’s gracious response to Moses’ intercession.",
+    "refs": [
+      "Exodus 33:12–14"
+    ]
+  },
+  "Exodus 33:18": {
+    "title": "Moses asks to see God’s glory",
+    "text": "Moses asks the LORD to show him His glory. The request seeks a fuller revelation of God’s presence and character, and the following verses explain both what God will reveal and what Moses cannot see.",
+    "refs": [
+      "Exodus 24:16–17"
+    ]
+  },
+  "Exodus 33:19": {
+    "title": "God proclaims His goodness and mercy",
+    "text": "God promises to make His goodness pass before Moses and proclaim His name, showing mercy and compassion according to His sovereign will. The verse connects God’s glory with His character and graciousness, not merely a visible appearance.",
+    "refs": [
+      "Exodus 34:5–7",
+      "Romans 9:15"
+    ]
+  },
+  "Exodus 33:20": {
+    "title": "No one sees God’s face and lives",
+    "text": "God says Moses cannot see His face, for no man can see Him and live. This qualifies the earlier “face to face” language as personal communication rather than a complete vision of God’s unveiled essence.",
+    "refs": [
+      "Exodus 33:11",
+      "John 1:18",
+      "1 Timothy 6:16"
+    ]
+  },
+  "Exodus 33:21": {
+    "title": "A place beside God",
+    "text": "God tells Moses there is a place beside Him where Moses can stand on the rock. The text describes a special provision for the revelation that follows.",
+    "refs": [
+      "Exodus 33:22"
+    ]
+  },
+  "Exodus 33:22": {
+    "title": "God covers Moses in the cleft",
+    "text": "When God’s glory passes, He will put Moses in a cleft of the rock and cover him with His hand until He has passed by. The language describes protective accommodation for a limited human witness to divine glory.",
+    "refs": [
+      "Exodus 34:5–6"
+    ]
+  },
+  "Exodus 33:23": {
+    "title": "Moses sees God’s back",
+    "text": "God removes His hand and Moses sees His back, but not His face. The passage uses human imagery to describe a limited manifestation; it does not provide a literal anatomy of God or cancel the Bible’s teaching that God is Spirit.",
+    "refs": [
+      "John 4:24",
+      "John 1:18"
+    ]
+  },
+  "Exodus 34:1": {
+    "title": "New stone tablets",
+    "text": "The LORD tells Moses to hew two stone tablets like the first, promising to write on them the words that were on the broken tablets. The covenant words remain central even after Israel’s grave sin.",
+    "refs": [
+      "Exodus 32:19",
+      "Deuteronomy 10:1–4"
+    ]
+  },
+  "Exodus 34:2": {
+    "title": "Come up in the morning",
+    "text": "Moses is told to be ready in the morning and come up Mount Sinai to stand before God. The new meeting follows the covenant crisis and God’s response to Moses’ intercession.",
+    "refs": [
+      "Exodus 33:18–23"
+    ]
+  },
+  "Exodus 34:3": {
+    "title": "No one else may ascend",
+    "text": "No person is to come up with Moses, and no livestock may graze near the mountain. The restrictions preserve the boundary around this special encounter with God.",
+    "refs": [
+      "Exodus 19:12–13"
+    ]
+  },
+  "Exodus 34:4": {
+    "title": "Moses obeys and ascends",
+    "text": "Moses hews two stone tablets and rises early to ascend Sinai as the LORD commanded. His action prepares for the renewal of the covenant words.",
+    "refs": [
+      "Exodus 34:1–2"
+    ]
+  },
+  "Exodus 34:5": {
+    "title": "The LORD descends in the cloud",
+    "text": "The LORD descends in the cloud, stands with Moses, and proclaims the name of the LORD. The focus is on God revealing His name and character after the people’s idolatry.",
+    "refs": [
+      "Exodus 3:14–15",
+      "Exodus 33:19"
+    ]
+  },
+  "Exodus 34:6": {
+    "title": "The LORD is merciful and gracious",
+    "text": "The LORD proclaims Himself merciful, gracious, longsuffering, abundant in goodness and truth. God’s own description of His character becomes a foundational declaration repeated throughout Scripture.",
+    "refs": [
+      "Numbers 14:18",
+      "Psalm 103:8",
+      "Joel 2:13"
+    ]
+  },
+  "Exodus 34:7": {
+    "title": "Mercy, forgiveness, and justice",
+    "text": "God continues by declaring mercy to thousands, forgiving iniquity, transgression, and sin, yet not simply clearing the guilty and visiting the consequences of iniquity across generations. The verse holds together divine compassion and moral seriousness; it should be read with the wider biblical teaching about personal responsibility and repentance.",
+    "refs": [
+      "Deuteronomy 24:16",
+      "Ezekiel 18:20",
+      "Nahum 1:3"
+    ]
+  },
+  "Exodus 34:8": {
+    "title": "Moses bows in worship",
+    "text": "Moses quickly bows his head and worships after hearing God’s name and character proclaimed. Revelation of who God is leads Moses to reverence.",
+    "refs": [
+      "Exodus 4:31"
+    ]
+  },
+  "Exodus 34:9": {
+    "title": "Moses asks God to go among Israel",
+    "text": "Moses asks the LORD to go among the people, even though they are stiff-necked, and to pardon their sin and take them as His inheritance. The prayer appeals to God’s mercy and covenant relationship after Israel’s failure.",
+    "refs": [
+      "Exodus 33:14–16"
+    ]
+  },
+  "Exodus 34:10": {
+    "title": "God renews the covenant",
+    "text": "God declares that He will make a covenant and do wonders unlike those seen among the nations. Israel will witness the LORD’s work, and the surrounding peoples will see His power.",
+    "refs": [
+      "Deuteronomy 4:32–35"
+    ]
+  },
+  "Exodus 34:11": {
+    "title": "Obey God’s commands in the land",
+    "text": "Israel is commanded to observe what God commands, and He promises to drive out the peoples of the land. The promise is joined to obedience within the covenant arrangement.",
+    "refs": [
+      "Exodus 23:20–31"
+    ]
+  },
+  "Exodus 34:12": {
+    "title": "Do not make a covenant with the inhabitants",
+    "text": "Israel must take care not to make a covenant with the peoples of the land, lest their practices become a snare. The warning concerns covenant loyalty and the danger of being drawn into idolatry.",
+    "refs": [
+      "Deuteronomy 7:2–4"
+    ]
+  },
+  "Exodus 34:13": {
+    "title": "Destroy idolatrous objects",
+    "text": "Israel is commanded to break down altars, images, and sacred pillars associated with the land’s worship. The instruction is specific to Israel’s covenant entry into Canaan and its prohibition of idolatry; it is not a general mandate for modern believers to destroy other people’s property.",
+    "refs": [
+      "Deuteronomy 12:2–4"
+    ]
+  },
+  "Exodus 34:14": {
+    "title": "The LORD is jealous for His name",
+    "text": "God says Israel must not worship another god, for the LORD is jealous and is named Jealous. The language expresses exclusive covenant loyalty: Israel is not to divide worship between the LORD and idols.",
+    "refs": [
+      "Exodus 20:3–5",
+      "Deuteronomy 6:4–5"
+    ]
+  },
+  "Exodus 34:15": {
+    "title": "Idolatry and covenant compromise",
+    "text": "God warns against making a covenant with the inhabitants who sacrifice to their gods and invite Israel to join. The danger is that social and religious participation will lead Israel away from the LORD.",
+    "refs": [
+      "Numbers 25:1–3"
+    ]
+  },
+  "Exodus 34:16": {
+    "title": "Marriage and idolatrous influence",
+    "text": "The warning continues that intermarriage may lead Israel’s sons to worship other gods. In context, the concern is covenant apostasy and idolatry; the verse should not be detached from that setting to justify contempt for people of another ethnicity.",
+    "refs": [
+      "Deuteronomy 7:3–4"
+    ]
+  },
+  "Exodus 34:17": {
+    "title": "Do not make molten gods",
+    "text": "Israel is again forbidden to make molten gods. The repetition after the golden calf incident directly addresses the sin that nearly destroyed the covenant relationship.",
+    "refs": [
+      "Exodus 32:4"
+    ]
+  },
+  "Exodus 34:18": {
+    "title": "Keep the Feast of Unleavened Bread",
+    "text": "Israel must keep the Feast of Unleavened Bread at the appointed time in Abib, remembering the exodus. The feast remains tied to the deliverance by which God brought Israel out of Egypt.",
+    "refs": [
+      "Exodus 12:14–20"
+    ]
+  },
+  "Exodus 34:19": {
+    "title": "The firstborn belongs to God",
+    "text": "God claims all that opens the womb, including the firstborn male livestock. The instruction recalls the firstborn ordinance established after the final plague.",
+    "refs": [
+      "Exodus 13:1–2"
+    ]
+  },
+  "Exodus 34:20": {
+    "title": "Redeem the firstborn and appear before God",
+    "text": "A firstborn donkey may be redeemed with a lamb or its neck broken, and firstborn sons must be redeemed; none is to appear before God empty-handed. The command combines the firstborn ordinance with the obligation to bring offerings in worship.",
+    "refs": [
+      "Exodus 13:13",
+      "Exodus 23:15"
+    ]
+  },
+  "Exodus 34:21": {
+    "title": "Sabbath during planting and harvest",
+    "text": "Israel must rest on the seventh day even during plowing time and harvest. The Sabbath is not to be set aside simply because work is urgent or seasonal.",
+    "refs": [
+      "Exodus 20:8–11"
+    ]
+  },
+  "Exodus 34:22": {
+    "title": "The Feast of Weeks and Ingathering",
+    "text": "Israel is to observe the Feast of Weeks at the firstfruits of wheat harvest and the Feast of Ingathering at year’s end. The feasts mark gratitude for God’s provision through the agricultural year.",
+    "refs": [
+      "Leviticus 23:15–22",
+      "Deuteronomy 16:9–15"
+    ]
+  },
+  "Exodus 34:23": {
+    "title": "All males appear before the LORD",
+    "text": "Three times a year all males are to appear before the Lord GOD, the God of Israel. The command emphasizes regular communal worship before the covenant God.",
+    "refs": [
+      "Exodus 23:17"
+    ]
+  },
+  "Exodus 34:24": {
+    "title": "God protects Israel’s land during the feasts",
+    "text": "God promises to drive out nations and enlarge Israel’s borders so no one will covet the land while the men appear before Him three times a year. The promise addresses the practical concern that pilgrimage might leave the land vulnerable.",
+    "refs": [
+      "Deuteronomy 16:16"
+    ]
+  },
+  "Exodus 34:25": {
+    "title": "Sacrificial blood and Passover leftovers",
+    "text": "The blood of sacrifice is not to be offered with leaven, and the Passover sacrifice must not remain until morning. The instruction preserves the distinct requirements of Israel’s sacred meals and offerings.",
+    "refs": [
+      "Exodus 12:10",
+      "Exodus 23:18"
+    ]
+  },
+  "Exodus 34:26": {
+    "title": "Firstfruits and a prohibition about a kid",
+    "text": "Israel is to bring the first of the firstfruits to the LORD’s house, and the verse repeats the command not to boil a kid in its mother’s milk. The firstfruits express gratitude to God; the text does not explain the precise reason for the latter prohibition, so proposed explanations should be treated as interpretations.",
+    "refs": [
+      "Exodus 23:19",
+      "Deuteronomy 26:1–11"
+    ]
+  },
+  "Exodus 34:27": {
+    "title": "Write the covenant words",
+    "text": "The LORD tells Moses to write these words because according to them He has made a covenant with Israel. The written words preserve the covenant requirements for the community.",
+    "refs": [
+      "Exodus 24:4",
+      "Deuteronomy 31:24–26"
+    ]
+  },
+  "Exodus 34:28": {
+    "title": "Forty days and nights with the LORD",
+    "text": "Moses remains with the LORD forty days and nights without eating bread or drinking water, and he writes the covenant words on the tablets. Deuteronomy 9:9–10 also describes this period; the passage emphasizes the extraordinary nature of Moses’ encounter and the divine origin of the covenant testimony.",
+    "refs": [
+      "Deuteronomy 9:9–11"
+    ]
+  },
+  "Exodus 34:29": {
+    "title": "Moses’ face shines",
+    "text": "When Moses descends with the tablets, he does not know that the skin of his face shines because he has spoken with God. The visible radiance marks the encounter with the LORD and is later discussed by Paul in relation to the old covenant’s glory.",
+    "refs": [
+      "2 Corinthians 3:7–13"
+    ]
+  },
+  "Exodus 34:30": {
+    "title": "Aaron and Israel fear Moses’ face",
+    "text": "Aaron and the people are afraid to approach Moses when they see the radiance of his face. Their reaction shows the visible effect of Moses’ encounter with God.",
+    "refs": [
+      "Exodus 34:29"
+    ]
+  },
+  "Exodus 34:31": {
+    "title": "Moses calls the leaders back",
+    "text": "Moses calls Aaron and the congregation’s rulers, who return to him, and he speaks with them. The leaders receive the message before Moses addresses the whole community.",
+    "refs": [
+      "Exodus 34:32"
+    ]
+  },
+  "Exodus 34:32": {
+    "title": "Moses gives the commandments",
+    "text": "Afterward the people come near, and Moses gives them all that the LORD has spoken on Sinai. The revelation is communicated to the community so they can live according to the covenant.",
+    "refs": [
+      "Exodus 24:3"
+    ]
+  },
+  "Exodus 34:33": {
+    "title": "Moses puts a veil on his face",
+    "text": "When Moses finishes speaking, he puts a veil over his face. The veil becomes a significant image in Paul’s later discussion of the glory and limitations of the old covenant, but its immediate function here is to cover the radiance.",
+    "refs": [
+      "2 Corinthians 3:13"
+    ]
+  },
+  "Exodus 34:34": {
+    "title": "Moses removes the veil before the LORD",
+    "text": "When Moses enters before the LORD to speak with Him, he removes the veil; when he comes out, he tells Israel what he has been commanded. The pattern distinguishes his direct meeting with God from his public delivery of the message.",
+    "refs": [
+      "Exodus 33:11"
+    ]
+  },
+  "Exodus 34:35": {
+    "title": "Israel sees the shining face",
+    "text": "Israel sees the skin of Moses’ face shining, and Moses covers his face again until he goes in to speak with the LORD. The chapter ends with Moses serving as the mediator who receives God’s words and brings them to the people.",
+    "refs": [
+      "Exodus 34:29–34"
+    ]
   }
 };
