@@ -1147,5 +1147,115 @@ window.verseCommentary = {
     "title": "The waters prevail one hundred and fifty days",
     "text": "The waters prevail for one hundred and fifty days. This duration is distinct from the forty days of rain mentioned earlier: the rain period and the period the waters prevailed are not identical descriptions. The chronology continues into Genesis 8.",
     "refs": "Genesis 7:12; Genesis 8:3–4"
+  },
+  "Genesis 8:1": {
+    "title": "God remembers Noah",
+    "text": "“Remembered” describes God turning to act on behalf of Noah and the creatures; it does not mean God had literally forgotten them. God sends a wind over the earth and the waters begin to recede. The verse emphasizes divine care after judgment.",
+    "refs": "Genesis 19:29; Exodus 2:24"
+  },
+  "Genesis 8:2": {
+    "title": "The waters are restrained",
+    "text": "The sources of the floodwaters are stopped and the rain ceases. The account portrays the same God who brought judgment as bringing it to an end. The language echoes the earlier description of the waters in Genesis 7.",
+    "refs": "Genesis 7:11–12; Genesis 7:17"
+  },
+  "Genesis 8:3": {
+    "title": "The waters return",
+    "text": "The waters gradually recede after the one hundred and fifty days described earlier. The narrative distinguishes the flood’s rise from the lengthy process of its retreat. The text asks the reader to follow the sequence rather than collapse all time markers into one period.",
+    "refs": "Genesis 7:24; Genesis 8:4"
+  },
+  "Genesis 8:4": {
+    "title": "The ark rests",
+    "text": "The ark rests on the mountains of Ararat in the seventh month. The verse supplies a location and date within the story; it does not identify a precise modern landing site. God’s preservation of Noah’s household continues through this stage.",
+    "refs": "Genesis 7:17–18"
+  },
+  "Genesis 8:5": {
+    "title": "Mountain tops appear",
+    "text": "The waters continue to decrease until mountain tops become visible. The gradual change reinforces the long process of returning land to view. The following verses describe Noah’s attempts to learn whether the land is ready.",
+    "refs": "Genesis 8:4; Genesis 8:6"
+  },
+  "Genesis 8:6": {
+    "title": "Noah opens the window",
+    "text": "After forty days, Noah opens the window he had made in the ark. The detail shows Noah observing conditions and acting patiently within the situation. The verse does not specify that the forty days are counted from the beginning of the flood.",
+    "refs": "Genesis 6:16; Genesis 8:10"
+  },
+  "Genesis 8:7": {
+    "title": "The raven",
+    "text": "Noah sends a raven, which goes to and fro until the waters dry up. The verse gives the first of two bird tests; the next verses explain the dove’s returns in more detail. Avoid assigning symbolic meanings to the raven as if the text explicitly gives them.",
+    "refs": "Genesis 8:8–12"
+  },
+  "Genesis 8:8": {
+    "title": "The dove is sent",
+    "text": "Noah sends a dove to find out whether the waters have abated. The action is a practical test of the condition of the land. The passage emphasizes observation and patience rather than a hidden doctrinal message in the bird itself.",
+    "refs": "Genesis 8:9–12"
+  },
+  "Genesis 8:9": {
+    "title": "The dove returns",
+    "text": "The dove finds no resting place and returns to Noah because water still covers the earth. Noah reaches out and brings it back into the ark. The detail shows that the land is not yet ready, so Noah waits rather than leaving prematurely.",
+    "refs": "Genesis 8:8; Genesis 8:10"
+  },
+  "Genesis 8:10": {
+    "title": "Noah waits seven more days",
+    "text": "Noah waits another seven days before sending the dove again. The repeated interval highlights patience and the step-by-step process of checking the land. The passage does not portray Noah as acting without regard to conditions.",
+    "refs": "Genesis 8:12"
+  },
+  "Genesis 8:11": {
+    "title": "An olive leaf",
+    "text": "The dove returns with a freshly plucked olive leaf, evidence that vegetation is visible again. Noah understands that the waters have decreased. Later readers may see hope in this image, but the direct narrative point is evidence that the land is recovering.",
+    "refs": "Genesis 8:8–10"
+  },
+  "Genesis 8:12": {
+    "title": "The dove does not return",
+    "text": "After another seven days, the dove does not return. The sequence indicates a change in the conditions outside the ark. The text does not say Noah immediately exits; he continues to wait for God’s instruction.",
+    "refs": "Genesis 8:13–16"
+  },
+  "Genesis 8:13": {
+    "title": "The earth dries",
+    "text": "Noah removes the covering of the ark and sees that the surface of the ground is dry. The date is recorded carefully, but dry ground does not yet mean Noah has been told to leave. The next verses distinguish seeing the condition from receiving God’s command.",
+    "refs": "Genesis 8:14–16"
+  },
+  "Genesis 8:14": {
+    "title": "The earth is dry",
+    "text": "The earth is fully dry by the date stated in the verse. The narrative tracks the passage of months and days to mark the end of the flood period. Noah remains in the ark until God speaks to him.",
+    "refs": "Genesis 8:13; Genesis 8:15"
+  },
+  "Genesis 8:15": {
+    "title": "God speaks to Noah",
+    "text": "God speaks directly to Noah after the earth is dry. The narrative shows Noah’s next step comes from God’s instruction, not merely his own assessment. This is consistent with the repeated pattern of God directing Noah throughout the account.",
+    "refs": "Genesis 6:13–22; Genesis 7:1"
+  },
+  "Genesis 8:16": {
+    "title": "Leave the ark",
+    "text": "God commands Noah, his family, and those with him to leave the ark. Preservation was not the final purpose; life is to continue on the renewed land. Noah waits for the command even after seeing that the ground is dry.",
+    "refs": "Genesis 8:13–15"
+  },
+  "Genesis 8:17": {
+    "title": "Life multiplies again",
+    "text": "The animals are to go out and multiply on the earth. The command echoes the creation blessing for living creatures. The flood has brought judgment, but the story now turns toward renewed life and continuity.",
+    "refs": "Genesis 1:22; Genesis 1:28"
+  },
+  "Genesis 8:18": {
+    "title": "Noah’s family leaves",
+    "text": "Noah and his family obey the instruction and leave the ark. The narrative records their departure simply, closing the period of confinement. God’s preservation makes a new beginning possible.",
+    "refs": "Genesis 8:15–17"
+  },
+  "Genesis 8:19": {
+    "title": "The animals leave",
+    "text": "Every kind of creature leaves the ark. The repeated mention of kinds recalls the creation account and emphasizes the continuation of living creatures. The verse does not provide a modern species count.",
+    "refs": "Genesis 1:24–25; Genesis 6:19–20"
+  },
+  "Genesis 8:20": {
+    "title": "Noah builds an altar",
+    "text": "Noah builds an altar and offers burnt offerings from clean animals and birds. His first recorded action after leaving the ark is worship. The offerings are described in the text; later sacrificial theology develops further across Scripture.",
+    "refs": "Genesis 4:3–4; Leviticus 1:1–9"
+  },
+  "Genesis 8:21": {
+    "title": "The LORD smells a sweet savour",
+    "text": "The language of smelling a pleasing aroma describes God’s acceptance of the offering in human terms. God declares that He will not again curse the ground in this manner, despite humanity’s continuing inclination toward evil. This is a promise about the order of life, not a declaration that sin no longer matters.",
+    "refs": "Genesis 6:5–7; Genesis 9:11"
+  },
+  "Genesis 8:22": {
+    "title": "The seasons continue",
+    "text": "God promises the continuing cycles of seedtime and harvest, cold and heat, summer and winter, day and night while the earth remains. The verse emphasizes stability after the flood. It is not a promise that every season or local weather pattern will always be uniform.",
+    "refs": "Jeremiah 33:20–21; Psalm 74:17"
   }
 };
