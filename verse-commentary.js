@@ -2967,5 +2967,225 @@ window.verseCommentary = {
     "title": "Abraham sojourns among the Philistines",
     "text": "Abraham lives for many days in the land of the Philistines. The verse closes the chapter by describing his continued residence in the region. The covenant story continues with God’s testing of Abraham in Genesis 22.",
     "refs": "Genesis 22:1–2"
+  },
+  "Genesis 22:1": {
+    "title": "God tests Abraham",
+    "text": "God tests Abraham and calls his name; Abraham answers, “Behold, here I am.” The verse introduces a test of Abraham’s faith, not a temptation to evil. The following command must be read with the conclusion of the story, where God stops Abraham and provides a substitute.",
+    "refs": "Hebrews 11:17–19; James 1:13"
+  },
+  "Genesis 22:2": {
+    "title": "Take Isaac to Moriah",
+    "text": "God tells Abraham to take Isaac, his beloved son, to the land of Moriah and offer him there. This is a severe test within the narrative and should not be generalized into permission for human sacrifice. The chapter itself shows God stopping the act and providing an offering.",
+    "refs": "Genesis 22:11–14; Deuteronomy 12:31"
+  },
+  "Genesis 22:3": {
+    "title": "Abraham rises early",
+    "text": "Abraham rises early, prepares the donkey, takes two young men and Isaac, and cuts wood for the offering. The narrative emphasizes his prompt response. The verse records his obedience before revealing the outcome of the test.",
+    "refs": "Hebrews 11:17; Genesis 22:7"
+  },
+  "Genesis 22:4": {
+    "title": "The place seen from afar",
+    "text": "On the third day Abraham sees the place from a distance. The delay gives the test a long and deliberate course. The text does not disclose Abraham’s inner thoughts here, though Hebrews later interprets his faith in light of God’s promise.",
+    "refs": "Hebrews 11:17–19"
+  },
+  "Genesis 22:5": {
+    "title": "We will come again",
+    "text": "Abraham tells the young men that he and Isaac will worship and return. Hebrews explains that Abraham reasoned God could raise Isaac from the dead. Genesis itself records the words without narrating all Abraham’s private reasoning.",
+    "refs": "Hebrews 11:17–19"
+  },
+  "Genesis 22:6": {
+    "title": "Isaac carries the wood",
+    "text": "Abraham lays the wood on Isaac, while Abraham carries the fire and knife. The details make the scene concrete and underscore Isaac’s participation. Christian readers often see a later pattern in this scene, but typological connections should be distinguished from the direct wording of Genesis.",
+    "refs": "John 19:17; Genesis 22:8"
+  },
+  "Genesis 22:7": {
+    "title": "Where is the lamb?",
+    "text": "Isaac asks his father where the lamb for the burnt offering is. The question brings the central tension of the story into focus. Abraham’s answer points to God’s provision, which the next verses reveal.",
+    "refs": "Genesis 22:8; John 1:29"
+  },
+  "Genesis 22:8": {
+    "title": "God will provide Himself a lamb",
+    "text": "Abraham says God will provide Himself a lamb for the burnt offering. In context, this expresses trust that God will provide what is needed. Christians may connect the theme of divine provision with Christ, but the immediate narrative fulfillment is the ram provided later in the chapter.",
+    "refs": "Genesis 22:13–14; John 1:29"
+  },
+  "Genesis 22:9": {
+    "title": "The altar is prepared",
+    "text": "Abraham builds the altar, arranges the wood, binds Isaac, and lays him on the altar. The text records the frightening climax of the test. It does not commend child sacrifice; the following verses explicitly stop Abraham from harming Isaac.",
+    "refs": "Genesis 22:10–12; Deuteronomy 12:31"
+  },
+  "Genesis 22:10": {
+    "title": "Abraham takes the knife",
+    "text": "Abraham reaches for the knife to slay his son. The verse heightens the crisis, but it must not be isolated from God’s immediate intervention. The narrative’s final message includes God’s prohibition of the act and His provision of a substitute.",
+    "refs": "Genesis 22:11–13"
+  },
+  "Genesis 22:11": {
+    "title": "The angel of the LORD calls",
+    "text": "The angel of the LORD calls from heaven and stops Abraham. The messenger’s intervention prevents Isaac’s death. The phrase “angel of the LORD” should be interpreted in the context of the whole passage rather than automatically treated as proof of a separate divine person.",
+    "refs": "Genesis 16:7–13; Genesis 22:15–18"
+  },
+  "Genesis 22:12": {
+    "title": "Now I know thou fearest God",
+    "text": "Abraham is told not to harm Isaac, and the statement recognizes that he has not withheld his son. The test reveals Abraham’s reverence and trust. The passage does not teach that God ultimately desires child sacrifice; He explicitly stops it.",
+    "refs": "Deuteronomy 12:31; Hebrews 11:17–19"
+  },
+  "Genesis 22:13": {
+    "title": "A ram instead of Isaac",
+    "text": "Abraham sees a ram caught in a thicket and offers it instead of his son. The substitute is the immediate provision in the story. Christian interpretation may see a pattern pointing toward substitutionary sacrifice, while recognizing that Genesis directly describes the ram.",
+    "refs": "Exodus 12:5–13; John 1:29"
+  },
+  "Genesis 22:14": {
+    "title": "The LORD will provide",
+    "text": "Abraham names the place “The LORD will provide,” and the phrase becomes a saying. The name commemorates God’s provision at the moment of crisis. The verse supports trust in the LORD who provides, without promising that every desired outcome will occur in exactly the same way.",
+    "refs": "Genesis 22:8; Philippians 4:19"
+  },
+  "Genesis 22:15": {
+    "title": "The angel calls a second time",
+    "text": "The angel of the LORD calls Abraham from heaven again. The second call introduces the covenant confirmation that follows. The passage repeats the messenger language while continuing to attribute the promise to the LORD’s authority.",
+    "refs": "Genesis 22:16–18"
+  },
+  "Genesis 22:16": {
+    "title": "By myself have I sworn",
+    "text": "The LORD declares by Himself that because Abraham has done this and not withheld his son, He will bless him. God swears by Himself because there is no greater authority by whom to swear. The passage emphasizes the certainty of God’s covenant promise.",
+    "refs": "Hebrews 6:13–18"
+  },
+  "Genesis 22:17": {
+    "title": "Seed as the stars and sand",
+    "text": "God promises to multiply Abraham’s seed like the stars and sand and says his seed will possess the gate of enemies. The promise repeats and expands earlier covenant words. Later Scripture connects Abraham’s seed with the blessing reaching the nations through Christ.",
+    "refs": "Genesis 15:5; Galatians 3:16"
+  },
+  "Genesis 22:18": {
+    "title": "All nations blessed through the seed",
+    "text": "God promises that all nations of the earth will be blessed in Abraham’s seed because Abraham obeyed His voice. The New Testament explicitly connects this promise with the gospel blessing among the nations. In Oneness understanding, the one God fulfills His saving purpose through Jesus Christ.",
+    "refs": "Genesis 12:3; Acts 3:25–26; Galatians 3:8, 16"
+  },
+  "Genesis 22:19": {
+    "title": "Abraham returns to the young men",
+    "text": "Abraham returns to the young men, and they travel together to Beersheba. Isaac is not separately mentioned in this summary, which has prompted questions, but the verse alone does not explain the omission. The text reports Abraham’s return and continued residence.",
+    "refs": "Genesis 22:5; Genesis 21:31"
+  },
+  "Genesis 22:20": {
+    "title": "News of Nahor’s family",
+    "text": "Abraham is told that Milcah has borne children to Nahor. The genealogy prepares for the introduction of Rebekah, who will become Isaac’s wife. The narrative returns to the wider family line after the test on Moriah.",
+    "refs": "Genesis 11:29; Genesis 24:15"
+  },
+  "Genesis 22:21": {
+    "title": "The sons of Nahor",
+    "text": "The verse names Huz, Buz, Kemuel, and other sons of Nahor. These names establish the family connections relevant to the following genealogy. The list is genealogical rather than a direct theological statement.",
+    "refs": "Genesis 22:20–23"
+  },
+  "Genesis 22:22": {
+    "title": "More descendants named",
+    "text": "The genealogy continues with additional sons of Nahor. The names preserve the family record that will lead toward Rebekah. Historical identifications of these names should be treated cautiously when the text gives no further details.",
+    "refs": "Genesis 22:20–23"
+  },
+  "Genesis 22:23": {
+    "title": "Bethuel fathers Rebekah",
+    "text": "Bethuel is named as the father of Rebekah, and the genealogy concludes. Rebekah’s introduction prepares for the next major family transition in Genesis. The verse links Abraham’s extended family with Isaac’s future marriage.",
+    "refs": "Genesis 24:15; Genesis 24:67"
+  },
+  "Genesis 22:24": {
+    "title": "Nahor’s concubine and descendants",
+    "text": "The verse names descendants of Nahor’s concubine Reumah. It completes the family notice attached to Nahor. The genealogy provides background for later family relationships and should not be turned into claims about the spiritual worth of the named people.",
+    "refs": "Genesis 22:20–23"
+  },
+  "Genesis 23:1": {
+    "title": "Sarah’s lifespan",
+    "text": "Sarah lives one hundred and twenty-seven years. The verse records her age at death and gives the first explicit account of her death in Genesis. The story now turns toward Abraham’s arrangements for her burial.",
+    "refs": "Genesis 17:17; Genesis 23:2"
+  },
+  "Genesis 23:2": {
+    "title": "Sarah dies at Hebron",
+    "text": "Sarah dies at Kirjath-arba, identified as Hebron, and Abraham mourns and weeps for her. Scripture presents grief as a fitting human response to death. Faith in God does not require pretending loss causes no sorrow.",
+    "refs": "John 11:35; 1 Thessalonians 4:13"
+  },
+  "Genesis 23:3": {
+    "title": "Abraham rises from mourning",
+    "text": "Abraham rises from before his dead and speaks to the sons of Heth. The narrative moves from grief to the practical need for a burial place. The verse shows mourning and necessary action together.",
+    "refs": "Genesis 23:4"
+  },
+  "Genesis 23:4": {
+    "title": "A stranger seeking a burial place",
+    "text": "Abraham describes himself as a stranger and sojourner and asks for a burial possession. Despite God’s land promise, Abraham does not yet own a burial field and must negotiate with the local inhabitants. The verse shows the promise unfolding over time rather than being instantly possessed.",
+    "refs": "Hebrews 11:9–10; Acts 7:5"
+  },
+  "Genesis 23:5": {
+    "title": "The sons of Heth answer",
+    "text": "The sons of Heth respond to Abraham. Their answer is developed in the next verse, where they offer him a choice of burial place. The exchange shows public negotiation within the local community.",
+    "refs": "Genesis 23:6"
+  },
+  "Genesis 23:6": {
+    "title": "A mighty prince among them",
+    "text": "The sons of Heth call Abraham a mighty prince and offer him the choice of their sepulchres. Their respect contrasts with Abraham’s description of himself as a stranger. The verse shows that Abraham has a recognized standing even though he does not own the promised land.",
+    "refs": "Genesis 14:13; Hebrews 11:9"
+  },
+  "Genesis 23:7": {
+    "title": "Abraham bows to the people",
+    "text": "Abraham rises and bows to the people of the land. His response shows courtesy and respect during the negotiation. The text does not portray the act as worship of the people; it is a gesture of honor in a public exchange.",
+    "refs": "Genesis 23:12"
+  },
+  "Genesis 23:8": {
+    "title": "Abraham asks for Ephron’s field",
+    "text": "Abraham asks the people to intercede with Ephron so he may purchase the cave of Machpelah. He seeks a specific burial place and a clear transaction. The request begins the negotiation that follows.",
+    "refs": "Genesis 23:9–11"
+  },
+  "Genesis 23:9": {
+    "title": "The cave of Machpelah",
+    "text": "Abraham asks to purchase the cave at the end of Ephron’s field for its full price as a burial possession. His insistence on paying establishes a clear claim rather than relying on a gift that might later be disputed. The transaction is recorded in detail because the burial property becomes significant in the patriarchal story.",
+    "refs": "Genesis 25:9–10; Genesis 49:29–32"
+  },
+  "Genesis 23:10": {
+    "title": "Ephron sits among the people",
+    "text": "Ephron is present among the sons of Heth and answers publicly at the city gate. The public setting matters because the transaction will be witnessed and recognized. The passage emphasizes a formal property exchange rather than an informal private promise.",
+    "refs": "Genesis 23:16–18"
+  },
+  "Genesis 23:11": {
+    "title": "Ephron offers the field",
+    "text": "Ephron says he gives Abraham the field and cave in the presence of his people. The language sounds generous, but the conversation continues with the price and payment. Abraham does not treat the offer as the end of the matter; he seeks a definite purchase.",
+    "refs": "Genesis 23:13–16"
+  },
+  "Genesis 23:12": {
+    "title": "Abraham bows again",
+    "text": "Abraham bows before the people of the land. The gesture continues his respectful conduct in the negotiation. The narrative shows him acting courteously while still pursuing a clear and lasting burial possession.",
+    "refs": "Genesis 23:7"
+  },
+  "Genesis 23:13": {
+    "title": "Abraham insists on payment",
+    "text": "Abraham tells Ephron that he will pay the price of the field and asks him to accept it. This establishes the transaction as a purchase. The verse reflects the importance of transparent agreements and recognized ownership.",
+    "refs": "Genesis 23:16–18"
+  },
+  "Genesis 23:14": {
+    "title": "Ephron replies",
+    "text": "Ephron answers Abraham. The following verse gives the amount he names for the field, and the negotiation moves toward completion.",
+    "refs": "Genesis 23:15"
+  },
+  "Genesis 23:15": {
+    "title": "Four hundred shekels of silver",
+    "text": "Ephron names a price of four hundred shekels of silver and downplays the amount between them. Abraham nevertheless pays the sum. The verse records the stated price and should not be converted into a modern monetary value without explaining the uncertainty of such comparisons.",
+    "refs": "Genesis 23:16"
+  },
+  "Genesis 23:16": {
+    "title": "Abraham weighs the silver",
+    "text": "Abraham agrees to Ephron’s price and weighs out the silver in the hearing of the sons of Heth. The payment is public and measured, giving the purchase a clear basis. The text emphasizes that Abraham actually pays for the property.",
+    "refs": "Genesis 23:9; Genesis 23:18"
+  },
+  "Genesis 23:17": {
+    "title": "The property is identified",
+    "text": "The field, cave, trees, and surrounding boundaries are identified as the property being purchased. The careful description helps establish exactly what changed hands. The burial place later becomes a family tomb and a marker of the patriarchs’ connection to the land.",
+    "refs": "Genesis 25:9–10; Genesis 49:29–32"
+  },
+  "Genesis 23:18": {
+    "title": "The purchase is witnessed",
+    "text": "The property becomes Abraham’s possession in the presence of the people at the city gate. The witnesses and location make the transaction public. The verse records a legally recognized purchase rather than a mere verbal assurance.",
+    "refs": "Genesis 23:16–17"
+  },
+  "Genesis 23:19": {
+    "title": "Sarah is buried",
+    "text": "Abraham buries Sarah in the cave of Machpelah in the field of Ephron near Mamre, which is Hebron. The verse closes the immediate mourning and burial narrative. The place will be associated with other patriarchal burials in later chapters.",
+    "refs": "Genesis 25:9–10; Genesis 49:29–32"
+  },
+  "Genesis 23:20": {
+    "title": "The field and cave secured",
+    "text": "The field and cave are confirmed to Abraham as a burial possession by the sons of Heth. The chapter closes by emphasizing the legitimacy and permanence of the purchase. Abraham’s family still waits for the larger land promise, but now has a recognized burial place there.",
+    "refs": "Genesis 23:16–19; Acts 7:16"
   }
 };
