@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "One God One Faith Ministry \u2014 Digital Oneness Study Bible",
+  "short_name": "Oneness Bible",
+  "description": "KJV Bible reader with Oneness study notes, cross-references, search and bookmarks.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1eee4",
+  "theme_color": "#123c2c",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

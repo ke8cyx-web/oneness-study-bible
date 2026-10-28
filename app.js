@@ -1,0 +1,239 @@
+/* One God One Faith Ministry Digital Oneness Study Bible
+   KJV data source: https://github.com/midvash/bible-data (public-domain KJV dataset).
+   The full KJV JSON is downloaded once, then stored in IndexedDB for offline reading.
+*/
+const DATA_URL = "https://raw.githubusercontent.com/midvash/bible-data/main/versions/en/kjv/kjv.json";
+const DB_NAME = "ogof-oneness-bible";
+const DB_STORE = "library";
+let bible = null, currentBookIndex = 0, currentChapter = 1, noteTarget = null, installPrompt = null;
+const $ = id => document.getElementById(id);
+const els = {
+  dataStatus:$("dataStatus"), book:$("bookSelect"), chapter:$("chapterSelect"), load:$("loadChapterBtn"),
+  title:$("chapterTitle"), verses:$("verses"), prev:$("prevChapter"), next:$("nextChapter"),
+  topic:$("topicSelect"), topicContent:$("topicContent"), searchForm:$("searchForm"), search:$("searchInput"),
+  searchStatus:$("searchStatus"), searchResults:$("searchResults"), bookmarks:$("bookmarksList")
+};
+const studyTopics = {
+ oneGod:{title:"The One God",key:"Deuteronomy 6:4",body:[
+  "Key text: Deuteronomy 6:4 — “The LORD our God is one LORD.” Read the whole confession in Deuteronomy 6:4–9.",
+  "Oneness study note: Scripture repeatedly confesses one God and rejects the worship of other gods. The Oneness approach understands the Father, the Son, and the Holy Spirit as the one God revealed and at work, not three separate divine persons. Read each passage in its context and compare the language used by the biblical writers.",
+  "Study questions: What does the passage explicitly say about the number and identity of God? How does the New Testament speak about Jesus in relation to Israel's confession of one God?"
+ ],refs:["Isaiah 43:10–11","Isaiah 44:6–8","Mark 12:29","John 14:7–11","1 Corinthians 8:4–6","Ephesians 4:4–6"]},
+ word:{title:"The Word Was God — John 1:1–14",key:"John 1:1",body:[
+  "Read John 1:1–14 as one continuous passage. Notice the Word, creation, life, light, witness, and the Word becoming flesh.",
+  "Oneness study note: A Oneness reading understands the Word as God's own self-expression, wisdom, purpose, and revelation—not a second God alongside the Father. John 1:14 says the Word was made flesh, which Christians connect to the incarnation of Jesus Christ. Study the grammar and the wider biblical use of God's word before drawing conclusions.",
+  "Careful reading: John distinguishes the Word from God in the sentence's wording while also saying the Word was God. Compare John 1:1 with John 1:14, John 14:7–11, and Colossians 2:9; do not ignore any part of the text."
+ ],refs:["Genesis 1:3","Psalm 33:6","Isaiah 55:10–11","John 1:1–14","John 14:7–11","Colossians 2:9","Hebrews 1:1–3"]},
+ fatherSon:{title:"The Father Revealed in the Son — John 14:7–11",key:"John 14:9",body:[
+  "Read John 14:7–11. Philip asks Jesus to show them the Father. Jesus replies that the one who has seen Him has seen the Father and points to the Father dwelling in Him and doing the works.",
+  "Oneness study note: This passage is central to the belief that God was personally revealed in Jesus Christ. The Father is not presented as absent from Jesus; Jesus says the Father dwells in Him. Study both the strong identification language and the distinction in the passage between Jesus speaking and the Father working in Him.",
+  "Discussion: What does Jesus say Philip has seen? What explanation does Jesus give in verses 10–11?"
+ ],refs:["Isaiah 9:6","John 10:30","John 12:44–45","John 14:7–11","Colossians 2:9","1 Timothy 3:16"]},
+ fullness:{title:"The Fullness of the Godhead — Colossians 2:9",key:"Colossians 2:9",body:[
+  "Read Colossians 2:8–10. Paul warns believers against deceptive philosophy and directs them to Christ.",
+  "Oneness study note: Colossians 2:9 states that in Christ dwells all the fullness of the Godhead bodily. Oneness believers understand this as affirming that the fullness of deity is present in Jesus Christ, not merely a portion of God. Verse 10 continues by describing Christ as head of all principality and power.",
+  "Study the immediate context and compare John 1:14, John 14:9–11, and 1 Timothy 3:16."
+ ],refs:["John 1:14","John 14:9–11","Colossians 1:15–20","Colossians 2:8–10","1 Timothy 3:16"]},
+ nameJesus:{title:"The Name of Jesus and Acts 2:38",key:"Acts 2:38",body:[
+  "Read Acts 2:22–41, not only verse 38. Peter preaches Jesus' death and resurrection, calls the hearers to repent and be baptized in the name of Jesus Christ, and speaks of the promise of the Holy Ghost.",
+  "Oneness study note: Oneness Pentecostal teaching emphasizes the apostolic pattern of baptism in Jesus' name and reads it alongside Matthew 28:19. Compare the command, the sermons in Acts, and the specific responses described in the text.",
+  "Study questions: What did Peter command? What did the people ask? What does the passage say about repentance, baptism, forgiveness, and the gift of the Holy Ghost?"
+ ],refs:["Matthew 28:19","Luke 24:46–49","Acts 2:38–41","Acts 8:12–17","Acts 10:44–48","Acts 19:1–6"]},
+ spirit:{title:"God Is a Spirit — John 4:24",key:"John 4:24",body:[
+  "Read John 4:19–26. Jesus speaks with the Samaritan woman about worship, then says God is a Spirit and true worshippers must worship in spirit and in truth.",
+  "Oneness study note: This passage affirms God's spiritual nature. Oneness believers connect it with the truth that the invisible God was manifested in flesh in Jesus Christ. The verse itself is about the nature of God and the character of true worship; use other passages to build the wider doctrine.",
+  "Compare God's Spirit in the Old Testament with the New Testament's teaching about the Spirit of God and the Spirit of Christ."
+ ],refs:["Genesis 1:2","Deuteronomy 4:12","Isaiah 40:13","John 4:24","Romans 8:9–11","2 Corinthians 3:17"]},
+ genesis1:{title:"Genesis 1 — Creation",key:"Genesis 1:1",body:[
+  "Genesis 1 presents God as Creator and sovereign over all that exists. The repeated “And God said” shows creation responding to God's command.",
+  "Genesis 1:2 describes the Spirit of God moving upon the face of the waters. A Oneness reading understands God's Spirit as God's own presence and action, not another god.",
+  "Genesis 1:26 says “Let us make man”; verse 27 immediately says God created man in His own image. Interpret the plural wording alongside the whole passage and the Bible's repeated confession that God is one."
+ ],refs:["Deuteronomy 6:4","Psalm 33:6–9","Isaiah 44:24","John 1:1–3","Acts 17:24–28"]},
+ genesis2:{title:"Genesis 2 — Humanity",key:"Genesis 2:7",body:[
+  "Genesis 2 focuses on the formation of the man, God's provision in Eden, the command concerning the tree, and the creation of woman.",
+  "Genesis 2:7 presents human life as received from God. Genesis 2:24 establishes the marriage bond that Jesus later quotes.",
+  "Read Genesis 1 and 2 together: the same Creator makes humanity and gives humanity its responsibilities."
+ ],refs:["Genesis 1:26–28","Genesis 2:7","Matthew 19:4–6","Acts 17:25"]},
+ genesis3:{title:"Genesis 3 — The Fall and Promise",key:"Genesis 3:15",body:[
+  "Genesis 3 records the serpent's temptation, humanity's disobedience, shame, judgment, and God's provision.",
+  "Many Christian readers understand Genesis 3:15 as the first promise pointing toward the Messiah's victory over evil. The verse's full significance is developed through later Scripture.",
+  "Read the chapter carefully: distinguish what the text states directly from later theological conclusions, and compare Romans 5 and Hebrews 2."
+ ],refs:["Genesis 3:15","Romans 5:12–21","Romans 16:20","Hebrews 2:14","Revelation 20:10"]}
+};
+function openDB(){
+ return new Promise((resolve,reject)=>{
+  const req=indexedDB.open(DB_NAME,1);
+  req.onupgradeneeded=()=>{req.result.createObjectStore(DB_STORE)};
+  req.onsuccess=()=>resolve(req.result); req.onerror=()=>reject(req.error);
+ });
+}
+async function getStored(key){
+ try{const db=await openDB();return await new Promise((resolve,reject)=>{const r=db.transaction(DB_STORE).objectStore(DB_STORE).get(key);r.onsuccess=()=>resolve(r.result);r.onerror=()=>reject(r.error)})}catch(e){return null}
+}
+async function setStored(key,value){
+ const db=await openDB();return new Promise((resolve,reject)=>{const tx=db.transaction(DB_STORE,"readwrite");tx.objectStore(DB_STORE).put(value,key);tx.oncomplete=resolve;tx.onerror=()=>reject(tx.error)});
+}
+function setStatus(msg,error=false){els.dataStatus.textContent=msg;els.dataStatus.classList.toggle("error",error)}
+function normalizeBible(raw){
+ if(raw && Array.isArray(raw.books)) return raw.books.map(b=>({
+  name:b.book||b.name||b.title,
+  chapters:(b.chapters||[]).map((ch)=> {
+   const vs=ch.verses||ch;
+   if(Array.isArray(vs)) return vs.map((v,i)=>typeof v==="string"?v:(v.text||v.verse||""));
+   return Object.keys(vs).sort((a,b)=>Number(a)-Number(b)).map(k=>typeof vs[k]==="string"?vs[k]:(vs[k].text||""));
+  })
+ }));
+ if(raw && raw.books && typeof raw.books==="object") return Object.entries(raw.books).map(([name,b])=>({name,chapters:Object.values(b.chapters).map(ch=>Object.values(ch))}));
+ throw new Error("Unexpected Bible data format");
+}
+async function loadBible(){
+ setStatus("Checking saved Bible…");
+ const stored=await getStored("kjv");
+ if(stored){bible=stored;setStatus("KJV ready · saved offline");setupSelectors();renderChapter();return}
+ setStatus("Downloading full KJV…");
+ try{
+  const res=await fetch(DATA_URL,{cache:"force-cache"});
+  if(!res.ok)throw new Error("Bible data request failed ("+res.status+")");
+  const raw=await res.json();bible=normalizeBible(raw);
+  if(!bible.length)throw new Error("No Bible books found");
+  await setStored("kjv",bible);
+  setStatus("KJV ready · saved for offline use");setupSelectors();renderChapter();
+ }catch(e){
+  console.error(e);setStatus("Could not load KJV. Connect to internet and reload.",true);
+  els.title.textContent="Bible data not downloaded yet";
+  els.verses.innerHTML='<p class="muted">Connect to the internet once, then reload this page. After the KJV is saved locally, reading can work offline.</p>';
+ }
+}
+function setupSelectors(){
+ els.book.innerHTML="";
+ bible.forEach((b,i)=>{const o=document.createElement("option");o.value=i;o.textContent=b.name;els.book.append(o)});
+ currentBookIndex=Math.min(currentBookIndex,bible.length-1);
+ els.book.value=currentBookIndex;populateChapters();
+ els.book.disabled=els.chapter.disabled=els.load.disabled=false;
+}
+function populateChapters(){
+ const b=bible[Number(els.book.value)];els.chapter.innerHTML="";
+ (b.chapters||[]).forEach((_,i)=>{const o=document.createElement("option");o.value=i+1;o.textContent="Chapter "+(i+1);els.chapter.append(o)});
+ currentChapter=Math.min(currentChapter,b.chapters.length)||1;els.chapter.value=currentChapter;
+}
+function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
+function refOf(book,chapter,verse){return `${book} ${chapter}:${verse}`}
+function renderChapter(){
+ if(!bible)return;
+ currentBookIndex=Number(els.book.value);currentChapter=Number(els.chapter.value);
+ const b=bible[currentBookIndex], verses=b.chapters[currentChapter-1]||[];
+ els.title.textContent=`${b.name} ${currentChapter}`;
+ els.verses.innerHTML="";
+ verses.forEach((text,i)=>{
+  const v=i+1, ref=refOf(b.name,currentChapter,v);
+  const row=document.createElement("div");row.className="verse";
+  row.innerHTML=`<span class="verse-number">${v}</span><div class="verse-text">${esc(text)}</div><div class="verse-actions"><button data-action="bookmark" data-ref="${esc(ref)}" data-text="${esc(text)}">Save</button><button data-action="note" data-ref="${esc(ref)}" data-text="${esc(text)}">Note</button></div>`;
+  els.verses.append(row);
+ });
+ els.prev.disabled=currentBookIndex===0&&currentChapter===1;
+ els.next.disabled=currentBookIndex===bible.length-1&&currentChapter===b.chapters.length;
+ els.footerStatus=document.getElementById("footerStatus");
+}
+function moveChapter(delta){
+ if(!bible)return;
+ let bi=Number(els.book.value),ch=Number(els.chapter.value)+delta;
+ if(ch<1){bi--;if(bi<0)return;ch=bible[bi].chapters.length}
+ else if(ch>bible[bi].chapters.length){bi++;if(bi>=bible.length)return;ch=1}
+ els.book.value=bi;populateChapters();els.chapter.value=ch;renderChapter();window.scrollTo({top:0,behavior:"smooth"});
+}
+function getBookmarks(){try{return JSON.parse(localStorage.getItem("ogof-bookmarks")||"[]")}catch{return[]}}
+function saveBookmarks(items){localStorage.setItem("ogof-bookmarks",JSON.stringify(items));renderBookmarks()}
+function addBookmark(ref,text){
+ const arr=getBookmarks();if(!arr.some(x=>x.ref===ref))arr.unshift({ref,text,created:new Date().toISOString()});
+ saveBookmarks(arr);setStatus("Bookmark saved");
+}
+function removeBookmark(ref){saveBookmarks(getBookmarks().filter(x=>x.ref!==ref))}
+function getNotes(){try{return JSON.parse(localStorage.getItem("ogof-notes")||"{}")}catch{return{}}}
+function showNote(ref,text){
+ noteTarget={ref,text};$("noteVerseRef").textContent=ref;$("noteVerseText").textContent=text;$("noteText").value=getNotes()[ref]||"";$("noteDialog").showModal();
+}
+function saveNote(){
+ if(!noteTarget)return;const notes=getNotes(),value=$("noteText").value.trim();
+ if(value)notes[noteTarget.ref]=value;else delete notes[noteTarget.ref];
+ localStorage.setItem("ogof-notes",JSON.stringify(notes));$("noteDialog").close();
+}
+function renderBookmarks(){
+ const arr=getBookmarks(),notes=getNotes();
+ els.bookmarks.innerHTML="";
+ if(!arr.length&&!Object.keys(notes).length){els.bookmarks.innerHTML='<p class="muted">No saved verses or notes yet. Use Save or Note beside a verse while reading.</p>';return}
+ arr.forEach(x=>{
+  const div=document.createElement("div");div.className="result";
+  div.innerHTML=`<button data-openref="${esc(x.ref)}"><span class="result-ref">${esc(x.ref)}</span><div class="result-text">${esc(x.text)}</div></button><button class="outline small" data-remove="${esc(x.ref)}">Remove bookmark</button>${notes[x.ref]?`<p><strong>Your note:</strong> ${esc(notes[x.ref])}</p>`:""}`;
+  els.bookmarks.append(div);
+ });
+ Object.entries(notes).filter(([ref])=>!arr.some(x=>x.ref===ref)).forEach(([ref,note])=>{
+  const div=document.createElement("div");div.className="result";div.innerHTML=`<div class="result-ref">${esc(ref)}</div><p>${esc(note)}</p><button class="outline small" data-editnote="${esc(ref)}">Edit note</button>`;els.bookmarks.append(div);
+ });
+}
+function parseRef(ref){
+ const m=ref.match(/^(.*)\s+(\d+):(\d+)$/);if(!m)return null;
+ const bi=bible.findIndex(b=>b.name.toLowerCase()===m[1].toLowerCase());if(bi<0)return null;
+ return {bi,ch:Number(m[2]),v:Number(m[3])};
+}
+function openRef(ref){
+ const p=parseRef(ref);if(!p)return;
+ els.book.value=p.bi;populateChapters();els.chapter.value=p.ch;renderChapter();
+ setTimeout(()=>{const row=[...els.verses.children].find(x=>x.querySelector(".verse-number")?.textContent===String(p.v));if(row){row.scrollIntoView({behavior:"smooth",block:"center"});row.style.background="#fff5cf";setTimeout(()=>row.style.background="",1800)}},30);
+ document.querySelector('[data-tab="read"]').click();
+}
+function renderTopic(){
+ const t=studyTopics[els.topic.value];if(!t)return;
+ els.topicContent.innerHTML=`<h3>${esc(t.title)}</h3><p class="result-ref">Key passage: ${esc(t.key)}</p>${t.body.map(p=>`<p>${esc(p)}</p>`).join("")}<h3>Cross-references to read</h3><div>${t.refs.map(r=>`<button class="ref-chip" data-topicref="${esc(r)}">${esc(r)}</button>`).join("")}</div>`;
+}
+function searchBible(query){
+ const q=query.toLowerCase().trim();if(!q)return [];
+ const results=[];
+ outer:for(const b of bible){for(let ci=0;ci<b.chapters.length;ci++){const ch=b.chapters[ci]||[];for(let vi=0;vi<ch.length;vi++){const text=ch[vi]||"";if(text.toLowerCase().includes(q)){results.push({ref:refOf(b.name,ci+1,vi+1),text});if(results.length>=250)break outer}}}}
+ return results;
+}
+document.querySelectorAll(".tab").forEach(btn=>btn.addEventListener("click",()=>{
+ document.querySelectorAll(".tab").forEach(b=>b.classList.toggle("active",b===btn));
+ ["read","study","search","saved"].forEach(n=>$(n+"Panel").classList.toggle("hidden",n!==btn.dataset.tab));
+ if(btn.dataset.tab==="saved")renderBookmarks();
+}));
+els.book.addEventListener("change",()=>{populateChapters()});
+els.load.addEventListener("click",renderChapter);els.chapter.addEventListener("change",()=>{});
+els.prev.addEventListener("click",()=>moveChapter(-1));els.next.addEventListener("click",()=>moveChapter(1));
+els.topic.addEventListener("change",renderTopic);
+els.topicContent.addEventListener("click",e=>{const b=e.target.closest("[data-topicref]");if(b)openRef(b.dataset.topicref)});
+els.verses.addEventListener("click",e=>{
+ const b=e.target.closest("button[data-action]");if(!b)return;
+ if(b.dataset.action==="bookmark")addBookmark(b.dataset.ref,b.dataset.text);
+ if(b.dataset.action==="note")showNote(b.dataset.ref,b.dataset.text);
+});
+$("noteForm").addEventListener("submit",e=>{if(e.submitter?.id==="saveNoteBtn"){e.preventDefault();saveNote()}});
+els.searchForm.addEventListener("submit",e=>{
+ e.preventDefault();if(!bible){els.searchStatus.textContent="Load the Bible online once before searching.";return}
+ const q=els.search.value.trim();els.searchStatus.textContent="Searching the full KJV…";
+ setTimeout(()=>{
+  const found=searchBible(q);els.searchStatus.textContent=found.length?`${found.length}${found.length===250?" or more":""} result(s) shown.`:"No matching verses found.";
+  els.searchResults.innerHTML=found.map(x=>`<div class="result"><button data-openref="${esc(x.ref)}"><span class="result-ref">${esc(x.ref)}</span><div class="result-text">${esc(x.text)}</div></button><button class="outline small" data-action="bookmark" data-ref="${esc(x.ref)}" data-text="${esc(x.text)}">Save verse</button></div>`).join("");
+ },20);
+});
+els.searchResults.addEventListener("click",e=>{
+ const open=e.target.closest("[data-openref]");if(open){openRef(open.dataset.openref);return}
+ const save=e.target.closest("[data-action='bookmark']");if(save)addBookmark(save.dataset.ref,save.dataset.text);
+});
+els.bookmarks.addEventListener("click",e=>{
+ const open=e.target.closest("[data-openref]");if(open){openRef(open.dataset.openref);return}
+ const rm=e.target.closest("[data-remove]");if(rm){removeBookmark(rm.dataset.remove);return}
+ const edit=e.target.closest("[data-editnote]");if(edit){showNote(edit.dataset.editnote,"");return}
+});
+$("exportBookmarks").addEventListener("click",()=>{
+ const data={bookmarks:getBookmarks(),notes:getNotes(),exported:new Date().toISOString()};
+ const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"}),url=URL.createObjectURL(blob);
+ const a=document.createElement("a");a.href=url;a.download="oneness-bible-bookmarks.json";a.click();URL.revokeObjectURL(url);
+});
+$("importBookmarks").addEventListener("change",async e=>{
+ const f=e.target.files[0];if(!f)return;
+ try{const data=JSON.parse(await f.text());if(Array.isArray(data.bookmarks))saveBookmarks(data.bookmarks);if(data.notes&&typeof data.notes==="object")localStorage.setItem("ogof-notes",JSON.stringify(data.notes));renderBookmarks();alert("Bookmarks and notes imported.")}catch{alert("That file could not be imported.")}e.target.value="";
+});
+window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();installPrompt=e;$("installBtn").classList.remove("hidden")});
+$("installBtn").addEventListener("click",async()=>{if(!installPrompt)return;installPrompt.prompt();await installPrompt.userChoice;installPrompt=null;$("installBtn").classList.add("hidden")});
+if("serviceWorker" in navigator && location.protocol.startsWith("http"))navigator.serviceWorker.register("./sw.js").catch(err=>console.warn("Service worker registration failed",err));
+renderTopic();renderBookmarks();loadBible();

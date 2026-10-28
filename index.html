@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#123c2c">
+  <meta name="description" content="One God One Faith Ministry Digital Oneness Study Bible — KJV reading, study notes, cross-references, search, and bookmarks.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+  <title>Digital Oneness Study Bible</title>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brandmark" aria-hidden="true">✝</div>
+    <div class="brandtext">
+      <div class="ministry">ONE GOD ONE FAITH MINISTRY</div>
+      <h1>Digital Oneness Study Bible</h1>
+      <p>King James Version · Green &amp; Gold Study Edition</p>
+    </div>
+    <button id="installBtn" class="outline small hidden" type="button">Install app</button>
+  </header>
+
+  <nav class="tabs" aria-label="Main navigation">
+    <button class="tab active" data-tab="read">Read Bible</button>
+    <button class="tab" data-tab="study">Study Notes</button>
+    <button class="tab" data-tab="search">Search</button>
+    <button class="tab" data-tab="saved">Bookmarks</button>
+  </nav>
+
+  <main>
+    <section id="readPanel" class="panel">
+      <div class="card">
+        <div class="section-heading">
+          <div>
+            <div class="eyebrow">SCRIPTURE READER</div>
+            <h2>Read the KJV</h2>
+          </div>
+          <span id="dataStatus" class="status">Preparing Bible…</span>
+        </div>
+        <div class="selectors">
+          <label>Book<select id="bookSelect" disabled></select></label>
+          <label>Chapter<select id="chapterSelect" disabled></select></label>
+          <button id="loadChapterBtn" class="primary" disabled>Open chapter</button>
+        </div>
+        <div id="chapterTitle" class="chapter-title">Loading Bible content…</div>
+        <div id="verses" class="verses" aria-live="polite"></div>
+        <div class="chapter-nav">
+          <button id="prevChapter" class="outline" disabled>← Previous</button>
+          <button id="nextChapter" class="outline" disabled>Next →</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="studyPanel" class="panel hidden">
+      <div class="card">
+        <div class="eyebrow">SCRIPTURE-FIRST STUDY</div>
+        <h2>Oneness Study Notes</h2>
+        <p class="muted">These notes present a Oneness reading for study and comparison. Read the cited passages in context and distinguish the biblical text from commentary.</p>
+        <label>Choose a topic
+          <select id="topicSelect">
+            <option value="oneGod">The One God</option>
+            <option value="word">The Word Was God — John 1:1–14</option>
+            <option value="fatherSon">The Father Revealed in the Son — John 14:7–11</option>
+            <option value="fullness">The Fullness of the Godhead — Colossians 2:9</option>
+            <option value="nameJesus">The Name of Jesus and Acts 2:38</option>
+            <option value="spirit">God Is a Spirit — John 4:24</option>
+            <option value="genesis1">Genesis 1 — Creation</option>
+            <option value="genesis2">Genesis 2 — Humanity</option>
+            <option value="genesis3">Genesis 3 — The Fall and Promise</option>
+          </select>
+        </label>
+        <article id="topicContent" class="study-content"></article>
+      </div>
+    </section>
+
+    <section id="searchPanel" class="panel hidden">
+      <div class="card">
+        <div class="eyebrow">FIND SCRIPTURE</div>
+        <h2>Search the Bible</h2>
+        <p class="muted">Search the complete KJV after the Bible dataset has loaded on this device.</p>
+        <form id="searchForm" class="search-row">
+          <input id="searchInput" type="search" placeholder="Search a word or phrase, e.g. one God" autocomplete="off">
+          <button class="primary" type="submit">Search</button>
+        </form>
+        <div id="searchStatus" class="muted"></div>
+        <div id="searchResults" class="results"></div>
+      </div>
+    </section>
+
+    <section id="savedPanel" class="panel hidden">
+      <div class="card">
+        <div class="eyebrow">YOUR PERSONAL LIBRARY</div>
+        <h2>Bookmarked Verses</h2>
+        <p class="muted">Bookmarks are stored on this device in this browser. Export them if you want a backup.</p>
+        <div class="saved-actions">
+          <button id="exportBookmarks" class="outline">Export bookmarks</button>
+          <label class="file-button">Import bookmarks<input id="importBookmarks" type="file" accept="application/json"></label>
+        </div>
+        <div id="bookmarksList" class="results"></div>
+      </div>
+    </section>
+
+    <section class="card note-card">
+      <h2>Study tools</h2>
+      <div class="tool-grid">
+        <div><strong>Cross-references</strong><p>Each study topic lists related passages to read together.</p></div>
+        <div><strong>Personal notes</strong><p>Select a verse and add a private note stored on this device.</p></div>
+        <div><strong>Offline reading</strong><p>After the first successful online load, the app saves the KJV data locally for offline use.</p></div>
+      </div>
+      <p class="fineprint">KJV data source: Midvash public-domain Bible data repository. The initial Bible download requires internet access. Keep this app hosted over HTTPS for installation and service-worker support.</p>
+    </section>
+  </main>
+  <footer>One God One Faith Ministry · Digital Oneness Study Bible<br><span id="footerStatus">Not yet deployed</span></footer>
+
+  <dialog id="noteDialog">
+    <form method="dialog" id="noteForm">
+      <div class="dialog-head"><h2 id="noteVerseRef">Verse note</h2><button class="icon-button" value="cancel" aria-label="Close">×</button></div>
+      <p id="noteVerseText" class="muted"></p>
+      <label>Your study note<textarea id="noteText" rows="5" placeholder="Write your observation or question…"></textarea></label>
+      <div class="dialog-actions"><button value="cancel" class="outline">Cancel</button><button id="saveNoteBtn" value="save" class="primary">Save note</button></div>
+    </form>
+  </dialog>
+  <script src="app.js" defer></script>
+</body>
+</html>
