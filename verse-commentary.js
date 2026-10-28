@@ -13830,5 +13830,495 @@ window.verseCommentary = {
       "Exodus 19:20",
       "Hebrews 12:18–24"
     ]
+  },
+  "Exodus 21:1": {
+    "title": "Judgments for Israel",
+    "text": "After the Ten Commandments, God gives judgments for the community’s civil life. These laws apply covenant principles to disputes, servants, injuries, and property; they must be read in their ancient legal setting rather than treated as though every provision were a direct rule for modern civil law.",
+    "refs": [
+      "Exodus 20:1–17"
+    ]
+  },
+  "Exodus 21:2": {
+    "title": "A Hebrew servant’s release",
+    "text": "A Hebrew servant is to serve six years and be released in the seventh without payment. The law places a limit on servitude and prevents the servant from being held indefinitely under this provision.",
+    "refs": [
+      "Deuteronomy 15:12–15"
+    ]
+  },
+  "Exodus 21:3": {
+    "title": "Release according to his household status",
+    "text": "If the servant entered alone, he leaves alone; if he had a wife, she leaves with him. The rule addresses the household status under which the service began.",
+    "refs": [
+      "Exodus 21:2"
+    ]
+  },
+  "Exodus 21:4": {
+    "title": "A wife given by the master",
+    "text": "If the master gives the servant a wife and she bears children, the wife and children remain under the master’s household status when the man is released. This ancient legal provision reflects a social system different from modern law; it should be studied honestly in its historical context rather than hidden or presented as a universal ideal.",
+    "refs": [
+      "Exodus 21:2–3"
+    ]
+  },
+  "Exodus 21:5": {
+    "title": "A servant chooses to remain",
+    "text": "If the servant openly declares that he loves his master, wife, and children and does not want to leave, the law provides a formal process for remaining. The text describes a voluntary declaration under the legal conditions of that society.",
+    "refs": [
+      "Deuteronomy 15:16–17"
+    ]
+  },
+  "Exodus 21:6": {
+    "title": "A formal act of lifelong service",
+    "text": "The master brings the servant before the judges and marks the commitment at the door or doorpost. This is a specific ancient legal procedure for the servant who chooses to remain; it is not a general instruction to harm people or deny their dignity.",
+    "refs": [
+      "Deuteronomy 15:17"
+    ]
+  },
+  "Exodus 21:7": {
+    "title": "A daughter sold as a servant",
+    "text": "The verse addresses a father selling his daughter as a maidservant and gives conditions different from those for male servants. This reflects ancient household and marriage arrangements; careful interpretation must acknowledge the social context and the protections or limitations the law places within it.",
+    "refs": [
+      "Exodus 21:8–11"
+    ]
+  },
+  "Exodus 21:8": {
+    "title": "Protections for a woman in the household",
+    "text": "If the woman does not please the master who selected her, the law provides for redemption and forbids selling her to a foreign people. The passage sets restrictions on the master’s treatment of her, though its ancient social framework differs greatly from modern assumptions about freedom and marriage.",
+    "refs": [
+      "Exodus 21:7–11"
+    ]
+  },
+  "Exodus 21:9": {
+    "title": "A daughter treated as a daughter",
+    "text": "If the woman is designated for the master’s son, she is to be treated according to the rights of daughters. The law gives her a recognized status in the household rather than treating her simply as property without obligations toward her.",
+    "refs": [
+      "Exodus 21:10–11"
+    ]
+  },
+  "Exodus 21:10": {
+    "title": "Food, clothing, and marital duty",
+    "text": "If the master takes another wife, he must not diminish the first woman’s food, clothing, or marital rights. The provision sets concrete obligations intended to protect her from being deprived when the household arrangement changes.",
+    "refs": [
+      "Exodus 21:11"
+    ]
+  },
+  "Exodus 21:11": {
+    "title": "Freedom if obligations are denied",
+    "text": "If the three stated obligations are not fulfilled, the woman is to go out without payment. The rule creates a remedy within the ancient system when the master fails to meet his responsibilities.",
+    "refs": [
+      "Exodus 21:10"
+    ]
+  },
+  "Exodus 21:12": {
+    "title": "A penalty for killing",
+    "text": "The law prescribes death for one who strikes another person so that the person dies. This is a legal rule against murder, continuing the protection of human life established in the commandments.",
+    "refs": [
+      "Genesis 9:6",
+      "Exodus 20:13"
+    ]
+  },
+  "Exodus 21:13": {
+    "title": "Unintentional killing and refuge",
+    "text": "If a person did not lie in wait but God allowed the event to happen, a place of refuge is provided. The distinction between intentional murder and accidental killing is important to biblical law and is developed further in the cities of refuge.",
+    "refs": [
+      "Numbers 35:9–15",
+      "Deuteronomy 19:4–6"
+    ]
+  },
+  "Exodus 21:14": {
+    "title": "Intentional murder",
+    "text": "A person who acts presumptuously to kill a neighbor by deceit is to be taken even from the altar for punishment. Sacred space does not provide immunity for deliberate murder; justice cannot be evaded by claiming religious protection.",
+    "refs": [
+      "1 Kings 2:28–34"
+    ]
+  },
+  "Exodus 21:15": {
+    "title": "Violence against parents",
+    "text": "The law prescribes severe punishment for striking one’s father or mother. It treats violence against parents as a serious violation of family order and the command to honor them.",
+    "refs": [
+      "Exodus 20:12",
+      "Deuteronomy 5:16"
+    ]
+  },
+  "Exodus 21:16": {
+    "title": "Kidnapping a person",
+    "text": "The law prescribes death for kidnapping a person and selling or retaining that person. Human beings are not to be abducted and trafficked for gain; the rule directly condemns such exploitation.",
+    "refs": [
+      "Deuteronomy 24:7",
+      "1 Timothy 1:9–10"
+    ]
+  },
+  "Exodus 21:17": {
+    "title": "Cursing father or mother",
+    "text": "The law gives a severe penalty for cursing one’s father or mother. It emphasizes the seriousness of contempt and abuse within the family, though modern application must distinguish the ancient judicial penalty from the enduring moral principle of honoring parents.",
+    "refs": [
+      "Exodus 20:12",
+      "Leviticus 20:9"
+    ]
+  },
+  "Exodus 21:18": {
+    "title": "Injury during a fight",
+    "text": "If two people fight and one injures the other with a stone or fist but the injured person recovers, the aggressor is responsible for the loss of time and medical expenses. The law connects liability to the actual harm caused.",
+    "refs": [
+      "Deuteronomy 19:21"
+    ]
+  },
+  "Exodus 21:19": {
+    "title": "Compensation for recovery and lost work",
+    "text": "If the injured person can rise and walk with a staff, the person who caused the injury must pay for lost time and ensure compensation for healing. The passage seeks restitution for the injury rather than treating violence as a matter without consequence.",
+    "refs": [
+      "Exodus 21:18"
+    ]
+  },
+  "Exodus 21:20": {
+    "title": "A servant beaten by a master",
+    "text": "The law addresses a master who strikes a male or female servant with a rod. If the servant dies under the blow, the master is subject to punishment; the provision recognizes the servant’s life as legally significant, even within an unequal ancient system.",
+    "refs": [
+      "Exodus 21:26–27"
+    ]
+  },
+  "Exodus 21:21": {
+    "title": "A distinction in the ancient legal code",
+    "text": "The verse distinguishes a servant who survives for a day or two, using the legal reasoning that the servant is the master’s money. This reflects the harsh social structure of the ancient world and should not be mistaken for a declaration that a person’s life has no value; nearby laws impose penalties for severe injury.",
+    "refs": [
+      "Exodus 21:20",
+      "Exodus 21:26–27"
+    ]
+  },
+  "Exodus 21:22": {
+    "title": "Injury to a pregnant woman",
+    "text": "The law addresses men fighting who injure a pregnant woman and cause premature birth or other harm. It distinguishes outcomes and sets a legal process for determining liability; translations and interpretations of the precise outcome in this verse differ.",
+    "refs": [
+      "Deuteronomy 19:15–21"
+    ]
+  },
+  "Exodus 21:23": {
+    "title": "Life for life",
+    "text": "If serious harm follows, the law states the principle of life for life and corresponding penalties. This is a judicial proportionality rule intended to limit punishment to the harm caused, not a private license for personal revenge.",
+    "refs": [
+      "Leviticus 24:19–20",
+      "Matthew 5:38–42"
+    ]
+  },
+  "Exodus 21:24": {
+    "title": "Eye for eye and tooth for tooth",
+    "text": "The law lists injuries and corresponding penalties. In its legal context, the principle limits retaliation so punishment corresponds to the injury; it is not permission for individuals to take vengeance into their own hands.",
+    "refs": [
+      "Leviticus 24:20",
+      "Deuteronomy 19:21"
+    ]
+  },
+  "Exodus 21:25": {
+    "title": "Burning for burning, wound for wound",
+    "text": "The list continues with burning, wound, and stripe. The repeated pattern emphasizes proportionate accountability for injury.",
+    "refs": [
+      "Exodus 21:23–24"
+    ]
+  },
+  "Exodus 21:26": {
+    "title": "Injury to a servant’s eye",
+    "text": "If a master destroys the eye of a male or female servant, the servant must be released as compensation. The law imposes a concrete cost on the master for a serious injury, recognizing a right to freedom in this case.",
+    "refs": [
+      "Exodus 21:20–21"
+    ]
+  },
+  "Exodus 21:27": {
+    "title": "Injury to a servant’s tooth",
+    "text": "If a master knocks out a servant’s tooth, the servant is to be released. The rule again limits a master’s power and provides a remedy for physical injury.",
+    "refs": [
+      "Exodus 21:26"
+    ]
+  },
+  "Exodus 21:28": {
+    "title": "An ox that kills a person",
+    "text": "If an ox gores a man or woman and the person dies, the ox is to be stoned and its meat not eaten, while the owner is not automatically put to death. The law distinguishes the animal’s danger from the owner’s level of responsibility.",
+    "refs": [
+      "Genesis 9:5–6"
+    ]
+  },
+  "Exodus 21:29": {
+    "title": "A known dangerous ox",
+    "text": "If the ox has previously gored and the owner was warned but failed to restrain it, both the ox and the owner face consequences if a person is killed. The prior warning establishes the owner’s responsibility for knowingly allowing a danger to continue.",
+    "refs": [
+      "Deuteronomy 22:8"
+    ]
+  },
+  "Exodus 21:30": {
+    "title": "A ransom may be imposed",
+    "text": "If a ransom is required, the owner may pay the sum imposed for the person’s life. The verse describes a legal remedy in this case and should not be generalized into a rule that every offense can be purchased away.",
+    "refs": [
+      "Numbers 35:31–32"
+    ]
+  },
+  "Exodus 21:31": {
+    "title": "The same rule for a son or daughter",
+    "text": "If the ox kills a son or daughter, the same legal rule applies. The law does not value a child’s life less because of age or sex.",
+    "refs": [
+      "Exodus 21:28–30"
+    ]
+  },
+  "Exodus 21:32": {
+    "title": "An ox kills a servant",
+    "text": "If the ox kills a male or female servant, the owner must pay the stated amount to the servant’s master and the ox is stoned. The law specifies compensation in the ancient social structure while still holding the dangerous animal to account.",
+    "refs": [
+      "Exodus 21:28"
+    ]
+  },
+  "Exodus 21:33": {
+    "title": "An uncovered pit causes injury",
+    "text": "If someone opens a pit or digs one and leaves it uncovered, creating danger for an animal, the person is responsible for the loss. The law establishes responsibility for hazards a person creates on their property.",
+    "refs": [
+      "Deuteronomy 22:8"
+    ]
+  },
+  "Exodus 21:34": {
+    "title": "Compensation for a fallen animal",
+    "text": "The owner of the pit must compensate the animal’s owner and may keep the dead animal. The provision gives a clear remedy for loss caused by negligence.",
+    "refs": [
+      "Exodus 21:33"
+    ]
+  },
+  "Exodus 21:35": {
+    "title": "One ox kills another",
+    "text": "If one person’s ox kills another’s, the live ox is sold and the proceeds and dead animal are divided. The law shares the loss between owners when the case does not specify the heightened responsibility described in the next verse.",
+    "refs": [
+      "Exodus 21:36"
+    ]
+  },
+  "Exodus 21:36": {
+    "title": "A known dangerous ox",
+    "text": "If the ox was known to gore and its owner failed to keep it in, the owner must repay ox for ox and keep the dead animal. Prior knowledge increases responsibility, a principle that appears throughout laws of negligence.",
+    "refs": [
+      "Exodus 21:29"
+    ]
+  },
+  "Exodus 22:1": {
+    "title": "Restitution for stolen livestock",
+    "text": "The law sets restitution when someone steals an ox or sheep and kills or sells it. The greater repayment reflects the seriousness of theft and the loss caused to the victim.",
+    "refs": [
+      "2 Samuel 12:6",
+      "Proverbs 6:30–31"
+    ]
+  },
+  "Exodus 22:2": {
+    "title": "A thief caught breaking in",
+    "text": "The law considers a case where a thief is struck while breaking in at night and dies. The following verse distinguishes the situation after sunrise; the rules are part of ancient Israel’s legal framework for defending a home and assessing culpability.",
+    "refs": [
+      "Exodus 22:3"
+    ]
+  },
+  "Exodus 22:3": {
+    "title": "Restitution after sunrise",
+    "text": "If the sun has risen, the defender is liable in the case described, and a thief who cannot repay is sold for the theft. The distinction reflects the legal assessment of danger and the use of restitution in that society; it should not be treated as a universal modern self-defense statute.",
+    "refs": [
+      "Exodus 22:2",
+      "Leviticus 6:4–5"
+    ]
+  },
+  "Exodus 22:4": {
+    "title": "Restitution for recovered livestock",
+    "text": "If stolen livestock is found alive in the thief’s possession, the thief must repay double. The law requires restitution even when the animal has not been killed or sold.",
+    "refs": [
+      "Exodus 22:1"
+    ]
+  },
+  "Exodus 22:5": {
+    "title": "Damage caused by grazing animals",
+    "text": "If someone lets livestock graze in another person’s field or vineyard, restitution must come from the best of the offender’s own field or vineyard. The law holds a person responsible for allowing their animals to damage another’s property.",
+    "refs": [
+      "Exodus 21:33–34"
+    ]
+  },
+  "Exodus 22:6": {
+    "title": "Fire damage and negligence",
+    "text": "If a fire spreads from thorns and burns another person’s grain, standing crop, or field, the person who started the fire must make restitution. The law assigns responsibility for foreseeable damage caused by fire.",
+    "refs": [
+      "Proverbs 6:27–29"
+    ]
+  },
+  "Exodus 22:7": {
+    "title": "Property entrusted to a neighbor",
+    "text": "If money or goods are entrusted to a neighbor and stolen from the neighbor’s house, the case is to be examined. If the thief is found, restitution is required; the law protects property held in trust.",
+    "refs": [
+      "Leviticus 6:2–5"
+    ]
+  },
+  "Exodus 22:8": {
+    "title": "A disputed claim before the judges",
+    "text": "If the thief is not found, the householder must appear before the judges to determine whether he has taken the neighbor’s property. The process requires examination rather than automatically accepting an accusation.",
+    "refs": [
+      "Deuteronomy 19:15–19"
+    ]
+  },
+  "Exodus 22:9": {
+    "title": "Disputes over ownership",
+    "text": "In disputes involving an ox, donkey, sheep, garment, or other lost property, the case comes before the judges, and the one found guilty must pay double. The law provides a public process for settling contested claims.",
+    "refs": [
+      "Exodus 22:8"
+    ]
+  },
+  "Exodus 22:10": {
+    "title": "An animal entrusted to another",
+    "text": "If an animal entrusted to a neighbor dies, is hurt, or is driven away without witnesses, the case is to be settled under the stated procedure. The law recognizes that not every loss proves wrongdoing and calls for a fair determination.",
+    "refs": [
+      "Exodus 22:11"
+    ]
+  },
+  "Exodus 22:11": {
+    "title": "An oath before the LORD",
+    "text": "An oath before the LORD settles the matter between the parties when the animal’s loss cannot otherwise be explained under this law. The oath invokes God’s authority, so it is not to be used lightly or falsely.",
+    "refs": [
+      "Leviticus 19:12",
+      "Hebrews 6:16"
+    ]
+  },
+  "Exodus 22:12": {
+    "title": "Restitution for a stolen animal",
+    "text": "If the animal was stolen from the person entrusted with it, that person must make restitution to the owner. The rule distinguishes theft from a loss for which the caretaker was not shown to be responsible.",
+    "refs": [
+      "Exodus 22:10–11"
+    ]
+  },
+  "Exodus 22:13": {
+    "title": "Evidence of an animal torn by beasts",
+    "text": "If the animal was torn by beasts, the caretaker is to bring evidence and is not required to repay the torn animal. The rule requires evidence and distinguishes unavoidable loss from theft.",
+    "refs": [
+      "Genesis 31:39"
+    ]
+  },
+  "Exodus 22:14": {
+    "title": "Borrowed property is damaged",
+    "text": "If a person borrows an animal or item and it is injured or dies while the owner is absent, the borrower must make restitution. The next verse distinguishes a hired animal, for which payment terms differ.",
+    "refs": [
+      "Exodus 22:15"
+    ]
+  },
+  "Exodus 22:15": {
+    "title": "A hired animal and agreed payment",
+    "text": "If the owner is present, or the animal was hired, the law sets different responsibility according to the arrangement. The principle is that agreements and circumstances matter when determining liability.",
+    "refs": [
+      "Leviticus 19:13"
+    ]
+  },
+  "Exodus 22:16": {
+    "title": "Seduction and marriage obligations",
+    "text": "If a man seduces an unmarried virgin and lies with her, he must pay the bride-price and take her as wife, subject to the father’s decision in the next verse. This is an ancient legal provision concerning marriage and family obligations; it should be read with its following limitation and not mistaken for a modern legal framework.",
+    "refs": [
+      "Deuteronomy 22:28–29"
+    ]
+  },
+  "Exodus 22:17": {
+    "title": "The father may refuse the marriage",
+    "text": "If the father refuses to give her in marriage, the man must still pay the money equivalent to the bride-price. The law ensures the man cannot avoid the financial responsibility stated in the previous verse simply because the marriage does not occur.",
+    "refs": [
+      "Exodus 22:16"
+    ]
+  },
+  "Exodus 22:18": {
+    "title": "A prohibition of sorcery",
+    "text": "The law prohibits a sorceress from being allowed to live under Israel’s covenant legal system. The verse reflects the ancient law’s severe treatment of sorcery; it is not a direction for private individuals to harm others, and its civil penalty belongs to that historical covenant code.",
+    "refs": [
+      "Leviticus 20:27",
+      "Deuteronomy 18:10–12"
+    ]
+  },
+  "Exodus 22:19": {
+    "title": "Sexual relations with an animal",
+    "text": "The law prescribes death for a person who lies with an animal. The prohibition marks this act as incompatible with Israel’s covenant standards for sexual conduct.",
+    "refs": [
+      "Leviticus 18:23"
+    ]
+  },
+  "Exodus 22:20": {
+    "title": "Idolatrous sacrifice forbidden",
+    "text": "The law condemns sacrificing to any god other than the LORD. Israel is called to exclusive worship of the one God who brought them out of Egypt.",
+    "refs": [
+      "Exodus 20:3",
+      "Deuteronomy 6:4–5"
+    ]
+  },
+  "Exodus 22:21": {
+    "title": "Do not oppress the stranger",
+    "text": "Israel must not wrong or oppress a stranger, remembering that they themselves were strangers in Egypt. Their experience of bondage is meant to cultivate justice and compassion toward vulnerable outsiders.",
+    "refs": [
+      "Leviticus 19:33–34",
+      "Deuteronomy 10:18–19"
+    ]
+  },
+  "Exodus 22:22": {
+    "title": "Do not afflict widows or orphans",
+    "text": "God forbids mistreating widows and fatherless children. The law gives special attention to people who may lack the social protection of a household head.",
+    "refs": [
+      "Deuteronomy 24:17",
+      "James 1:27"
+    ]
+  },
+  "Exodus 22:23": {
+    "title": "God hears the cry of the vulnerable",
+    "text": "If Israel afflicts widows or orphans and they cry to God, He says He will surely hear them. The warning shows that religious identity does not shield the oppressor from God’s judgment.",
+    "refs": [
+      "Psalm 10:17–18",
+      "Isaiah 1:17"
+    ]
+  },
+  "Exodus 22:24": {
+    "title": "Judgment for oppression",
+    "text": "God warns that His anger will be kindled and that the oppressors’ own families will suffer the consequences of war and loss. The severe warning underscores the seriousness of exploiting vulnerable people.",
+    "refs": [
+      "Deuteronomy 27:19"
+    ]
+  },
+  "Exodus 22:25": {
+    "title": "Do not exploit the poor through interest",
+    "text": "If someone lends to a poor person among Israel, the lender must not act as a harsh creditor or charge interest under the stated rule. The law restrains profiting from another Israelite’s desperation.",
+    "refs": [
+      "Leviticus 25:35–37",
+      "Deuteronomy 23:19–20"
+    ]
+  },
+  "Exodus 22:26": {
+    "title": "Return a pledged garment by sunset",
+    "text": "If a neighbor’s garment is taken as a pledge, it must be returned before sunset because it is the person’s covering and warmth. The law places human need above retaining collateral overnight.",
+    "refs": [
+      "Deuteronomy 24:12–13"
+    ]
+  },
+  "Exodus 22:27": {
+    "title": "God hears the poor person",
+    "text": "God says that when the poor person cries to Him, He will hear, because He is gracious. The verse grounds compassion in God’s own character and warns against treating poverty as permission to mistreat someone.",
+    "refs": [
+      "Exodus 34:6",
+      "Psalm 86:15"
+    ]
+  },
+  "Exodus 22:28": {
+    "title": "Do not revile God or rulers",
+    "text": "The law forbids reviling God and cursing the ruler of the people. It calls for respect in covenant and public life; it does not mean every ruler is morally right or beyond accountability before God.",
+    "refs": [
+      "Acts 23:5",
+      "Romans 13:1–7"
+    ]
+  },
+  "Exodus 22:29": {
+    "title": "Offerings and firstborn",
+    "text": "Israel must not delay the offerings from its harvest and produce and must give the firstborn sons to God according to His instruction. The command places worship and gratitude at the center of the community’s life.",
+    "refs": [
+      "Exodus 13:2",
+      "Proverbs 3:9"
+    ]
+  },
+  "Exodus 22:30": {
+    "title": "Firstborn livestock on the eighth day",
+    "text": "The firstborn of oxen and sheep are to remain with the mother for seven days and be given on the eighth day. The timing is part of the prescribed offering practice.",
+    "refs": [
+      "Leviticus 22:27"
+    ]
+  },
+  "Exodus 22:31": {
+    "title": "A holy people and clean food practices",
+    "text": "Israel is called to be holy to the LORD and is instructed not to eat flesh torn by beasts but to cast it to the dogs. The command belongs to Israel’s covenant holiness and food regulations, emphasizing distinction in ordinary life as well as worship.",
+    "refs": [
+      "Leviticus 11:44–45",
+      "Deuteronomy 14:21"
+    ]
   }
 };
