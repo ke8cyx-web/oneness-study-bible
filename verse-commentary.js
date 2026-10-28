@@ -7836,5 +7836,483 @@ window.verseCommentary = {
     "refs": [
       "Genesis 43:1–2"
     ]
+  },
+  "Genesis 43:1": {
+    "title": "The famine remains severe",
+    "text": "The famine continues to press the family, and the grain brought from Egypt is not enough for the long term. Jacob’s household must decide whether to return to Egypt.",
+    "refs": [
+      "Genesis 42:2"
+    ]
+  },
+  "Genesis 43:2": {
+    "title": "Jacob orders another journey",
+    "text": "After the family has eaten the grain from Egypt, Jacob tells his sons to return and buy a little more food. The need for survival forces the issue of Benjamin’s journey.",
+    "refs": [
+      "Genesis 42:38"
+    ]
+  },
+  "Genesis 43:3": {
+    "title": "Judah reminds Jacob of the condition",
+    "text": "Judah says the Egyptian ruler warned them not to appear unless Benjamin came with them. The condition is firm, and the brothers cannot obtain more grain without facing it.",
+    "refs": [
+      "Genesis 42:20"
+    ]
+  },
+  "Genesis 43:4": {
+    "title": "Judah offers to go with Benjamin",
+    "text": "Judah says they will go down if Jacob sends Benjamin. The brothers are prepared to return, but Jacob must accept the risk of sending his youngest son.",
+    "refs": [
+      "Genesis 43:8"
+    ]
+  },
+  "Genesis 43:5": {
+    "title": "Without Benjamin they cannot appear",
+    "text": "Judah repeats that they cannot see the ruler unless Benjamin is with them. The narrative makes clear that the family’s path forward depends on Jacob’s decision.",
+    "refs": [
+      "Genesis 42:34"
+    ]
+  },
+  "Genesis 43:6": {
+    "title": "Jacob questions their honesty",
+    "text": "Jacob asks why they told the ruler they had another brother. His question comes from fear and frustration, while the brothers had answered the ruler’s questions about their family.",
+    "refs": [
+      "Genesis 42:13"
+    ]
+  },
+  "Genesis 43:7": {
+    "title": "The brothers explain the questioning",
+    "text": "They say the ruler asked directly about their family and they answered honestly, not knowing he would demand Benjamin. Their explanation shows how the earlier conversation led to the present crisis.",
+    "refs": [
+      "Genesis 42:13–20"
+    ]
+  },
+  "Genesis 43:8": {
+    "title": "Judah accepts responsibility",
+    "text": "Judah urges Jacob to send the boy with him so the family may live and not die. He frames the journey as necessary for the survival of the children and household.",
+    "refs": [
+      "Genesis 42:2"
+    ]
+  },
+  "Genesis 43:9": {
+    "title": "Judah pledges himself for Benjamin",
+    "text": "Judah promises to be surety for Benjamin and says Jacob may hold him responsible if he fails to bring him back. His willingness to take responsibility contrasts with his earlier role in selling Joseph.",
+    "refs": [
+      "Genesis 37:26–28",
+      "Genesis 44:32–34"
+    ]
+  },
+  "Genesis 43:10": {
+    "title": "The delay has cost time",
+    "text": "Judah says that if they had not delayed, they could have returned twice. The famine makes postponement costly, and Jacob must now choose between risk and hunger.",
+    "refs": [
+      "Genesis 43:1–2"
+    ]
+  },
+  "Genesis 43:11": {
+    "title": "Jacob prepares a gift",
+    "text": "Jacob tells his sons to take a gift of the land’s best produce and double money. He seeks favor from the ruler through customary hospitality and careful preparation.",
+    "refs": [
+      "Proverbs 18:16"
+    ]
+  },
+  "Genesis 43:12": {
+    "title": "Take double money",
+    "text": "Jacob instructs the brothers to return the money found in their sacks as well as money for new grain. He wants to correct the apparent mistake and avoid any suspicion of dishonesty.",
+    "refs": [
+      "Genesis 42:25–28"
+    ]
+  },
+  "Genesis 43:13": {
+    "title": "Take Benjamin and return",
+    "text": "Jacob tells them to take Benjamin and go back to the man. The family finally moves forward with the condition that had prevented their return.",
+    "refs": [
+      "Genesis 43:8–9"
+    ]
+  },
+  "Genesis 43:14": {
+    "title": "Jacob prays for mercy",
+    "text": "Jacob asks God Almighty to grant mercy before the ruler so that Simeon and Benjamin may return. He acknowledges that the outcome is beyond his control and entrusts his sons to God.",
+    "refs": [
+      "Genesis 17:1",
+      "Genesis 42:36"
+    ]
+  },
+  "Genesis 43:15": {
+    "title": "The brothers return to Egypt",
+    "text": "The brothers take the gift, double money, and Benjamin and stand before Joseph. The moment brings Joseph’s plan to its next stage.",
+    "refs": [
+      "Genesis 42:20"
+    ]
+  },
+  "Genesis 43:16": {
+    "title": "Joseph orders a meal",
+    "text": "When Joseph sees Benjamin, he tells his steward to bring the men to his house and prepare a meal. The brothers are invited into a situation they do not understand and initially fear.",
+    "refs": [
+      "Genesis 43:18"
+    ]
+  },
+  "Genesis 43:17": {
+    "title": "Joseph’s steward obeys",
+    "text": "The steward does as Joseph commands and brings the men to Joseph’s house. Joseph’s household is arranged to receive them, though the brothers interpret the invitation with suspicion.",
+    "refs": [
+      "Genesis 43:18"
+    ]
+  },
+  "Genesis 43:18": {
+    "title": "The brothers fear the money",
+    "text": "The brothers fear they are being brought in because of the returned money and expect to be accused, seized, and made servants. Their fear reflects the uncertainty of their previous dealings with Egypt.",
+    "refs": [
+      "Genesis 42:27–28"
+    ]
+  },
+  "Genesis 43:19": {
+    "title": "They speak to the steward",
+    "text": "The brothers approach the steward at the entrance and explain the money found in their sacks. They try to clarify the situation before any accusation is made.",
+    "refs": [
+      "Genesis 43:20–22"
+    ]
+  },
+  "Genesis 43:20": {
+    "title": "They explain the first journey",
+    "text": "They tell the steward they came to buy food previously and returned home after their grain was purchased. They are trying to demonstrate that they have not deliberately withheld payment.",
+    "refs": [
+      "Genesis 42:25"
+    ]
+  },
+  "Genesis 43:21": {
+    "title": "The money was in their sacks",
+    "text": "The brothers say that at the lodging place they found their money in full weight in their sacks and have brought it back. Their account emphasizes that they are returning the unexplained money rather than keeping it.",
+    "refs": [
+      "Genesis 42:27–28"
+    ]
+  },
+  "Genesis 43:22": {
+    "title": "They bring money for more grain",
+    "text": "They say they have brought additional money to buy food and do not know who put the other money in their sacks. Their explanation is consistent with the reader’s knowledge that Joseph’s steward returned it by order.",
+    "refs": [
+      "Genesis 42:25"
+    ]
+  },
+  "Genesis 43:23": {
+    "title": "The steward reassures them",
+    "text": "The steward tells them not to fear, says their God and their father’s God gave them treasure, and brings Simeon out. His words offer reassurance, although the narrative does not say he knows all the circumstances behind the returned money.",
+    "refs": [
+      "Genesis 42:24"
+    ]
+  },
+  "Genesis 43:24": {
+    "title": "The brothers are treated hospitably",
+    "text": "The steward brings the men into the house, gives them water to wash their feet, and feeds their donkeys. The hospitality contrasts with their fear that they will be seized as servants.",
+    "refs": [
+      "Genesis 18:4"
+    ]
+  },
+  "Genesis 43:25": {
+    "title": "They prepare the gift",
+    "text": "The brothers prepare the gift for Joseph’s arrival at noon, having heard that they will eat there. They seek to approach the ruler respectfully.",
+    "refs": [
+      "Genesis 43:11"
+    ]
+  },
+  "Genesis 43:26": {
+    "title": "They bow before Joseph",
+    "text": "When Joseph comes home, they bring the gift and bow before him. The act echoes the dreams Joseph had told them years earlier.",
+    "refs": [
+      "Genesis 37:7–9"
+    ]
+  },
+  "Genesis 43:27": {
+    "title": "Joseph asks after their father",
+    "text": "Joseph asks whether their elderly father is well and still alive. His question shows concern for Jacob while he continues to conceal his identity.",
+    "refs": [
+      "Genesis 42:13"
+    ]
+  },
+  "Genesis 43:28": {
+    "title": "The brothers bow again",
+    "text": "The brothers say Jacob is well and bow again. The repeated bowing further echoes Joseph’s dreams, while the brothers remain unaware of the connection.",
+    "refs": [
+      "Genesis 37:9–10"
+    ]
+  },
+  "Genesis 43:29": {
+    "title": "Joseph sees Benjamin",
+    "text": "Joseph sees Benjamin, his mother’s son, and asks whether he is the younger brother they mentioned. He addresses Benjamin with a blessing, revealing a deep emotional connection.",
+    "refs": [
+      "Genesis 35:18"
+    ]
+  },
+  "Genesis 43:30": {
+    "title": "Joseph weeps privately",
+    "text": "Joseph’s emotions overcome him at the sight of Benjamin, and he leaves to weep in private. His tears reveal the affection beneath the stern role he has maintained.",
+    "refs": [
+      "Genesis 42:24"
+    ]
+  },
+  "Genesis 43:31": {
+    "title": "Joseph composes himself",
+    "text": "Joseph washes his face, returns, and orders the meal served. He manages his emotions before continuing the test of his brothers.",
+    "refs": [
+      "Genesis 43:30"
+    ]
+  },
+  "Genesis 43:32": {
+    "title": "Separate tables at the meal",
+    "text": "Joseph eats separately, the Egyptians separately, and the brothers separately because Egyptians did not eat with Hebrews. The verse describes a cultural boundary in the setting and helps explain the unusual seating.",
+    "refs": [
+      "Genesis 46:34"
+    ]
+  },
+  "Genesis 43:33": {
+    "title": "The brothers sit by age",
+    "text": "The brothers are seated from oldest to youngest, and they marvel at one another. The order suggests knowledge Joseph has not explained, adding to their confusion.",
+    "refs": [
+      "Genesis 42:13"
+    ]
+  },
+  "Genesis 43:34": {
+    "title": "Benjamin receives extra portions",
+    "text": "Joseph sends portions from his table to the brothers, and Benjamin receives five times as much. The meal tests whether the brothers will resent the youngest as they once resented Joseph.",
+    "refs": [
+      "Genesis 37:3–4"
+    ]
+  },
+  "Genesis 44:1": {
+    "title": "Joseph orders the sacks filled",
+    "text": "Joseph tells his steward to fill the men’s sacks with food and return each man’s money. The arrangement repeats the earlier return of their money and prepares a final test.",
+    "refs": [
+      "Genesis 43:16"
+    ]
+  },
+  "Genesis 44:2": {
+    "title": "The silver cup in Benjamin’s sack",
+    "text": "Joseph orders his silver cup placed in Benjamin’s sack along with the money. This is a deliberate test devised by Joseph, not a real theft committed by Benjamin.",
+    "refs": [
+      "Genesis 44:12"
+    ]
+  },
+  "Genesis 44:3": {
+    "title": "The brothers leave at dawn",
+    "text": "At daybreak, the brothers are sent away with their donkeys. They leave believing the visit has ended peacefully, unaware of the test ahead.",
+    "refs": [
+      "Genesis 44:4"
+    ]
+  },
+  "Genesis 44:4": {
+    "title": "Joseph sends the steward after them",
+    "text": "Joseph tells his steward to pursue the men and ask why they repaid good with evil. The accusation is part of the test that will reveal how the brothers respond to danger involving Benjamin.",
+    "refs": [
+      "Genesis 44:5"
+    ]
+  },
+  "Genesis 44:5": {
+    "title": "The cup used for divination",
+    "text": "The steward refers to Joseph’s cup as one used for divination. This is part of the narrative’s setup and does not endorse divination as a practice for God’s people.",
+    "refs": [
+      "Deuteronomy 18:10–12"
+    ]
+  },
+  "Genesis 44:6": {
+    "title": "The steward repeats the accusation",
+    "text": "The steward catches up and says the words Joseph instructed him to say. The brothers are confronted with a serious charge despite believing they have acted honestly.",
+    "refs": [
+      "Genesis 44:4–5"
+    ]
+  },
+  "Genesis 44:7": {
+    "title": "The brothers deny wrongdoing",
+    "text": "The brothers ask why the steward speaks this way and insist they would not steal silver or gold. Their confidence comes from their belief that they have returned the money found in their sacks.",
+    "refs": [
+      "Genesis 43:21–22"
+    ]
+  },
+  "Genesis 44:8": {
+    "title": "They cite the returned money",
+    "text": "They remind the steward that they returned money found in their sacks from Canaan, asking why they would steal silver or gold from the master’s house. Their argument is reasonable from what they know, though the planted cup is hidden from them.",
+    "refs": [
+      "Genesis 43:21"
+    ]
+  },
+  "Genesis 44:9": {
+    "title": "A severe pledge offered",
+    "text": "The brothers say whoever has the cup may die and the rest will become servants. Their statement is rash, and the search will expose that the cup is in Benjamin’s sack.",
+    "refs": [
+      "Genesis 44:12"
+    ]
+  },
+  "Genesis 44:10": {
+    "title": "The steward narrows the penalty",
+    "text": "The steward says the one found with the cup will be a servant, while the others will be blameless. The stated penalty is less severe than the brothers proposed, but it still threatens the family.",
+    "refs": [
+      "Genesis 44:17"
+    ]
+  },
+  "Genesis 44:11": {
+    "title": "The sacks are opened",
+    "text": "Each brother quickly lowers his sack to the ground and opens it. The search proceeds from the oldest to the youngest, building suspense.",
+    "refs": [
+      "Genesis 44:12"
+    ]
+  },
+  "Genesis 44:12": {
+    "title": "The cup is found with Benjamin",
+    "text": "The steward searches the sacks and finds the cup in Benjamin’s sack. The brothers are shocked because they do not know that Joseph arranged the test.",
+    "refs": [
+      "Genesis 44:2"
+    ]
+  },
+  "Genesis 44:13": {
+    "title": "The brothers tear their clothes",
+    "text": "The brothers tear their clothes, load their donkeys, and return to the city. Their reaction shows solidarity with Benjamin rather than abandoning him as they once abandoned Joseph.",
+    "refs": [
+      "Genesis 37:23–28"
+    ]
+  },
+  "Genesis 44:14": {
+    "title": "Judah and his brothers return",
+    "text": "Judah and his brothers enter Joseph’s house and fall before him. The scene brings the brothers back into Joseph’s presence under the threat of losing Benjamin.",
+    "refs": [
+      "Genesis 43:26"
+    ]
+  },
+  "Genesis 44:15": {
+    "title": "Joseph asks about their act",
+    "text": "Joseph asks what they have done and says such a man as he can surely discover things. His statement maintains the role of the powerful Egyptian ruler in the test.",
+    "refs": [
+      "Genesis 44:5"
+    ]
+  },
+  "Genesis 44:16": {
+    "title": "Judah confesses helplessness",
+    "text": "Judah asks what they can say and how they can clear themselves, saying God has found out their iniquity. He does not claim they stole the cup; instead, he speaks as a guilty man whose past sins have caught up with him.",
+    "refs": [
+      "Genesis 42:21–22"
+    ]
+  },
+  "Genesis 44:17": {
+    "title": "Joseph demands Benjamin remain",
+    "text": "Joseph says only the man with the cup will remain as his servant, and the rest may return in peace to their father. The condition tests whether the brothers will leave Benjamin behind to save themselves.",
+    "refs": [
+      "Genesis 44:33–34"
+    ]
+  },
+  "Genesis 44:18": {
+    "title": "Judah approaches Joseph",
+    "text": "Judah asks permission to speak and pleads that Joseph not be angry. His speech begins a deeply personal appeal on behalf of their father and Benjamin.",
+    "refs": [
+      "Genesis 44:30–31"
+    ]
+  },
+  "Genesis 44:19": {
+    "title": "Joseph had asked about their family",
+    "text": "Judah recalls that Joseph asked whether they had a father or brother. The speech retraces the questions that led to Benjamin being brought to Egypt.",
+    "refs": [
+      "Genesis 43:7"
+    ]
+  },
+  "Genesis 44:20": {
+    "title": "They describe the youngest brother",
+    "text": "Judah says they have an old father and a younger brother born in his father’s old age, whose brother is dead and who is the only son of his mother left. Judah is referring to Joseph as dead in the family’s belief, while Joseph hears the depth of Jacob’s attachment to Benjamin.",
+    "refs": [
+      "Genesis 42:13"
+    ]
+  },
+  "Genesis 44:21": {
+    "title": "Joseph required Benjamin’s presence",
+    "text": "Judah recalls that Joseph told them to bring Benjamin so he could see him. The demand created the present crisis and put Jacob’s beloved youngest son at risk.",
+    "refs": [
+      "Genesis 42:20"
+    ]
+  },
+  "Genesis 44:22": {
+    "title": "Jacob feared losing Benjamin",
+    "text": "Judah says they told Joseph that the boy could not leave his father, or his father would die. The family had already warned how deeply Jacob’s life was bound to Benjamin’s safety.",
+    "refs": [
+      "Genesis 42:38"
+    ]
+  },
+  "Genesis 44:23": {
+    "title": "The ruler’s condition repeated",
+    "text": "Judah recalls Joseph’s insistence that they would not see his face again unless Benjamin came with them. This condition made the second journey unavoidable.",
+    "refs": [
+      "Genesis 43:3–5"
+    ]
+  },
+  "Genesis 44:24": {
+    "title": "They report to their father",
+    "text": "Judah says they returned to their father and told him the ruler’s words. The family’s decision to bring Benjamin was made under the pressure of famine.",
+    "refs": [
+      "Genesis 43:1–2"
+    ]
+  },
+  "Genesis 44:25": {
+    "title": "Jacob asks them to buy more food",
+    "text": "Judah recalls Jacob’s instruction to return to Egypt to buy a little food. The family cannot survive without the grain Joseph controls.",
+    "refs": [
+      "Genesis 43:2"
+    ]
+  },
+  "Genesis 44:26": {
+    "title": "They could not go without Benjamin",
+    "text": "Judah repeats that they could not go unless Benjamin accompanied them, because the ruler would not see them otherwise. The brothers are now bound to Benjamin’s fate.",
+    "refs": [
+      "Genesis 43:5"
+    ]
+  },
+  "Genesis 44:27": {
+    "title": "Jacob’s two sons by Rachel",
+    "text": "Judah recounts Jacob’s statement that his wife bore him two sons. The speech emphasizes how special Rachel’s sons are to Jacob and why losing Benjamin would devastate him.",
+    "refs": [
+      "Genesis 35:24"
+    ]
+  },
+  "Genesis 44:28": {
+    "title": "One son believed lost",
+    "text": "Judah says one son went away and Jacob believed he had been torn in pieces, and he has not seen him since. Joseph hears the family’s belief about his fate directly from Judah.",
+    "refs": [
+      "Genesis 37:33–35"
+    ]
+  },
+  "Genesis 44:29": {
+    "title": "Jacob fears Benjamin’s death",
+    "text": "Judah says that if Benjamin is taken and harmed, Jacob will go down to the grave in sorrow. The warning underscores the emotional stakes of the demand to leave Benjamin in Egypt.",
+    "refs": [
+      "Genesis 42:38"
+    ]
+  },
+  "Genesis 44:30": {
+    "title": "Judah sees Benjamin’s place in Jacob’s heart",
+    "text": "Judah says he cannot return to his father without the boy because Jacob’s life is bound up with Benjamin’s. His concern now centers on his father’s grief rather than his own safety.",
+    "refs": [
+      "Genesis 44:31"
+    ]
+  },
+  "Genesis 44:31": {
+    "title": "Jacob would die in sorrow",
+    "text": "Judah explains that if Jacob sees Benjamin missing, he will die of grief, and the brothers will bring their father down in sorrow. The speech shows that Judah now feels responsible for protecting both Benjamin and Jacob.",
+    "refs": [
+      "Genesis 42:36"
+    ]
+  },
+  "Genesis 44:32": {
+    "title": "Judah had pledged himself",
+    "text": "Judah reminds Joseph that he personally became surety for Benjamin before their father. His pledge is not an empty phrase; he is prepared to accept the consequences himself.",
+    "refs": [
+      "Genesis 43:9"
+    ]
+  },
+  "Genesis 44:33": {
+    "title": "Judah offers to stay as a servant",
+    "text": "Judah asks to remain in Benjamin’s place and let Benjamin return with the brothers. This is a striking reversal from Judah’s earlier proposal to sell Joseph rather than kill him.",
+    "refs": [
+      "Genesis 37:26–28"
+    ]
+  },
+  "Genesis 44:34": {
+    "title": "Judah cannot bear to see Jacob’s grief",
+    "text": "Judah says he cannot return to his father without Benjamin and witness the disaster that would come upon him. His plea reveals a changed willingness to sacrifice himself for his family.",
+    "refs": [
+      "Genesis 44:18–33"
+    ]
   }
 };
