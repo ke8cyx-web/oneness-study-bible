@@ -10956,5 +10956,422 @@ window.verseCommentary = {
       "Exodus 4:10–16",
       "Exodus 7:1–2"
     ]
+  },
+  "Exodus 7:1": {
+    "title": "Moses as God to Pharaoh",
+    "text": "God tells Moses that He has made him “a god to Pharaoh,” while Aaron will be his prophet. This is language of delegated authority: Moses represents God’s message before Pharaoh, and Aaron speaks for Moses. It does not teach that Moses is the one true God by nature.",
+    "refs": [
+      "Exodus 4:16",
+      "Exodus 7:2"
+    ]
+  },
+  "Exodus 7:2": {
+    "title": "Speak all God commands",
+    "text": "Moses must speak what God commands, and Aaron must communicate the message to Pharaoh. Their roles are distinct, but both act under the authority of the one LORD who sends them.",
+    "refs": [
+      "Exodus 4:15–16",
+      "Deuteronomy 18:18"
+    ]
+  },
+  "Exodus 7:3": {
+    "title": "Pharaoh’s heart hardened",
+    "text": "God says He will harden Pharaoh’s heart and multiply signs and wonders in Egypt. Later verses also describe Pharaoh hardening his own heart. The account presents God’s judgment and Pharaoh’s culpable resistance together.",
+    "refs": [
+      "Exodus 4:21",
+      "Exodus 8:15",
+      "Exodus 9:34–35"
+    ]
+  },
+  "Exodus 7:4": {
+    "title": "Judgments against Egypt",
+    "text": "Pharaoh will not listen, so God will lay His hand upon Egypt and bring Israel out by great judgments. The plagues are not random disasters in the narrative; they confront Egypt’s power and demonstrate the LORD’s authority.",
+    "refs": [
+      "Exodus 12:12",
+      "Numbers 33:4"
+    ]
+  },
+  "Exodus 7:5": {
+    "title": "Egypt will know the LORD",
+    "text": "When God stretches out His hand against Egypt and brings Israel out, the Egyptians will know that He is the LORD. The purpose of the signs includes revelation: God makes His identity known through His saving and judging acts.",
+    "refs": [
+      "Exodus 6:7",
+      "Exodus 14:4"
+    ]
+  },
+  "Exodus 7:6": {
+    "title": "Moses and Aaron obey",
+    "text": "Moses and Aaron do as the LORD commands. Their obedience contrasts with Pharaoh’s resistance and shows the response God expects from those He commissions.",
+    "refs": [
+      "Exodus 4:28–30"
+    ]
+  },
+  "Exodus 7:7": {
+    "title": "Their ages are recorded",
+    "text": "Moses is eighty and Aaron eighty-three when they speak to Pharaoh. Their ages underline that God calls them to this task after years of life and preparation, not in their youth.",
+    "refs": [
+      "Acts 7:23, 30"
+    ]
+  },
+  "Exodus 7:8": {
+    "title": "God speaks about a sign",
+    "text": "The LORD tells Moses and Aaron what Pharaoh may demand and how they are to respond. The coming sign is performed according to God’s prior instruction.",
+    "refs": [
+      "Exodus 4:1–9"
+    ]
+  },
+  "Exodus 7:9": {
+    "title": "The rod becomes a serpent",
+    "text": "Moses is to tell Aaron to cast down the rod before Pharaoh, where it becomes a serpent. The sign repeats the earlier confirmation before the royal court and shows that the confrontation is directed by God.",
+    "refs": [
+      "Exodus 4:2–5"
+    ]
+  },
+  "Exodus 7:10": {
+    "title": "The sign is performed before Pharaoh",
+    "text": "Moses and Aaron do as commanded, and Aaron casts down the rod before Pharaoh and his servants; it becomes a serpent. The narrative emphasizes obedience and the public nature of the sign.",
+    "refs": [
+      "Exodus 7:8–9"
+    ]
+  },
+  "Exodus 7:11": {
+    "title": "Egyptian wise men imitate the sign",
+    "text": "Pharaoh calls wise men, sorcerers, and magicians, who imitate the sign by their secret arts. The passage does not explain every mechanism behind their acts; it contrasts their imitation with God’s superior power in the next verse.",
+    "refs": [
+      "2 Timothy 3:8–9"
+    ]
+  },
+  "Exodus 7:12": {
+    "title": "Aaron’s rod swallows theirs",
+    "text": "The rods of the magicians become serpents, but Aaron’s rod swallows theirs. The sign shows that Egypt’s practitioners cannot rival the authority accompanying God’s commission.",
+    "refs": [
+      "Exodus 8:18–19",
+      "Exodus 9:11"
+    ]
+  },
+  "Exodus 7:13": {
+    "title": "Pharaoh’s heart remains hard",
+    "text": "Pharaoh does not listen, as the LORD had said. A sign alone does not force him into faithful obedience; his resistance continues and the judgments will escalate.",
+    "refs": [
+      "Exodus 7:3–5"
+    ]
+  },
+  "Exodus 7:14": {
+    "title": "Pharaoh refuses to release Israel",
+    "text": "The LORD says Pharaoh’s heart is hardened and he refuses to let the people go. The first plague begins with this refusal as its immediate context.",
+    "refs": [
+      "Exodus 5:2",
+      "Exodus 7:16"
+    ]
+  },
+  "Exodus 7:15": {
+    "title": "Moses meets Pharaoh at the river",
+    "text": "Moses is told to meet Pharaoh by the water in the morning and bring the rod that became a serpent. The river is central to Egypt’s life and will become the setting for the first plague.",
+    "refs": [
+      "Exodus 2:3–5"
+    ]
+  },
+  "Exodus 7:16": {
+    "title": "The demand to let Israel serve God",
+    "text": "Moses is to repeat that the LORD, God of the Hebrews, sent him to demand that Israel be released to serve Him in the wilderness. Pharaoh’s refusal to listen will now be answered by a sign of judgment.",
+    "refs": [
+      "Exodus 5:1–3"
+    ]
+  },
+  "Exodus 7:17": {
+    "title": "The river becomes blood",
+    "text": "God says that by striking the river with the rod, its water will become blood, so Pharaoh will know that He is the LORD. The sign directly challenges the river’s role as a source of life and provision in Egypt.",
+    "refs": [
+      "Exodus 7:5",
+      "Psalm 105:29"
+    ]
+  },
+  "Exodus 7:18": {
+    "title": "Fish die and the river stinks",
+    "text": "The fish will die, the river will smell, and the Egyptians will struggle to drink its water. The judgment affects food, water, and daily life, making Pharaoh’s refusal costly to the whole land.",
+    "refs": [
+      "Exodus 7:21"
+    ]
+  },
+  "Exodus 7:19": {
+    "title": "The waters throughout Egypt struck",
+    "text": "Aaron is commanded to stretch his rod over Egypt’s waters, including streams, pools, and vessels of wood and stone, and they will become blood. The breadth of the command underscores the scope of the sign.",
+    "refs": [
+      "Exodus 7:20–21"
+    ]
+  },
+  "Exodus 7:20": {
+    "title": "The river is struck",
+    "text": "Moses and Aaron obey, and the water is turned to blood before Pharaoh and his servants. The event is presented as the LORD’s judgment carried out through His commissioned servants.",
+    "refs": [
+      "Exodus 7:17–19"
+    ]
+  },
+  "Exodus 7:21": {
+    "title": "The water is undrinkable",
+    "text": "The fish die and the river stinks, and the Egyptians cannot drink its water. The consequences are physical and widespread, not merely a private sign witnessed by the king.",
+    "refs": [
+      "Psalm 78:44"
+    ]
+  },
+  "Exodus 7:22": {
+    "title": "The magicians imitate the sign",
+    "text": "Egypt’s magicians do likewise by their secret arts, and Pharaoh’s heart remains hard. Their imitation does not remove the plague or solve the crisis; it becomes another reason Pharaoh refuses to listen.",
+    "refs": [
+      "Exodus 7:11–13"
+    ]
+  },
+  "Exodus 7:23": {
+    "title": "Pharaoh turns away",
+    "text": "Pharaoh returns to his house and does not set his heart to the sign. The text portrays deliberate disregard even after a public warning.",
+    "refs": [
+      "Exodus 7:14"
+    ]
+  },
+  "Exodus 7:24": {
+    "title": "Egyptians dig for water",
+    "text": "The Egyptians dig around the river for drinking water because they cannot drink the river water. The plague brings practical hardship to ordinary people as well as confronting Pharaoh.",
+    "refs": [
+      "Exodus 7:18–21"
+    ]
+  },
+  "Exodus 7:25": {
+    "title": "Seven days pass",
+    "text": "Seven days pass after the LORD strikes the river. The time marker closes the first plague account and prepares for the next judgment.",
+    "refs": [
+      "Exodus 8:1"
+    ]
+  },
+  "Exodus 8:1": {
+    "title": "Let My people go",
+    "text": "The LORD again commands Pharaoh to release Israel so they can serve Him. The repeated demand makes clear that the plagues are connected to Pharaoh’s refusal to obey God’s word.",
+    "refs": [
+      "Exodus 5:1",
+      "Exodus 7:16"
+    ]
+  },
+  "Exodus 8:2": {
+    "title": "Frogs are threatened",
+    "text": "God warns that if Pharaoh refuses, frogs will swarm through the land. The judgment will enter homes and everyday spaces, removing the separation between royal policy and ordinary Egyptian life.",
+    "refs": [
+      "Psalm 78:45",
+      "Psalm 105:30"
+    ]
+  },
+  "Exodus 8:3": {
+    "title": "Frogs enter houses and beds",
+    "text": "Frogs will come into houses, bedrooms, beds, ovens, and kneading bowls. The detail emphasizes how thoroughly the plague disrupts domestic life.",
+    "refs": [
+      "Exodus 8:2"
+    ]
+  },
+  "Exodus 8:4": {
+    "title": "Frogs cover the people",
+    "text": "Frogs will come upon Pharaoh, his people, and his servants. The judgment is not confined to the royal palace; it spreads throughout Egyptian society.",
+    "refs": [
+      "Exodus 8:2–3"
+    ]
+  },
+  "Exodus 8:5": {
+    "title": "Aaron stretches out his hand",
+    "text": "The LORD tells Moses to command Aaron to stretch his rod over the waters and bring frogs upon Egypt. As in the first plague, the sign happens through obedient human agents under God’s command.",
+    "refs": [
+      "Exodus 7:19–20"
+    ]
+  },
+  "Exodus 8:6": {
+    "title": "Frogs cover Egypt",
+    "text": "Aaron stretches his hand over Egypt’s waters, and frogs come up and cover the land. The narrative attributes the event to the LORD’s command and Aaron’s obedience.",
+    "refs": [
+      "Exodus 8:5"
+    ]
+  },
+  "Exodus 8:7": {
+    "title": "The magicians imitate the frogs",
+    "text": "The magicians also bring up frogs by their secret arts. Their imitation adds to the plague rather than relieving it, revealing the limits of their response.",
+    "refs": [
+      "Exodus 7:11–12"
+    ]
+  },
+  "Exodus 8:8": {
+    "title": "Pharaoh asks Moses to pray",
+    "text": "Pharaoh calls Moses and Aaron and asks them to entreat the LORD to remove the frogs, promising to let Israel sacrifice. His request recognizes the LORD’s power, though the later narrative shows that his promises are unreliable.",
+    "refs": [
+      "Exodus 8:15"
+    ]
+  },
+  "Exodus 8:9": {
+    "title": "Moses asks Pharaoh to choose the time",
+    "text": "Moses tells Pharaoh to set the time when he should pray for the frogs to be removed, so Pharaoh may know there is none like the LORD their God. The timing makes the coming relief a sign of God’s authority, not a coincidence.",
+    "refs": [
+      "Exodus 8:10"
+    ]
+  },
+  "Exodus 8:10": {
+    "title": "There is none like the LORD",
+    "text": "Pharaoh says the frogs should be removed tomorrow, and Moses answers that it will be as Pharaoh has said, so he may know there is none like the LORD. The statement affirms the unique supremacy of Israel’s God over all rival powers.",
+    "refs": [
+      "Deuteronomy 4:35",
+      "Isaiah 45:5–6"
+    ]
+  },
+  "Exodus 8:11": {
+    "title": "The frogs die, but Pharaoh relents",
+    "text": "The frogs will leave the houses and remain in the river, and Moses goes out and cries to the LORD. When the frogs die, Pharaoh’s temporary relief will expose whether his promise was sincere.",
+    "refs": [
+      "Exodus 8:12–15"
+    ]
+  },
+  "Exodus 8:12": {
+    "title": "Moses cries to the LORD",
+    "text": "Moses cries to the LORD concerning the frogs, acting as an intercessor in response to Pharaoh’s request. The power to remove the plague belongs to God, not to Moses.",
+    "refs": [
+      "Exodus 8:8–10"
+    ]
+  },
+  "Exodus 8:13": {
+    "title": "The frogs are removed",
+    "text": "The LORD does according to Moses’ word, and the frogs die in the houses, villages, and fields. The response demonstrates that Moses’ prayer is answered by God’s action.",
+    "refs": [
+      "Exodus 8:12"
+    ]
+  },
+  "Exodus 8:14": {
+    "title": "The frogs are gathered in heaps",
+    "text": "The Egyptians gather the dead frogs into heaps, and the land stinks. The removal itself leaves a reminder of the judgment and its consequences.",
+    "refs": [
+      "Exodus 8:13"
+    ]
+  },
+  "Exodus 8:15": {
+    "title": "Pharaoh hardens his heart",
+    "text": "When Pharaoh sees relief, he hardens his heart and refuses to listen, as the LORD had said. His promise to release Israel lasts only while he is under pressure, revealing the difference between seeking relief and submitting to God.",
+    "refs": [
+      "Exodus 7:13",
+      "Exodus 8:8"
+    ]
+  },
+  "Exodus 8:16": {
+    "title": "Lice from the dust",
+    "text": "The LORD tells Moses to have Aaron strike the dust, which becomes lice throughout Egypt. The plague begins without the extended warning scene of the first two plagues and shows that God’s judgments continue despite Pharaoh’s refusal.",
+    "refs": [
+      "Psalm 105:31"
+    ]
+  },
+  "Exodus 8:17": {
+    "title": "The dust becomes lice",
+    "text": "Aaron strikes the dust, and lice come upon people and animals. The sign reaches the bodies of Egyptians and their livestock, expanding the suffering caused by Pharaoh’s resistance.",
+    "refs": [
+      "Exodus 8:16"
+    ]
+  },
+  "Exodus 8:18": {
+    "title": "The magicians cannot imitate it",
+    "text": "The magicians try to bring forth lice but cannot. Their failure marks a limit to their imitation of the signs and prepares for their admission in the next verse.",
+    "refs": [
+      "Exodus 7:11–12"
+    ]
+  },
+  "Exodus 8:19": {
+    "title": "The finger of God",
+    "text": "The magicians tell Pharaoh, “This is the finger of God,” yet Pharaoh’s heart remains hard. Their words acknowledge a power beyond their own arts, but recognition from the magicians does not produce obedience from the king.",
+    "refs": [
+      "Luke 11:20"
+    ]
+  },
+  "Exodus 8:20": {
+    "title": "Pharaoh is warned by the river",
+    "text": "The LORD tells Moses to rise early and meet Pharaoh by the river, repeating the command to release Israel. The recurring morning encounter shows that Pharaoh is repeatedly confronted with God’s demand.",
+    "refs": [
+      "Exodus 7:15–16"
+    ]
+  },
+  "Exodus 8:21": {
+    "title": "Flies will fill Egypt",
+    "text": "God warns that swarms of flies will enter Pharaoh’s house and the houses of his servants and fill the land. The plague will again make the consequences of the king’s refusal unavoidable.",
+    "refs": [
+      "Psalm 78:45"
+    ]
+  },
+  "Exodus 8:22": {
+    "title": "Goshen is set apart",
+    "text": "God says He will set apart the land of Goshen, where Israel dwells, so swarms will not be there. This distinction shows that the plagues are directed judgments and that God knows how to protect His people.",
+    "refs": [
+      "Exodus 9:4",
+      "Exodus 9:26"
+    ]
+  },
+  "Exodus 8:23": {
+    "title": "A distinction between the peoples",
+    "text": "God declares that He will put a division between His people and Pharaoh’s people, with the sign occurring the next day. The distinction supports the message that the LORD is active in Egypt and has authority over the plague.",
+    "refs": [
+      "Exodus 9:4",
+      "Exodus 11:7"
+    ]
+  },
+  "Exodus 8:24": {
+    "title": "The land is corrupted by flies",
+    "text": "The LORD sends a grievous swarm into Pharaoh’s house and throughout Egypt, and the land is corrupted. The plague disrupts daily life and demonstrates that Pharaoh cannot control the consequences of his refusal.",
+    "refs": [
+      "Psalm 78:45"
+    ]
+  },
+  "Exodus 8:25": {
+    "title": "Pharaoh offers sacrifice within Egypt",
+    "text": "Pharaoh calls Moses and Aaron and says Israel may sacrifice to God within the land. This is a partial concession, not the freedom God commanded; Pharaoh still tries to control how and where Israel may worship.",
+    "refs": [
+      "Exodus 3:18",
+      "Exodus 8:27"
+    ]
+  },
+  "Exodus 8:26": {
+    "title": "Moses refuses the compromise",
+    "text": "Moses explains that sacrificing the Egyptians’ sacred concerns in their sight could provoke them to stone Israel. He insists on following God’s instruction rather than accepting Pharaoh’s attempt to redefine the terms of worship.",
+    "refs": [
+      "Exodus 3:18"
+    ]
+  },
+  "Exodus 8:27": {
+    "title": "A three-day journey as commanded",
+    "text": "Moses says Israel must journey three days into the wilderness and sacrifice as the LORD commands. God’s word, rather than Pharaoh’s convenience, determines the required act of worship.",
+    "refs": [
+      "Exodus 5:3"
+    ]
+  },
+  "Exodus 8:28": {
+    "title": "Pharaoh permits a limited journey",
+    "text": "Pharaoh agrees to let Israel go into the wilderness but says they must not go very far, and he asks Moses to pray for him. His conditions reveal that he still wants to retain control over Israel’s movement.",
+    "refs": [
+      "Exodus 8:25",
+      "Exodus 8:29"
+    ]
+  },
+  "Exodus 8:29": {
+    "title": "Moses warns Pharaoh not to deceive",
+    "text": "Moses agrees to pray for the flies to leave but warns Pharaoh not to deal deceitfully again by refusing to let the people go. The warning recalls Pharaoh’s earlier broken promise after the frogs were removed.",
+    "refs": [
+      "Exodus 8:8–15"
+    ]
+  },
+  "Exodus 8:30": {
+    "title": "Moses prays to the LORD",
+    "text": "Moses leaves Pharaoh and entreats the LORD. Once more, relief comes through God’s action in answer to prayer, not through the king’s power.",
+    "refs": [
+      "Exodus 8:29"
+    ]
+  },
+  "Exodus 8:31": {
+    "title": "The flies are removed",
+    "text": "The LORD does according to Moses’ word and removes the swarms, leaving none. The complete removal confirms the authority of the God whose demand Pharaoh has resisted.",
+    "refs": [
+      "Exodus 8:22–24"
+    ]
+  },
+  "Exodus 8:32": {
+    "title": "Pharaoh hardens his heart again",
+    "text": "Even after the swarms are removed, Pharaoh hardens his heart and does not let Israel go. The chapter closes by showing that repeated mercy and warning have not yet brought the king to obedience.",
+    "refs": [
+      "Exodus 8:15",
+      "Exodus 9:7"
+    ]
   }
 };
